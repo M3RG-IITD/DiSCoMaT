@@ -1,6 +1,6 @@
 ## DiSCoMaT baselines
 
-Here, we train anad evaluate on MCC-CI and NC tables. We run our experiments of three seeds: 0, 1, 2.
+Here, we train and evaluate on MCC-CI and NC tables. We run our experiments of three seeds: 0, 1, 2.
 
 ### Training
 
@@ -18,6 +18,20 @@ for seed in 0 1 2; do
 done
 ```
 
+#### TaBERT Baseline
+```bash
+for seed in 0 1 2; do
+    bash run_tabert.sh $seed
+done
+```
+
+#### TaBERT-Adapted Baseline
+```bash
+for seed in 0 1 2; do
+    bash run_tabert_adapted.sh $seed
+done
+```
+
 #### v-DiSCoMaT
 ```bash
 for seed in 0 1 2; do
@@ -25,7 +39,7 @@ for seed in 0 1 2; do
 done
 ```
 
-These three models can be run on all three seeds using `bash run.sh`.
+These five models can be run on all three seeds using `bash run.sh`.
 All these experiments can be parallelized easily. Hyper-parameters can be modified from within .sh scripts.
 
 
@@ -35,5 +49,7 @@ The following commands output the results averaged over three seeds for all mode
 ```bash
 python compute_results.py --model tapas
 python compute_results.py --model tapas_adapted
+python compute_results.py --model tabert
+python compute_results.py --model tabert_adapted
 python compute_results.py --model gat
 ```

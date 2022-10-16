@@ -17,17 +17,16 @@ from transformers import set_seed, get_linear_schedule_with_warmup
 
 from utils import *
 
-
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 print('using device:', device)
 
-
 parser = ArgumentParser()
 parser.add_argument('--seed', required=True, type=int)
-parser.add_argument('--model', choices=['gat', 'tapas', 'tapas_adapted'], required=True, type=str)
+parser.add_argument('--model', choices=['gat', 'tapas', 'tapas_adapted', 'tabert', 'tabert_adapted'], required=True, type=str)
 parser.add_argument('--hidden_layer_sizes', nargs='+', type=int)
 parser.add_argument('--num_heads', nargs='+', type=int)
 parser.add_argument('--num_epochs', required=False, default=30, type=int)
+parser.add_argument('--batch_size', required=False, default=8, type=int)
 parser.add_argument('--lr', required=False, default=1e-3, type=float)
 parser.add_argument('--lm_lr', required=False, default=1e-5, type=float)
 parser.add_argument('--e_loss_lambda', required=False, default=3.0, type=float)
@@ -45,18 +44,21 @@ elif args.model == 'gat':
     from gat_model import GATModel as Model
 elif args.model == 'tapas_adapted':
     from tapas_adapted_baseline_model import TapasAdaptedBaselineModel as Model
+elif args.model == 'tabert':
+    os.environ["TOKENIZERS_PARALLELISM"] = "true"
+    from tabert_baseline_model import TabertBaselineModel as Model
+elif args.model == 'tabert_adapted':
+    os.environ["TOKENIZERS_PARALLELISM"] = "true"
+    from tabert_adapted_baseline_model import TabertAdaptedBaselineModel as Model
 else:
     raise NotImplementedError
 
 cache_dir = os.path.join(table_dir, '.cache')
 os.makedirs(os.path.dirname(os.path.abspath(args.model_save_file)), exist_ok=True)
+print("table_dir:", table_dir)
+print("cache_dir:", cache_dir)
 
-if args.model == 'tapas':
-    lm_name = 'google/tapas-base'
-else:
-    lm_name = 'm3rg-iitd/matscibert'
-
-torch.set_deterministic(True)
+torch.set_deterministic(True) 
 torch.backends.cudnn.benchmark = False
 
 datasets = dict()
@@ -64,7 +66,7 @@ for split in splits:
     datasets[split] = TableDataset([comp_data_dict[pii_t_idx] for pii_t_idx in train_val_test_split[split]])
 
 set_seed(args.seed)
-batch_size = 8
+batch_size = args.batch_size
 num_workers = mp.cpu_count()
 loaders = dict()
 for split in splits:
@@ -237,8 +239,12 @@ def eval_model(split, debug=False):
         ret_tuples_pred.append(tuples_pred)
         all_tuples_pred += tuples_pred
 
-    tuple_metrics = get_tuples_metrics(gold_tuples[split], all_tuples_pred)
-    composition_metrics = get_composition_metrics(gold_tuples[split], all_tuples_pred)
+    if split in ['val', 'test']:
+        tuple_metrics = get_tuples_metrics(gold_tuples[split], all_tuples_pred)
+        composition_metrics = get_composition_metrics(gold_tuples[split], all_tuples_pred)
+    else:
+        tuple_metrics = None
+        composition_metrics = None
 
     if not debug:
         return comp_gid_metrics.iloc[:3, :3], edge_metrics, tuple_metrics, composition_metrics
@@ -246,19 +252,21 @@ def eval_model(split, debug=False):
         return identifier, (comp_gid_metrics.iloc[:3, :3], y_comp_pred, ret_comp_pred), (edge_metrics, ret_edge_pred), \
         (tuple_metrics, ret_tuples_pred), composition_metrics
 
-
 best_val = 0.0
 
 for epoch in range(num_epochs):
+    print([(n, p) for n, p in model.named_parameters()])
     epoch_loss = train_model(epoch)
     print(f'Epoch {epoch} | Loss {epoch_loss}')
+    train_stats = eval_model('train')
+    print('Train Stats\n', train_stats)
     val_stats = eval_model('val')
     print('Val Stats\n', val_stats)
     test_stats = eval_model('test')
     print('Test Stats\n', test_stats)
     print()
 
-    if val_stats[-1]['fscore'] > best_val:
+    if val_stats[-1]['fscore'] >= best_val:
         best_val = val_stats[-1]['fscore']
         torch.save(model.state_dict(), args.model_save_file)
 
@@ -302,4 +310,3 @@ for s in splits[1:]:
 if args.res_file:
     os.makedirs(os.path.join(table_dir, 'res_dir'), exist_ok=True)
     pickle.dump(res, open(os.path.join(table_dir, 'res_dir', args.res_file), 'wb'))
-    # os.remove(args.model_save_file)

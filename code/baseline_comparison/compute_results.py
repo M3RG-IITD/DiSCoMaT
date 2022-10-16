@@ -7,7 +7,7 @@ import pandas as pd
 
 
 parser = ArgumentParser()
-parser.add_argument('--model', choices=['tapas', 'tapas_adapted', 'gat'], required=True, type=str)
+parser.add_argument('--model', choices=['tapas', 'tapas_adapted', 'tabert', 'tabert_adapted', 'gat'], required=True, type=str)
 parser.add_argument('--split', choices=['val', 'test'], default='test', type=str)
 args = parser.parse_args()
 
