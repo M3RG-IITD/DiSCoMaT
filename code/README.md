@@ -1,4 +1,4 @@
-# DiSCoMat
+# DiSCoMaT
 
 
 ## Installing Requirements

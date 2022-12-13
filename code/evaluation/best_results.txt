@@ -1,0 +1,470 @@
+seed1 0 seed2 0 alpha 0.4
+seed1 0 seed2 0 alpha 0.5
+seed1 0 seed2 0 alpha 0.6
+seed1 0 seed2 0 alpha 0.7
+seed1 0 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 0 seed2 1 alpha 0.4
+seed1 0 seed2 1 alpha 0.5
+seed1 0 seed2 1 alpha 0.6
+seed1 0 seed2 1 alpha 0.7
+seed1 0 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 0 seed2 2 alpha 0.4
+seed1 0 seed2 2 alpha 0.5
+seed1 0 seed2 2 alpha 0.6
+seed1 0 seed2 2 alpha 0.7
+seed1 0 seed2 2 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 0 alpha 0.4
+seed1 1 seed2 0 alpha 0.5
+seed1 1 seed2 0 alpha 0.6
+seed1 1 seed2 0 alpha 0.7
+seed1 1 seed2 0 alpha 0.8
+best alpha 0.7
+seed1 1 seed2 1 alpha 0.4
+seed1 1 seed2 1 alpha 0.5
+seed1 1 seed2 1 alpha 0.6
+seed1 1 seed2 1 alpha 0.7
+seed1 1 seed2 1 alpha 0.8
+best alpha 0.7
+seed1 1 seed2 2 alpha 0.4
+seed1 1 seed2 2 alpha 0.5
+seed1 1 seed2 2 alpha 0.6
+seed1 1 seed2 2 alpha 0.7
+seed1 1 seed2 2 alpha 0.8
+best alpha 0.7
+seed1 2 seed2 0 alpha 0.4
+seed1 2 seed2 0 alpha 0.5
+seed1 2 seed2 0 alpha 0.6
+seed1 2 seed2 0 alpha 0.7
+seed1 2 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 1 alpha 0.4
+seed1 2 seed2 1 alpha 0.5
+seed1 2 seed2 1 alpha 0.6
+seed1 2 seed2 1 alpha 0.7
+seed1 2 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 2 alpha 0.4
+seed1 2 seed2 2 alpha 0.5
+seed1 2 seed2 2 alpha 0.6
+seed1 2 seed2 2 alpha 0.7
+seed1 2 seed2 2 alpha 0.8
+best alpha 0.7
+Table Type Accuracy
+88.35 1.2
+
+Table Type Precision
+[0.88, 0.89, 0.87, 0.89, 0.9, 0.88, 0.89, 0.9, 0.89]
+88.75 0.88
+Table Type Recall
+[0.87, 0.89, 0.86, 0.88, 0.9, 0.87, 0.89, 0.9, 0.88]
+88.35 1.2
+
+Table Type F1-score
+[0.87, 0.89, 0.86, 0.88, 0.9, 0.87, 0.89, 0.9, 0.87]
+88.1 1.27
+
+MID F1-score
+84.57 2.16
+
+MID Precision
+[0.76, 0.85, 0.89, 0.72, 0.83, 0.88, 0.75, 0.84, 0.87]
+81.97 6.15
+MID Recall
+[0.9, 0.89, 0.82, 0.93, 0.9, 0.84, 0.9, 0.89, 0.84]
+87.85 3.73
+
+MID Accuracy
+[0.99, 1.0, 1.0, 0.99, 1.0, 1.0, 0.99, 1.0, 1.0]
+99.56 0.09
+
+mean
+       precision     recall     fscore
+Tuple  79.483333  62.722222  70.040000
+Mat    72.301111  56.743333  63.532222
+std
+       precision    recall    fscore
+Tuple   2.505589  2.445852  0.691375
+Mat     4.102458  0.425441  1.450429
+
+CV
+75.22 41.1
+
+seed1 0 seed2 0 alpha 0.4
+seed1 0 seed2 0 alpha 0.5
+seed1 0 seed2 0 alpha 0.6
+seed1 0 seed2 0 alpha 0.7
+seed1 0 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 0 seed2 1 alpha 0.4
+seed1 0 seed2 1 alpha 0.5
+seed1 0 seed2 1 alpha 0.6
+seed1 0 seed2 1 alpha 0.7
+seed1 0 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 0 seed2 2 alpha 0.4
+seed1 0 seed2 2 alpha 0.5
+seed1 0 seed2 2 alpha 0.6
+seed1 0 seed2 2 alpha 0.7
+seed1 0 seed2 2 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 0 alpha 0.4
+seed1 1 seed2 0 alpha 0.5
+seed1 1 seed2 0 alpha 0.6
+seed1 1 seed2 0 alpha 0.7
+seed1 1 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 1 alpha 0.4
+seed1 1 seed2 1 alpha 0.5
+seed1 1 seed2 1 alpha 0.6
+seed1 1 seed2 1 alpha 0.7
+seed1 1 seed2 1 alpha 0.8
+best alpha 0.4
+seed1 1 seed2 2 alpha 0.4
+seed1 1 seed2 2 alpha 0.5
+seed1 1 seed2 2 alpha 0.6
+seed1 1 seed2 2 alpha 0.7
+seed1 1 seed2 2 alpha 0.8
+best alpha 0.5
+seed1 2 seed2 0 alpha 0.4
+seed1 2 seed2 0 alpha 0.5
+seed1 2 seed2 0 alpha 0.6
+seed1 2 seed2 0 alpha 0.7
+seed1 2 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 1 alpha 0.4
+seed1 2 seed2 1 alpha 0.5
+seed1 2 seed2 1 alpha 0.6
+seed1 2 seed2 1 alpha 0.7
+seed1 2 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 2 alpha 0.4
+seed1 2 seed2 2 alpha 0.5
+seed1 2 seed2 2 alpha 0.6
+seed1 2 seed2 2 alpha 0.7
+seed1 2 seed2 2 alpha 0.8
+best alpha 0.8
+Table Type Accuracy
+88.84 1.0
+
+Table Type Precision
+[0.91, 0.89, 0.88, 0.9, 0.89, 0.88, 0.9, 0.89, 0.88]
+89.05 0.93
+Table Type Recall
+[0.91, 0.89, 0.88, 0.9, 0.89, 0.88, 0.9, 0.88, 0.88]
+88.84 1.0
+
+Table Type F1-score
+[0.9, 0.89, 0.88, 0.9, 0.89, 0.87, 0.89, 0.88, 0.87]
+88.55 1.07
+
+MID F1-score
+84.15 1.61
+
+MID Precision
+[0.76, 0.88, 0.87, 0.76, 0.81, 0.79, 0.75, 0.87, 0.87]
+81.89 5.58
+MID Recall
+[0.91, 0.82, 0.86, 0.91, 0.84, 0.91, 0.91, 0.82, 0.86]
+87.03 3.86
+
+MID Accuracy
+[0.99, 1.0, 1.0, 0.99, 1.0, 1.0, 0.99, 1.0, 1.0]
+99.55 0.07
+
+mean
+       precision     recall     fscore
+Tuple  77.233333  61.264444  68.314444
+Mat    70.761111  55.932222  62.472222
+std
+       precision    recall    fscore
+Tuple   2.359677  1.340645  1.455070
+Mat     2.973695  1.412549  1.984003
+
+CV
+83.11 47.45
+
+seed1 0 seed2 0 alpha 0.4
+seed1 0 seed2 0 alpha 0.5
+seed1 0 seed2 0 alpha 0.6
+seed1 0 seed2 0 alpha 0.7
+seed1 0 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 0 seed2 1 alpha 0.4
+seed1 0 seed2 1 alpha 0.5
+seed1 0 seed2 1 alpha 0.6
+seed1 0 seed2 1 alpha 0.7
+seed1 0 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 0 seed2 2 alpha 0.4
+seed1 0 seed2 2 alpha 0.5
+seed1 0 seed2 2 alpha 0.6
+seed1 0 seed2 2 alpha 0.7
+seed1 0 seed2 2 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 0 alpha 0.4
+seed1 1 seed2 0 alpha 0.5
+seed1 1 seed2 0 alpha 0.6
+seed1 1 seed2 0 alpha 0.7
+seed1 1 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 1 alpha 0.4
+seed1 1 seed2 1 alpha 0.5
+seed1 1 seed2 1 alpha 0.6
+seed1 1 seed2 1 alpha 0.7
+seed1 1 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 2 alpha 0.4
+seed1 1 seed2 2 alpha 0.5
+seed1 1 seed2 2 alpha 0.6
+seed1 1 seed2 2 alpha 0.7
+seed1 1 seed2 2 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 0 alpha 0.4
+seed1 2 seed2 0 alpha 0.5
+seed1 2 seed2 0 alpha 0.6
+seed1 2 seed2 0 alpha 0.7
+seed1 2 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 1 alpha 0.4
+seed1 2 seed2 1 alpha 0.5
+seed1 2 seed2 1 alpha 0.6
+seed1 2 seed2 1 alpha 0.7
+seed1 2 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 2 alpha 0.4
+seed1 2 seed2 2 alpha 0.5
+seed1 2 seed2 2 alpha 0.6
+seed1 2 seed2 2 alpha 0.7
+seed1 2 seed2 2 alpha 0.8
+best alpha 0.8
+Table Type Accuracy
+88.47 0.31
+
+Table Type Precision
+[0.88, 0.88, 0.88, 0.89, 0.89, 0.89, 0.89, 0.89, 0.88]
+88.61 0.29
+Table Type Recall
+[0.88, 0.88, 0.88, 0.89, 0.89, 0.89, 0.88, 0.89, 0.88]
+88.47 0.31
+
+Table Type F1-score
+[0.88, 0.88, 0.88, 0.88, 0.89, 0.88, 0.88, 0.89, 0.88]
+88.17 0.37
+
+MID F1-score
+84.07 0.83
+
+MID Precision
+[0.82, 0.76, 0.8, 0.81, 0.76, 0.8, 0.8, 0.75, 0.78]
+78.53 2.69
+MID Recall
+[0.89, 0.93, 0.88, 0.89, 0.94, 0.88, 0.9, 0.94, 0.89]
+90.61 2.47
+
+MID Accuracy
+[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.99, 1.0]
+99.53 0.04
+
+mean
+       precision     recall     fscore
+Tuple  76.712222  63.911111  69.682222
+Mat    68.686667  55.625556  61.444444
+std
+       precision    recall    fscore
+Tuple   1.407114  2.622782  1.216191
+Mat     0.623799  2.060911  1.006754
+
+CV
+434.44 241.58
+
+seed1 0 seed2 0 alpha 0.4
+seed1 0 seed2 0 alpha 0.5
+seed1 0 seed2 0 alpha 0.6
+seed1 0 seed2 0 alpha 0.7
+seed1 0 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 0 seed2 1 alpha 0.4
+seed1 0 seed2 1 alpha 0.5
+seed1 0 seed2 1 alpha 0.6
+seed1 0 seed2 1 alpha 0.7
+seed1 0 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 0 seed2 2 alpha 0.4
+seed1 0 seed2 2 alpha 0.5
+seed1 0 seed2 2 alpha 0.6
+seed1 0 seed2 2 alpha 0.7
+seed1 0 seed2 2 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 0 alpha 0.4
+seed1 1 seed2 0 alpha 0.5
+seed1 1 seed2 0 alpha 0.6
+seed1 1 seed2 0 alpha 0.7
+seed1 1 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 1 alpha 0.4
+seed1 1 seed2 1 alpha 0.5
+seed1 1 seed2 1 alpha 0.6
+seed1 1 seed2 1 alpha 0.7
+seed1 1 seed2 1 alpha 0.8
+best alpha 0.6
+seed1 1 seed2 2 alpha 0.4
+seed1 1 seed2 2 alpha 0.5
+seed1 1 seed2 2 alpha 0.6
+seed1 1 seed2 2 alpha 0.7
+seed1 1 seed2 2 alpha 0.8
+best alpha 0.6
+seed1 2 seed2 0 alpha 0.4
+seed1 2 seed2 0 alpha 0.5
+seed1 2 seed2 0 alpha 0.6
+seed1 2 seed2 0 alpha 0.7
+seed1 2 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 1 alpha 0.4
+seed1 2 seed2 1 alpha 0.5
+seed1 2 seed2 1 alpha 0.6
+seed1 2 seed2 1 alpha 0.7
+seed1 2 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 2 alpha 0.4
+seed1 2 seed2 2 alpha 0.5
+seed1 2 seed2 2 alpha 0.6
+seed1 2 seed2 2 alpha 0.7
+seed1 2 seed2 2 alpha 0.8
+best alpha 0.8
+Table Type Accuracy
+87.35 0.71
+
+Table Type Precision
+[0.87, 0.87, 0.87, 0.88, 0.88, 0.88, 0.89, 0.88, 0.88]
+87.8 0.57
+Table Type Recall
+[0.87, 0.87, 0.86, 0.88, 0.87, 0.87, 0.88, 0.88, 0.88]
+87.35 0.71
+
+Table Type F1-score
+[0.87, 0.86, 0.86, 0.88, 0.87, 0.87, 0.88, 0.87, 0.87]
+86.98 0.73
+
+MID F1-score
+84.76 0.68
+
+MID Precision
+[0.88, 0.86, 0.87, 0.89, 0.84, 0.86, 0.87, 0.86, 0.87]
+86.7 1.35
+MID Recall
+[0.81, 0.83, 0.84, 0.81, 0.84, 0.85, 0.81, 0.83, 0.84]
+82.95 1.76
+
+MID Accuracy
+[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+99.6 0.02
+
+mean
+       precision     recall     fscore
+Tuple  78.513333  58.183333  66.822222
+Mat    72.602222  55.171111  62.684444
+std
+       precision    recall    fscore
+Tuple   2.083015  2.088432  1.904775
+Mat     3.946327  3.104684  3.337994
+
+CV
+17.89 8.22
+
+seed1 0 seed2 0 alpha 0.4
+seed1 0 seed2 0 alpha 0.5
+seed1 0 seed2 0 alpha 0.6
+seed1 0 seed2 0 alpha 0.7
+seed1 0 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 0 seed2 1 alpha 0.4
+seed1 0 seed2 1 alpha 0.5
+seed1 0 seed2 1 alpha 0.6
+seed1 0 seed2 1 alpha 0.7
+seed1 0 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 0 seed2 2 alpha 0.4
+seed1 0 seed2 2 alpha 0.5
+seed1 0 seed2 2 alpha 0.6
+seed1 0 seed2 2 alpha 0.7
+seed1 0 seed2 2 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 0 alpha 0.4
+seed1 1 seed2 0 alpha 0.5
+seed1 1 seed2 0 alpha 0.6
+seed1 1 seed2 0 alpha 0.7
+seed1 1 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 1 alpha 0.4
+seed1 1 seed2 1 alpha 0.5
+seed1 1 seed2 1 alpha 0.6
+seed1 1 seed2 1 alpha 0.7
+seed1 1 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 1 seed2 2 alpha 0.4
+seed1 1 seed2 2 alpha 0.5
+seed1 1 seed2 2 alpha 0.6
+seed1 1 seed2 2 alpha 0.7
+seed1 1 seed2 2 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 0 alpha 0.4
+seed1 2 seed2 0 alpha 0.5
+seed1 2 seed2 0 alpha 0.6
+seed1 2 seed2 0 alpha 0.7
+seed1 2 seed2 0 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 1 alpha 0.4
+seed1 2 seed2 1 alpha 0.5
+seed1 2 seed2 1 alpha 0.6
+seed1 2 seed2 1 alpha 0.7
+seed1 2 seed2 1 alpha 0.8
+best alpha 0.8
+seed1 2 seed2 2 alpha 0.4
+seed1 2 seed2 2 alpha 0.5
+seed1 2 seed2 2 alpha 0.6
+seed1 2 seed2 2 alpha 0.7
+seed1 2 seed2 2 alpha 0.8
+best alpha 0.8
+Table Type Accuracy
+88.59 0.33
+
+Table Type Precision
+[0.89, 0.89, 0.88, 0.88, 0.89, 0.88, 0.89, 0.89, 0.89]
+88.64 0.29
+Table Type Recall
+[0.88, 0.89, 0.88, 0.88, 0.89, 0.88, 0.89, 0.89, 0.89]
+88.59 0.33
+
+Table Type F1-score
+[0.88, 0.89, 0.88, 0.88, 0.88, 0.88, 0.88, 0.89, 0.89]
+88.36 0.34
+
+MID F1-score
+76.61 6.16
+
+MID Precision
+[0.57, 0.58, 0.56, 0.74, 0.75, 0.73, 0.78, 0.78, 0.76]
+69.34 9.53
+MID Recall
+[0.86, 0.88, 0.86, 0.86, 0.88, 0.86, 0.86, 0.88, 0.86]
+86.4 0.9
+
+MID Accuracy
+[0.99, 0.99, 0.99, 0.99, 0.99, 0.99, 0.99, 0.99, 0.99]
+99.27 0.26
+
+mean
+       precision     recall     fscore
+Tuple  75.170000  59.074444  66.154444
+Mat    67.561111  53.191111  59.520000
+std
+       precision    recall    fscore
+Tuple   2.433911  1.720677  2.002930
+Mat     4.231815  2.735400  3.338739
+
+CV
+380.11 141.79
+

@@ -12,15 +12,15 @@ from utils import get_tuples_metrics, get_composition_metrics, violation_funcs
 parser = ArgumentParser()
 parser.add_argument('--gnn1_variant', required=True, type=str)
 parser.add_argument('--gnn2_variant', required=True, type=str)
-parser.add_argument('--split', choices=['val', 'test'], default='test', type=str)
 args = parser.parse_args()
 
-table_dir = '../data'
+alphas = [0.4, 0.5, 0.6, 0.7, 0.8]
+
+table_dir = '../../data'
 
 val_test_data = pickle.load(open(os.path.join(table_dir, 'val_test_data.pkl'), 'rb'))
 split_dict = pickle.load(open(os.path.join(table_dir, 'train_val_test_split.pkl'), 'rb'))
 comp_data_dict = {(c['pii'], c['t_idx']): c for c in val_test_data}
-split = args.split
 
 
 def get_gold_tuples(pii, t_idx):
@@ -51,8 +51,8 @@ def cnt_violations(d: dict, scc_table=False):
 def process_mids(l):
     return [1 if x == 3 else 0 for x in l]
 
-
-def get_split_res(scc_res_file, non_scc_res_file):
+# split = args.split
+def get_split_res(scc_res_file, non_scc_res_file, split):
     scc_res = pickle.load(open(os.path.join(table_dir, 'res_dir', scc_res_file), 'rb'))[split]
     non_scc_res = pickle.load(open(os.path.join(table_dir, 'res_dir', non_scc_res_file), 'rb'))[split]
 
@@ -106,10 +106,29 @@ def get_split_res(scc_res_file, non_scc_res_file):
 
 def compute_metrics(scc_variant, non_scc_variant):
     (all_table_type_acc, all_table_type_fscore, all_table_type_precision, all_table_type_recall) , (all_mid_fscore, all_mid_precision, all_mid_recall, all_mid_accuracy), all_tuple_metrics, all_mat_metrics, all_violations = ([], [], [], []), ([], [], [], []), [], [], []
+
     for seed_1 in range(3):
         for seed_2 in range(3):
+
+            best_alpha = None
+            best_score = None
+
+            for alpha in alphas:
+                # find best alpha for this seed pair on val set
+                print(f'seed1 {seed_1} seed2 {seed_2} alpha {alpha}')
+                (table_type_acc, table_type_precision, table_type_recall, table_type_fscore), (mid_fscore, mid_precision, mid_recall, mid_accuracy), tuple_metrics, mat_metrics, violations = \
+                get_split_res(f'res_{scc_variant}_mid_alpha_{alpha}_{seed_1}.pkl', f'res_{non_scc_variant}_mid_alpha_{alpha}_{seed_2}.pkl', 'val')
+                if best_score == None:
+                    best_score = mid_fscore
+                    best_alpha = alpha
+                else:
+                    if best_score < mid_fscore:
+                        best_score = mid_fscore
+                        best_alpha = alpha
+
+            print(f'best alpha {best_alpha}')
             (table_type_acc, table_type_precision, table_type_recall, table_type_fscore), (mid_fscore, mid_precision, mid_recall, mid_accuracy), tuple_metrics, mat_metrics, violations = \
-            get_split_res(f'res_{scc_variant}_{seed_1}.pkl', f'res_{non_scc_variant}_{seed_2}.pkl')
+                get_split_res(f'res_{scc_variant}_mid_alpha_{best_alpha}_{seed_1}.pkl', f'res_{non_scc_variant}_mid_alpha_{best_alpha}_{seed_2}.pkl', 'test')
             all_table_type_acc.append(table_type_acc)
             all_table_type_fscore.append(table_type_fscore)
             all_table_type_precision.append(table_type_precision)
