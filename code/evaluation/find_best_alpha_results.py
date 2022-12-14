@@ -12,9 +12,12 @@ from utils import get_tuples_metrics, get_composition_metrics, violation_funcs
 parser = ArgumentParser()
 parser.add_argument('--gnn1_variant', required=True, type=str)
 parser.add_argument('--gnn2_variant', required=True, type=str)
+parser.add_argument('--alphas', nargs='+', required=True, type=float)
 args = parser.parse_args()
 
-alphas = [0.4, 0.5, 0.6, 0.7, 0.8]
+# alphas = [0.4, 0.5, 0.6, 0.7, 0.8]
+alphas = args.alphas
+print("Alphas:", alphas)
 
 table_dir = '../../data'
 
