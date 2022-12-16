@@ -1,0 +1,19 @@
+,V0,V1,V2,V3,V4,V5,V6
+Glass (mol%),Glass (mol%),Glass (mol%),Glass (mol%),Glass (mol%),Glass (mol%),Glass (mol%),Glass (mol%)
+P2O5,60.0,58.08,56.16,54.60,53.40,51.90,50.70
+Fe2O3,0,3.20,6.40,9.00,11.00,13.50,15.50
+BaO,40.0,38.72,37.44,36.40,35.60,34.60,33.80
+,,,,,,,
+Batch (wt%),Batch (wt%),Batch (wt%),Batch (wt%),Batch (wt%),Batch (wt%),Batch (wt%),Batch (wt%)
+NH4H2PO4,94.22,90.94,87.68,85.05,83.03,80.52,78.52
+Fe2O3,-,3.48,6.94,9.73,11.87,14.54,16.66
+BaCO3,53.88,52.01,50.14,48.64,47.48,46.05,44.90
+,,,,,,,
+Properties,Properties,Properties,Properties,Properties,Properties,Properties,Properties
+O/P ratio,2.83,2.92,3.00,3.08,3.14,3.22,3.29
+(Fe)/P,0,0.05,0.11,0.17,0.21,0.26,0.31
+T g (degC),508,509,512,522,530,529,530
+T c (degC),703,706,708,715,730,731,730
+Fe(II)/(Fe(II)+Fe(III)),-,1.4,4.1,5.3,6.2,8.7,10.3
+e (100 kHz),5.00,5.23,5.20,5.18,5.37,5.52,5.85
+e (9 GHz),1.91,2.02,2.06,1.99,1.99,2.11,2.18

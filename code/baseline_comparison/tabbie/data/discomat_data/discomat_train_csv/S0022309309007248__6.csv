@@ -1,0 +1,5 @@
+DFT/B3LYP basis set,Sample,Si(Q3),Si(Q3),Si(Q3),Si(Q4-3),Si(Q4-3),Si(Q4-3),Si(Q4-4),Si(Q4-4),Si(Q4-4)
+DFT/B3LYP basis set,Sample,d iso (ppm),d NMR (ppm),a%,d iso (ppm),d NMR (ppm),a%,d iso (ppm),d NMR (ppm),a%
+6-31G,Si-Na,-92.2,-92.6,0.4,-109.1,-105.9,3.0,-,-,-
+6-31G,Si-Na-K,-90.9,-94.0,3.3,-105.3,-106.4,1.0,-,-,-
+6-31G,Si-Na-Li,-90.7,-92.5,2.0,-105.7,-107.3,1.5,-109.1,-108.1,0.9

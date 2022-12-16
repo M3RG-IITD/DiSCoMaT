@@ -1,0 +1,7 @@
+Materials,Heating profile,"Heating profile (nucleation, crystallization) -- temp.(degC)/time (min)",Quantitative phase analysis LS/LAS/Am.Ph [%],Flexural strength [MPa] mean value with SD,Characteristic flexural strength [MPa] (d0),Weibull modulus (m),Optical properties
+GAM7,0,,0/0/100,209+-35,220,6.92,Transparent
+GAM7/GC,A,530/600; 660/30; 730/30,18.1/23.7/47.5,314+-50,327,13.2,Well translucent
+GAM7/GC,B,530/600; 660/30; 830/90,17.6/31.9/38.8,402+-26,433,8.65,Less translucent
+GBM10,0,,0/0/100,159+-31,171,5.02,Transparent
+GBM/10/GC,A,550/600; 710/30;,20.9/39.4/35.7,376+-71,400,6.12,Well transparent
+GBM/10/GC,B,550/600; 710/30; 870/90,21.4/50.2/20.2,406+-40,462,7.52,Less translucent

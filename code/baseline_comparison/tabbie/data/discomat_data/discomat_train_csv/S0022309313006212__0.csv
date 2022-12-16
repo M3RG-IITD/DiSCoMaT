@@ -1,0 +1,22 @@
+Number,TeO2,B2O3,Bi2O3,PbO,Tg,Tc,DT
+G1,60,5,5,30,Partially crystallised,Partially crystallised,Partially crystallised
+G2,60,5,10,25,Crystallised,Crystallised,Crystallised
+G3,60,5,15,20,Crystallised,Crystallised,Crystallised
+G4,60,5,20,15,Crystallised,Crystallised,Crystallised
+G5,60,5,25,10,Crystallised,Crystallised,Crystallised
+G6,60,5,30,5,Crystallised,Crystallised,Crystallised
+G7,60,10,5,25,314.81,387.06,72.25
+G8,60,10,10,20,Partially crystallised,Partially crystallised,Partially crystallised
+G9,60,10,15,15,Crystallised,Crystallised,Crystallised
+G10,60,10,20,10,Crystallised,Crystallised,Crystallised
+G11,60,10,25,5,Crystallised,Crystallised,Crystallised
+G12,60,15,5,20,330.71,415.87,85.16
+G13,60,15,10,15,342.42,410.30,67.88
+G14,60,15,15,10,347.27,404.08,56.81
+G15,60,15,20,5,Partially crystallised,Partially crystallised,Partially crystallised
+G16,60,20,5,15,344.67,,
+G17,60,20,10,10,355.50,433.52,78.02
+G18,60,20,15,5,360.03,429.95,69.92
+G19,60,25,5,10,363.28,,
+G20,60,25,10,5,367.47,,
+G21,60,30,5,5,367.15,,

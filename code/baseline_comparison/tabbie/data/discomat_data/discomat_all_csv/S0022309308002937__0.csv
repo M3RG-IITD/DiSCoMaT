@@ -1,0 +1,7 @@
+b (K/min),First crystallization curve,First crystallization curve,First crystallization curve,,Second crystallization curve,Second crystallization curve,Second crystallization curve,Second crystallization curve
+b (K/min),T p1 (K),103(dkh/dt)(s-1),n 1,<n 1>,T p2 (K),103(dkh/dt) (s-1),n 2,<n 2>
+5,1061,0.0014,2.034,2.1257,1077,0.0019,3.149,3.125
+10,1086,0.0027,2.0548,,1112,0.0035,3.092,
+20,1120,0.0053,2.145,,1149,0.0067,3.159,
+30,1138,0.0080,2.2285,,1169,0.0094,3.059,
+40,1153,0.0101,2.1661,,1182,0.0127,3.169,

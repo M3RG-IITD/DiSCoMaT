@@ -1,0 +1,11 @@
+Glass samples,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),r(g*cm-3)
+Glass samples,Li2O,Al2O3,SiO2,MgO,Ce2O3,Tb2O3,r(g*cm-3)
+Ce1,30,5,55,10,0.2,-,2.48
+Ce2,30,5,55,10,0.4,-,2.51
+Ce3,30,5,55,10,0.6,-,2.52
+Ce4,30,5,55,10,0.8,-,2.54
+Ce5,30,5,55,10,1.0,-,2.55
+Tb2,30,5,55,10,-,0.8,2.56
+Ce-Tb1,30,5,55,10,0.6,0.4,2.62
+Ce-Tb2,30,5,55,10,0.6,0.8,2.64
+Ce-Tb3,30,5,55,10,0.6,1.2,2.68

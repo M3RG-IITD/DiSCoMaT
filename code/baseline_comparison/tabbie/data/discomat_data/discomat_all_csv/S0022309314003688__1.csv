@@ -1,0 +1,6 @@
+x[mol %],Concentration(at.%),Concentration(at.%),Concentration(at.%),Concentration(at.%),Concentration(at.%),Concentration(at.%)
+x[mol %],Ag,O,Ca,B,Si,C
+0,0,51.4,5.6,17.5,7.8,17.7
+0.7,0.2,51.3,5.6,14.8,7.2,20.9
+1,0.3,54.3,5.7,16.5,7.8,15.4
+3,0.5,57.1,6.1,17.6,7.9,10.8

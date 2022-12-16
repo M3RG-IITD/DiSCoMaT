@@ -1,0 +1,9 @@
+Sample history and melt processing conditions,Start 2th (deg),End 2th (deg),Rate (deg 2th/min)
+Non-durable glass as supplied,6.0,90.0,0.10
+Non-durable glass after 16 h in DSC/XRD at 400degC,6.0,80.0,0.40
+"Non-durable glass - Haake Torque Rheometer at 380degC, 10 rpm, 10 min",6.0,90.0,0.10
+"Non-durable glass - Haake Torque Rheometer at 414degC, 30 rpm, 52 min",5.0,80.0,0.50
+"Non-durable glass - Haake Torque Rheometer at 413degC, 60 rpm, 50 min",5.0,80.0,0.50
+"Non-durable glass - Haake Torque Rheometer at 405degC, 90 rpm, 50 min",5.0,80.0,0.50
+Durable glass after 16 h in DSC/XRD at 400degC,5.0,70.0,0.50
+Durable glass after 16 h in DSC/XRD at 450degC,5.0,70.0,0.50

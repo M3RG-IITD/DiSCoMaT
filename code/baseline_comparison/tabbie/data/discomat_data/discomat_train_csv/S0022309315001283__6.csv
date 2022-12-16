@@ -1,0 +1,8 @@
+Samples,MAS16,MAS16,MAS29,MAS29,MAS20,MAS20
+Sintering temperature (degC),900,925,900,925,900,925
+Linear Shrinkage (%),20.13,19.89,18.61,18.85,20.24,19.78
+Density (g/cm3),2.565,2.548,2.611,2.615,2.582,2.581
+Flexural strength (MPa),113,108,115,145,116,95
+Coefficient of thermal expansion (room temperature ~600degC) (K-1),4.89,4.40,5.23,5.63,5.41,5.21
+Dielectric constant (10MHz),6.63,6.92,6.74,6.16,7.51,6.67
+Dielectric loss (10MHz),0.02159,0.03997,0.00404,0.01456,0.00573,0.01156

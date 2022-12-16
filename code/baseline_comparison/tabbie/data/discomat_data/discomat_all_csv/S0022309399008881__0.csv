@@ -1,0 +1,6 @@
+Sample index,Angle of evaporation g (deg),Calculated column angle g ' (deg),Substrate thickness (mm),Sample thickness (mm)
+S1,0,0,31.40+-0.02,0.70+-0.02
+S2,20,11,32.05+-0.02,1.00+-0.08
+S3,45,27,31.95+-0.02,1.40+-0.03
+S4,60,41,30.33+-0.02,1.50+-0.09
+S5,80,71,29.91+-0.02,1.05+-0.03

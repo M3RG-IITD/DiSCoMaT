@@ -1,0 +1,6 @@
+Sample ID,Mould,Embossing system,Embossing conditions,Embossing conditions,Embossing conditions,Embossing conditions
+Sample ID,Mould,Embossing system,Load/N,Estimated pressure/Pa,Pressing temperature/degC,Time/min
+01,SOI,TMA,0.30,~4.7x103,210,10
+02,Si,TMA,1.50,~2.3x104,220,10
+03,Si,In-house equipment,40.0,~5.1x105,210,10
+04,SOI,In-house equipment,40.0,~5.1x105,220,10

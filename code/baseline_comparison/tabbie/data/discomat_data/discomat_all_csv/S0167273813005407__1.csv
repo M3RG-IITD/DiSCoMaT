@@ -1,0 +1,8 @@
+Heating rate,DTA peak temperature (degC),DTA peak temperature (degC),DTA peak temperature (degC),DTA peak temperature (degC),DTA peak temperature (degC),DTA peak temperature (degC),DTA peak temperature (degC),DTA peak temperature (degC)
+(degC/min),Nd,Sm,Eu,Gd,Dy,Y,Er,Yb
+10,696,720,697,720,717,733,731,694
+20,720,734,717,743,738,751,746,708
+30,735,769,729,752,751,762,758,710
+40,767,780,758,765,754,770,765,723
+Ea (kJ/mol),232,247,267,380,422,469,494,564
+Ionic radius (nm),0.098,0.096,0.095,0.094,0.091,0.090,0.089,0.087

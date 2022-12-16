@@ -1,0 +1,15 @@
+Load,"Viscosity, 10 (Pa*s)",% Decrease in inner diameter,% Decrease in inner diameter,% Decrease in inner diameter,% Decrease in inner diameter
+Load,"Viscosity, 10 (Pa*s)",Isothermal pressing & unloading,Isothermal pressing & unloading,Full process,Full process
+Load,"Viscosity, 10 (Pa*s)",35% height reduction,50% height reduction,35% height reduction,50% height reduction
+1500N,7,23,52,23,50
+1500N,8,23,52,23.5,50
+1500N,9,24,52,24,49
+1500N,10,23,52,23,49
+1500N,11,24,52,24,50
+"15,000N",8,22,51,22,50
+"15,000N",9,20.5,49,22,48
+"15,000N",10,21,48,21,47
+"15,000N",11,21,48,20,47.5
+0.5mm/min,7,19,47,17.5,47
+0.5mm/min,8,23,51,22,50
+0.5mm/min,9,23,51,23,51

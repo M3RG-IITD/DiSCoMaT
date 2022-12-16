@@ -1,0 +1,21 @@
+,Oxygen environment,Binding energy (+-0.2)/eV,Linewidth (+-0.2)/eV,Area fraction (+-5) in %
+x=0.0,"NBO(B), B-O-B",531.5,2.0,100
+x=0.1,"NBO(B), B-O-B",531.4,2.0,88
+x=0.1,"NBO(Te), Te-O-Te",530.3,1.8,12
+x=0.2,"NBO(B), B-O-B",531.4,1.9,77
+x=0.2,"NBO(Te), Te-O-Te",530.3,1.8,23
+x=0.3,"NBO(B), B-O-B",531.4,2.0,66
+x=0.3,"NBO(Te), Te-O-Te",530.2,1.7,34
+x=0.4,"NBO(B), B-O-B",531.4,2.0,56
+x=0.4,"NBO(Te), Te-O-Te",530.2,1.7,44
+x=0.5,"NBO(B), B-O-B",531.3,1.9,46
+x=0.5,"NBO(Te), Te-O-Te",530.2,1.6,54
+x=0.6,"NBO(B), B-O-B",531.4,1.9,35
+x=0.6,"NBO(Te), Te-O-Te",530.2,1.6,65
+x=0.7,"NBO(B), B-O-B",531.3,1.9,28
+x=0.7,"NBO(Te), Te-O-Te",530.2,1.6,72
+x=0.8,"NBO(B), B-O-B",531.3,2.0,16
+x=0.8,"NBO(Te), Te-O-Te",530.1,1.6,84
+x=0.9,"NBO(B), B-O-B",531.3,1.9,11
+x=0.9,"NBO(Te), Te-O-Te",530.0,1.6,89
+x=1.0,"NBO(Te), Te-O-Te",530.0,1.6,100.0

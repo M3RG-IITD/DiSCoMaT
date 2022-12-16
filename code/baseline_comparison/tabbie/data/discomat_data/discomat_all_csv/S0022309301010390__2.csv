@@ -1,0 +1,8 @@
+Glass,(tand)max at 100 kHz,Temperature region of relaxation (degC),A.E. for dipoles (eV),b (rads),A.E. for s ac (eV),Breakdown strength (kV/cm)
+A,0.0531,58-100,0.57,0.62,-,15.72
+B,0.0411,65-105,0.63,0.58,0.65,15.95
+C,0.0161,70-108,0.67,0.54,0.67,16.32
+D,0.0035,75-110,0.74,0.51,0.78,22.42
+E,-,-,-,-,0.75,18.71
+F,-,-,-,-,0.72,17.10
+G,-,-,-,-,0.69,16.50

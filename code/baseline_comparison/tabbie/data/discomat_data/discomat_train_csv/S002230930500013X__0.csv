@@ -1,0 +1,7 @@
+Method,Quantity Q,Thermal expansion coefficient a  Q  x10-4 (K-1),Thermal expansion coefficient a  Q  x10-4 (K-1),Thermal expansion coefficient a  Q  x10-4 (K-1),Thermal expansion coefficient a  Q  x10-4 (K-1),Thermal expansion coefficient a  Q  x10-4 (K-1)
+Method,Quantity Q,"Low-T region,     a   low   Q","Low-T region,     a   low   Q","High-T region,     a   high   Q","High-T region,     a   high   Q","High-T region,     a   high   Q"
+Method,Quantity Q,a-Se,pc-Se,a-Se,pc-Se,c-Se
+L-DIL,"Length, L",0.430+-0.002,0.122+-0.014,1.18+-0.02,0.235+-0.032,0.31+-0.02
+,"Volume  , V",1.290+-0.006,0.37+-0.04,3.54+-0.06,0.71+-0.1,0.93+-0.06
+PALS,"e+ Lifetime, t",2.32+-0.09,1.79+-0.09,8.2+-1.6,3.30+-0.89,
+NS,"Mean square displacement, <u 2>",29,,92,,39

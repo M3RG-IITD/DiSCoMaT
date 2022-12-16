@@ -1,0 +1,5 @@
+Method,Glass,DH  rxn  (kJmol-1),n
+Affine transformation,La,590+-10,0.61+-0.03
+,Y,370+-10,0.74+-0.05
+Kinetic model,La,580+-10,0.62+-0.05
+,Y,410+-10,0.68+-0.07

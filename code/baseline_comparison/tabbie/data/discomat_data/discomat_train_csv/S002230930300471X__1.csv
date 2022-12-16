@@ -1,0 +1,8 @@
+Pulse fluence (mJcm-2 pulse-1),Repetition rate (Hz),Number of pulses,Total fluence (mJcm-2)
+90,50,100000,9x106
+11,20,30000,3.3x105
+,,,
+63,20,10000,6.3x105
+63,20,3000,1.9x105
+63,20,1000,6.3x104
+63,20,100,6.3x103

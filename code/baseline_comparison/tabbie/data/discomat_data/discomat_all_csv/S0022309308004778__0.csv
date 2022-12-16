@@ -1,0 +1,7 @@
+,,"Initial fictive temperature, T f (degC)","Initial fictive temperature, T f (degC)","Initial fictive temperature, T f (degC)","Initial fictive temperature, T f (degC)","Initial fictive temperature, T f (degC)","Initial fictive temperature, T f (degC)","Initial fictive temperature, T f (degC)","Initial fictive temperature, T f (degC)"
+,,1300,1300,1200,1200,1100,1100,1000,1000
+,,DT,b,DT,b,DT,b,DT,b
+"Heat-treatment temperature, T (degC)",1100,200,0.62,100,0.73,0,-,-100,1.08
+"Heat-treatment temperature, T (degC)",1050,250,0.59,150,0.65,50,-,-50,1.06
+"Heat-treatment temperature, T (degC)",1000,300,0.49,200,0.53,100,0.72,0,-
+"Heat-treatment temperature, T (degC)",950,350,0.43,250,0.48,150,0.51,50,-

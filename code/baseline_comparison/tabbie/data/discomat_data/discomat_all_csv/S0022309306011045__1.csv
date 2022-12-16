@@ -1,0 +1,15 @@
+Sample name,PL Intensity,PL Intensity,PL Intensity,PL Intensity,PL Intensity,PL Intensity,PL Intensity,PL Intensity
+Sample name,2.25eV,2.25eV,2.7eV,2.7eV,3.9eV,3.9eV,4.3eV,4.3eV
+Sample name,Before,After,Before,After,Before,After,Before,After
+A1,X,O,O,O,X,O,O,O
+A2,X,O,O,O,X,X,O,O
+A3,X,O,O,O,X,X,O,O
+A4,X,O,O,O,X,X,O,O
+B1,X,X,O,O,X,X,O,O
+B3,X,X,O,O,X,X,O,O
+P,X,X,X,X,X,X,X,O
+D,X,O,X,O,X,X,X,O
+S1,X,X,X,O,X,X,X,O
+S2,X,X,X,O,X,X,X,O
+S3,X,O,O,O,X,X,O,O
+S4,X,O,O,O,X,X,O,O

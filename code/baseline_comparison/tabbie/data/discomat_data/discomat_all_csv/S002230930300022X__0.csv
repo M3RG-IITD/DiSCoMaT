@@ -1,0 +1,23 @@
+x,Correlation,Distance (+-0.05 A),Width (A),Coordination numbers (+-0.1)
+0,GeSe and SeSe (1st neighbours),2.36,0.37,2.5
+0,SeSe (2nd neighbours),3.87,0.84,11.5+-0.4
+,,,,
+10,GeSe and SeSe (1st neighbours),2.37,0.35,2.2
+10,AgSe,2.67,0.28,0.4
+10,AgAg,3.05,0.22,0.25
+10,SeSe (2nd neighbours),3.85,0.78,11.0+-0.4
+,,,,
+15,GeSe and SeSe (1st neighbours),2.37,0.35,2.05
+15,AgSe,2.67,0.31,0.65
+15,AgAg,3.05,0.31,0.35
+15,SeSe (2nd neighbours),3.89,0.80,11.0+-0.4
+,,,,
+20,GeSe and SeSe (1st neighbours),2.39,0.34,1.7
+20,AgSe,2.67,0.30,1.05
+20,AgAg,3.05,0.32,0.7
+20,SeSe (2nd neighbours),3.88,0.76,10.7+-0.4
+,,,,
+25,GeSe and SeSe (1st neighbours),2.39,0.38,1.55
+25,AgSe,2.67,0.37,1.3
+25,AgAg,3.06,0.37,0.85
+25,SeSe (2nd neighbours),3.90,0.73,10.0+-0.4

@@ -1,0 +1,16 @@
+Sample,RBS,ERDA,PIXE,PIGE
+Reference,,H surface contamination,,
+,,,,
+pH 7,Mo loss,Quasi-constant hydration over the whole analyzed depth (0.5 mm),Al and Fe relative enrichments,67% Na loss on 100 nm
+pH 7,Fe and Al relative enrichments,Quasi-constant hydration over the whole analyzed depth (0.5 mm),Mo loss,67% Li loss
+pH 7,,Quasi-constant hydration over the whole analyzed depth (0.5 mm),,33% B loss
+pH 7,,Quasi-constant hydration over the whole analyzed depth (0.5 mm),,67% Na loss for depth >100 nm
+,,,,
+pH 12,Slight Fe relative enrichment,Surface hydration four times higher than bulk,Fe relative enrichment,95% Na conservation on 100 nm
+pH 12,Mo and Ca signals equivalent to the reference glass,Surface hydration four times higher than bulk,80% Li conservation 91% B conservation,
+pH 12,,Surface hydration four times higher than bulk,73% Na conservation for depth >100 nm,
+,,,,
+pH 0,Thick hydrated SiO2 layer,Quasi-constant hydration over the whole analyzed depth (two times less than in near neutral medium),"Disappearance of Fe, Mo and Ca signals",75% Na loss on 100 nm
+Strong decrease of Al signal,Thick hydrated SiO2 layer,Quasi-constant hydration over the whole analyzed depth (two times less than in near neutral medium),"Disappearance of Fe, Mo and Ca signals",96% Li loss
+Strong decrease of Al signal,Thick hydrated SiO2 layer,Quasi-constant hydration over the whole analyzed depth (two times less than in near neutral medium),80% B loss,
+Strong decrease of Al signal,Thick hydrated SiO2 layer,Quasi-constant hydration over the whole analyzed depth (two times less than in near neutral medium),70% Na loss for depth >100 nm,

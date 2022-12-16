@@ -1,0 +1,17 @@
+,AsSe,AsSe,As2S3,As2S3,a-Se,a-Se
+r (g/cm3)-N (1022/cm3),5.2685-4.1235,5.2685-4.1235,3.5320-4.3223,3.5320-4.3223,4.8100-3.6684,4.8100-3.6684
+Z average,33.5,33.5,22.8,22.8,34.0,34.0
+Ion,Proton,Deuteron,Proton,Deuteron,Proton,Deuteron
+E 0=80 keV,E 0=80 keV,E 0=80 keV,E 0=80 keV,E 0=80 keV,E 0=80 keV,E 0=80 keV
+dE/dx electronic (eV/nm),132.0,116.9,129.1,112.3,113.7,96.84
+dE/dx nuclear (eV/nm),0.316,0.628,0.270,0.536,0.280,0.558
+Range (nm),602,721,676,837,710,0.858
+Longitudinal straggling (nm),113,156,108,153,138,0.192
+Lateral straggling (nm),150,205,143,205,184,0.255
+,,,,,,
+E 0=180 keV,E 0=180 keV,E 0=180 keV,E 0=180 keV,E 0=180 keV,E 0=180 keV,E 0=180 keV
+dE/dx electronic (eV/nm),116.9,132.1,115.5,129.6,104.2,114.8
+dE/dx nuclear (eV/nm),0.176,0.351,0.147,0.293,0.157,0.312
+Range (nm),1356,1438,1458,1592,1559,1694
+Longitudinal straggling (nm),164,206,146,192,196,254
+Lateral straggling (nm),237,293,211,275,283,361

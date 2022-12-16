@@ -1,0 +1,18 @@
+Sample number,t r (ms),t meas (ms)
+Aluminophosphates,Aluminophosphates,Aluminophosphates
+AP1,15.5,0.18
+AP2,15.8,2.49
+AP3,14.5,1.60
+AP4,14.4,3.46
+AP5,14.5,3.43
+AP6,12.2,6.78
+,,
+Aluminosilicates,Aluminosilicates,Aluminosilicates
+AS1,13.8,1.03
+AS2,14.6,4.99
+AS3,14.0,9.80
+,,
+Fluorosilicates,Fluorosilicates,Fluorosilicates
+FS1,13.0,1.22
+FS2,13.3,5.18
+FS3,13.0,6.71

@@ -1,0 +1,20 @@
+Matrix,Defect,Spin-Hamiltonian parameters,Spin-Hamiltonian parameters,Spin-Hamiltonian parameters,Spin-Hamiltonian parameters,Spin-Hamiltonian parameters,Spin-Hamiltonian parameters,Spin-Hamiltonian parameters,Ref.
+Matrix,Defect,g    tensor,g    tensor,g    tensor,A    tensor/G,A    tensor/G,A    tensor/G,A    tensor/G,Ref.
+Matrix,Defect,g 1,g 2,g 3,,A 1,A 2,A 3,Ref.
+GeO2,E '-Ge,2.0012+-0.0002,1.9953+-0.0002,1.9941+-0.0002,-,-,-,-,This work
+SiO2-GeO2,E '-Ge,2.0010+-0.0002,1.9951+-0.0002,1.9937+-0.0002,-,-,-,-,[5-7]
+SiO2,E '-Si,2.0018+-0.0002,2.0006+-0.0002,2.0003+-0.0002,-,-,-,-,[14]
+,,,,,,,,,
+SGB,BOHC,2.0412+-0.0002,2.0115+-0.0002,2.0025+-0.0002,10B (I=3),2.91+-0.05,5.12+-0.05,4.55+-0.05,This work
+SGB,BOHC,2.0412+-0.0002,2.0115+-0.0002,2.0025+-0.0002,11B (I=3/2),8.70+-0.05,15.3+-0.05,13.6+-0.05,This work
+SGB,E '-Ge,2.0070+-0.0002,1.9949+-0.0002,1.9936+-0.0002,-,-,-,-,This work
+,,,,,,,,,
+SiO2-B2O3,BOHC,2.0355+-0.0002,2.0115+-0.0002,2.0025+-0.0002,10B(I=3),2.91+-0.05,5.12+-0.05,4.55+-0.05,[16]
+SiO2-B2O3,BOHC,2.0355+-0.0002,2.0115+-0.0002,2.0025+-0.0002,11B(I=3/2),8.70+-0.05,15.3+-0.05,13.6+-0.05,
+SiO2-B2O3,E '-Si,2.0018+-0.0002,2.0006+-0.0002,2.0003+-0. 0002,-,-,-,-,
+,,,,,,,,,
+SGN,Na Modified E '-Ge,2.0019+-0.0002,1.9990+-0.0002,1. 9946+-0.0002,Na (I=3/2),Unresolved,Unresolved,Unresolved,This work
+,,,,,,,,,
+SGBN,Na Modified E '-Ge,2.0009+-0.0002,1.9984+-0.0002,1. 9941+-0.0002,Na (I=3/2),Unresolved,Unresolved,Unresolved,This work
+SGBN,Na Modified E '-Ge,2.0009+-0.0002,1.9984+-0.0002,1. 9941+-0.0002,10B (I=3),Unresolved,Unresolved,Unresolved,This work
+SGBN,Na Modified E '-Ge,2.0009+-0.0002,1.9984+-0.0002,1. 9941+-0.0002,11B (I=3/2),Unresolved,Unresolved,Unresolved,This work

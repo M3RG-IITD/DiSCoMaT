@@ -1,0 +1,6 @@
+Form,s 25,s 350,A,E a
+,(S cm-1),(S cm-1),(S cm-1),(eV)
+Crystallised cast glass pellet,3.98x10-6,8.33x10-3,1.04,0.38
+Pelletised powdered glass,2.86x10-8,7.91x10-4,1.49,0.54
+Pelletised powdered glass,,,,
+pellet after crystallisation,4.51x10-8,3.46x10-5,0.34,0.63

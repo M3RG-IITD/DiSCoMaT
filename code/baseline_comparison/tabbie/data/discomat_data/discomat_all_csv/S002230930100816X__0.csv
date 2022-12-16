@@ -1,0 +1,10 @@
+Glass sample (wt%),Batch composition (mol%),Batch composition (mol%),Batch composition (mol%),Batch composition (mol%)
+Glass sample (wt%),Nd2O3,Al2O3,SiO2,TiO2
+S,10,20,70,0
+T0,15,20,65,0
+T01,15,20,65,4
+T1,10,20,70,8
+T2,15,20,65,8
+T3,15,25,60,8
+T4,15,30,55,8
+T5,20,20,60,8

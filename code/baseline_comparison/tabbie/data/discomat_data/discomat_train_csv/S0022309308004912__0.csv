@@ -1,0 +1,4 @@
+Band,G 1,G 2,G 3,G 4
+"Central wavelength, nm",372,452,528,591
+"Bandwidth, cm-1",4107,3363,2463,5671
+Element,Hole,AgBr1,AgBr2,AgBr

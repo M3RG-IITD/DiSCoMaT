@@ -1,0 +1,20 @@
+Structural type,Vibrational modes,Activity
+B3(O),A1 ',Raman
+,2E',"IR, Raman"
+,A2'',IR
+,,
+B4,A1,Raman
+,2T2,"IR, Raman"
+,E,Raman
+,,
+Four-membered ring,3A1g,Raman
+,2B1g,Raman
+,B1g,Raman
+,2B1u,IR
+,2B2u,IR
+,2B3u,IR
+,,
+Six-membered ring,3A1 ',Raman
+,2A2 ',Inactive
+,5E',"IR, Raman"
+,2A2'',IR

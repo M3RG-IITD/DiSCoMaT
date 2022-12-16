@@ -1,0 +1,8 @@
+Sample,Amorphous phase,Amorphous phase,Amorphous phase,Amorphous phase,Crystalline phase,Crystalline phase,Crystalline phase,A a/A tot (%)
+Sample,<QS>  (mm/s),s(QS) (mm/s),<IS>  (mm/s),s(IS) (mm/s),QS (mm/s),IS (mm/s),A 21 (fixed),A a/A tot (%)
+Sample,(+-0.01),(+-0.01),(+-0.01),(+-0.001),(+-0.02),(+-0.02),A 21 (fixed),A a/A tot (%)
+F,0.37,0.16,0.37,0.019,0.48,0.36,1.14,68
+G,0.37,0.19,0.35,0.004,0.48,0.34,1.14,66
+H,0.24,0.15,0.34,0.019,0.58,0.31,1.14,66
+J,0.25,0.11,0.33,0.002,0.48,0.32,1.14,50
+L,0.37,0.27,0.28,0.36+-0.01,0.55,0.35,1.14,9

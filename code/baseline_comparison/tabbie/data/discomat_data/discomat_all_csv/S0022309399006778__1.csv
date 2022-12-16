@@ -1,0 +1,21 @@
+Length of waveguide laser cavity,L=2 cm
+Signal field diameters (elliptical 1/e full width),"W sx=16 mm, W sy=11 mm"
+"Pump field diameters (elliptical, 1/e full width)","W px=13 mm, W pg=9.5 mm"
+Signal effective index,n s=1.515
+Pump effective index,n p=1.515
+Spontaneous emission lifetime of 4I13/2,t  21=8.1 ms=1/A 21
+Stimulated emission cross-section @ 1540 nm (4I13/2 - 4I15/2),s  21=4.62x10-21 cm2
+Absorption cross-section @ 1540 nm (4I15/2 - 4I13/2),s  12=4.13x10-21 cm2
+Er pump absorption cross-section @ 977 nm (4I15/2 - 4I11/2),s  13=1.9x10-21 cm2
+Yb absorption cross-section @ 977 nm (2F7/2 - 2F5/2),s  56=1.04x10-20 cm2
+Yb emission cross-section @ 977 nm (2F5/2 - 2F7/2),s  65=1.19x10-20 cm2
+Yb-Er cross-coupling coefficient C cr,"Fitting parameter, see text"
+Upconversion coefficient C up,"Fitting parameter, see text"
+Signal wavelength,l s=1540 nm
+Pump wavelength,l p=977 nm
+Er-ion density,N er=1x1020 cm-3
+Yb-ion density,N yb=4x1020 cm-3
+High reflector reflectance,R 1=0.9995
+Output coupler reflectance,R 2=0.80
+Non-radiative lifetime of level 4I11/2,t  32=2.8 ms=1/A 32
+Excess waveguide scattering loss,"a is=0.1 dB/cm, a ip=0.2 dB/cm"

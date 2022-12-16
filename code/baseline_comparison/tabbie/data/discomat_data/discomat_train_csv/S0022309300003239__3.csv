@@ -1,0 +1,10 @@
+Subscript,Value,Comment
+x,0.41,
+n,0.27,n=(2/3)x
+p,0.62,
+q,1.01,
+r,3.88,
+s,11.28,
+y,0.65,"From Slab 1, Table 2"
+l,5.80,l=(2-n+y)/x
+ps,2.07,ps=l(1-x)+y-2

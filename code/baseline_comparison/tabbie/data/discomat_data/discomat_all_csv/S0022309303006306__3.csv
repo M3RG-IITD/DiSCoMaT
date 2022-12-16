@@ -1,0 +1,8 @@
+Decreasing velocity threshold (cms1),Time step (fs),Increasing velocity threshold (cms1),Time step (fs)
+,0.002,,
+2x107,0.006,2.5x107,0.002
+5x106,0.02,7.5x106,0.006
+2x106,0.06,2.5x106,0.02
+5x105,0.2,7.5x105,0.06
+3.5x105,0.4,3.75x105,0.2
+2x105,1,3.4x105,0.4

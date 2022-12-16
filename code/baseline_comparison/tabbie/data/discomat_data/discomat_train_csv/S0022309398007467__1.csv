@@ -1,0 +1,12 @@
+Sr. No.,Property,YPCA,YPMBA
+1,Density (g/cm3),5.95+-0.02,5.14
+2,"Refractive index, nd",1.55+-0.0005,1.52
+3,% IR transmission,"70, t=5 mm","50, t=4.4 mm"
+4,"Cutoff wavelength, (mm)",9.2 (t=0.68 mm),Ref. [14]
+5,T g (degC),327+-2,367
+6,T x (degC),440+-2,505
+7,T m (degC),570+-2,660
+8,T x - T g (degC),113+-4,138
+9,Coeff. of thermal expansion (C-1 * 10-7),166+-3 (30 to 317degC),180 (100 to 300degC)
+10,Vickers hardness No. (VHN) (kg/mm2),409+-15,327
+11,Water durability (% wt. loss),"0.005 at 30degC (no optical loss till 12 h in DI water, no change in solution pH)",0.02% at 100degC

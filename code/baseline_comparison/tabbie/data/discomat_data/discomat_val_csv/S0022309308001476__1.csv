@@ -1,0 +1,12 @@
+,WG1,WG2
+ZrF4,46.5,52
+LaF3,40,36
+ErF3,13.5,12
+AlF3,<2,<2
+Thickness (mm),2.0,2.4
+n at 633nm,TE 1.5251,TE 1.5269
+n at 633nm,TM 1.5251,TM 1.5274
+n at 1540nm,TE 1.5143,TE 1.5166
+n at 1540nm,TM 1.5147,TM 1.5171
+Loss at 633nm (dB/cm),1.6,1.7
+Loss at 1304nm (dB/cm),1.2,-

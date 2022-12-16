@@ -1,0 +1,6 @@
+T  s  (degC),Work pressure (Pa),Ge target power (W),C target power,C target power,Deposition time (s),Thickness (nm)
+T  s  (degC),Work pressure (Pa),Ge target power (W),Ic (A),Uc (V),Deposition time (s),Thickness (nm)
+RT,1.0+-0.1,140+-5,0.20+-0.01,-500+-10,195,131+-5
+200,1.0+-0.1,140+-5,0.20+-0.01,-500+-10,190,130+-5
+400,1.0+-0.1,140+-5,0.20+-0.01,-500+-10,185,131+-5
+600,1.0+-0.1,140+-5,0.19+-0.01,-520+-10,185,126+-5

@@ -1,0 +1,8 @@
+Annealing temperature,Amorphous component,Amorphous component,Crystalline component 1,Crystalline component 1,Crystalline component 2,Crystalline component 2
+Annealing temperature,<B hf>  (T),Relative area (%),<B hf>  (T),Relative area (%),<B hf>  (T),Relative area (%)
+As-deposited,23.4+-0.1,100,-,-,-,-
+373K,23.9,100,-,-,-,-
+473K,22.7,59+-2,33.3+-0.1,41+-2,-,-
+573K,22.0,53,33.2,47,-,-
+673K,-,,33.1,46,20.5+-0.1,54+-2
+773K,-,,33.0,61,19.4,39

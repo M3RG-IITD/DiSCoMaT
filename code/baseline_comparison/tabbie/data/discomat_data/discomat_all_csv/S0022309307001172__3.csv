@@ -1,0 +1,7 @@
+Glasses,Refractive index,FWHM,s e (x10-21 cm2),FOM (s e xFWHM),Reference
+LiTFP,1.585,37.9,11.29,427.9,This work
+NaTFP,1.586,39.3,11.70,459.8,This work
+KTFP,1.582,36.4,12.42,452.1,This work
+Silicate,1.585,40,5.50,220,[24]
+Phosphate,1.569,37,6.40,236.8,[25]
+Germanate,1.625,53,5.68,301,[26]

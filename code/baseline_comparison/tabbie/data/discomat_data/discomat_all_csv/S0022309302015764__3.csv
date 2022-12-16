@@ -1,0 +1,7 @@
+Sample,Radiative transition rates (s-1),Radiative transition rates (s-1),Radiative transition rates (s-1),Radiative transition rates (s-1),Radiative transition rates (s-1),J-O parameters (10-20 cm2),J-O parameters (10-20 cm2)
+,5 D 0 - 7 F 1  (MDT),5 D 0 - 7 F 2,5 D 0 - 7 F 4,W calc,W exptl,O2,O4
+SPZ-C,59+-1,83+-1,90+-1,232+-1,243+-1,2.1+-0.1,4.7+-0.1
+SPZ-A06,59+-1,75+-1,88+-1,223+-1,236+-1,1.9+-0.1,4.6+-0.1
+SPZ-A10,59+-1,74+-1,88+-1,221+-1,230+-1,1.9+-0.1,4.6+-0.1
+SPZ-A15,59+-1,71+-1,88+-1,218+-1,224+-1,1.8+-0.1,4.6+-0.1
+ZBLAN,41+-1,82+-1,59+-1,182+-1,193+-1,3.1+-0.1,4.6+-0.1

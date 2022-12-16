@@ -1,0 +1,26 @@
+Sample,Annealing time,Constituent,O (mol%),F (mol%),Na (mol%),Al (mol%),Si (mol%),P (mol%),K (mol%),Ca (mol%),Ca/P
+A4,As casted,Residual glass,55.5,8.2,1.0,14.6,11.8,2.0,4.9,2.0,1.0
+,10 min,Residual glass,54.8,9.9,1.1,12.8,13.7,1.4,4.5,1.8,1.24
+,10 h,Residual glass,55.0,10.8,1.3,11.1,16.5,0.7,3.7,0.9,1.2
+,,,,,,,,,,,
+A1,As casted,Residual glass,57.2,7.5,0.9,12.2,12.8,3.8,4.5,1.2,0.31
+,As casted,Droplet,49.0,18.8,0.9,5.9,2.5,8.1,1.1,13.7,1.69
+,10 min,Residual glass,55.8,8.0,1.1,12.2,11.6,3.8,6.3,1.2,0.32
+,10 h,Residual glass,56.1,8.4,1.1,12.9,11.6,3.7,5.2,1.0,0.28
+,,,,,,,,,,,
+K5,As casted,Residual glass,56.3,10.2,0.7,10.8,13.8,3.8,3.8,0.6,0.15
+,As casted,Droplet,50.0,18.4,0.3,5.2,1.6,9.7,0.6,14.3,1.47
+,10 min,Residual glass,54.8,10.0,1.05,11.5,10.9,4.1,6.6,1.0,0.25
+,10 h,Residual glass,55.1,10.0,1.0,12.0,11.4,3.8,5.9,0.7,0.18
+,,,,,,,,,,,
+B3,As casted,Residual glass,61.6,3.0,0.8,11.2,14.4,6.0,2.5,0.5,0.84
+,As casted,Droplet,48.2,21.3,0.6,5.3,0.4,10.4,1.2,12.5,1.20
+,10 min,Residual glass,56.9,7.5,1.1,11.6,10.9,5.5,5.8,0.7,0.12
+,10 h,Residual glass,56.3,9.8,1.1,11.5,11.2,5.5,4.4,0.2,0.03
+,,,,,,,,,,,
+D,As casted,Residual glass,60.6,4.7,0.8,10.6,13.4,6.2,3.3,0.4,0.06
+,As casted,Droplet,47.3,21.9,1.5,6.0,0.7,9.4,1.2,12.1,1.29
+,10 min,Residual glass,56.3,8.1,1.0,11.3,10.9,5.3,6.5,0.5,0.09
+,10 h,Residual glass,56.5,10.3,1.1,11.6,11.4,5.5,3.4,0.2,0.04
+,,,,,,,,,,,
+Average error for residual glass analyses,Average error for residual glass analyses,Average error for residual glass analyses,+-1.1,+-0.8,+-0.4,+-0.5,+-0.4,+-0.2,+-0.4,+-0.05,-

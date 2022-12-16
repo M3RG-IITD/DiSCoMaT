@@ -1,0 +1,5 @@
+Donor concentration (wt%) C s,Acceptor concentration (wt%) C a,Donor fluorescence intensity I in the absence of acceptor (I so +-1),Donor fluorescence intensity I in the presence of acceptor (I s +-1),Donor lifetime (t s +-.07) ns,Quantum yield (e T +-0.05),Transfer probability (P sa 106 s-1),Donor acceptor average distance (R sa +-1A)
+0.5,0.25,867,625,21,0.279,12.9,20.9
+0.5,0.5,867,400,14,0.538,30.9,17.4
+0.5,0.75,867,234,8,0.73,90.2,15.1
+0.5,1,867,108,4,0.875,234,12.9

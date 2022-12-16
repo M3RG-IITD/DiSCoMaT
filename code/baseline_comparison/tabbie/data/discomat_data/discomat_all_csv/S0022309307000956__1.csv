@@ -1,0 +1,8 @@
+Bond type,Ni-Ni,Ni-Nb,Nb-Ni,Nb-Nb
+RMC,RMC,RMC,RMC,RMC
+N 1,7.7 at 2.61A,3.5 at 2.70A,8.7 at 2.70A,3.7 at 2.79A
+N 2,22.1,10.7,26.3,9.0
+N 1/N 2,0.39,0.33,0.33,0.41
+,,,,
+AHS model,AHS model,AHS model,AHS model,AHS model
+N 1,7.9 at 2.63A,4.0 at 2.82A,9.8 at 2.82A,4.8 at 3.00A

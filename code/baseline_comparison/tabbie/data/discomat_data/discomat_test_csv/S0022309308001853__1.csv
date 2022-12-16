@@ -1,0 +1,22 @@
+,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Retention factor (%),Retention factor (%),Retention factor (%),Retention factor (%)
+,SiO2,B2O3,Na2O,CaO,ZrO2,Gel %,Si,Zr,Ca,Na
+Series 1,Series 1,Series 1,Series 1,Series 1,Series 1,Series 1,Series 1,Series 1,Series 1,Series 1
+O-Si glass 1,61,17,18,4,-,,,,,
+O-Si-Zr glass 1,56,18,18,4,4,,,,,
+Si gel 1,92,0,0,8,-,3,71,-,97,0
+Si-Zr gel 1,87,0,2,5,6,5,91,100,79,5
+Alteration time,,,,,,,176 days,,,
+,,,,,,,,,,
+Series 2,Series 2,Series 2,Series 2,Series 2,Series 2,Series 2,Series 2,Series 2,Series 2,Series 2
+O-Si glass 2,64,18,14,4,-,,,,,
+O-Si-Zr glass 2,60,18,14,4,4,,,,,
+Si gel 2,93,0,0,7,-,3,86,-,98,0
+Si-Zr gel 2,84,0,4,6,6,2,99,100,99,21
+Alteration time,,,,,,,652 days,,,
+,,,,,,,,,,
+Series 3,Series 3,Series 3,Series 3,Series 3,Series 3,Series 3,Series 3,Series 3,Series 3,Series 3
+O-Si glass 3,70,18,10,2,-,,,,,
+O-Si-Zr glass 3,67,16,10,3,4,,,,,
+Si gel 3,97,0,0,3,-,10,97,-,96,0
+Si-Zr gel 3,88,0,2,5,5,2,93,100,98,14
+Alteration time,,,,,,,526 days,,,

@@ -1,0 +1,13 @@
+Time,Heat treatment,,
+,1125 degC,1150 degC,1175 degC
+1 h,1 h,1 h,1 h
+Surface,"SK, WSp","SK, WSp","SK, SSp, WB"
+Bulk,"SK, WSp","SK, WSp","SK, WSp"
+,,,
+3 h,3 h,3 h,3 h
+Surface,"SK, WSp, WC","SK, SSp","SK, WSp"
+Bulk,"SK, WSp","SK, WSp","SK, WSp"
+,,,
+5 h,5 h,5 h,5 h
+Surface,"SK, WSp","SK, SSp, WC","SK, SSp,"
+Bulk,"SK, WSp","SK, WSpz","SK, WSp"

@@ -1,0 +1,9 @@
+Maximum temperature reached (degC),1020,1030,1050,1050,1050,1050
+Time at 1050degC (min),-,-,0,10,60,600
+Time above 965degC (min),11,13,17,27,77,617
+Average diameter (nm),45,87,220,300,385,Impingement
+Average thickness (nm),16,20,44,71,110,Impingement
+Average diameter: thickness ratio,2.8:1,4.4:1,5:1,4.3:1,3.4:1,Impingement
+Residual glass content (%) (percentage of TEM image area),,,88+-4,80+-6,39+-4,32+-3
+Degree of crystallisation (%) (from TEM results),,,18+-7,29+-9,90+-7,100
+Degree of crystallisation (%) (from Young's modulus),,,13,17,92,100

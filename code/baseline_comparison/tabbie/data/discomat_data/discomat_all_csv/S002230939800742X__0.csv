@@ -1,0 +1,28 @@
+Model,M0,M0,M1,M1,M2,M2
+Coordinates of the first peaks of PPCFs (nm),Coordinates of the first peaks of PPCFs (nm),Coordinates of the first peaks of PPCFs (nm),Coordinates of the first peaks of PPCFs (nm),Coordinates of the first peaks of PPCFs (nm),Coordinates of the first peaks of PPCFs (nm),Coordinates of the first peaks of PPCFs (nm)
+r 1(FeFe),0.251,0.251,0.252,0.252,0.251,0.251
+r 1(FeTb),0.303,0.303,0.301,0.301,0.302,0.302
+r 1(TbTb),0.348,0.348,0.346,0.346,0.346,0.346
+,,,,,,
+Heights of the first peaks of PPCFs,Heights of the first peaks of PPCFs,Heights of the first peaks of PPCFs,Heights of the first peaks of PPCFs,Heights of the first peaks of PPCFs,Heights of the first peaks of PPCFs,Heights of the first peaks of PPCFs
+g 1(FeFe),4.3,4.3,4.3,4.3,4.6,4.6
+g 1(FeTb),5.4,5.4,5.2,5.2,4.7,4.7
+g 1(TbTb),4.5,4.5,4.6,4.6,4.4,4.4
+,,,,,,
+Discrepancies*,Discrepancies*,Discrepancies*,Discrepancies*,Discrepancies*,Discrepancies*,Discrepancies*
+R X-ray,0.000,0.000,0.008,0.008,0.048,0.048
+R neutron,0.000,0.000,0.005,0.005,0.049,0.049
+R FeFe,0.000,0.000,0.136,0.136,0.117,0.117
+R FeTb,0.000,0.000,0.200,0.200,0.147,0.147
+R TbTb,0.000,0.000,0.248,0.248,0.207,0.207
+,,,,,,
+Partial mean coordination numbers and their SD (%),Partial mean coordination numbers and their SD (%),Partial mean coordination numbers and their SD (%),Partial mean coordination numbers and their SD (%),Partial mean coordination numbers and their SD (%),Partial mean coordination numbers and their SD (%),Partial mean coordination numbers and their SD (%)
+Z(FeFe),6.0 (31),6.0 (31),6.9 (29),6.9 (29),7.0 (31),7.0 (31)
+Z(FeTb),4.9 (28),4.9 (28),4.5 (34),4.5 (34),4.3 (37),4.3 (37)
+Z(TbFe),9.9 (26),9.9 (26),9.1 (26),9.1 (26),8.5 (28),8.5 (28)
+Z(TbTb),6.4 (26),6.4 (26),6.4 (25),6.4 (25),6.6 (24),6.6 (24)
+Type of central atoms of VP,Fe,Tb,Fe,Tb,Fe,Tb
+Mean volume of VPs (nm3)x(103),16.5,23.8,16.6,23.7,16.3,24.3
+SD of mean volume of VPs (%),12.2,8.2,11.1,6.7,13.7,8.8
+Mean sphericity parameter of VPs,0.686,0.761,0.686,0.753,0.695,0.756
+SD of mean sphericity parameter of VPs (%),3.4,2.3,3.8,2.5,3.5,2.5

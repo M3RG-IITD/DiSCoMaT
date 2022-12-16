@@ -1,0 +1,13 @@
+Samples,N Ca-O (+-0.3),R Ca-O (A) (+-0.01) A,s CaO    A (EXAFS) (+-0.01) A,kh  n  2,Technique,References
+CaSiO3 glass,5.6,2.49,0.24,,EXAFS,[14]
+CaSiO3 glass,-,2.44,-,,XRD,This work
+CaSiO3 wollastonite,6.33,2.39,-,,XRD,[15]
+CaSiO3 wollastonite,6.30,2.40,0.09,,EXAFS,[16]
+CaSiO3 wollastonite,5.9,2.37,0.08,,EXAFS,[17]
+CaSiO3 wollastonite,6.4,2.37,0.10,,EXAFS,[18]
+CaSiO3 wollastonite,6.33,2.39,-,,Neutron,
+CaSiO3 glass +3% Al2O3,6.16,2.37,-,,diffraction,[9]
+CaSiO3 glass,6.0,2.43,-,,XRD,[20]
+CaSiO3 glass,6.5,2.40,-,,Molecular dynamics,[21]
+CaSiO3 crystallized from glass,5.8,2.37,0.11,0.04,EXAFS,This work
+CaSiO3 glass,6.0,2.36,0.13,0.06,EXAFS,This work

@@ -1,0 +1,22 @@
+Na-Ag ion- exchange rate (%),Ag-Ag,Ag-O,Ag-Si,Ag-Na,MD simulation
+0,-,-,-,-,"001 (r low), 026 (r high)"
+30,EAM,LJ,LJ,LJ,011
+30,EAM,LJh,LJh,LJh,013
+30,EAM,LJd,LJd,LJd,012
+30,EAM,LJ,BMH,LJ,010
+30,EAM,LJh,BMH,LJh,010
+30,EAM,Ljd,BMH,LJd,"002 (T max=1500 K), 005 (T max=2000 K), 006 (T max=1000 K), 007 (T max=2500 K), 008 (T max=3000 K), 027 (r high)"
+,,,,,
+30,EAM,BMH,BMH,LJd,034 (r var)
+30,EAM,BMH,BMH,BMH,"035 (r low), 044 (r var)"
+30,EAM,BMH,BMH,BMH,044
+30,LJ,LJ,LJ,LJ,"014, 018 (r c=1 nm), 038 (T max=1500 K), 039 (T max=2000 K), 040 (T max=3000 K)"
+30,LJh,LJ,LJ,LJ,015
+30,LJd,LJ,LJ,LJ,"016, 041 (T max=1500 K), 042 (T max=2000 K), 043(T max=3000 K)"
+30,LJ,LJh,LJh,LJh,036
+30,LJ,LJd,LJd,LJd,037
+30,LJ,LJ,BMH,LJ,017
+40,EAM,LJd,BMH,LJd,028
+40,EAM,BMH,BMH,BMH,045
+50,EAM,LJd,BMH,LJd,029
+50,EAM,BMH,BMH,BMH,046

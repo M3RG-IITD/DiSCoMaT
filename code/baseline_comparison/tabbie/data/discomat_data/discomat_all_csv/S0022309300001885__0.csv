@@ -1,0 +1,9 @@
+,Glass 0,Glass 0.1,Glass 0.2,Glass 0.3,Glass 0.4
+"VFT parameter (e 0 in Pa s, T indegC)","VFT parameter (e 0 in Pa s, T indegC)","VFT parameter (e 0 in Pa s, T indegC)","VFT parameter (e 0 in Pa s, T indegC)","VFT parameter (e 0 in Pa s, T indegC)","VFT parameter (e 0 in Pa s, T indegC)"
+A,-2.308,-2.166,-2.035,-2.284,-2.039
+B,2824.17,2677.20,2554.02,2812.07,2586.45
+T 0,258.61,251.24,245.87,223.14,229.15
+T g  (e0=1012  Pa s),456,440,428,420,413
+T rg  (KK -1),0.558,0.560,0.567,0.579,0.603
+r (g/cm-3),2.339,2.362,2.380,2.395,2.418
+H2O (ppm),129,153,166,140,209

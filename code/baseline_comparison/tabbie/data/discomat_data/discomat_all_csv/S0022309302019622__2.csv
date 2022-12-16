@@ -1,0 +1,15 @@
+Glass,Transition energies (cm-1) +-1.5%,Transition energies (cm-1) +-1.5%,Transition energies (cm-1) +-1.5%,Transition energies (cm-1) +-1.5%,Racah parameters (cm-1) +-3%,Racah parameters (cm-1) +-3%,Racah parameters (cm-1) +-3%,Racah parameters (cm-1) +-3%
+Glass,1 T 2g,1 T 1g,3 T 2g,3 T 1g,D,B,C,P
+This study,This study,This study,This study,This study,This study,This study,This study,This study
+LG-770,39980,33430,28110,24630,37830,435,4400,18688
+KMAP,39960,33600,28110,23530,38585,493,4935,20971
+KAP,39530,33430,28560,23840,38225,590,4795,20655
+LHG-8,39370,33290,28000,24000,37935,500,4645,19830
+KBAP,39690,33120,28000,23530,37915,559,4795,20577
+NAP,39690,34320,28110,22900,40030,651,5710,24468
+,,,,,,,,
+Prior work,Prior work,Prior work,Prior work,Prior work,Prior work,Prior work,Prior work,Prior work
+Na2O-B2O3 [12],37200,33500,29000,22000,39250,875,5750,25190
+Na2O-NaCl-B2O3 [12],32200,27500,25800,22000,30250,475,2750,12190
+Na2O-SiO2 [9],,33220,27550,21880,38900,710,5670,24450
+NaHSO4-KHSO4 [17],-,-,-,24900,-,-,-,-

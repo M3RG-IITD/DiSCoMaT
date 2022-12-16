@@ -1,0 +1,9 @@
+Sample,x,T g (degC) +-2,T x (degC) +-2,Density (g cm-3)+-0.02,n  d +-0.002,F/P,F/O,O/P
+Sample,x,T g (degC) +-2,T x (degC) +-2,Density (g cm-3)+-0.02,n  d +-0.002,(Ratios calculated from nominal compositions),(Ratios calculated from nominal compositions),(Ratios calculated from nominal compositions)
+F,0,265,345,5.55,1.564,-,-,-
+P10,0.1,320,395,5.40,1.625,9,3,3
+P25,0.25,400,455,5.10,1.699,3,1,3
+P50,0.5,440,-,4.27,1.678,1,1/3,3
+P75,0.75,455,-,3.68,1.621,1/3,1/9,3
+P90,0.9,475,-,3.46,1.597,1/9,1/27,3
+P100,1,500,-,3.44,1.594,0,0,3

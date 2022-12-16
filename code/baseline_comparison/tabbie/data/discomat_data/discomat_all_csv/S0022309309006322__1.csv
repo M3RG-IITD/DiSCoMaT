@@ -1,0 +1,11 @@
+Aging time [d],20degC,20degC,20degC,20degC,20degC,20degC,20degC,20degC,60degC,60degC,60degC,60degC,60degC,60degC,60degC,60degC
+Aging time [d],Distribution I,Distribution I,Distribution I,Distribution I,Distribution II,Distribution II,Distribution II,Distribution II,Distribution I,Distribution I,Distribution I,Distribution I,Distribution II,Distribution II,Distribution II,Distribution II
+Aging time [d],s 01 [MPa],m 1,R 01,n 1,s 02 [MPa],m 2,R 02,n 2,s 01 [MPa],m 1,R 01,n 1,s 02 [MPa],m 2,R 02,n 2
+0,1851,6.9,0.91,50,-,-,-,-,1851,6.9,0.91,50,-,-,-,-
+1,2022,17.0,0.92,36,1251,3.4,0.92,14,1803,5.4,0.91,50,-,-,-,-
+2,1857,16.0,0.95,36,1176,4.0,0.95,14,1682,5.0,0.98,50,-,-,-,-
+3,1869,13.0,0.97,41,1043,3.4,0.98,9,1583,4.6,0.95,40,906,3.5,0.96,10
+5,1816,13.0,0.75,38,1247,3.9,0.93,12,1267,5.6,0.99,50,-,-,-,-
+6,1804,9.6,0.94,42,823,4.4,0.86,8,1365,4.9,0.96,50,-,-,-,-
+7,1982,16.0,0.92,35,1059,3.3,0.88,15,1341,5.7,0.94,50,-,-,-,-
+8,1647,3.9,0.95,50,-,-,-,-,1592,6.7,0.92,50,-,-,-,-

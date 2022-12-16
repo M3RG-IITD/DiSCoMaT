@@ -1,0 +1,13 @@
+Nucleus,Larmor frequency (MHz),Pulse sequence,n rot (Hz),"Pulse width employed  , n  rf",Recycle delay (s),Transients collected,Reference sample and chemical shift (ppm)
+11B,192.4,Bloch decay,16000,"0.5ms, 50kHz",10-15,32-64,0.1M H3BO3 (+19.6)
+6Li,88.2,Bloch decay,16000,"1ms, 50kHz",60,32,9.7M LiCl (0.0)
+7Li,233.0,Bloch decay,16000,"0.6ms, 41.6kHz",20-30,32,9.7M LiCl (0.0)
+23Na,158.6,Bloch decay,17000,"0.8ms, 50kHz",5-15,64,1.0M NaCl (0.0)
+,,,,,,,
+39K,27.9,Hahn-echo,10000+-3,"5ms, 25kHz",1-5,12k,1.0M KCl (0.0)
+39K,42.0,Hahn-echo,"17,241","3.75ms, 33.3kHz",5-10,6k-10k,1.0M KCl (0.0)
+,,,,,,,
+87Rb,196.2,Hahn-echo,18000,"2ms, 62.5kHz",5,2k,1.0M RbCl (0.0)
+87Rb,294.5,Hahn-echo,30000+-4,"1.5ms, 83.3kHz",1-2,15k-19k,1.0M RbCl (0.0)
+,,,,,,,
+133Cs,78.6,Hahn-echo,18500 to 19000,"4ms, 31.25kHz",60,64,0.5M CsCl (0.0)

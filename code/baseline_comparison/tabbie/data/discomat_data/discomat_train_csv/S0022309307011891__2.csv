@@ -1,0 +1,6 @@
+Step,T 1 (degC),T 2 (degC),Heating/cooling rate (degC/min)
+1,25,585,10
+2,585,585,Dwell for 120min
+3,585,605,1
+4,605,605,Dwell for 240min
+5,605,25,5

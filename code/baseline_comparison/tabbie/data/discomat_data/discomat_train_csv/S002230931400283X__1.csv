@@ -1,0 +1,5 @@
+Method,Peak1,Peak1,Peak2,Peak2
+Method,Ec1  (kJmol-1),< n>,Ec2  (kJmol-1),< n>
+Kissinger,398+-14,,162+-14,
+Ozawa,412+-14,,179+-14,
+Gao-Wang,,0.91+-0.02,,0.97+-0.24

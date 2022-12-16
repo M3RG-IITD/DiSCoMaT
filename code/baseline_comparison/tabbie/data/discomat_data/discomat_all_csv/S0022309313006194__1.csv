@@ -1,0 +1,6 @@
+Sample,Tg (degC),TC (degC),TC-Tg (degC),Cut-off wavelength (nm),"Optical band gap, Eo  (eV)"
+LSGPb,479,784,305,337.5,3.63
+LSGZn,489,798,309,331.5,3.69
+LSGBa,505,818,313,329.5,3.72
+LSGSr,516,834,318,322,3.81
+LSGCa,523,846,323,316,3.88

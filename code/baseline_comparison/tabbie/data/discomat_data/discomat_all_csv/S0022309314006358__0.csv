@@ -1,0 +1,11 @@
+Samples,TiO2,Ti75Zn25O,Ti50Zn50O,Ti25Zn75O,ZnO
+"In vacuum, sd [O-1 m-1]",(1.8+-0.2)x10-6,-,-,(4.8+-0.6)x10-10,(4.9+-0.4)x10-3
+"In air, sd [O-1 m-1]",(1.9+-0.4)x10-10,-,-,(5.3+-0.7)x10-10,(4.7+-0.4)x10-3
+"In vacuum, sp [O-1 m-1], after 20min of illumination",2.7+-0.2,(8.5+-0.7)x10-4,(2.6+-0.2)x10-8,(6.5+-0.6)x10-4,1.4+-0.1
+"In vacuum, sp [O-1 m-1], at the end of the first decay period",2.5+-0.2,(2.0+-0.2)x10-7,(3.0+-0.3)x10-9,(1.4+-0.1)x10-4,1.3+-0.1
+"In vacuum, sp [O-1 m-1], at the end of the second illumination period",4.3+-0.4,(10.0+-0.9)x10-4,(7.3+-0.6)x10-8,(9.8+-0.9)x10-4,2.2+-0.2
+"In air, sp [O-1 m-1], after 20min of illumination",(4.0+-0.4)x10-3,(7.1+-0.6)x10-6,(3.8+-0.6)x10-10,(1.6+-0.1)x10-4,1.3+-0.1
+"In air, sp [O-1 m-1], at the end of the first decay period",(2.1+-0.2)x10-8,(3.6+-0.7)x10-10,(2.6+-0.6)x10-10,(5.9+-0.5)x10-6,0.89+-0.07
+"In air, sp [O-1 m-1], at the end of the second illumination period",(2.1+-0.2)x10-3,(4.2+-0.4)x10-6,(8.3+-0.9)x10-10,(1.5+-0.1)x10-4,1.8+-0.1
+"In vacuum, composition effect CE",,(3.1+-0.3)x10-4,-,-,
+"In air, composition effect CE",,(1.8+-0.2)x10-3,-,-,

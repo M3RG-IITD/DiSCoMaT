@@ -1,0 +1,8 @@
+Sample,Chemical composition (mol%),Chemical composition (mol%),Chemical composition (mol%),Chemical composition (mol%),Chemical composition (mol%),Temperatures (degC),Temperatures (degC),Temperatures (degC),Temperatures (degC)
+,Sb2O3,WO3,BaF2,NaF,[Sb(PO3)3] n,T g,T x,T p,T x-T g
+wsbb4,50,40,10,,,326,399,412,73
+wsbb5,30,60,10,,,379,446,456,67
+wsbb3,30,40,,30,,289,337,342,48
+wsbb4,20,40,,40,,285,332,338,47
+sbsbw2,60,20,,,20,350,468,481,118
+sbsbw3,50,30,,,20,371,486,496,115

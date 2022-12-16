@@ -1,0 +1,12 @@
+"Heat-treatment conditions (degC, h)",SAXS 2R (nm),Low-frequency Raman scattering,Low-frequency Raman scattering,Low-frequency Raman scattering
+,,2R    (nm),oII   (cm-1),o   (cm-1)
+Initial glass,1.6-1.8,2.4 (1.7),86,73
+"660, 3",2.2,2.3,90,71
+"660, 9",2.4,2.4,91,68
+"660, 12",2.8,2.8,78,56
+"660, 15",3.1,2.9,78,53
+"660, 18",3.4,2.9,77,53
+"660, 38",3.6,3.5,64,44
+"660, 167",3.8,4.1,59,34
+"700, 120",5.4,5.2,52,25
+"660, 24+720, 18+820, 120",8.8,11.0,~25,~12

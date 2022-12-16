@@ -1,0 +1,5 @@
+TMOS:H2O molar ratio,Stirring time (min),Irradiation time (min),Gamma dose (Gy)
+1:4,120,320,190
+1:8,100,330,200
+1:16,100,310,180
+1:32,50,310,180

@@ -1,0 +1,4 @@
+Temperature interval,"Slope, B (J K/mol) VFT equation from [34]","Slope, B (J K/mol) VFT equation from [27]",y-intercept VFT equation from [34],y-intercept VFT equation from [27],ln Cb
+1020-995degC,1.39x106,1.36x106,-5.87,-6.06,-5.99
+983-897degC,9.81x106,9.27x106,-2.91,-3.27,-5.46
+500-454degC,26.50x108,13.06x108,147.69,69.43,-5.18

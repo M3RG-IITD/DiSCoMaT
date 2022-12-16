@@ -1,0 +1,23 @@
+Structural unit,Bond length (A),Bond length (A),Bond angle (deg),Bond angle (deg)
+TeO   4,Te -   O   a,1.914,O   a   - Te -   O   a,108.2
+TeO   4,,,O   a   - Te -   O   e,87.9
+TeO   4,Te -   O   e,2.150,O   e   - Te -   O   e,172.9
+TeO   4,,,Te - O - Te,132.6
+,,,,
+O   2   TeO,Te -   O   n,1.818,O   n   - Te -   O   b,107.3
+O   2   TeO,Te -   O   b,2.000,O   b   - Te -   O   b,94.3
+O   2   TeO,Te   '   -   O   b,2.038,Te -   O   b   -   Te   ',135.3
+,,,,
+O   3   Te -   O   -     (L),Te -   O   n,1.832,O   n   - Te -   O   e,175.5
+O   3   Te -   O   -     (L),,,O   n   - Te -   O   a,100.3
+O   3   Te -   O   -     (L),Te -   O   e,2.316,Te -   O   e   -   Te   ',125.3
+O   3   Te -   O   -     (L),Te -   O   a,2.017,Te -   O   a   -   Te   ',141.0
+O   3   Te -   O   -     (L),Te   '   -   O   e,1.857,O   e   - Te -   O   e,97.7
+O   3   Te -   O   -     (L),Te   '   -   O   a,1.997,O   a   - Te -   O   e,82.2
+,,,,
+O   3   Te -   O   -     (S),Te -   O   n,1.814,O   n   - Te -   O   a,97.3
+O   3   Te -   O   -     (S),,,O   n   - Te -   O   e,106.7
+O   3   Te -   O   -     (S),Te -   O   a,2.264,Te -   O   a   -   Te   ',128.8
+O   3   Te -   O   -     (S),Te -   O   e,1.996,Te -   O   e   -   Te   ',125.3
+O   3   Te -   O   -     (S),Te   '   -   O   a,1.893,O   a   - Te -   O   a,164.1
+O   3   Te -   O   -     (S),Te   '   -   O   e,2.019,O   e   - Te -   O   e,84.8

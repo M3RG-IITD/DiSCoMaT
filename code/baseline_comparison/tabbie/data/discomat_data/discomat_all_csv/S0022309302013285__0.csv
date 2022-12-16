@@ -1,0 +1,9 @@
+th (degC),<e>,<n  e >,"<t  e -t inc,2>  (s)",<Dr/r 2>,<n  te >,kh 2,Chief ingredient to the measuring curve
+220,0.102+-0.002,1.62+-0.01,"66,882",0.25,0.63,5x10-5,Crystallisation of a(Al)
+220,0.62+-0.05,0.608+-0.006,1954,0.096,0.43,3x10-9,Relaxation
+220,0.27+-0.05,0.99+-0.03,5096,0.119,0.50,2.7x10-8,Relaxation+Cryst. of a(Al)
+240,0.1,1.4,9481,0.20,0.53,,Crystallisation of a (Al)
+250,0.2,8.2,148,0.11,3.80,,Dominance of GT
+260,0.1,7.3,86.1,0.15,2.76,,Dominance of GT
+275,0.3,4.1,55,0.21,2.15,,GT and crystallisation of a (Al)
+300,0.4,2.8,43,0.24,1.6,,GT and crystallisation of a (Al)

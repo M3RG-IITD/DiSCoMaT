@@ -1,0 +1,19 @@
+Model,N1,N1,N2,N2
+Discrepancies,,,,
+R X-ray,0.094,0.094,0.072,0.072
+R neutron,0.043,0.043,0.049,0.049
+,,,,
+Coordinates of the first peaks of PPCF (nm),Coordinates of the first peaks of PPCF (nm),Coordinates of the first peaks of PPCF (nm),Coordinates of the first peaks of PPCF (nm),Coordinates of the first peaks of PPCF (nm)
+r 1(NiNi),0.246,0.246,0.244,0.244
+r 1(NiLa),0.302,0.302,0.306,0.306
+r 1(LaLa),0.327,0.327,0.353,0.353
+,,,,
+Partial mean coordination numbers and their SD (%),Partial mean coordination numbers and their SD (%),Partial mean coordination numbers and their SD (%),Partial mean coordination numbers and their SD (%),Partial mean coordination numbers and their SD (%)
+Z(NiNi),9.6 (21),9.6 (21),9.9 (20),9.9 (20)
+Z(NiLa),2.4 (56),2.4 (56),2.3 (56),2.3 (56)
+Z(LaNi),12.1 (23),12.1 (23),11.6 (33),11.6 (33)
+Z(LaLa),4.7 (40),4.7 (40),5.6 (48),5.6 (48)
+Type of central atom of VP,Ni,La,Ni,La
+Mean volume of VP (nm3)x(103),13.4,20.5,13.2,21.7
+SD of mean volume of VP (%),10.5,8.4,12.1,11.3
+Mean sphericity parameter of VPs,0.666,0.747,0.680,0.762

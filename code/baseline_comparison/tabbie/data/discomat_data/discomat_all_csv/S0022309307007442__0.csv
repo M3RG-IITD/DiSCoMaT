@@ -1,0 +1,8 @@
+Element,LFSE,LFSE,LFSE,TME,TME,TME,REE,REE,REE,MGE,MGE
+Element,Rb,Cs,Sr,Fe,Zn,Cd,Nd,Eu,In,Sn,Ge
+Material,Rb2CO3,Cs2CO3,SrCO3,Fe2O3,ZnO,CdO,Nd2O3,Eu2O3,In2O3,SnO2,GeO2
+Amount (ppm),500,500,500,1000,500,500,500,500,500,500,500
+Valency,Rb+,Cs+,Sr2+,Fe3+,Zn2+,Cd2+,Nd3+,Eu3+,In3+,Sn4+,Ge4+
+Ion radius (nm),0.147,0.167,0.112,0.064,0.074,0.094,0.0995,0.095,0.081,0.071,0.053
+Valency,,,,Fe2+,,,,Eu2+,,Sn2+,
+Ion radius (nm),,,,0.074,,,,0.109,,0.093,

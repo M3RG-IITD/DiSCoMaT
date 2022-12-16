@@ -1,0 +1,8 @@
+System,Concentration,Concentration,Concentration,Number of atoms,Number of atoms,Number of atoms,Number of atoms,Atoms in box,Box length (A),NBO/T
+System,La2O3,SiO2,Na2O,La,Na,Si,O,Atoms in box,Box length (A),NBO/T
+Na25,0.0,75.0,25.0,,270,405,945,1620,28.147,0.67
+Na3S4,4.0,72.0,24.0,40,240,360,900,1540,27.313,1.00
+Na3S10,10.0,67.5,22.5,100,224,337,936,1597,28.147,1.57
+NaLa4,1.4,77.1,21.6,14,224,401,935,1574,28.000,0.67
+NaLa12,4.4,81.5,14.1,43,141,408,951,1543,27.713,0.67
+SiLa4,1.7,98.3,0.0,364,,234,101,1612,26.678,0.10

@@ -1,0 +1,7 @@
+"Heat treatment (degC, min)",Fluorescence,Fluorescence,Fluorescence,Av. cryst. size
+,l peak (nm) +-1nm,FWHM (nm) +-1nm,t 1/e  (ms) +-0.5ms,t cryst (nm) +-2nm
+as-deposited,1534,50,0.5,-
+"1000degC, 5 min",1535,49,6.0,9
+"1000degC, 20 min",1535,40,5.0,15
+"1050degC, 5 min",1534,42,0.4,15
+"1050degC, 20 min",1534,-,0.8,30

@@ -1,0 +1,8 @@
+Glass,"Cross-section, s (x10-18 cm2/ion)","Cross-section, s (x10-18 cm2/ion)","Cross-section, s (x10-18 cm2/ion)","Cross-section, s (x10-18 cm2/ion)","Extinction coefficient, e (cm-1/(mol/l))","Extinction coefficient, e (cm-1/(mol/l))","Extinction coefficient, e (cm-1/(mol/l))","Extinction coefficient, e (cm-1/(mol/l))",Bandwidth (cm-1),Bandwidth (cm-1),Bandwidth (cm-1),Bandwidth (cm-1)
+Glass,1 T 2g,1 T 1g,3 T 2g,3 T 1g,1 T 2g,1 T 1g,3 T 2g,3 T 1g,1 T 2g,1 T 1g,3 T 2g,3 T 1g
+LG-770,0.94,0.44,0.12,0.09,568,268,70,53,4930,4820,2590,4700
+KMAP,0.59,0.39,0.09,0.05,355,234,52,31,4490,5800,4060,4700
+KAP,2.43,0.46,0.19,0.13,1463,280,116,78,5750,4090,4000,4700
+LHG-8,2.46,0.58,0.19,0.13,1481,348,114,79,5500,4000,3890,4700
+KBAP,1.78,0.45,0.18,0.10,1072,269,105,61,6130,4200,4000,4700
+NAP,1.01,0.54,0.09,0.05,608,325,52,32,5000,5000,4110,3850

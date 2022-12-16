@@ -1,0 +1,6 @@
+Sample,Laser power (W),Irradiation time (s),Bump geometry,b-BBO powder on the glass surface,Crystallization
+SAM01,0.40,300,Dome-shaped,No,No
+SAM02,0.40,300,Dome-shaped,Yes,No
+SAM03,0.47,300,Dome-shaped and dimple,No,No
+SAM04,0.72,300,Dome-shaped and dimple,No,Yes
+SAM05,0.72,300,Dome-shaped,Yes,Yes

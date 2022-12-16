@@ -1,0 +1,6 @@
+Input parameter,Input parameter,Input parameter,"Change of result for d K, d Ca, LMK or LMCa (%)"
+Variable,'True' value,Error,
+x Si1 (x Si2),2.67 (2.96)mm,+-0.03mm,3.3%
+x K1 (x Ca1),1.47 (1.73)mm,+-0.03mm,5.0%
+"I K,bulk (I Ca,bulk)",355 (444) counts,+-1%,5.5%
+"I K,back (I Ca,back)",10 (23) counts,+-10%,0.3%

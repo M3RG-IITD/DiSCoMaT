@@ -1,0 +1,20 @@
+Property,Sample identity  /property value,Sample identity  /property value,Sample identity  /property value,Sample identity  /property value,Sample identity  /property value
+,B2,B3,B4,B5,B6
+Measured properties,Measured properties,Measured properties,Measured properties,Measured properties,Measured properties
+"OH content (ppm), (+-0.4)",125,133,141,150,
+"Density (gcm-3), (+-0.04)",4.7650,4.5560,4.3467,4.0985,3.8658
+,,,,,
+Calculated properties,Calculated properties,Calculated properties,Calculated properties,Calculated properties,Calculated properties
+"Covalent character, % (+-0.03)",48.55,46.50,44.49,42.50,40.55
+"Theoretical optical basicity, L th (+-0.002)",1.072,1.035,0.994,0.950,0.901
+"Optical basicity from refractive index, L(n) (+-0.005)",1.176,1.092,1.059,1.023,0.970
+"Optical basicity from optical band gap, L(E opt) (+-0.005)",1.27,1.26,1.25,1.21,
+"Average molecular weight, M av (gm/mol) (+-0.004)",249.55,228.60,207.64,186.68,165.72
+"Molar volume, V m (cm3/mol) (+-0.01)",52.37,50.17,47.77,45.55,42.87
+"Refractive index, n (+-0.0002)",2.0006,1.9477,1.8925,1.8349,1.7746
+"Molar refraction, R m (cm3/mol) (+-0.005)",26.20,24.19,22.10,20.09,17.89
+"Total molar polarizability, a m (A3) (+-0.007)",10.40,9.60,8.77,7.97,7.10
+"Total molar polarizability of cations, a m (A3)",1.942,1.8006,1.662,1.552,1.382
+"Polarizability of oxide ions,     a     O   2 -       (A3)",3.3832,2.8887,2.7338,2.5792,2.3825
+"Interaction parameter, A(n)A-3 (+-0.004)",0.013,0.029,0.037,0.046,0.059
+Metallization criterion (M) (+-0.001),0.4998,0.5178,0.5376,0.5590,0.5827

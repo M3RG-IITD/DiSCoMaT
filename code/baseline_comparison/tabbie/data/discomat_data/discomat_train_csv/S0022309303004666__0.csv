@@ -1,0 +1,9 @@
+Sample,Inner layer,Inner layer,Outer layer,Outer layer
+Sample,Dimension of Bi,Thickness,Dimension of Bi,Thickness
+G4,-,-,30-35 nm,-
+G5,-,2.1 mm,30-35 nm 22 nm,(0.1-0.5) mm
+G6,<10 nm,4.0 mm,30-35 nm 22 nm,(0.17-0.5) mm
+S2,-,2.0 mm,<8 mm,-
+S3,-,4.3 mm,<10 mm,-
+S4,<8 nm,23 mm,<25 mm,-
+S5,<8 nm,45 mm,<30 mm,-

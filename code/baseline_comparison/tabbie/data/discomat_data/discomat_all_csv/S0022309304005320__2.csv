@@ -1,0 +1,25 @@
+Method,Peak 1 (kJmol-1),Peak 2 (kJmol-1)
+As-quenched samples,As-quenched samples,As-quenched samples
+DSC/isothermal,684,505
+DSC/non-isothermal (Kissinger),237,304
+DSC/non-isothermal (Ozawa),252,322
+"DSC/non-isothermal (modified Kissinger; n =4, m =3)",331,422
+"DSC/non-isothermal (modified Kissinger; n =3, m =3)",247,315
+"DSC/non-isothermal (modified Kissinger; n =3, m =2)",370,473
+"DSC/non-isothermal (modified Kissinger; n =2, m =2)",244,313
+"DSC/non-isothermal (modified Kissinger; n =2, m =1)",488,625
+"DSC/non-isothermal (modified Kissinger; n =1.5, m =0.5)",675,725
+"DSC/non-isothermal (modified Kissinger; n =2.5, m =1.5)",409,526
+DSC/DDSC/non-isothermal (Kissinger),239,302
+DTA (Kissinger),257,309
+,,
+Nucleated samples (2  h at 465 degC),Nucleated samples (2  h at 465 degC),Nucleated samples (2  h at 465 degC)
+DSC/isothermal,600,-
+"DSC/non-isothermal (modified Kissinger; n =4, m =3)",405,-
+"DSC/non-isothermal (modified Kissinger; n =3, m =3)",302,-
+"DSC/non-isothermal (modified Kissinger; n =3, m =2)",454,-
+"DSC/non-isothermal (modified Kissinger; n =2, m =2)",300,-
+"DSC/non-isothermal (modified Kissinger; n =2, m =1)",600,-
+"DSC/non-isothermal (modified Kissinger; n =2.5, m =1.5)",500,-
+DSC/DDSC/non-isothermal (Kissinger),284,-
+"DSC/non-isothermal (modified Kissinger; n =1.5, m =0.5)",888,-

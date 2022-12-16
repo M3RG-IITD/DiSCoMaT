@@ -1,0 +1,9 @@
+Sample code,Nominal glass composition (mol%),Nominal glass composition (mol%),Nominal glass composition (mol%),Pouring temperature (K)
+Sample code,Fe2O3,P2O5,Cs2O,Pouring temperature (K)
+IPG,40,60,0,1423
+IPGC5,38,57,5,1403
+IPGC12,35,53,12,1373
+IPGC18,33,49,18,1353
+IPGC26,30,44,26,1323
+IPGC28,28,43,28,1283
+IPGC35,26,39,35,1263

@@ -1,0 +1,9 @@
+Measurement sequence,Condition,Irradiation temperature,Irradiation temperature,Irradiation temperature
+Measurement sequence,Condition,RT (293K),LT (143K),HT (423K)
+1,Initial,HT-RT,HT-LT,RT-HT
+|,,5.1x1011 cm-2 irradiation,5.1x1011 cm-2 irradiation,5.1x1011 cm-2 irradiation
+2,After 5.1x1011 cm-2,N/A,LT-HT-RT,N/A
+|,,1.1x1016 cm-2 irradiation,1.1x1016 cm-2 irradiation,1.1x1016 cm-2 irradiation
+3,After 1.1x1016 cm-2,RT-LT-HT-RT,LT-HT-LT,HT-RT
+|,,Thermal annealing,Thermal annealing,Thermal annealing
+4,After Annealing,HT-RT,HT-LT,HT-RT

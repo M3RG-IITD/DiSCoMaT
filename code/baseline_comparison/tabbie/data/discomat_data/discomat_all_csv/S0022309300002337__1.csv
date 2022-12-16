@@ -1,0 +1,17 @@
+Sample,1 to 2 M  -coordinated F,1 to 2 M  -coordinated F,1 to 2 M  -coordinated F,3 to 5 Pb-coordinated F,3 to 5 Pb-coordinated F,3 to 5 Pb-coordinated F
+Sample,BE,FWHM,I,BE,FWHM,I
+F10Si30,,,,682.6,1.3,100
+F15Si30,,,,682.7,1.5,100
+F20Si30,,,,682.7,1.4,100
+F30Si30,,,,682.7,1.4,100
+F5Si50,685.8,1.3,12,682.9,1.5,88
+F10Si50,685.7,1.3,11,683.0,1.3,89
+F15Si50,685.7,1.6,11,682.4,1.4,89
+F20Si50,685.9,1.6,11,683.1,1.5,89
+F5Si60,685.8,2.1,25,682.9,1.5,75
+F10Si60,685.9,1.6,26,683.2,1.5,74
+F20Si60,685.7,1.7,17,682.9,1.6,83
+F30Si60,685.6,1.5,19,682.7,1.7,81
+a-PbF2,5 Pb-coordinated,,,683.7,1.3,100
+b-PbF2,4 Pb-coordinated,,,684.5,1.4,100
+SiO2 +3 wt% F,687.1,1.8,100,,,

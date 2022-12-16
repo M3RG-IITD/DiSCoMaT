@@ -1,0 +1,7 @@
+Sample no.,Ph (vol.%),Temperature (degC),Temperature (degC),Temperature (degC),Temperature (degC),Temperature (degC),Temperature (degC),Temperature (degC),Temperature (degC)
+Sample no.,Ph (vol.%),470,470,470,470,480,480,480,480
+Sample no.,Ph (vol.%),log(e 0) (Pas),n,t (s),t*  (s),log(e 0) (Pas),n,t (s),t*  (s)
+Glas 0,0,11.21,1.51,30.58,6.3,-,-,-,1.8
+Glas 1,17,11.40,1.51,68.27,11.7,10.85,1.51,10.36,3.0
+Glas 3,22,11.60,1.48,129.85,15.1,10.98,1.50,15.83,4.0
+Glas 5,27,11.69,1.49,177.06,22.2,11.21,1.44,34.71,6.5

@@ -1,0 +1,10 @@
+Peak position (cm-1),Polarization,Assignment
+63,"HV, VV",Boson peak
+250,VV,ZnO4 bending [8]
+690,"HV, VV",Metaborate groups [4]
+770,"HV, VV","Uncertain [4, 7]"
+800,"HV, VV","Boroxol rings [4, 7]"
+840,VV,"Pyroborate groups [4, 7]"
+950,VV,"Orthoborate groups [4, 7]"
+1280,VV,Pyroborate groups [5]
+1400,"HV, VV","B-O- stretching [4, 6]"

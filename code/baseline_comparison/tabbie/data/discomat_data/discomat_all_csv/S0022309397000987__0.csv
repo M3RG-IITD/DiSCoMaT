@@ -1,0 +1,15 @@
+No.,Description of RAP treatment,Processing temperature (degC),Processing time (h)
+GaF1,SF6+N2 gas mixture,600,19
+,,,
+GaF2,NH4FHF+N2 gas,350+550,3+2
+,,,
+GaF3,HF+N2,350+375,3+5
+,SF6+N2,600,19
+,,,
+GaF4,HF+SF6+N2,400,19
+,,,
+GaF5,HF+SF6+N2,600,3
+,SF6+N2,600,19
+,,,
+GaF6,HF+SF6+N2,600,3
+,SF6+N2,600,19

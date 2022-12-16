@@ -1,0 +1,13 @@
+Property,Value
+Melting point,900+-50degC
+"Glass transition temperature, T g",385degC
+"Crystallization temperature, T p","508degC, (Pb, Cd)F2 phase"
+"Density, r",5.26g/cm3
+"Thermal expansion, a",10.3x10-6 K-1
+"Refractive index, n",1.60 at 650nm
+"Bandgap, E g",3.42+-0.05eV
+Content of dopants,"Eu2O3,YbF3 (1.0mol%)"
+"Eu3+ concentration, N Eu",2.4x1020 cm-3
+"Yb3+ concentration, N Yb",1.2x1020 cm-3
+"Absorption coefficient, a abs","0.8cm-1 (Yb3+, at 960nm)"
+"Absorption coefficient, a abs","2.2cm-1 (Eu3+, at 400nm)"

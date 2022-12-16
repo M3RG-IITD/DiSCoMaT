@@ -1,0 +1,20 @@
+Peak (amu),Mass assignment,Observed (formal) charge
+Negative species,Negative species,Negative species
+60,SiO2,-1 (0)
+76,SiO3,-1 (-2)
+136,Si2O5,-1 (-2)
+180,Si3O6,-1 (0)
+196,Si3O7,-1 (-2)
+240,Si4O8,-1 (0)
+256,Si4O9,-1 (-2)
+284,PbSiO3,-1 (0)
+316,Si5O11,-1 (-2)
+344,PbSi2O5,-1 (0)
+376,Si6O13,-1 (-2)
+404,PbSi3O7,-1 (0)
+,,
+Positive species,Positive species,Positive species
+208,Pb,+1 (+2)
+414,Pb2,+1 (+4)
+430,Pb2O,+1 (+2)
+654,Pb3O2,+1 (+2)

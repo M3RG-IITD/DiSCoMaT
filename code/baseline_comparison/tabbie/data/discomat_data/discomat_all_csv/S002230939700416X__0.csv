@@ -1,0 +1,6 @@
+Schedule,Aging,Drying I,Drying II
+A,70degC/39-72 h,70degC/18 d,120degC/1 d
+B,120degC/20 h,70degC/18 d,120degC/1 d
+C,70degC/39 h,70degC/3 d,120degC/1 d
+,,80degC/4 d,
+,,70degC/12 d,

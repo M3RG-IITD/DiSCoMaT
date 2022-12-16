@@ -1,0 +1,7 @@
+DFT/B3LYP basis set,Silica species,Silica species,Silica species,Silica species,Silica species,Silica species,Silica species
+DFT/B3LYP basis set,Magnetic shielding,29Si s iso (ppm),a% from s ref=338.5ppm,23Na1 s iso (ppm),23Na2 s iso (ppm),23Na3 s iso (ppm),23Na4 s iso (ppm)
+6-311++G,Si(Q4),361.45,6.8,-,-,-,-
+6-311++G,Si(Q3),355.75,5.1,580.35,-,-,-
+6-311++G,Si(Q2),339.70,0.4,571.68,601.04,-,-
+6-311++G,Si(Q1),338.14,0.1,566.64,600.37,598.22,-
+6-311++G,Si(Q0),338.28,0.1,555.39,603.33,600.81,584.74

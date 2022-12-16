@@ -1,0 +1,17 @@
+,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%)
+,SiO2,UBK7,UV-DURAN,BAP,BB,FP10,FP20
+,(100SiO2),(74SiO2,(82SiO2,(74B2O3,(50B2O3,(10Sr(PO3)2,(20Sr(PO3)2
+,,10B2O3,12B2O3,9Al2O3,50Bi2O3),35AlF3,30AlF3
+,,15Na2O/K2O,5Na2O/K2O,17PbO),,30CaF2,22CaF2
+,,1BaO),1Al2O3),,,15SrF2,18SrF2
+,,,,,,10MgF2),10MgF2)
+T m (degC),CVD,1500,1620,1300,1250,1000,1050
+T g (degC),1120,560,530,480,420,440,480
+a (10-7K-1),6,75,33,60,110,160,155
+n e,1.4602,1.5146,1.4733,1.6160,2.065,1.4602,1.5042
+n e,68,64,66,44,19,90,80
+r (g/cm3),2.20,2.53,2.22,3.14,6.63,3.45,3.52
+UV-edge (nm),150,195,175,300,400,160,165
+band gap (eV),8.2,6.3,7.0,4.1,2.0,7.8,7.5
+Dn * (nm),+50,-100,+60,100,45,-120,-190
+~Dn (10-4),+10,-5,+6,,,-10,-50

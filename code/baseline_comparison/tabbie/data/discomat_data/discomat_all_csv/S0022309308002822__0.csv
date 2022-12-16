@@ -1,0 +1,8 @@
+Bond,Bond energy (kcal/mol),Relative probability at the following temperatures (degC),Relative probability at the following temperatures (degC)
+Bond,Bond energy (kcal/mol),27,1000
+Ge-Se,49.1,1,1
+Se-Se,44.0,1.93x10-4,1.33x10-1
+Se-Te,40.6,6.50x10-7,3.47x10-2
+Ge-Ge,37.6,4.26x10-9,1.06x10-2
+Ge-Te,37.4,3.05x10-9,9.81x10-3
+Te-Te,33.0,1.91x10-12,1.72x10-3

@@ -1,0 +1,16 @@
+Sample,Composition,Composition,Composition,Composition,Water durability,Appearance after exposure to air for 180 days
+Sample,P2O5,PbF2,PbBr2,PbO,Water durability,Appearance after exposure to air for 180 days
+A11,40,30,30,0,D,"Powder, opaque"
+A12,40,24,36,0,C,Translucent
+A13,40,18,42,0,D,"Powder, opaque"
+A14,40,12,48,0,B,Translucent
+A15,40,10,50,0,A,"Transparent, no visible change"
+A38,60,40,0,0,D,"Powder, opaque"
+A48,27,18,45,10,A,"Transparent, no visible change"
+A52,36,18,36,10,A,"Transparent, no visible change"
+A54,36,0,54,10,A,"Transparent, no visible change"
+A55,45,18,27,10,A,"Transparent, no visible change"
+A56,45,27,18,10,A,"Transparent, no visible change"
+A58,54,27,9,10,A,"Transparent, no visible change"
+A142,70,0,0,30,D,"Powder, opaque"
+Note: A: very good; B: fair; C: poor; D: very poor.,Note: A: very good; B: fair; C: poor; D: very poor.,Note: A: very good; B: fair; C: poor; D: very poor.,Note: A: very good; B: fair; C: poor; D: very poor.,Note: A: very good; B: fair; C: poor; D: very poor.,Note: A: very good; B: fair; C: poor; D: very poor.,Note: A: very good; B: fair; C: poor; D: very poor.

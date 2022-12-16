@@ -1,0 +1,7 @@
+Etch result,DC bias (V),DC bias (V),DC bias (V)
+Etch result,Region I,Region II,Region III
+Etch result,(Small (<80)),(Medium (80-200)),(Large (>200))
+Plasma-induced surface damage,Not observed,Observed (DC bias),Not observed
+Etch profile,Slightly isotropic etching,Vertical,Vertical
+Etch rate (nm/min),200-320,300-450,450-600
+Selectivity of BPSG to chrome etch mask,>60,60-20,<20

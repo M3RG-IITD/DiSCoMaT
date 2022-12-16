@@ -1,0 +1,11 @@
+Defect,Type,EPR-parameter,EPR-parameter,Optical absorption,Optical absorption,Optical absorption,Structure [28]
+Defect,Type,A iso    (mT),g-value,l (nm),E (eV),W (eV),Structure [28]
+POHC,HC,4.0+-0.3,2.008+-0.003,540+-5,2.30+-0.02,0.44+-0.02,
+,,,,430+-10,2.88+-0.06,1.16+-0.08,
+,,,,300+-7,4.13+-0.08,1.38+-0.07,
+,,,,,,,
+PO3,EC,86+-2,2.064+-0.005,210+-3,5.90+-0.06,1.55+-0.07,
+,,,,,,,
+PO4,EC,126+-3,2.142+-0.008,242+-3,5.12+-0.06,1.42+-0.09,
+,,,,,,,
+PO2,EC? HC?,27+-2,2.006+-0.003,266+-5,4.66+-0.08,1.35+-0.12,

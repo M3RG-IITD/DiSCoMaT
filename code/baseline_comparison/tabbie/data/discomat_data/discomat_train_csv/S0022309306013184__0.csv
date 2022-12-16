@@ -1,0 +1,9 @@
+Sample,Composition,Composition,Composition,Density in g/cm3,Linear refractive indices at,Linear refractive indices at,Linear refractive indices at,Linear refractive indices at,Linear refractive indices at,Linear refractive indices at,Abbe number u d
+TeO2,Bi2O3,ZnO,643.8nm,Density in g/cm3,589.3nm,546.06nm,479.98nm,435.8nm,Error,Abbe number u d,
+TeO2,Bi2O3,ZnO,C',Density in g/cm3,D,e,F',g,,Abbe number u d,
+A,80,5,15,5.870,2.1387,2.1543,2.1698,2.2064,2.2452,+-0.0002,17.05
+B,75,5,20,5.898,2.1209,2.136,2.151,2.1861,2.2234,+-0.0002,17.4
+C,70,5,25,5.951,2.103,2.118,2.132,2.165,2.201,+-0.001,18.03
+D,75,10,15,6.090,2.161,2.178,2.195,2.234,2.275,+-0.001,16.12
+E,70,10,20,6.160,2.1452,2.1612,2.1773,2.2149,2.2554,+-0.0002,16.7
+F,70,10,25,6.267,2.1284,2.144,2.1596,2.196,2.235,+-0.001,16.9

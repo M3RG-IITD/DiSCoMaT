@@ -1,0 +1,15 @@
+Sample,d iso (ppm),CQ (MHz),Dcs (ppm),%,Na+ ionic site
+Si-Na,5.1,1.0,20,9,Site 1
+,1.9,3.1,20,91,Site 2
+Si-Na-K,6.1,1.4,15,2,Site 1
+,8.7,3.0,15,98,Site 2
+Si-Na-Li,-2.7,1.6,15,9,Site 1
+,-2.9,2.9,15,91,Site 2
+Si-Ca-Na,5.4,2.8,17,100,Site 2
+Si-Ca-Na-K,10.7,2.99,17,100,Site 2
+Si-Ca-Na-Li,5.7,2.9,17,100,Site 2
+45S5-Na,6.0,1.4,20,36,Site 1
+,6.8,2.6,20,62,Site 2
+,6.6,1.2,1,2,Site 3
+45S5-Na-Li,3.3,1.4,20,37,Site 1
+,2.8,2.6,20,63,Site 2

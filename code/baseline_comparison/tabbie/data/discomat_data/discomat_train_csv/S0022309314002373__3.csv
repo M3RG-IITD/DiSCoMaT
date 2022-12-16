@@ -1,0 +1,31 @@
+Species,M,MO,Field strength,CN,(PO2)sym,(POP)sym,I  POP    I   PO 2,Reference
+Species,M,(A),Valence/A2,CN,cm-1,cm-1,I  POP    I   PO 2,Reference
+Alkali (1+),Li,2.01,0.25,3.9 (5),1175,699,0.56,"[33,34,57-60]"
+Alkali (1+),Na,2.46,0.17,5.0 (4),1166,681,0.42,"[33,34,59,61-63]"
+Alkali (1+),K,2.86,0.12,3.7 (7),1156,678,0.22,"[33,34,63]"
+Alkali (1+),Rb,2.90,0.12,5.0 (5),1151,667,-,"[33,56,57,59]"
+Alkali (1+),Cs,3.09,0.10,-,1149,658,0.17,"[33,34]"
+Transition and post- transition (1+),Cu,1.85,0.29,-,1180,703,1.00,"[47,64]"
+Transition and post- transition (1+),Ag,2.49,0.16,3.4 (3),1146,680,0.37,"[34,60,65]"
+Transition and post- transition (1+),Tl,2.80,0.13,-,1137,-,0.12,[34]
+Alkaline earth (2+),Mg,2.05,0.48,4.0 (3),1210,708,0.50,"[34,66-69]"
+Alkaline earth (2+),Ca,2.39,0.35,5.3 (2),1179,694,0.43,"[34,55,66,69,70]"
+Alkaline earth (2+),Sr,2.53,0.31,6.0 (2),1172,686,0.39,"[34,71,63]"
+Alkaline earth (2+),Ba,2.75,0.26,8.0 (5),1158,689,0.32,"[34,62,66,63]"
+Transition and post-transition (2+),Cu,1.95,0.53,-,1188,714,0.75,"[47,64]"
+Transition and post-transition (2+),Zn,1.98,0.51,4.1 (2),1207,703,0.48,"[34,46,64,68,69,72]"
+Transition and post-transition (2+),Fe,2.16,0.43,6.1 (5),1170,683,0.55,"[10,11]"
+Transition and post-transition (2+),Mn,2.20,0.41,5.7 (4),1181,694,0.43,"[34,71,73]"
+Transition and post-transition (2+),Cd,2.30,0.38,-,1173,700,0.50,"[34,74]"
+Transition and post-transition (2+),Hg,2.50,0.32,-,1155,-,0.48,[34]
+Transition and post-transition (2+),Pb,2.55,0.31,5.0 (4),1153,700,0.28,"[34,65,68,75,76]"
+Rare-earth (3+),La,2.43,0.51,6.4 (6),1179,696,0.45,"[34,62,66,77]"
+Rare-earth (3+),Ce,2.39,0.53,5.3 (5),1182,669,0.38,"[34,77-79]"
+Rare-earth (3+),Pr,2.37,0.53,6.4 (6),1186,696,0.43,"[34,77,80,81]"
+Rare-earth (3+),Sm,2.35,0.54,6.8 (7),1191,703,0.31,"[62,77,82]"
+Rare-earth (3+),Eu,2.32,0.56,6.1 (6),1193,708,0.37,"[34,77,80,83]"
+Rare-earth (3+),Gd,2.29,0.57,6.2 (6),1194,703,0.32,"[34,53,77,84]"
+Transition and post-transition (3+),Al,1.82,0.91,6.0 (2),1222,715,0.56,"[34,43,67,85]"
+Transition and post-transition (3+),Ga,1.93,0.81,6.0 (2),1210,715,-,"[49,86]"
+Transition and post-transition (3+),Fe,1.99,0.76,6.1 (5),1184,720,0.12,"[10,11]"
+Transition and post-transition (3+),Bi,2.34,0.55,-,1142,-,0.22,[34]

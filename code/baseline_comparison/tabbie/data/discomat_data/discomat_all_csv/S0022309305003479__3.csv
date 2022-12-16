@@ -1,0 +1,4 @@
+,Intra-configuration (first-order),Inter-configuration (second-order)
+Electrostatic (Coulomb type),"H 1: F 2, F 4, F 6","H 3: a, b, g"
+Magnetic (spin-orbit type),H 2: s,"H 5: P 2, P 4, P 6"
+Magnetic (spin-orbit type),"H 4: M 0, M 2, M 4","H 5: P 2, P 4, P 6"

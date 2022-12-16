@@ -1,0 +1,16 @@
+Oscillator no.,Oscillator parameters,Oscillator parameters,Oscillator parameters,Oscillator parameters
+Oscillator no.,"For the fit with two low-frequency oscillators, 70-1300 cm-1 range, Q=2.0x10-3","For the fit with two low-frequency oscillators, 70-1300 cm-1 range, Q=2.0x10-3","For the fit with the effective low-frequency oscillator, 300-1300 cm-1 range, Q=2.1x10-3","For the fit with the effective low-frequency oscillator, 300-1300 cm-1 range, Q=2.1x10-3"
+Oscillator no.,"o  j , cm-1",De 0j,"o  j , cm-1",De 0j
+Effective,-,-,190.45,2.40
+1,101.52,2.90,-,-
+2,196.56,1.73,-,-
+3,311.20,6.30x10-1,313.28,6.57x10-1
+4,550.80,3.62x10-1,551.65,3.67x10-1
+5,637.46,4.67x10-2,641.95,4.52x10-2
+6,750.49,1.56x10-2,752.89,1.55x10-2
+7,937.38,1.28x10-1,938.67,1.24x10-1
+8,1003.53,1.46x10-1,1003.69,1.46x10-1
+9,1033.17,1.54x10-2,1033.46,1.51x10-2
+10,1094.65,1.68x10-1,1091.20,1.69x10-1
+11,1160.48,5.49x10-2,1159.19,5.61x10-2
+12,1204.55,4.19x10-2,1203.94,4.23x10-2

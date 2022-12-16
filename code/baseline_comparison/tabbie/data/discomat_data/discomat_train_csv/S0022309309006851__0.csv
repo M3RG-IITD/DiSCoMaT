@@ -1,0 +1,11 @@
+Glass code,Batched composition (mol%),Batched composition (mol%),Batched composition (mol%),Batched composition (mol%),Batched composition (mol%),Batched composition (mol%),T g (degC),r (mgm-3),R a (nm)
+Glass code,SiO2,CaO,Na2O,K2O,MgO,BaO,T g (degC),r (mgm-3),R a (nm)
+SLS1,75,10,15,-,-,-,557,2.48,1.142
+SLS2,65,15,20,-,-,-,556,2.58,0.866
+SLSM1,75,7.5,15,-,2.5,-,538,2.45,1.389
+SLSM2,75,2.5,15,-,7.5,-,526,2.43,1.094
+SLSP1,65,15,8,12,-,-,557,2.56,1.164
+SLSP2,65,15,-,20,-,-,539,2.54,1.346
+SKMB1,70,-,-,20,-,10,525,2.77,1.985
+SKMB2,70,-,-,20,6.25,3.75,538,2.55,1.980
+SS,66.7,-,33.3,-,-,-,480,2.49,1.500

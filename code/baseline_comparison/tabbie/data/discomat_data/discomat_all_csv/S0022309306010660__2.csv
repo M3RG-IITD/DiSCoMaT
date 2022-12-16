@@ -1,0 +1,6 @@
+Model8,Model8,log         Ce   3 +       Ce   4 +        = - 0.5 - 0.25 log   f     O   2,log        Ce   3 +       Ce   4 +        = - 0.1 - 0.25 log   f     O   2,
+Temperature (K),Temperature (K),1358,1423,
+L,L,0.62,0.56,
+f     O   2,f     O   2,0.21atm.,0.21atm.,
+Predicted       Ce   3 +       Ce   ( total ),Model8,32%,54%,
+,This work,37%+-3%,56%+-3%,

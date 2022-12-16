@@ -1,0 +1,6 @@
+Test number,Test temperature (K),Calculated viscosity/1010 (Pas),Measured crystalline volume fraction,Estimated crystalline volume fraction
+1,624,180,0.017,0
+2,644,75,0.03,0
+3,674,6.7,0.19,0.15
+4,704,25,0.60,0.60
+5,734,116,0.93,1.00

@@ -1,0 +1,5 @@
+Samples,T    g   (K),T    x   (K),Peak temperature (K),Peak temperature (K),Peak temperature (K),Energies (kJmol  -1  ),Energies (kJmol  -1  ),Energies (kJmol  -1  )
+,,,T    p  1,T    p  2,T    p  3,E   1,E   2,E   3
+TL,526,584,604,610,614,265+-9,276+-5,285+-8
+TLW5,548,621,636,638,-,242+-1,243+-1,-
+TLW10,570,639,657,663,-,269+-3,302+-3,-

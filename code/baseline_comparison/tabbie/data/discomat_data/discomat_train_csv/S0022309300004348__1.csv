@@ -1,0 +1,13 @@
+,1000 ppm chlorine,500 ppm chlorine,<50 ppm chlorine
+Results of 350degC heat-treatment,Results of 350degC heat-treatment,Results of 350degC heat-treatment,Results of 350degC heat-treatment
+C I (ppm),0,0,433
+C s ' (ppm),1405,1417,1048
+C s (ppm),1405+-176,1417+-166,1481+-183
+Corrected C s (ppm),1405+-176,1530+-166,1771+-183
+D (cm/s) b,1.7x10-12+-4.5x10-13,1.8x10-12+-4.3x10-13,1.5x10-12+-5.6x10-13
+,,,
+Results of 825degC heat-treatment,Results of 825degC heat-treatment,Results of 825degC heat-treatment,Results of 825degC heat-treatment
+C I (ppm),0,0,433
+C s ' (ppm),586,597,189
+C s (1/cm),586+-63,597+-59,622+-75
+D (cm/s) a,1.6x10-10+-3.7x10-11,1.6x10-10+-3.2x10-11,2.4x10-10+-1.1x10-10

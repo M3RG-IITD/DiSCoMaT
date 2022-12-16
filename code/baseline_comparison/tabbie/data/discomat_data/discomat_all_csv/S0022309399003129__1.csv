@@ -1,0 +1,12 @@
+,PT,ST
+Density (g cm-3),2.23,2.25
+CTE (10-7degC-1),33,27.7
+,,
+Viscosity (Pa s) [poise],Temp (degC),Temp (degC)
+Strain point: 1013.5 [1014.5],525,524
+Annealing point: 1012 [1013],574,579
+Softening point: 106.6 [107.6],817,839
+105 [106],957,1006
+104 [105],1078,1151
+103 [104],1255,1352
+102 [103],1510,1649

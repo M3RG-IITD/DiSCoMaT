@@ -1,0 +1,12 @@
+Crystallization,Crystallization,Crystallization,Crystallization,Crystallization,Crystallization,Crystallization
+th (degC)-1,HT,<e>,<ne >,t (s-1),<Dr/r 0>,"<E ISO,  e >  (eV-1)"
+190,ISO,0.13,3.24,79272,0.25,2.01
+200,ISOs,0.64,3.58,20811,0.26,2.03
+210,ISOs,0.12,3.75,3793,0.28,2.00
+230,ISOs,0.23,1.90,756,0.24,2.02
+250,ISOs,0.32,2.30,105,0.25,2.01
+270,ISOs,0.10,2.87,87,0.16,2.08
+280,ISOs,0.13,5.70,53,0.18,2.1
+190,PH,0.14,3.23,79272,0.26,2.04
+200,PH,0.39,3.39,28463,0.14,2.05
+210,PH,0.14,5.74,10236,0.20,2.05

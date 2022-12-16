@@ -1,0 +1,20 @@
+Sample type,C5B5,C5B5,C5B5,C5B5,C5B5,C4B6,C4B6,C6B4
+15min at: (degC),1100,1100,1100,1100,1050,1050,1100,1050
+Heating rate (degC/min),10,20,40,DF,DF,DF,DF,DF
+WAB (wt.%),<0.2,<0.2,0.3,>100,93,24,78,42
+,,,,,,,,
+Density (g/cm3),Density (g/cm3),Density (g/cm3),Density (g/cm3),Density (g/cm3),Density (g/cm3),Density (g/cm3),Density (g/cm3),Density (g/cm3)
+Bulk [rb],1.27+-0.08,1.03+-0.05,1.05+-0.03,0.37+-0.02,0.53+-0.08,0.88+-0.09,0.51+-0.05,0.44+-0.01
+Apparent [ra],1.38+-0.01,1.15+-0.01,1.18+-0.01,1.70+-0.05,1.49+-0.07,1.80+-0.03,1.39+-0.04,0.79+-0.04
+True [rt],2.70+-0.01,2.69+-0.01,2.69+-0.01,2.69+-0.01,2.69+-0.01,2.68+-0.01,2.68+-0.01,2.62+-0.01
+,,,,,,,,
+Porosity (%),Porosity (%),Porosity (%),Porosity (%),Porosity (%),Porosity (%),Porosity (%),Porosity (%),Porosity (%)
+Total porosity [TP],53+-3 [44],62+-2 [53],61+-1 [53],86+-1 [73],80+-3,67+-3,81+-2,83+-1
+Open porosity [OP],8+-6 [1],10+-4 [3],11+-3 [7],78+-1 [72],65+-6,51+-5,63+-4,44+-3
+Closed porosity [CP],45+-6 [43],52+-5 [50],50+-3 [46],8+-1 [1],16+-6,16+-6,18+-4,39+-4
+,,,,,,,,
+Elastic modulus (GPa)*,26.9+-0.5,19+-2,18.8+-0.6,-,-,-,-,-
+,,,,,,,,
+Strength (MPa),Strength (MPa),Strength (MPa),Strength (MPa),Strength (MPa),Strength (MPa),Strength (MPa),Strength (MPa),Strength (MPa)
+Bending strength [sflex]*,17+-4,11+-1,13+-2,-,-,-,-,-
+Crushing strength [scr],50+-10,22+-7,18+-6,2.5+-0.7,5+-2,15+-7,4+-1,2+-1

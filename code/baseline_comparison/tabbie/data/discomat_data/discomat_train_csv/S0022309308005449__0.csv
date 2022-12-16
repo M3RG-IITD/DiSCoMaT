@@ -1,0 +1,34 @@
+No.,Composition of the initial glass Li2O*Al2O3 *SiO2,Composition of the initial glass Li2O*Al2O3 *SiO2,"Heat-treatment schedule, T (degC), t (h)","Heat-treatment schedule, T (degC), t (h)",Position of the bands in Raman spectra (cm-1),Position of the bands in Raman spectra (cm-1),"SiO2 content in b-quartz ss, rel. units","SiO2 content in b-quartz ss, rel. units","SiO2 content in b-quartz ss, rel. units"
+Li2O*Al2O3 *SiO2,Nucleator mol%,n 1 +-(1.5-2.0)cm-1,n 2 +-(1.5-2.0)cm-1,"Heat-treatment schedule, T (degC), t (h)",Calculation,Roman spectra,Roman spectra,,
+Li2O*Al2O3 *SiO2,Nucleator mol%,n 1 +-(1.5-2.0)cm-1,n 2 +-(1.5-2.0)cm-1,"Heat-treatment schedule, T (degC), t (h)","From n 1, Fig. 2(a)+-(3-4) mol%",Calculation,"From n 2, Fig. 2(b)+-(0.7-1.0)mol%",,
+1,2,3,4,4,5,6,7,8,9
+I,12*15*73,4TiO2,Two stages   and 800degC for 12h,Two stages   and 800degC for 12h,485,1108,57.0,75.0,75.0
+7TiO2,12*15*73,Two stages   and 800degC for 12h,Two stages   and 800degC for 12h,485,1109,57.0,75.5,75.0,
+7TiO2,12*15*73,485,Two stages   and 820degC for 24h,Two stages   and 820degC for 24h,1108,57.0,75.0,75.0,
+3.5ZrO2,775degC for,34h,484,1100,58.5,72.0,,,
+3.5ZrO2,775degC for,98h,482,1106,62.5,74.0,,,
+3.5ZrO2,775degC for,147h,481,1107,64.5,74.5,,,
+3.5ZrO2,12*15*73,775degC for 50h and 825degC for,7h,482,1108,62.5,75.0,75.0,
+3.5ZrO2,12*15*73,750degC for,170h,485,1106,57.0,74.0,,
+3.5ZrO2,12*15*73,,470h,481,1107,64.5,74.5,,
+3.5ZrO2,12*15*73,,636h,482,1108,62.5,75.0,75.0,
+2TiO2 +2ZrO2,12*15*73,700degC for 1151h,700degC for 1151h,485,1099,57.0,72.0,,
+2TiO2 +2ZrO2,12*15*73,483,Two stages   and 830degC for 12h,Two stages   and 830degC for 12h,1108,60.5,75.0,75.0,
+,,,,,,,,,
+II,12*20*68,7TiO2,Two stages   and 820degC for 24 h,Two stages   and 820degC for 24 h,490,1107,50.0,74.5,74.0
+II,12*20*68,9TiO2,Two stages   and 800degC for 12h,Two stages   and 800degC for 12h,489,1107,50.0,74.5,74.0
+,,,,,,,,,
+III,12*24*64,7TiO2,Two stages   and 800degC for 12h,Two stages   and 800degC for 12h,488,1105,51.0,74.0,73.0
+III,12*24*64,7TiO2,Two stages   and 820degC for 24h,Two stages   and 820degC for 24h,488,1106,51.0,74.5,73.0
+III,12*24*64,7TiO2,Two stages   and 820degC for 120h,Two stages   and 820degC for 120h,487,1106,53.0,74.5,73.0
+,,,,,,,,,
+IV,18*27*55,6TiO2,660degC for 2h and 750degC for 15h,660degC for 2h and 750degC for 15h,483,1080,60.5,64.5,60.5
+IV,18*27*55,6TiO2,660degC for 2 h and 850degC for 6 h,660degC for 2 h and 850degC for 6 h,482,1080,60.5,65.0,60.5
+,,,,,,,,,
+V,22.4*33.5*44.1,4.5TiO2,660degC for 2h and 850degC for 6h,660degC for 2h and 850degC for 6h,482,1065,62.5,59.0,50.0
+,,,,,,,,,
+VI,12.5*12.5*75,4TiO2,740degC for 6h and 775degC for,30min,475,1070,75.0,61.0,
+VI,12.5*12.5*75,4TiO2,740degC for 6h and 775degC for,45min,475,1090,75.0,68.5,
+VI,12.5*12.5*75,4TiO2,740degC for 6h and 775degC for,60min,475,1105,75.0,74.0,
+VI,12.5*12.5*75,4TiO2,740degC for 6h and 775degC for,160min,475,1110,75.0,76.0,75.0
+VI,12.5*12.5*75,4TiO2,740degC for 6h and 775degC for,300min,475,1110,75.0,76.0,75.0

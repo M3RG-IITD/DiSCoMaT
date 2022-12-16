@@ -1,0 +1,10 @@
+Sample,"Heat-treatment time, t (h)",From uptake,From uptake,From profile,From profile
+Sample,"Heat-treatment time, t (h)",C s(OH) (moles of H2O/l of SiO2),D eff(OH) (cm2/s),C s(OH) (moles of H2O/l of SiO2),D eff(OH) (cm2/s)
+A,24,0.25,7.8x10-12,,
+B,72,0.41,3.8x10-12,,
+B',72,0.42,3.8x10-12,0.43,4.5x10-12
+C,144,0.45,3.9x10-12,,
+C',144,0.46,3.7x10-12,0.47,4.3x10-12
+D,336,0.54,3.3x10-12,0.55,3.9x10-12
+D',336,0.56,3.1x10-12,0.57,2.8x10-12
+E,576,0.64,2.7x10-12,,

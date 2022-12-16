@@ -1,0 +1,31 @@
+Glass type,Devitrification temperature (degC),Additional heat treatment,Vickers hardness (MPa),Standard deviation of hardness (MPa),Major phases,CTE (x106/degC)
+S,950,As devitrified,5364,201,LS2,12.0
+S,950,10 cycles to 800 degC,5763,143,LS2,
+S,950,16 days at 700 degC,5708,92,LS2,
+S,950,16 days at 800 degC,5950,96,LS2,
+S,1000,As devitrified,4464,546,LS>CR,14.3
+S,1000,10 cycles to 800 degC,4406,528,LS>CR,
+S,1000,16 days at 700 degC,4158,312,LS>CR,
+S,1000,16 days at 800 degC,4535,348,LS2>LS>CR>QZ,
+BPS,950,As devitrified,5786,148,LS2,12.5
+BPS,950,10 cycles to 700 degC,5757,206,LS2,10.6
+BPS,950,10 cycles to 800 degC,5879,110,LS2,11.0
+BPS,950,4 days at 700 degC,5981,157,LS2,11.8
+BPS,950,8 days at 700 degC,5767,95,LS2,11.1
+BPS,950,12 days at 700 degC,5987,94,SiO2 >LS2>CR,11.3
+BPS,950,16 days at 700 degC,5548,259,SiO2 >LS2>CR,11.4
+BPS,950,4 days at 800 degC,5950,270,LS2,11.7
+BPS,950,8 days at 800 degC,5946,148,LS2,11.8
+BPS,950,12 days at 800 degC,5816,214,LS2,12.0
+BPS,950,16 days at 800 degC,5984,229,LS2,12.0
+BPS,1000,As devitrified,4369,312,LS>CR,18.3
+BPS,1000,10 cycles to 700 degC,4088,202,LS>CR,16.6
+BPS,1000,10 cycles to 800 degC,4637,297,LS>CR,
+BPS,1000,4 days at 700 degC,4789,500,LS>CR,17.7
+BPS,1000,8 days at 700 degC,4871,307,LS>CR,16.9
+BPS,1000,12 days at 700 degC,4122,288,SiO2 >LS>CR,17.6
+BPS,1000,16 days at 700 degC,5119,964,SiO2 >LS>CR,15.0
+BPS,1000,4 days at 800 degC,3386,361,LS>CR,16.8
+BPS,1000,8 days at 800 degC,5104,920,QZ>LS>LS2,16.4
+BPS,1000,12 days at 800 degC,4519,927,QZ>LS2>LS,12.2
+BPS,1000,16 days at 800 degC,5574,280,QZ>LS2>LS,11.4

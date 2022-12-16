@@ -1,0 +1,3 @@
+,T g (degC),T  x1 (degC),DH  x1 (kJmol-1),T  x2 (degC),DH  x2 (kJmol-1),T ms (degC),T liq (degC)
+DTA,442+-1,655+-1,-,720+-1,-,832+-2,951+-1
+DSC,442+-1,652+-1,213+-3,720+-1,40+-2,-,-

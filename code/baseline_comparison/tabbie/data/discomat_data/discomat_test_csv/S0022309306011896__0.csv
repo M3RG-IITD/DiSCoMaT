@@ -1,0 +1,5 @@
+Temperature (degC),Time (h),Time (h),Time (h),Time (h),Time (h),Time (h)
+Temperature (degC),1,3,6,12,24,48
+300,-,-,-,Pale yellow,Yellow,Yellow
+320,-,-,Pale yellow,Pale yellow,Yellow,Amber
+350,Pale yellow,Yellow,Yellow,Amber,Amber,Amber

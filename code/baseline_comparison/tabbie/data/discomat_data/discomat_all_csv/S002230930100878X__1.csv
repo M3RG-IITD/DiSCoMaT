@@ -1,0 +1,36 @@
+Reported position (cm-1),Assignments,Observed position (cm-1)
+Borate environments with and without rare earth doping,Borate environments with and without rare earth doping,Borate environments with and without rare earth doping
+300,"Ln (La, Nd, Sm, Pr)-O stretch (Ln-O-Ln clusters )",
+450-570,"B-O-B stretch, BO4 units",569-573
+480-500,"Al-O- or Al-O-B, aluminate network",499-482
+600-650,"B-O-B, ring metaborate units",632-641
+700-730,"B-O-B, chain metaborate units",709-715
+700-720,"Al-O- or Al-O-B, aluminate network",
+750-780,"B-O-B, rings with BO4 units",(773-791)
+820-850,"B-O-B, pyroborate units",
+890-940,"B-O-, orthoborate units",
+900-1000,"B-O-B, BO4 units",
+960-980,"Al[4]-O-B[3], aluminoborate network",
+1075-1150,"B-O- and B-O-B, diborate units",
+1200-1300,"B-O-, pyroborate units",
+1300-1600,"B-O-, chain and ring metaborate units",1412-1428
+,,
+Silicate environments with and without rare earth doping,Silicate environments with and without rare earth doping,Silicate environments with and without rare earth doping
+222-230,,N/A
+304-312,"Ln(La, Nd, Gd)-O stretch (Ln-O-Ln clusters)",307-309
+,,379
+430-440,Q4 units,442-460
+524-530,Q3 units,
+592-612,Q2 units,
+600,Q3 units mixed bending and stretching with Q4,
+640,Q2 units mixed bending and stretching with Q4,
+670,Q1 units mixed bending and stretching with Q4,
+700,Q1 units,680-683
+760-782,SiO4 cage,(773-791)
+850,Q0 units,
+900,Q1 units,
+940-950,"Q2 units with Ln (La, Gd)",938-948
+950-1000,Q2 units,
+1000-1030,"Q3 units with Ln (La, Gd)",1016-1033
+1050-1100,Q3 units,1058-1076
+"1200, 1150",Q4 units,1148

@@ -1,0 +1,8 @@
+Phase,Crystalline system,Space group,"a, b, c (A), b (deg)",Ref.
+Li2Si2O5 (LS2),Monoclinic,Cc,"5.82, 14.66, 4.79, 90.08",Liebau [34]
+Li2Si2O5 (LS2),Orthorhombic,Ccc2,"5.81, 14.58, 4.77",De Jong et al. [35]
+Li2Si2O5 (LS2),Monoclinic,-,"5.73, 14.64, 4.79",Deubener et al. [25]
+Li2Si2O5* (LS2*),Orthorhombic,Pbcn,"5.68, 4.78, 14.65",Smith et al. [36]
+Li2SiO3 (LS),Orthorhombic,Cmc21,"9.39, 5.4, 4.66",Hesse [37]
+Li4SiO4 (LS4),Monoclinic,P21/m,"5.14, 6.1, 5.3, 90.5",Vollenkl et al. [38]
+Li4H2Si2O7,Tetragonal,P-421m,"7.6, 7.6, 5.1",Vollenkl et al. [39]

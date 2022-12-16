@@ -1,0 +1,8 @@
+Nozzle diameter,6mm
+Power,600Ax72V=43.20kW
+Spraying distance,115mm
+Number of passes,3 pre-heating; 27 spraying
+Carrier gas type and flow rate,Ar 3 slpm
+Plasma gas composition and flow rates,Ar 50 slpm; H2 14 slpm
+Cooling system,Ar at 7.5bar through two nozzles
+Substrate temperature during deposition,353-413K

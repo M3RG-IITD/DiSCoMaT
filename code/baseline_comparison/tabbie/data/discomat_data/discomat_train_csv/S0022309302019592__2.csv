@@ -1,0 +1,12 @@
+Time,Heat treatment 1125 degC,Heat treatment 1150 degC,Heat treatment 1175 degC,Heat treatment 1200 degC
+1 h,1 h,1 h,1 h,1 h
+Surface,"SK, SC, WB","SK, SC, WMa","SK, SC, WB, WMa, WSp","SK, SC, WB, WMa, WSp"
+Bulk,"WMa, SK, MC, WM","SK, SC","SK, WSp","SK, MC, MSp"
+,,,,
+3 h,3 h,3 h,3 h,3 h
+Surface,(Sample broke),"SK, SC, WB","SK, SC, WB, WMa, WSp",(Sample melted)
+Bulk,(Sample broke),WMa (Sample broke),"SK, SC, MSp","SK, MC, MSp"
+,,,,
+5 h,5 h,5 h,5 h,5 h
+Surface,(Sample broke),None,None,None
+Bulk,(Sample broke),None,None,None

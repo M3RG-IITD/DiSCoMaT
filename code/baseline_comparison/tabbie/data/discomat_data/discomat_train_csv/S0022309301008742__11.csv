@@ -1,0 +1,9 @@
+Set,Model validity region,Used in model fit,Validation glasses,Number of glasses,Range of residuals (degC),Comments
+1,In,Yes,No,140,0-60,75%<30 degC
+2,Out,Yes,No,18,2-69,80%<46 degC
+3,Out,No,Yes,4,33-89,
+4,In,No,No,5,82-141,Outliers
+5,In,No,Yes,10,7-85,80%<50 degC
+6,Out,No,No,7,77-253,
+,,,,,,
+Total,,,,184,0-253,

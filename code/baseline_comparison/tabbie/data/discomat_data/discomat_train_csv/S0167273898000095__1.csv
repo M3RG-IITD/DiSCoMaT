@@ -1,0 +1,21 @@
+Sample,MoO4 2-,MoO4 2-,MoO4 2-,MoO4 2-,AgI,Reference
+,n 1,n 3,n 4,n 2,,
+Ag2MoO4,874,764,347,280,,this work
+crystal,889,840,350,280,,[20]
+,869,757,347,273,,[47]
+Na2MoO4,893,810,381,305,,this work
+crystal,897,810,387,307,,[19]
+,891,807,381,303,,[48]
+,892,808,381,303,,[49]
+42 mol% Na2MoO4,887,829,,323,,[50]
+molten salt,,,,,,
+"(in KCl, at 550degC)",,,,,,
+Na2MoO4 soln.,894,841,,318,,this work
+"(in H2O, pH=11)",897,841,,318,,[49]
+glasses,,,,,,
+No. 1,877,821,,318,120,this work
+No. 2,877,825,,320,120,this work
+No. 3,874,829,,316,120,this work
+No. 4,877,825,,318,120,this work
+60AgI*40Ag2MoO4,875,800,,318,115,[12]
+glass,,,,,,

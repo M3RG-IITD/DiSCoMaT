@@ -1,0 +1,18 @@
+Samples,PbO,WO3,P2O5,Tc [g/mol],Products of crystallization
+Samples,mol%,,,(degC),Products of crystallization
+Series A,50,0,50,530,PbP2O6
+Series A,45,10,45,430,PbP2O6
+Series A,40,20,40,500,PbP2O6 (traces)
+Series A,35,30,35,520-600,Amorphous
+Series A,30,40,30,600,Pb(WO2)2(PO4)2
+Series A,25,50,25,600,Pb(WO2)2(PO4)2
+Series A,20,60,20,720,"Pb(WO2)2(PO4)2, WO3"
+Series B,50,0,50,530,PbP2O6
+Series B,50,10,40,500,Pb3P4O13
+Series B,50,20,30,600,"Pb2P2O7, Pb(WO2)2(PO4)2"
+Series B,50,30,20,700,Pb(W3O8)(PO4)4 ???
+Series B,50,35,15,600,PbWO4
+Series C,50,0,50,530,PbP2O6
+Series C,40,10,50,500,PbP2O6
+Series C,30,20,50,500,"PbP2O6, W2O3(PO4)"
+Series C,20,30,50,500-600,Amorphous

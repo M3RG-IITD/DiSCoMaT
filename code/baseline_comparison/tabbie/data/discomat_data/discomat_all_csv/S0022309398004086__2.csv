@@ -1,0 +1,7 @@
+Sample #,Verdet constant (min G-1 cm-1),Verdet constant (min G-1 cm-1),Verdet constant (min G-1 cm-1),Verdet constant (min G-1 cm-1),K 1 (min G-1 cm-1),K 2 (min G-1 cm-1),l 0 (mm)
+Sample #,543 nm,594 nm,633 nm,675 nm,K 1 (min G-1 cm-1),K 2 (min G-1 cm-1),l 0 (mm)
+,,,,,x10-3,x10-2,x10-3
+BCG-5,0.224,0.170,0.146,0.123,28.5,31.1,300
+BCG-11,0.228,0.1745,0.151,0.126,20.5,44.2,276
+BPGB-5,0.168,0.131,0.1135,0.0950,7.02,54.1,239
+BPGB-10,0.214,0.1665,0.139,0.118,0.11,71.6,239

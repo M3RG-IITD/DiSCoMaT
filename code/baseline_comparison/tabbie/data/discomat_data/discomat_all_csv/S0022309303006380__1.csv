@@ -1,0 +1,39 @@
+Peak no.,1,2,3,4,5,6,7
+"Peak position, u (cm -1  )","Peak position, u (cm -1  )","Peak position, u (cm -1  )","Peak position, u (cm -1  )","Peak position, u (cm -1  )","Peak position, u (cm -1  )","Peak position, u (cm -1  )","Peak position, u (cm -1  )"
+NP-Al-1,769,851,900,948,998,1053,1095
+NP-Al-2,773,851,899,947,998,1055,1097
+NP-Al-3,769,850,890,937,949,996,1057
+NP-Al-4,775,850,897,959,1003,1048,1095
+NP-BL,772,851,904,945,993,1051,1095
+NP-Na-1,774,855,904,954,1001,1048,1102
+NP-Na-2,769,856,895,939,1005,1054,1081
+NP-Si-3,764,861,906,949,992,1039,1094
+NP-Si-4,772,852,901,948,996,1042,1094
+NP-B-1,760,851,895,952,994,1028,1068
+NP-B-2,761,853,897,944,1000,1054,1102
+,,,,,,,
+"Peak full width at half maximum, FWHM (cm -1  )","Peak full width at half maximum, FWHM (cm -1  )","Peak full width at half maximum, FWHM (cm -1  )","Peak full width at half maximum, FWHM (cm -1  )","Peak full width at half maximum, FWHM (cm -1  )","Peak full width at half maximum, FWHM (cm -1  )","Peak full width at half maximum, FWHM (cm -1  )","Peak full width at half maximum, FWHM (cm -1  )"
+NP-Al-1,62,24,80,55,61,63,50
+NP-Al-2,76,25,76,53,65,63,48
+NP-Al-3,113,23,71,72,23,74,72
+NP-Al-4,118,23,78,80,50,65,35
+NP-BL,110,23,76,49,67,65,41
+NP-Na-1,95,32,64,73,52,73,58
+NP-Na-2,92,34,58,72,80,38,68
+NP-Si-3,59,36,61,56,52,85,76
+NP-Si-4,60,23,63,68,51,77,79
+NP-B-1,155,24,89,59,54,61,70
+NP-B-2,67,10,56,70,63,62,55
+,,,,,,,
+"Normalized peak area, a (%)","Normalized peak area, a (%)","Normalized peak area, a (%)","Normalized peak area, a (%)","Normalized peak area, a (%)","Normalized peak area, a (%)","Normalized peak area, a (%)","Normalized peak area, a (%)"
+NP-Al-1,2.6,2.6,29.9,15.8,22.6,21.4,5.1
+NP-Al-2,4.0,3.2,28.8,15.0,25.5,19.7,3.8
+NP-Al-3,12.0,2.9,18.2,23.1,0.45,28.4,14.8
+NP-Al-4,16.0,3.9,24.4,30.1,10.11,14.6,1.1
+NP-BL,10.0,2.3,27.7,11.4,28.8,17.6,2.3
+NP-Na-1,10.8,1.4,16.8,32.3,12.8,21.5,4.4
+NP-Na-2,8.6,1.5,10.5,29.9,35.4,2.8,11.3
+NP-Si-3,2.3,1.2,20.2,21.1,13.4,32.3,9.4
+NP-Si-4,3.0,0.8,15.1,29.6,12.0,26.6,12.9
+NP-B-1,16.7,4.1,32.1,14.3,12.2,10.7,9.8
+NP-B-2,8.0,0.1,8.8,32.6,27.1,18.3,5.2

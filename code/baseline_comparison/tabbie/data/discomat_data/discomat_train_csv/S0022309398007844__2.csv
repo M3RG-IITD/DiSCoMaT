@@ -1,0 +1,13 @@
+X/P,Ca (+-0.02),Na (+-0.08),O(BO) (+-0.33),,O(NBO) (+-0.33)
+Reference glass uncorroded,0.22,0.75,,3.3,
+Reference glass uncorroded,,,32%,,68%
+Surface after corrosion 30 min in H2O,0.23,0.62,,3.08,
+Surface after corrosion 30 min in H2O,,,33%,,67%
+Surface after corrosion 24 h in H2O,0.23,0.79,,3.61,
+Surface after corrosion 24 h in H2O,,,33%,,67%
+Surface after corrosion 30 min in HCl pH=3,0.22,0.69,,3.1,
+Surface after corrosion 30 min in HCl pH=3,,,33%,,67%
+Surface after corrosion 5 h in HCl pH=3,0.22,0.72,,3.35,
+Surface after corrosion 5 h in HCl pH=3,,,34%,,66%
+Surface after corrosion 5 h in HCl pH=1,0.22,0.71,,3.22,
+Surface after corrosion 5 h in HCl pH=1,,,33%,,66%

@@ -1,0 +1,6 @@
+Solid sample,Solid sample,Solid sample,Powdered sample,Powdered sample,Powdered sample
+a (degC/min),ln(T p 2/a),103/T p (K-1),a (degC/min),ln(T p 2/a),103/T p (K-1)
+10,10.85,1.395,10,10.71,1.494
+12,10.68,1.386,12,10.54,1.484
+14,10.55,1.366,14,10.39,1.482
+16,10.45,1.345,16,10.25,1.480

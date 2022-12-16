@@ -1,0 +1,22 @@
+Crucible,Crucible
+Material,Pt-10% Rh alloy
+Inner diameter (mm),40
+Inner depth (mm),60
+,
+Spindle,Spindle
+Material,Pt-10% Rh alloy
+Bob diameter (mm),10
+Bob length (mm),25
+Shaft diameter (mm),3
+Shaft length (mm),65
+Degree of taper,45
+,
+Suspending wire (lower part),Suspending wire (lower part)
+Material,Pt-10% Rh alloy
+Wire diameter (mm),2
+Wire length (mm),150
+,
+Suspending wire (upper part),Suspending wire (upper part)
+Material,Molybdenum
+Wire diameter (mm),2
+Wire length (mm),340

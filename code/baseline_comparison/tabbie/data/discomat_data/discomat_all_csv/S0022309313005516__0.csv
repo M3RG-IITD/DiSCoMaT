@@ -1,0 +1,6 @@
+Stage,Description,Duration (sec)
+Heating,Heat sample from room temperature to molding temperature. Glass sample rests on lower mold with a gap of 2.62mm from the upper mold.,210
+Soaking,Molding temperature was maintained to achieve uniform temperature distribution within sample. The gap was maintained during this stage.,>500
+Main pressing,Force Control: A pressing force of 1500N was applied to the specimen until the desired center thickness value was achieved.,Variable
+Slow cooling with a maintenance force,"Controlled slow cooling with the applied ""maintenance"" force reduced to 500N.",300
+Rapid cooling,Rapid cooling back to room temperature.,650

@@ -1,0 +1,21 @@
+Crystallization mechanism,n,m
+Bulk crystallization with a constant number of nuclei (i.e. a well nucleated sample with the number of nuclei being independent of the heating rate),Bulk crystallization with a constant number of nuclei (i.e. a well nucleated sample with the number of nuclei being independent of the heating rate),Bulk crystallization with a constant number of nuclei (i.e. a well nucleated sample with the number of nuclei being independent of the heating rate)
+Three-dimensional growth of crystals,3,3
+Two-dimensional growth of crystals,2,2
+One-dimensional growth of crystals,1,1
+,,
+Bulk crystallization with a constant number of nuclei (i.e. a well nucleated sample with the number of nuclei being independent of the heating rate) with crystal growth rate proportional to t -0.5  (diffusion controlled),Bulk crystallization with a constant number of nuclei (i.e. a well nucleated sample with the number of nuclei being independent of the heating rate) with crystal growth rate proportional to t -0.5  (diffusion controlled),Bulk crystallization with a constant number of nuclei (i.e. a well nucleated sample with the number of nuclei being independent of the heating rate) with crystal growth rate proportional to t -0.5  (diffusion controlled)
+Three-dimensional growth of crystals,1.5,1.5
+Two-dimensional growth of crystals,1,1
+One-dimensional growth of crystals,0.5,0.5
+,,
+Bulk crystallization with an increasing number of nuclei (i.e. an as-quenched sample with the number of nuclei inversely proportional to the heating rate),Bulk crystallization with an increasing number of nuclei (i.e. an as-quenched sample with the number of nuclei inversely proportional to the heating rate),Bulk crystallization with an increasing number of nuclei (i.e. an as-quenched sample with the number of nuclei inversely proportional to the heating rate)
+Three-dimensional growth of crystals,4,3
+Two-dimensional growth of crystals,3,2
+One-dimensional growth of crystals,2,1
+,,
+Bulk crystallization with an increasing number of nuclei (i.e. an as-quenched sample with the number of nuclei inversely proportional to the heating rate) with crystal growth rate proportional to t -0.5  (diffusion controlled),Bulk crystallization with an increasing number of nuclei (i.e. an as-quenched sample with the number of nuclei inversely proportional to the heating rate) with crystal growth rate proportional to t -0.5  (diffusion controlled),Bulk crystallization with an increasing number of nuclei (i.e. an as-quenched sample with the number of nuclei inversely proportional to the heating rate) with crystal growth rate proportional to t -0.5  (diffusion controlled)
+Three-dimensional growth of crystals,2.5,1.5
+Two-dimensional growth of crystals,2,1
+One-dimensional growth of crystals,1.5,0.5
+Surface crystallization,1,1

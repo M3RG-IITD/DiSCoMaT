@@ -1,0 +1,7 @@
+Sample,Hypersonic (this work),Hypersonic (this work),Hypersonic (this work),Hypersonic (this work),Ultrasonic,Ultrasonic,Ultrasonic,Ultrasonic,Reference
+Sample,Temp. (K),V p (m/s),Temp. (K),V p (m/s),Temp. (K),V p (m/s),Temp. (K),V p (m/s),Reference
+Ca62/01,293,6246,2310,3275,1900,2960,2200,2938,[37]
+Ca38/26,293,6653,2550,2859,1673,3037,1823,3025,[38]
+Ca36/16,293,6585,2530,3348,1748,3277,1873,3258,[38]
+Ca00/49,293,7059,2086,3272,1920,3374,2200,3324,[38]
+CaMg44/13/21,293,6679,2235,3683,,,,,

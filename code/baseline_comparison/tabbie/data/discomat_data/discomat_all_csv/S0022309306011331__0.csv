@@ -1,0 +1,8 @@
+Sample name,Nominal glass composition (wt%),Nominal glass composition (wt%),Nominal glass composition (wt%),Nominal glass composition (wt%),Velocity (ms-1),Velocity (ms-1),Attenuation (dBcm-1),Attenuation (dBcm-1)
+Sample name,P2O5,CaO,Na2O,TiO2,U L,U s,a L,a s
+PCNT0,45,24,31.0,0,4986,2763,0.57,0.17
+PCNT05,45,24,30.5,0.5,4982,2760,0.58,0.29
+PCNT10,45,24,30.0,1.0,4987,2767,0.56,0.27
+PCNT15,45,24,29.5,1.5,4990,2778,0.54,0.25
+PCNT20,45,24,29.0,2.0,4993,2781,0.53,0.22
+PCNT25,45,24,28.5,2.5,5008,2787,0.51,0.17

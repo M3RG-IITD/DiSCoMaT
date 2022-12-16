@@ -1,0 +1,14 @@
+No.,Melting condition (degC min),Appearance,Absorption bands/nm,Absorption bands/nm,Absorption bands/nm,Absorption bands/nm
+No.,Melting condition (degC min),Appearance,I,II,III,IV
+C-0,1450-60,Colorless,~380,432,-,638
+C-0.1,1450-60,Pale green,~380,432,-,638
+C-0.2,1450-60,Green,377,432,-,638
+C-0.3,1450-60,Green,327,435,-,633
+C-0.5,1450-60,Dark green,355,436,-,638
+C-1.0,1450-60,Dark green-black,375,438,-,634
+Te-0.2,1450-60,Green,367,437,-,635
+Te-0.5,1450-60,"Green, partly brownish green",344,432,-,633
+Te-0.7,1450-60,"Green, partly brownish green",349,435,-,634
+Te-1.0,1450-60,Green,327,435,-,633
+Te-2.0,1450-60,Green,331,436,-,633
+Te-1200,1200-20,Reddish orange,370,430,530,-

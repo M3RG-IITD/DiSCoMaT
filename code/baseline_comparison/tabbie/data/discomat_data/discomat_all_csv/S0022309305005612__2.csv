@@ -1,0 +1,5 @@
+Glass,Tellurite,Phosphate,Germanate,Silicate,Tellurite
+s   e   peak    ( x   10   - 21     cm   2   ),9.97,6.4,5.7,5.5,7.5
+FWHM (nm),60,37,42,40,66.0
+s   e   peak   x FWHM,598.33,236.8,239.4,220,495.0
+Ref.,Our study,[13],[14],[15],[16]

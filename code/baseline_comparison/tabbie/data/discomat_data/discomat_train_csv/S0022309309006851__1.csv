@@ -1,0 +1,12 @@
+Glass code,No. of indents for as prepared/hydrated sample,Mechanical properties measured for the bulk and hydrated layer (GPa),Mechanical properties measured for the bulk and hydrated layer (GPa),Mechanical properties measured for the bulk and hydrated layer (GPa),Mechanical properties measured for the bulk and hydrated layer (GPa)
+Glass code,No. of indents for as prepared/hydrated sample,E r,H,E r,H
+SLS1,400/245,84.3+-2.1,7.1+-0.2,-,-
+SLS2,381/412,80.6+-2.6,7.0+-0.3,-,-
+SLSM1,400/300,74.1+-2.6,6.2+-0.3,72.0+-2.9,6.2+-0.3
+SLSM2,360/235,71.4+-2.4,6.0+-0.3,69.6+-3.3,5.8+-0.4
+SLSP1,415/252,78.5+-2.0,7.1+-0.3,-,-
+SLSP2,505/301,71.5+-2.1,6.0+-0.3,-,-
+SKMB1,465/330,65.7+-1.5,5.1+-0.2,39.5+-4.5,1.6+-0.2
+SKMB2,321/290,62.3+-1.8,4.8+-0.2,50.5+-3.7,2.5+-0.2
+SS (5min),830/66/88,73.2+-3.0,6.2+-0.5,34.5+-4.8,1.9+-0.2
+SS (10min),830/66/88,73.2+-3.0,6.2+-0.5,29.3+-3.4,1.5+-0.2

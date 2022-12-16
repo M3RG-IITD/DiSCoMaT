@@ -1,0 +1,20 @@
+Heat treatment (degC/min),r 1 (nm),s 1 (nm),r 2 (nm),s 2 (nm)
+"z 1/2 -peak, v heat =10 Kmin -1","z 1/2 -peak, v heat =10 Kmin -1","z 1/2 -peak, v heat =10 Kmin -1","z 1/2 -peak, v heat =10 Kmin -1","z 1/2 -peak, v heat =10 Kmin -1"
+600/10,,,5.09,0.41
+600/60,,,5.36,0.35
+600/240,3.02,0.21,5.41,0.32
+,,,,
+"z 3 -peak, v heat =10 Kmin -1","z 3 -peak, v heat =10 Kmin -1","z 3 -peak, v heat =10 Kmin -1","z 3 -peak, v heat =10 Kmin -1","z 3 -peak, v heat =10 Kmin -1"
+600/10,,,5.10,0.43
+600/60,,,5.37,0.37
+600/240,4.02,0.21,5.52,0.34
+,,,,
+"z 1/2 -peak, v heat =20 Kmin -1","z 1/2 -peak, v heat =20 Kmin -1","z 1/2 -peak, v heat =20 Kmin -1","z 1/2 -peak, v heat =20 Kmin -1","z 1/2 -peak, v heat =20 Kmin -1"
+600/10,,,5.16,0.35
+600/60,,,5.42,0.35
+600/240,3.37,0.36,5.49,0.32
+,,,,
+"z 3 -peak, v heat =20 Kmin -1","z 3 -peak, v heat =20 Kmin -1","z 3 -peak, v heat =20 Kmin -1","z 3 -peak, v heat =20 Kmin -1","z 3 -peak, v heat =20 Kmin -1"
+600/10,,,5.16,0.37
+600/60,,,5.42,0.37
+600/240,4.55,0.21,5.50,0.34

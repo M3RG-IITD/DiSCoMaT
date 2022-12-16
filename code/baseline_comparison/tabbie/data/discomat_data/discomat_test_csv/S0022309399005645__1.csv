@@ -1,0 +1,14 @@
+Compound,Atom pair,EXAFS,EXAFS,EXAFS,XRD,XRD
+,,R    (A),N,D-W factor (A) c,R (A),N
+Nd2O3,Nd-O,2.34,4,0.012,2.32,4 (average of 2 sites)
+,,2.63,3,0.014,2.66,3
+,Nd-Nd,3.71,6,0.020,3.72,6 (average of 2 sites)
+,,3.86,6,0.020,3.83,6
+,,,,,,
+K3NdSi2O7,Nd-O,2.34,6,0.011,2.34,6 (average of 2 sites)
+,Nd-K,3.60,6,0.007,3.61,6 (average of 2 sites)
+,Nd-Si,3.85,6,0.030,3.85,6 (average of 2 sites)
+,,,,,,
+a-Al2O3,Al-O,1.92,6,0.004,1.91,6 (average of 2 sites)
+,Al-Al,2.63,1,0.020,2.65,1
+,,2.78,3,0.020,2.79,3

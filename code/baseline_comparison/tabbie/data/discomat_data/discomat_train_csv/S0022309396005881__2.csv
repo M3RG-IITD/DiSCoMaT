@@ -1,0 +1,4 @@
+Glass,Sample mass (mg),Heat rate (degC/min),Isothermal T (degC),Time at TdegC (min),XRD time interval (min),XRD scan time (min)
+Non-durable,20,10,400,960,15,12
+Durable,50,5,400,480,15,14
+Durable,43,5,450,960,15,14

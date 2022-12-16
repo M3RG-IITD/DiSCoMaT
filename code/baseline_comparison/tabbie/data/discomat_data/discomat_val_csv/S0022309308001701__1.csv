@@ -1,0 +1,14 @@
+Glass,31P peak (ppm),31P FWHM (Hz),29Si peak (ppm),29Si FWHM (Hz)
+Series I,Series I,Series I,Series I,Series I
+ICIE1,8.4,873,-78.0,516
+ICSW2,10.0,721,-79.0,683
+ICSW3,9.5,721,-78.5,592
+ICSW5,9.0,737,-80.0,584
+ICSW4,7.0,793,-81.0,695
+,,,,
+Series II,Series II,Series II,Series II,Series II
+ICSW6,10.7,745,-78.0,524
+ICSW7,10.9,745,-78.0,516
+ICSW8,10.5,769,-78.0,505
+ICSW10,10.5,745,-78.0,469
+ICSW9,10.9,745,-78.0,505

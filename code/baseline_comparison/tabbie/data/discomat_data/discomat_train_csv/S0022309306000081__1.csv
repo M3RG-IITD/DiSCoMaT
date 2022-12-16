@@ -1,0 +1,11 @@
+Glass type,T max (K),G inh (cm-1),G hw (cm-1),HD (%),HN,P min (mW),Melt atm.,HB Mechanism,References
+Sodium borate,100,62,1.8,11,11,100,H2,PC,[13]
+Sodium borate,300,72,1.8,24,24,40,,,
+Sodium silicate,150,62,2.2,27,3,1,H2,PC,[23]
+Sodium silicate,250,74,1.9,29,7,1,,,
+Sodium borosilicate,250,91,3.5,17,16,1,H2,PC,[23]
+Sodium borosilicate,295,86,3.0,18,18,1,,,
+Sodium germanate,295,65,2.3,2.3,10,10,"H2, air","PC, PP",[9]
+Sodium germanate,77,80,2.8,2.8,16,5,"H2, air",,
+Sodium tellurite,100,47,2.6,8,6,>200,Air,ET,[21]
+Sodium tellurite,200,48,2.6,31,14,100,,,

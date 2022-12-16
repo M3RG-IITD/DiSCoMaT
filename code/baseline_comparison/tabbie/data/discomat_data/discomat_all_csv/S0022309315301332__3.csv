@@ -1,0 +1,5 @@
+,Flow (mm),Flow (mm),Initial setting time (min),Final setting time (min),Water demand (%)
+,w/b=0.485,w/b=0.35,Initial setting time (min),Final setting time (min),Water demand (%)
+Reference,225+-2,172+-2,212+-2,247+-1,29.7+-0.3
+20% OGP,210+-1,186+-2,219+-3,238+-1,29.6+-0.1
+20% FGP,215+-1,180+-0,203+-2,232+-2,27.1+-0.4

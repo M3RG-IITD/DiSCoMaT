@@ -1,0 +1,4 @@
+Glass,Cohen-Grest,Eyring
+Fluoroaluminate cladding,"ln e 0=-5.3 (Pa s), B=430 K, T 0=1020 K, C=2.8 K","ln e 0=-33 (Pa s), B/C=8.9, DH/R=1390 K"
+Fluoroaluminate core,"ln e 0=-4.9 (Pa s), B=360 K, T 0=970 K, C=1.9 K","ln e 0=-12 (Pa s), B/C=0.50, DH/R=3220 K"
+Cadmium phosphate cladding,"ln e 0=-6.0 (Pa s), B=810 K, T 0=610 K, C=6.7 K","ln e 0=-22 (Pa s), B/C=6.0, DH/R=845 K"

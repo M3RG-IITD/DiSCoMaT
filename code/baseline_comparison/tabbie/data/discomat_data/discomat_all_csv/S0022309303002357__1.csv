@@ -1,0 +1,9 @@
+Glass,Density (g/cm3),T g (degC),Thermal expansion coefficient (x10-7 degC-1),Refractive index (at 632.8 nm)
+TN,5.025,268,235,2.165
+TNA1,4.850,292,215,2.130
+TNA2,4.694,320,190,2.087
+TNG1,4.948,276,234,2.127
+TNG2,4.938,289,217,2.090
+TNG3,4.923,302,201,2.052
+TNT1,4.890,281,227,2.181
+TNT2,4.847,300,211,2.192

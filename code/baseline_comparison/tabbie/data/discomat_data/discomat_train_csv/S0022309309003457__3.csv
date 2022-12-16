@@ -1,0 +1,7 @@
+Component,Frequency,Component intensity,Component intensity,Component intensity,Component intensity,Component intensity,Component intensity
+Component,Frequency,0.09   BaCl   2   - 0.10 BaO - 0.81   TeO   2,0.09   BaCl   2   - 0.10 BaO - 0.81   TeO   2,0.20   BaCl   2   - 0.18 BaO - 0.62   TeO   2,0.20   BaCl   2   - 0.18 BaO - 0.62   TeO   2,0.15   BaCl   2   - 0.22 BaO - 0.83   TeO   2,0.15   BaCl   2   - 0.22 BaO - 0.83   TeO   2
+Component,Frequency,Experiment,Model,Experiment,Model,Experiment,Model
+A,660,1.000+-0.051,1.000,0.574+-0.068,0.521,0.543+-0.085,0.486
+B,745,0.374+-0.085,0.350,0.560+-0.170,0.643,0.611+-0.102,0.564
+C,770,0.272+-0.170,0.307,0.458+-0.170,0.521,0.577+-0.119,0.600
+D,795,0.134+-0.051,0.150,0.153+-0.119,0.186,0.170+-0.085,0.221

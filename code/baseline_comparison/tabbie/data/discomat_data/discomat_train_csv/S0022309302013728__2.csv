@@ -1,0 +1,6 @@
+Sample,Fe2+(Oh)I,Fe2+(Oh)I,Fe2+(Oh)I,Fe2+(Oh)II,Fe2+(Oh)II,Fe2+(Oh)II,Fe2+(Td),Fe2+(Td),Fe2+(Td),Fe3+(Td),Fe3+(Td),Fe3+(Td)
+Sample,QS (mm/s),IS (mm/s),A (%),QS (mm/s),IS (mm/s),A (%),QS (mm/s),IS (mm/s),A (%),QS (mm/s),IS (mm/s),A (%)
+(2) Basalt glass pure,2.67,1.19,16.9,1.92,0.96,28.2,1.125,0.76,32.4,0.64,0.36,22.5
+(3) Basalt glass+5 wt% sulfur,2.41,1.17,41.6,1.79,0.98,41.1,1.15,0.78,10.2,0.62,0.40,7.1
+(4) Basalt glass+10 wt% sulfur,2.26,1.18,41.1,1.70,0.99,40.7,1.13,0.78,10.2,-,-,-
+(5) Basalt glass+15 wt% sulfur,2.33,1.15,41.4,1.83,0.99,41.0,1.37,0.79,17.6,-,-,-

@@ -1,0 +1,21 @@
+Composition (wt%),Composition (wt%),P2O5 (y1),SiO2 (y2),Al2O3 (y3),Fe2O3 (y4),Na2O (y5),UO2 (y6)
+CAB1,Nominal,57.51,-,-,42.49,-,-
+CAB1,Exp. (EDS),63.42,-,2.43,34.15,-,-
+,,,,,,,
+CAB2,Nominal,61.50,-,-,34.08,4.41,-
+CAB2,Exp. (EDS),65.81,-,3.30,27.28,3.60,-
+,,,,,,,
+DR1,Nominal,55.84,-,-,36.09,-,8.07
+DR1,Exp. (EDS),60.33,-,3.56,30.85,-,5.26
+DR1,"Fluorescence data plus traces of Cu, Mn, Zn, Cr, Ti, Cl and S",62.7,0.29,2.4,29.4,,5.1
+,,,,,,,
+DR2,Nominal,54.26,-,-,30.06,-,15.68
+DR2,Exp. (EDS),56.58,-,3.47,26.24,-,13.71
+,,,,,,,
+PFeOx,Nominal,60,7,5,20,8,
+PFeOx,Exp. bulk glass (EDS),62.49,7.61,6.11,16.41,7.37,-
+PFeOx,Exp. glass powder (EDS),55.31,7.00,8.51,16.78,12.41,-
+,,,,,,,
+PFeUOx,Nominal,60,3,3,20,4,10
+PFeUOx,Exp. bulk glass (EDS),59.99,5.69,6.18,14.77,6.41,6.94
+PFeUOx,Exp. glass powder (EDS),58.71,3.17,8.84,14.03,6.76,8.50

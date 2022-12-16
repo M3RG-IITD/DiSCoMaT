@@ -1,0 +1,4 @@
+Sample ID,<d>  (mm/s),<d>  (mm/s),<DE Q>  (mm/s),<DE Q>  (mm/s),Fraction   of Fe2+ (%),Fraction   of a-Fe2O3 (%)
+Sample ID,Fe2+,Fe3+,Fe2+,Fe3+,Fraction   of Fe2+ (%),Fraction   of a-Fe2O3 (%)
+M01 'as made glass',0.91,0.33,1.95,0.68,48,0
+"M01, 1140deg for 10h",0.98,0.40,1.98,0.77,15,20

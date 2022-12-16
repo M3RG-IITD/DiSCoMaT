@@ -1,0 +1,8 @@
+Sample,Molar ratio,Molar ratio,Molar ratio,Molar ratio,Reaction conditions,Reaction conditions,Reaction conditions
+,Alkoxide,C2H5OH,H2O,Catalyst HCl,pH,t (degC),t (min)
+SiO2,1,4,2,0.063,2.8,25,30
+Al2O3,1,-,100,0.0035,3.8,80,30
+ZrO2,1,2,-,-,4.2,25,30
+AS,Si(OC2H5)4+Al[OCHC2H5(CH3)]3,2.9,4.6,0.031,3.6-3.8,60,30
+ZS,Si(OC2H5)4+Zr(OC3H7)4,2,1.95,0.216,4-4.2,25,30
+AZS,Si(OC2H5)4+Al[OCHC2H5(CH3)]3+Zr(OC3H7)4(0.05:0.05:0.90),1.5,52,0.150,4.2,600,Till gelled

@@ -1,0 +1,9 @@
+Wavenumber (cm-1),Structural units,Reference,Wavenumber (cm-1),Structural units,Reference
+~350,Bending mode of phosphate polyhedral with zinc modifier,[20],950-970,"(PO4)symm stretch (NBO), Q0s","[18,20]"
+~575,Bend mode related to zinc phosphate network or ZnO4,"[18,20]",1010,"PO stretch, Q1 chain terminator","[20,47]"
+680,Symm vibrations of POP bonds,"[18, 60]",1048,"(PO3)symm stretch (NBO), Q1s","[20,47]"
+702,"POPsymm stretch (BO), Q2s","[18,20,47]",1138 (40),"PO stretch, Q1 chain terminator","[18,20,47]"
+750,Symm vibrations of POP BO atoms,[61],1170-1180,Stretching vibrations of OPO/Symm vibrations of middle chain units (PO2),"[60, 61]"
+758,"POPsymm stretch (BO), Q1s","[20,47]",1150-1210,"(PO2)symm stretch (NBO), Q2s","[18,20,47]"
+790,(POP)s stretch in very short phosphate chains or in rings,[18],1210-1260,"(PO2)asymm stretch (NBO), Q2s","[18,20,47]"
+930,Asymmetric vibrations of POP,[61],,,

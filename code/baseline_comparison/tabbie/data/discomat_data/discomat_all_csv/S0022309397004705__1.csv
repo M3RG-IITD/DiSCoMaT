@@ -1,0 +1,7 @@
+Preform,Run,X-OH,X-OH,Ge-H,Ge-H,H2O,H2O
+,,peak position (cm-1),conc. (at. ppm),peak position (cm-1),conc. (at. ppm),peak position (cm-1),conc. (at. ppm)
+BPG286,1,3600 (X=Ge),1100,2180,170,3300,3500
+BPG286,2,3600 (X=Ge),1600,nd,nd,3300,3400
+HD239,4,3600 (X=Ge),3100,2185,750,3300,1000
+HD240,5,3600 (X=Ge),3700,2185,500,3300,700
+FPA630Ce,6,3550 (X=Ce),200,nd,nd,3200,600

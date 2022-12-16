@@ -1,0 +1,14 @@
+Glass,Heat-treatment condition,Radius (nm),Effective bandgap energy (eV),Peak wavelength of PL (+-2nm),FWHM (+-4nm)
+BC,600degC-20h,2.5,1.05,1200,195
+BC,600degC-30h,2.7,0.94,1340,195
+BC,600degC-70h,3.0,0.87,1450,250
+,,,,,
+B,600degC-20h,1.9,1.24,1094,170
+B,600degC-50h,2.1,1.16,1166,180
+B,650degC-20h,3.5,0.77,1524,330
+B,650degC-50h,3.7,0.73,1560,350
+,,,,,
+BZ,600degC-20h,2.3,1.08,1166,160
+BZ,600degC-50h,2.6,0.95,1318,180
+BZ,620degC-20h,3.6,0.75,1620,200
+BZ,640degC-20h,4.7,0.64,1680,500

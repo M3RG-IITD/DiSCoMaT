@@ -1,0 +1,7 @@
+Redox pair,Temperature (degC),Standard potentials (mV),Standard potentials (mV),Reference,Method
+Redox pair,Temperature (degC),This paper,Literature,Reference,Method
+Cr6+/Cr3+,1250,-57,-130,[4],CV
+As5+/As3+,1250,-228,-420,[4],CV
+Sb5+/Sb3+,1250,+12,-310,[4],CV
+As5+/As3+,1400,-148,-135,[28],Eq.
+Sb5+/Sb3+,1300,+37,+23,[29],Eq.

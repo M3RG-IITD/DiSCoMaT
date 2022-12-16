@@ -1,0 +1,16 @@
+Sample,Alkali leached (mg/g),pH,Conductivity (mS),
+(a),(a),(a),(a),
+V1,98.23,8.35,52.2,
+V2,13.2,7.90,23.3,
+Distilled water,-,5.48,2.65,
+,,,,
+,Weight loss (mg/100m2),pH,Conductivity (mS),
+(c),(c),(c),(c),
+V1,32.33,12.68,195.4,
+V2,18.23,12.65,190.1,
+Alkaline solution,-,12.71,164.7,
+,Si (ppm),Al (ppm),Na (ppm),K (ppm)
+(b),(b),(b),(b),
+V1,2.56,0.09,3.78,0.15
+V2,0.08,0.05,0.45,0.07
+,,,,

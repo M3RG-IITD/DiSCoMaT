@@ -1,0 +1,9 @@
+OH group,Linkage,Weakly bound state,Weakly bound state,Weakly bound state,Hydrogen-bonded state,Hydrogen-bonded state,Hydrogen-bonded state
+,,RO-O (nm),o 1 (cm-1),I 1,RO-O (nm),o 2 (cm-1),I 2
+Si-OH,Si-O-Si,0.35,3670,4,0.27,3620,27
+,Si-O-Ge,0.36,3670,4,0.28,3620,26
+,Ge-O-Ge,0.44,3680,2,0.28,3600,25
+,,,,,,,
+Ge-OH,Si-O-Si,0.36,3580,5,0.27,3530,35
+,Si-O-Ge,0.36,3580,5,0.27,3520,32
+,Ge-O-Ge,0.36,3590,3,0.27,3510,32

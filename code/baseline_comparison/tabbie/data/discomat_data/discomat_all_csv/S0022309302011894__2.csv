@@ -1,0 +1,17 @@
+Crystal structure,P H comp,P L decomp,P t
+"Experiment  [36,37]","Experiment  [36,37]","Experiment  [36,37]","Experiment  [36,37]"
+BaF2 (fluorite-PbCl2),6,<0,3
+BaF2 (PbCl2-Ni2In),15,11,13
+NaF (rock-salt-CsCl),29,17,23
+,,,
+Simulation (400 K),Simulation (400 K),Simulation (400 K),Simulation (400 K)
+BaF2 (fluorite-Ni2In),37,,
+BaF2 (fluorite-PbCl2),,<0,
+BaF2 (PbCl2-Ni2In),8,6,7
+NaF (rock-salt-CsCl),47,-3,22
+,,,
+Simulation (1600 K),Simulation (1600 K),Simulation (1600 K),Simulation (1600 K)
+BaF2 (fluorite-Ni2In),30,,
+BaF2 (fluorite-PbCl2),,<0,
+BaF2 (PbCl2-Ni2In),7,7,7
+NaF (rock-salt-CsCl),41,4,22.5

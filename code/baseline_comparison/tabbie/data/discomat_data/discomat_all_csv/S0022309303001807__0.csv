@@ -1,0 +1,5 @@
+Sample,Label,"Type (OH, ppm by weight)",Dose rate (MGy/min),Max dose (MGy)
+Silica EQ 906,EQ906,Type I: natural dry (20),0.051,9.2
+Herasil 1,H1,Type II: natural wet (150),0.054,10.0
+Suprasil 1,S1,Type III: synthetic wet (1000),0.067,59.0
+Suprasil 300,S300,Type IV: synthetic dry (<1),0.052,51.5

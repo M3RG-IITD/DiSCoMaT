@@ -1,0 +1,10 @@
+Sample,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),T g (+-2) (degC),T x (+-2) (degC),H' (+-0.2),Density (+-0.01) (g/cm3)
+Sample,P2O5,PbF2,PbBr2,PbO,T g (+-2) (degC),T x (+-2) (degC),H' (+-0.2),Density (+-0.01) (g/cm3)
+A8,40,42,18,0,281,378,0.35,5.59
+A11,40,30,30,0,258,376,0.46,5.37
+A13,40,18,42,0,247,373,0.51,5.34
+A16,40,6,54,0,260,370,0.42,5.28
+A48,27,18,45,10,227,281,0.24,5.81
+A52,36,18,36,10,210,278,0.32,5.44
+A53,36,9,45,10,228,287,0.26,5.40
+Note: T g - glass transition temperature; T x - onset temperature of crystallization.,Note: T g - glass transition temperature; T x - onset temperature of crystallization.,Note: T g - glass transition temperature; T x - onset temperature of crystallization.,Note: T g - glass transition temperature; T x - onset temperature of crystallization.,Note: T g - glass transition temperature; T x - onset temperature of crystallization.,Note: T g - glass transition temperature; T x - onset temperature of crystallization.,Note: T g - glass transition temperature; T x - onset temperature of crystallization.,Note: T g - glass transition temperature; T x - onset temperature of crystallization.,Note: T g - glass transition temperature; T x - onset temperature of crystallization.

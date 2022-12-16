@@ -1,0 +1,5 @@
+,Heating rate (K/min) b,Heating rate (K/min) b,Heating rate (K/min) b,Heating rate (K/min) b,Heating rate (K/min) b
+,5,10,30,40,50
+Onset temperature T o (K),793.1,804.3,807.5,809.5,813.3
+Peak temperature T peak (K),797.7,806.5,820.5,823.5,828
+Enthalpy DHx  (J/g),-16.3+-0.1,-23.2+-0.1,-37.6+-0.2,-42.5+-0.3,-45.1+-0.5

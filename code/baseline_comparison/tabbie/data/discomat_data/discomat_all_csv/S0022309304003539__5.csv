@@ -1,0 +1,6 @@
+Reaction,DH    (kJ/mol)
+"(1) (1-x)2REAlO3-x(3SiO2) (glass, 298 K)-(1-x)/2RE2O3 (dissolved, 1078 K)+3xSiO2 (dissolved, 1078 K)+(1-x)/2Al2O3 (dissolved, 1078 K)",DH 1
+"(2) SiO2 (a-quartz, 298 K)-SiO2 (dissolved, 1078 K)",47.9+-0.6 (8)
+"(3) REAlO3 (xtal, 298K)-1/2RE2O3 (dissolved, 1078 K)+1/2Al2O3 (dissolved, 1078 K)",DH 2
+"(4) (1-x)(2REAlO3) (xtal, 298 K)+ x(3SiO2) (a-quartz, 298K)-(1-x)(2REAlO3)-x(3SiO2) (glass, 298 K)",
+DH=-DH 1+2(1-x)DH 4+3xDH 3,DH

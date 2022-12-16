@@ -1,0 +1,7 @@
+Glass,Doping concentration (cm-3),Forster fit (free t 0),Mono-exponential fit,Bi-exponential fit,Bi-exponential fit,Interaction parameter g at 1020 cm-3
+Glass,Doping concentration (cm-3),t 0 (ms),t 0 (ms),t 1 (ms),t 2 (ms),g (ms- 1/2 )
+FP03,1x1019,1.6,1.5,1.7,1.3,0.40
+FP20,1x1019,1.2,1.1,1.1,-,0.42
+P100,1x1019,1.1,0.9,0.8,1.2,1.03
+NBS1,1x1019,2.5,1.5,2.0,0.9,1.12
+Duran,1x1018,1.4,1.0,0.8,1.9,0.92

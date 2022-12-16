@@ -1,0 +1,6 @@
+Sample,t 0 (s),V 0 (10-23 J),f 0 D 2/v '2 0 (103 J m-5 s2),f 0 D 2/v '2 0 (103 J m-5 s2)
+Sample,t 0 (s),V 0 (10-23 J),I (for the temperature range 80-140 K),II (for the temperature range 170-300 K)
+(a),~10-13,1600,14.5,7.0
+(b),~10-13,2000,16.8,8.2
+(c),~10-13,2327,24.4,15.9
+(d),~10-13,2000,19.5,-

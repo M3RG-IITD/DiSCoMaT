@@ -1,0 +1,41 @@
+Component,AN-102,AZ-102
+Simulated LAW (g/L),Simulated LAW (g/L),Simulated LAW (g/L)
+Al(NO3)3*9H2O,87.97,1.75
+H3BO3,0.10,-
+Ca(NO3)2*4H2O,1.46,-
+Na2CrO4*4H2O,2.76,3.46
+KOH,7.38,9.21
+NaOH,52.88,3.16
+NiO,0.09,0.11
+PbO,0.09,0.11
+SiO2,0.10,0.37
+NaCl,3.72,4.65
+NaF,1.97,2.46
+Na3PO4*12H2O,7.56,9.39
+Na2SO4,12.07,20.32
+NaNO2,64.80,35.51
+NaNO3,94.65,9.68
+Na2CO3,49.21,40.97
+Sodium formate (NaHCO2),24.90,-
+Sodium oxalate (Na2C2O4),1.44,-
+Glycolate (C2H4O3),30.60,-
+Citric acid (C6H8O7),8.98,-
+Oxalic acid (C2H2O4*2H2O),-,3.21
+Re2O7,0.0121,0.0151
+Water (estimated),792.96,975.01
+,,
+Additives (g/L simulated waste),Additives (g/L simulated waste),Additives (g/L simulated waste)
+Kyanite (Al2SiO5),98.73,149.71
+H3BO3,200.58,252.97
+Wollastonite (CaSiO3),155.51,215.41
+Hematite (Fe2O3),59.46,71.71
+Li2CO3,89.87,150.93
+Olivine (Mg2SiO4),35.54,87.65
+Na2CO3,-,34.02
+Quartz (SiO2),362.31,472.28
+Rutile (TiO2),15.22,18.82
+Zincite (ZnO),39.63,49.81
+Zircon (ZrSiO4),50.83,64.17
+Total dry feed mass  (g),1560.4,1711.9
+Target glass mass (g),1145.3,1431.4
+Calculated mass loss,26.6%,16.4%

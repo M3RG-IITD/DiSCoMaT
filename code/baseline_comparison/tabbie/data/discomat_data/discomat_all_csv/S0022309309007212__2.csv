@@ -1,0 +1,11 @@
+Specimen,Crystalline phase
+GP (510degC),-
+GP (610degC),LS2 +LS+SiO2 +LiAl(SiO3)2
+GP (780degC),LS2 +LS+SiO2 +LiAlSi3O8 +CaSiO3
+GPn (510degC),LS2 +Li3PO4
+GPn (625degC),LS2 +Li3PO4 +SiO2 +LiAl(SiO3)2
+GPn (780degC),LS2 +SiO2 +LiAlSi3O8 +CaSiO3
+GN (610degC),LiAl(SiO3)2 +LiNb3O8 +CaSiO3
+GN (770degC),LiAlSi3O8 +CaSiO3
+GN (880degC),LiAlSi3O8 +CaSiO3
+GNn (620degC),LS+LiAlSi3O8

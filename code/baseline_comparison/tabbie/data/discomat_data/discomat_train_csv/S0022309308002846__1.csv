@@ -1,0 +1,6 @@
+Burner,Mode,Calculated crystallite size (nm),Observed soot particle size (nm),Crystallites per soot particle
+Burner A (wide),Rotating,29,~200,~330
+Burner A (wide),Non-rotating,19,~(50-300),"~(18-4,000)"
+,,,,
+Burner B (narrow),Non-rotating,7,~(10-200),"~(3-24,000)"
+Burner B (narrow),Non-rotating,7,(No. equivalent crystallite volumes),(No. equivalent crystallite volumes)

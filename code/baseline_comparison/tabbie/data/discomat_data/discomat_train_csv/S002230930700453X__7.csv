@@ -1,0 +1,5 @@
+Reaction,Enthalpy
+"(1) CdSe QD in glass (s, 25degC)+2O2 (g, 807degC)-CdSeO4 (sol, 807degC)+base glass (sol, 807degC)",DH 1 =D    H   ds
+"(2) Base glass (s, 25degC)-base glass (sol, 807degC)",DH 2 =DH ds
+"(3) CdSe (s, 25degC)+2O2 (g, 807degC)-CdSeO4 (sol, 807degC)",DH 3 =DH ds
+"(4) CdSe (s, 25degC)+base glass (s, 25degC)-CdSe QD in glass (s, 25degC)",DH f (CdSe QD in glass at 25degC)

@@ -1,0 +1,9 @@
+Glasses,Temperature (degC),Time,Quench by
+G(OSI-Jena),1500,2h,Casting on a steel plate
+PS(UFSCar),1250,2h,Pressing
+NS2(Sheffield),1300,5h/stirred during 3h,Casting on a steel plate
+M2A2S5(BAM),1590,8h,Casting on a steel plate
+LS2(UFSCar),1350,2.5h/remelted for 30min,Casting on a graphite mold
+CMS2(UFSCar),1500,2h/remelted 3 times for 30min,Casting on a steel plate
+CAS2(Sheffield),1600,5h,Pressing
+LB2(UFSCar),1000,2h,Pressing

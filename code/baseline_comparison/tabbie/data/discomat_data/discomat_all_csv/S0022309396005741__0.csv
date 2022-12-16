@@ -1,0 +1,12 @@
+Borosilicate glass,Borosilicate glass,Borosilicate glass,Borosilicate glass,Borosilicate glass,Soda-lime glass
+Redox couple,E p (mV),DH 0 (kJ mol-1),DS 0 (J K-1 mol-1),log(C ox/C red),E p (mV)
+Te6+/Te4+,+50,4,69,-0.37,
+Sb5+/Sb3+,+15,207,147,-0.12,+50
+Sn4+/Sn2+,-165,194,112,+1.20,-110
+As5+/As3+,-180,155,81,+1.32,-170
+Te4+/Te0,-255,335,158,+3.79,-180
+Sb3+/Sb0,-355,291,127,+3.91,-330
+Sn2+/Sn0,-370,239,116,+2.72,-240
+Bi3+/Bi0,-390,281,113,+4.30,-350
+As3+/As0,-440,311,124,+4.84,-410
+Pb2+/Pb0,-680,222,60,+5.01,-740

@@ -1,0 +1,5 @@
+V 4+/V  total,ratio of number of V4+ ions to total number of V ions
+V 5+/V  total,ratio of number of V5+ ions to total number of V ions (1-V 4+/V  total )
+N V,number of vanadium ions/gram of sample from ICP
+N Cu,number of copper ions/gram of sample from ICP
+C expt,Curie constant (emu.K/Oe.gram) from kh-vs-T results.

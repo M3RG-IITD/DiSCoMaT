@@ -1,0 +1,5 @@
+Glass,,T g(degC) (+-2degC),a +-0.5x10-7(degC-1)
+Initial glass,x=0,550,85.1
+Ion exchange+Equalizing3+17 days,x=0.4,480,68.9
+Ion exchange+Equalizing7+13 days,x=0.63,375,54.7
+Ion exchange20 days,x=0.75,253,32.2

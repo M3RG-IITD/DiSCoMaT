@@ -1,0 +1,8 @@
+"Ranges of band locations, cm-1","Ranges of band locations, cm-1",Mode types assumed
+Scholze's data on glasses,Ryskin's data on crystals,Mode types assumed
+3330-3700,2890-3530,"Stretching modes of either the ""free"" R-O-H group (Scholze) or the H2O molecule (Ryskin)"
+2630-2940,2600-2950  (A),Stretching modes of the R-O-H groups forming the hydrogen bonding
+2330-2380,2200-2460  (B),Stretching modes of the R-O-H groups forming the hydrogen bonding
+,1500-1950  (C),Stretching modes of the R-O-H groups forming the hydrogen bonding
+-,1590-1700,Bending mode of the H2O molecule
+-,1200-1400 (D),Bending mode of the R-O-H group forming the hydrogen bonding

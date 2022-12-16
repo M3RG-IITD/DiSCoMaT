@@ -1,0 +1,5 @@
+References,"Equations n (cm-1), T f (degC)",Tested domain T f (degC),Wave number domain (cm-1)
+Agarwal and Tomozawa [14],n =1044+0.0263* T f,425-575,1055.2-1059.1
+Fujita et al. [15],n =1089.39-0.0105* T f,600-750,1081.5-1082.6
+This study Embiez,n =1052.36+0.00969* T f,440-720,1057.1-1059.9
+This study GuilB,n =1052.5+0.0186* T f,530-720,1062.8-1066.2

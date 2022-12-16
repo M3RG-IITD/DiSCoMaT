@@ -1,0 +1,10 @@
+Glass compositions (cation %),T g(+-2degC),T x (+-2degC),n D (+-0.0005),d (+-0.03),Ref.
+,,,,,
+"25 Zr, 25 Zn, 25 Ba, 25 Y",323degC,404degC,1.522,4.75,
+"20 Zr, 20 Zn, 20 Ba, 20 Y, 20 Al",349degC,471degC,1.488,4.42,
+"15 % Zr, Zn, Ca, Ba, Y, Al, 10 % Na",325degC,429degC,1.474,4.21,
+"15 % Zr, Zn, Ba, Al, 10 % Na, Y, Ca, Mg",328degC,447degC,1.463,4.44,
+"ZBLA: 57 Zr, 34 Ba, 5 La, 4 Al",320degC,392degC,1.519,4.54,[1]
+"ZBLAN: 53 Zr, 20 Ba, 4 La, 3 Al, 20 Na",262degC,352degC,1.498,4.35,[1]
+"YABC: 20 Y, 40 Al, 20 Ba, 20 Ca",430degC,535degC,1.440,4.00,[1]
+"IZBS: 40 In, 20 Zn, 20 Ba, 20 Sr",301degC,388degC,1.501,5.14,[4]

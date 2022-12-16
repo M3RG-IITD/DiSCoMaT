@@ -1,0 +1,23 @@
+Test/sample,S/V (m-1),T (degC),pH,t (d),Remarks
+1,150,90,9,3,SEM observation of alteration film
+,,,,,
+2,100,90,9,10,SON 68 glass
+3,100,90,9,10,Simplified glass
+,,,,,
+4a,200,50,8,30,Hypercritical drying
+4b,200,50,8,30,50 degC drying
+,,,,,
+5,9400,110 and 150 degC,Free pH,6j+8j,Monolith alteration with 150 ml of water solution sampling impossible
+,,,,,
+6,100,90,9,34,Alteration in saturated solution (Table 2)
+,,,,,
+7a,50,50,Free pH,1.7,One monolith is withdrawn at each sample time leaving the others at constant S/V ratio
+7b,50,50,Free pH,7,One monolith is withdrawn at each sample time leaving the others at constant S/V ratio
+7c,50,50,Free pH,14,One monolith is withdrawn at each sample time leaving the others at constant S/V ratio
+7d,50,50,Free pH,28,One monolith is withdrawn at each sample time leaving the others at constant S/V ratio
+7e,50,50,Free pH,56,One monolith is withdrawn at each sample time leaving the others at constant S/V ratio
+7f,50,50,Free pH,134,One monolith is withdrawn at each sample time leaving the others at constant S/V ratio
+,,,,,
+8,5000,50,9,35,Alteration was stopped at different times in order to obtain layers with comparable thickness
+9,5000,70,9,28,Alteration was stopped at different times in order to obtain layers with comparable thickness
+10,5000,90,9,20,Alteration was stopped at different times in order to obtain layers with comparable thickness

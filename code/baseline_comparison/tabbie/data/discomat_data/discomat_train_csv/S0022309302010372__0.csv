@@ -1,0 +1,11 @@
+Sample,Melting atmosphere,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),r    (+-0.003),V M    (+-0.1)
+,Melting atmosphere,CaO,Al2O3,SiO2,MgO,Er2O3,Yb2O3,r    (+-0.003),V M    (+-0.1)
+LSCA1,Air,59.2,27.1,6.8,6.9,-,-,2.938,23.0
+LSCA2,Air,58.0,26.6,8.0,7.0,0.4,-,2.992,23.0
+LSCA3,Air,58.4,25.8,8.1,7.0,0.4,0.3,3.017,23.1
+LSCA4,Air,58.9,24.9,8.1,7.1,1.0,-,3.054,23.1
+LSCA5,Vacuum,58.1,27.1,7.9,6.9,-,-,2.928,23.1
+LSCA6,Vacuum,57.8,27.2,8.0,7.0,-,0.2,2.960,23.1
+LSCA7,Vacuum,58.9,25.0,8.1,7.1,-,0.9,3.057,22.8
+LSCA8,Vacuum,59.8,24.4,8.2,7.2,1.1,-,3.076,22.8
+LSCA9,Vacuum,59.8,23.3,8.2,7.0,1.5,-,3.123,22.7

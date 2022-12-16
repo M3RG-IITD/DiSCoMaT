@@ -1,0 +1,15 @@
+Sample code,Band positions cm-1,Band positions cm-1,Band positions cm-1,Band positions cm-1,Band positions cm-1,Band positions cm-1,Band positions cm-1,Band positions cm-1,Band positions cm-1,Band positions cm-1,Assignment,Refs.
+As quenched,1240,1169,1088,1010,927,863,782,657,558,465,"~465cm-1 Vibrations of Fe-O bonds of FeO6 units, bending vibrations of O-P-O bonds",[15-17]
+As quenched,,,,,,,,,,,~558cm-1 Vibrations of Fe-O bonds of FeO6 units,[15-17]
+As quenched,,,,,,,,,,,"~657cm-1 n(VO3) single chain,","[18,19]"
+,,,,,,,,,,,,
+4h HT,1240,1169,1089,1010,927,866,782,665,563,466,Vibrations of Fe-O bonds of FeO4 units,[15-17]
+4h HT,,,,,,,,,,,~782cm-1 (Symmetric and antisymmetric) n(VOV),[18]
+4h HT,,,,,,,,,,,~863cm-1 Asymmetric stretching [n(VO2) n(VO3)],[18]
+,,,,,,,,,,,,
+6h HT,1243,1162,1089,1015,931,878,792,665,567,467,~927cm-1 Isolated VO2 groups in VO4 polyhedra,[22]
+6h HT,,,,,,,,,,,"~1010cm-1 VO4 structural groups, VO in VO5 trigonal","[20,23]"
+6h HT,,,,,,,,,,,"~1088cm-1 (VO) vanadyl groups in VO5 trigonal bipyramids, asymmetric stretching PO groups",[24]
+,,,,,,,,,,,,
+8h HT,1254,1174,1092,1017,931,878,796,671,574,467,~1169cm-1 O-P-O asymmetric stretching vibration modes,[24]
+8h HT,,,,,,,,,,,~1240cm-1 PO2 symmetric stretching groups,[24]

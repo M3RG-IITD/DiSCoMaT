@@ -1,0 +1,7 @@
+Figure,Chem ID,First sequence (low T),First sequence (low T),First sequence (low T),Second sequence (high T),Second sequence (high T),Second sequence (high T)
+Figure,Chem ID,Slope,R 2,Intercept,Slope,R 2,Intercept
+7(a),Nb2O5,-15470,0.9361,28.218,-97.144,0.047,6.4039
+7(b),Nb2O5,-11816,0.8636,21.673,-390.32,0.71,5.5266
+7(c),Nb,-851.11,0.6255,4.9168,NA,,
+7(d),Ni3Sn,18770,0.9189,-24.351,68.885,0.0005,1.4087
+7(e),Sn,960.57,0.8379,2.203,NA,,

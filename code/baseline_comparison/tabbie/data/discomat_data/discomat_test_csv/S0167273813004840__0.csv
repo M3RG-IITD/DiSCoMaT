@@ -1,0 +1,11 @@
+Composition [mol%],Composition [mol%],Composition [mol%],s'DC (T=425K) [S/cm],W [eV],Structure
+Fe2O3,SiO2,PbO,s'DC (T=425K) [S/cm],W [eV],Structure
+2,49,49,1.39*10-12,0.71,Amorphous
+5,47.5,47.5,2.63*10-10,0.66,Amorphous
+10,45,45,1.32*10-8,0.6,Amorphous
+15,42.5,42.5,1.12*10-7,0.56,Nanogranules
+20,40,40,1.02*10-8,0.58,Nanocrystallites
+25,37.5,37.5,2.68*10-10,0.2,Nanocrystallites
+15,50,35,3.78*10-8,0.56,Nanogranules
+20,50,30,1.10*10-6,0.16,Nanocrystallites
+25,50,25,4.9*10-7,0.13,Nanocrystallites

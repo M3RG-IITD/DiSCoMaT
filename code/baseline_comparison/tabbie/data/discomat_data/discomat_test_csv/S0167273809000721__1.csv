@@ -1,0 +1,20 @@
+Entry,Pt(II) || Pt(I)/Al2O3,Gradient,Sample*,E II-I at 200 degC/mV,E II-I at 300 degC/mV,E II-I at 400 degC/mV
+Cell-1,"P H2O II =0, p O2 II =0.05 ||",No,A,32+,33+,30+
+,"P H2O  =0, p O2  =0.05",,B,35+,20+,3+
+,,,C,7.1+,30+,24+
+Cell-2,"p H2O II =0, p O2 II =1 ||",p O2  > p O2 I,A,24,34,28
+,"p H2O  =0, p O2  =0.05",p H2O  = p H2O I =0,B,29,23,27
+,,P H2  = p H2 I =0,C,32,36,35
+Cell-3,"p H2O II =0.02, p O2 II =1 ||",p O2  > p O2 I,A,-0.01,53,50
+,"p H2O  =0.02, p O2  =0.05",p H2O  = p H2O I =0.02,B,-18,39,48
+,,p H2  < p H2 I,C,4,52,63
+Cell-4,"p H2O II =0.02, p O2 II =0.05",p O2  = p O2 I,A,-67,-9.4,5
+,"|| p H2O  =0, p O2  =0.05",p H2O  > p H2O I,B,-36,1,4.1
+,,p H2  > p H2 I,C,-34,-6.3,1.2
+,,,,,,
+Cell-5,"p H2O II =0.02, p O2 II =1",p O2  > p O2 I,A,-55,30,27
+,"|| p H2O  =0, p O2  =0.05",p H2O  > p H2O I,B,-21,27,28
+,,p H2  > p H2 I,C,-18,26,36
+Cell-6,"p H2O II =0, p O2 II =1",p O2  > p O2 I,A,27,34,50
+,"|| p H2O  =0.02,",p H2O  < p H2O I,B,11,35,47
+,p O2  =0.05,p H2  < p H2 I,C,59,61,59

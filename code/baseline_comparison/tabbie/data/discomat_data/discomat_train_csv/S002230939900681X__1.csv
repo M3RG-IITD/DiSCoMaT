@@ -1,0 +1,7 @@
+Glass,Batch composition (mol%),T g +-3 (degC)
+UP,"65P2O5-35MO (M=Mg, Zn, Ca, Ba, Al3/2)",460
+MP,"50P2O5-50MO (M=Mg, Zn, Ca, Ba, Al3/2)",455
+FP 0,"100(AlF3, MF2) (M=Mg, Ca, Sr)",400
+FP 4,"96(AlF3, MF2)-4M(PO3)2",420
+FP 10,"90(AlF3, MF2)-10M(PO3)2",440
+FP 20,"80(AlF3, MF2)-20M(PO3)2",480

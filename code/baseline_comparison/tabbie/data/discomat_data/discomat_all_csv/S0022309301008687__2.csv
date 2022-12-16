@@ -1,0 +1,16 @@
+Annealing temperature (degC),Annealing atmosphere,Mean value of D*  Na  (cm 2/s)
+650,Dry air,2.79x10-10
+,Common air,2.74x10-10
+,Wet air,2.75x10-10
+,,
+700,Dry air,7.53x10-10
+,Common air,7.37x10-10
+,Wet air,7.70x10-10
+,,
+750,Dry air,2.34x10-9
+,Common air,2.08x10-9
+,Wet air,2.04x10-9
+,,
+800,Dry air,5.41x10-9
+,Common air,5.24x10-9
+,Wet air,5.19x10-9

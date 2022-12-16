@@ -1,0 +1,8 @@
+Sample,X,n (1064 nm) +-0.01,n (532 nm) +-0.01,r (g/cc) +-0.02
+Annealed,5,2.15,2.17,5.87
+Annealed,10,2.14,2.17,6.13
+Annealed,15,2.13,2.22,6.45
+,,,,
+Heat-treated (350 degC/6 h),5,2.15,2.26,5.88
+Heat-treated (350 degC/6 h),10,2.16,2.22,6.19
+Heat-treated (350 degC/6 h),15,2.16,2.22,6.46

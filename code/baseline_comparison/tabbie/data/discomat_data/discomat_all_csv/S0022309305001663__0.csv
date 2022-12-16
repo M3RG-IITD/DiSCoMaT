@@ -1,0 +1,12 @@
+Sample,Na2O (mol%),Nd2O3 (mol%),SiO2 (mol%)
+Series 1,Series 1,Series 1,Series 1
+N17S75,17,8,75
+N21S75,21,4,75
+N24S75,24,1,75
+,,,
+N25S75,25,0,75
+,,,
+Series 2,Series 2,Series 2,Series 2
+N25S74,25,1,74
+N25S71,25,4,71
+N25S67,25,8,67

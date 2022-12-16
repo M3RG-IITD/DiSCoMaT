@@ -1,0 +1,5 @@
+Sample,T g (degC),T cr1 (degC),T cr2 (degC),(T cr1-T g) (degC)
+KTP-5KBS,602,731,873,129
+KTP-10 KBS,600,689,788,89
+KTP-15 KBS,600,689,790,89
+KTP-20 KBS,618,712,850,94

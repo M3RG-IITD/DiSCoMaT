@@ -1,0 +1,8 @@
+,Beam diameter (mm),Current intensity (nA),Irradiation time (s),Incubation time (s)
+Point 1L,100,250,90,
+Point 2L,100,250,300,
+Point 3L,100,250,480,360
+Point 4L,100,250,600,380
+Point 5L,100,250,840,420
+Point 4H,200,1000,600,355
+Point 6H,200,1000,900,360

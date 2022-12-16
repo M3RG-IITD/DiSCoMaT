@@ -1,0 +1,35 @@
+Sample no.,Batch composition (mol%),Batch composition (mol%),Batch composition (mol%),Batch composition (mol%),Appearance
+Sample no.,PbO,PbBr2,PbF2,P2O5,Appearance
+6,0,12,48,40,Crystalline
+7,0,15,45,40,Crystalline
+3,0,17.4,42.6,40,Colorless glass
+8,0,18,42,40,Colorless glass
+9,0,21,39,40,Colorless glass
+10,0,24,36,40,Colorless glass
+11,0,30,30,40,Colorless glass
+12,0,36,24,40,Colorless glass
+13,0,42,18,40,Colorless glass
+14,0,48,12,40,Colorless glass
+16,0,54,6,40,Colorless glass
+17,0,60,0,40,Colorless glass
+20,0,42,28,30,Colorless glass
+21,0,56,14,30,Colorless glass
+22,0,63,7,30,Colorless glass
+38,0,0,40,60,Colorless glass
+45,10,27,27,36,Crystalline
+48,10,45,18,27,Colorless glass
+52,10,36,18,36,Colorless glass
+53,10,45,9,36,Colorless glass
+54,10,54,0,36,Colorless glass
+55,10,27,18,45,Colorless glass
+56,10,18,27,45,Colorless glass
+58,10,9,27,54,Colorless glass
+60,5,28.5,28.5,38,Colorless glass
+130,15,42.5,8.5,34,Crystalline
+131,15,34,17,34,Unmelted
+129,15,51,0,34,Crystalline
+132,15,42.5,0,42.5,Crystalline
+133,15,34,8.5,42.5,"Transparent, light yellow"
+137,15,25.5,17,42.5,"Transparent, light yellow"
+138,15,17,25.5,42.5,Unmelted
+142,30,0,0,70,Colorless glass

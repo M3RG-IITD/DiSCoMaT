@@ -1,0 +1,24 @@
+,l (nm),Aed (s-1),Amd (s-1),b,tr (ms)
+Transition in PB1,Transition in PB1,Transition in PB1,Transition in PB1,Transition in PB1,Transition in PB1
+4I13/2 - 4I15/2,1530,344.155,52.41,1,2.905
+4F9/2 - 4I15/2,650,1764.031,0,1,0.566
+2H11/2 - 4I15/2,530,8134.260,0,1,0.122
+4G5/2 - 4I13/2,372,1705.161,0,1,0.586
+,,,,,
+Transition in PB2,Transition in PB2,Transition in PB2,Transition in PB2,Transition in PB2,Transition in PB2
+4I13/2 - 4I15/2,1530,466.364,52.41,1,2.144
+4F9/2 - 4I15/2,650,2426.280,0,1,0.412
+2H11/2 - 4I15/2,530,8838.690,0,1,0.113
+4G5/2 - 4I13/2,372,2356.161,0,1,0.424
+,,,,,
+Transition in PB3,Transition in PB3,Transition in PB3,Transition in PB3,Transition in PB3,Transition in PB3
+4I13/2 - 4I15/2,1530,645.675,52.41,1,1.548
+4F9/2 - 4I15/2,650,3476.574,0,1,0.287
+2H11/2 - 4I15/2,530,8956.90401,0.111,,
+4G5/2 - 4I13/2,372,3389.3130 1,0.295,,
+,,,,,
+Transition in PB4,Transition in PB4,Transition in PB4,Transition in PB4,Transition in PB4,Transition in PB4
+4I13/2 - 4I15/2,1530,710.063,52.41,1,1.408
+4F9/2 - 4I15/2,650,3855.198,0,1,0.259
+2H11/2 - 4I15/2,530,8920.355,0,1,0.112
+4G5/2 - 4I13/2,372,3761.399,0,1,0.265

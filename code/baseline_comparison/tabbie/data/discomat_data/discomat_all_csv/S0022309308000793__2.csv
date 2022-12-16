@@ -1,0 +1,14 @@
+Sample,Sample,LAS,LAS,BLAS,BLAS,BLAS,Silica glass
+Sample,Sample,(Precursor),(Glass-ceramic),(Precursor),(Glass-ceramic),(Glass-ceramic),Silica glass
+Nucleation temp. (degC),Nucleation temp. (degC),-,810,-,760,760,-
+Crystal growth temp. (degC),Crystal growth temp. (degC),-,880,-,830,830,-
+Pressure (MPa),Pressure (MPa),-,0.1,-,0.1,196,-
+,,,,,,,
+dn/dT(x10-6/degC),(+-0.3x10-6/degC),8.5,16.7,8.6,13.9,11.3,9.4
+n (@25degC),(+-0.00004),1.49771,1.51817,1.50227,1.51606,1.52041,1.44658
+a(x10-6/degC),(+-0.05x10-6/degC),3.48,-2.13,3.33,-0.95,0.26,0.52
+1/l *dS/dT(x10-6/degC),(+-0.3x10-6/degC),13.7,13.4,13.6,12.5,11.7,10.1
+,,,,,,,
+ph(x10-6/degC),(+-0.3x10-6/degC),24.9,20.6,24.5,19.8,19.0,19.9
+f(n),(+-0.00006),0.59,0.62,0.59,0.61,0.62,0.52
+n -3f(n),(+-0.00015),-0.26,-0.33,-0.28,-0.32,-0.34,-0.10

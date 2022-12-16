@@ -1,0 +1,14 @@
+Sample,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),L (mm day-1),Weathering durability,Appearance after putting in air for 150 days
+,P2O5,PbBr2,PbCl2,PbO,PbF2,,,
+1,30,20,50,,,7.9x10-5,A,"transparent, no visible change"
+2,30,30,40,,,9x10-5,A,"transparent, no visible change"
+7,40,,60,,,1.0x10-4,A,"transparent, no visible change"
+8,40,20,40,,,8.1x10-5,B,translucent
+9,40,30,30,,,1.9x10-4,B,translucent
+10,50,,50,,,3.0x10-3,C,translucent
+11,50,30,20,,,1.0x10-2,D,"powder, opaque"
+12,60,30,10,,,2.2x10-2,D,"powder, opaque"
+13,70,30,,,,5.6x10-2,D,"powder, opaque"
+3,28.5,28.5,38,5,,5x10-5,A,"transparent, no visible change"
+4,28.5,28.5,38,,5,9.8x10-5,A,"transparent, no visible change"
+5,28.5,28.5,38,2.5,2.5,1.1x10-4,A,"transparent, no visible change"

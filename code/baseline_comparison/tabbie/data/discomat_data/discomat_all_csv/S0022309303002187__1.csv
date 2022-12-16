@@ -1,0 +1,8 @@
+l (nm),n TE +-0.001,n TM +-0.001,Thickness mm +-0.1,Number of TE/TM modes
+Passive optical properties,Passive optical properties,Passive optical properties,Passive optical properties,Passive optical properties
+632.8,1.671,1.670,0.5,2/1
+543.5,1.679,1.678,0.5,2/2
+,,,,
+Peak (nm),FWHM (nm),t fit (ms),t 1/e  (ms),l exc (nm)
+Active optical properties,Active optical properties,Active optical properties,Active optical properties,Active optical properties
+1530,62+-4,2.3+-0.5,1.9+-0.5,514.5

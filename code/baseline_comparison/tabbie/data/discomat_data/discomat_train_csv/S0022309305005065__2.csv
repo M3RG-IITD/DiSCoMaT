@@ -1,0 +1,13 @@
+Sample,Glass phase,Wollastonite-2M,Ca2ZrSi4O12
+As-sprayed coating,++,None,None
+9-30 coating,++,Traces,Traces
+9-60 coating,++,Traces,Traces
+10-30 coating,+,++,++
+10-15 coating,+,++,++
+"Sintered, 1223K crystallization temperature",++,None,None
+"Sintered, 1323K crystallization temperature",+,++,++
+"Sintered, 1423K crystallization temperature",+,++,++
+Cast bulk glass,++,None,None
+"Bulk, 1223K crystallization temperature",++,None,None
+"Bulk, 1323K crystallization temperature",++,None,None
+"Bulk, 1423K crystallization temperature",+,++,++

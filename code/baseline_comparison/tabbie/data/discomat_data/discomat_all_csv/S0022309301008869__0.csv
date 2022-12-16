@@ -1,0 +1,6 @@
+Sample name,Nominal composition,Nominal composition,"Density, r",Ultrasonic velocity,Ultrasonic velocity,"Attenuation, a",Transition temperature T g
+Sample name,PbO (wt%),Bi2O3 (wt%),(kgm -3),U L ( ms -1 ),U S ( ms -1 ),(dBcm -1),(degC)
+PBB20,20,80,5602.3,4075,2333,0.999,258
+PBB30,30,70,5554.8,3928,2247,1.163,257
+PBB40,40,60,5472.1,3837,2161,1.239,256
+PBB50,50,50,6144.7,4013,2240,1.071,257

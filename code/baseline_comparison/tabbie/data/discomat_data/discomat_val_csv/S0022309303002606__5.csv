@@ -1,0 +1,7 @@
+Glass,Density (g/cm3),Density change (%)
+As-received,2.4929,-
+"As-received, 500 degC, 200 MPa",2.5003,0.30
+Annealed glass A,2.4966,-
+"Annealed glass A, 520 degC, 100 MPa, ~26 h",2.4984,0.072
+Annealed glass B,2.4968,-
+"Annealed glass B, 520 degC, no stress, ~26 h",2.4980,0.048

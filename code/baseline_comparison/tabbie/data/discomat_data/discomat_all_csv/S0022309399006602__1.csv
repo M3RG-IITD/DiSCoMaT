@@ -1,0 +1,14 @@
+,Temperature T (degC),Temperature T (degC),Temperature T (degC),Temperature T (degC),Temperature T (degC)
+,200,203,207,210,215
+Isothermal measurement,Isothermal measurement,Isothermal measurement,Isothermal measurement,Isothermal measurement,Isothermal measurement
+t (min),7.16,4.9,2.34,1.9,1.35
+t p (min),17.38,12.1,6.6,4.18,2.37
+DH i (J/g),5.43,11.09,10.0,8.34,8.45
+,,,,,
+Subsequent non-isothermal measurement,Subsequent non-isothermal measurement,Subsequent non-isothermal measurement,Subsequent non-isothermal measurement,Subsequent non-isothermal measurement,Subsequent non-isothermal measurement
+T on (degC),229.5,235.7,237.5,239.5,243
+T p (degC),249.3,257.7,259.3,262.4,267.1
+DH r (J/g),10.93,12.52,13.2,11.1,8.45
+Crystallized fraction x (%),52.9,46.0,43.1,52.1,63.6
+Avrami exponent n,2.54+-0.01,2.42+-0.01,2.57+-0.02,2.71+-0.02,2.40+-0.01
+Reaction rate constant K (min-1),0.061+-0.005,0.070+-0.005,0.12+-0.01,0.25+-0.01,0.58+-0.02

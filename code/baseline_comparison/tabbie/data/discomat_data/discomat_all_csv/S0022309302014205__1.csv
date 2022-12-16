@@ -1,0 +1,16 @@
+Composition,NP45,NP50,NP55,NP63
+Composition,x=46.5,x=51.7,x=56.3,x=62.8
+d iso MQMAS (ppm) +-2,84.1,83.1,83.0,81.6
+d iso static echo (ppm) +-6,91.3,89.6,90.3,90.1
+P Q MQMAS (MHz) +-0.2,4.1,4.2,4.3,4.4
+C Q static echo (MHz) +-0.2,4.8,4.8,4.8,4.8
+e static echo +-0.05,0.15,0.16,0.18,0.24
+Exp. NBO fraction (%) +-2,62.8,67.4,70.3,74.3
+Calc. NBO fraction (%),63,68,73,83.6
+d iso MQMAS (ppm) +-2,119.1,121.4,122.2,125.4
+d iso static echo (ppm) +-6,128.2,127.2,128.6,133.7
+P Q MQMAS (MHz) +-0.2,8.4,8.1,8.1,7.0
+C Q static echo (MHz) +-0.2,7.8,7.7,7.6,7.2
+e static echo +-0.05,0.35,0.36,0.38,0.45
+Exp. BO fraction (%) +-2,37.2,32.6,29.7,25.7
+Calc. BO fraction (%),37,32,27,16.4

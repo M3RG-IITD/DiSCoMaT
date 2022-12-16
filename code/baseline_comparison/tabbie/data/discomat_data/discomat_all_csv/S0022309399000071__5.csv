@@ -1,0 +1,13 @@
+M (kg/mol),B (Jm-3K),s (J/m2),s (J/m2),s (J/m2)
+M (kg/mol),B (Jm-3K),Small crystal,Large crystal,"Eq. (16), a=0.4"
+DG=DH mDT/T m,DG=DH mDT/T m,DG=DH mDT/T m,DG=DH mDT/T m,DG=DH mDT/T m
+0.292,1.176x1012,0.095,0.165,0.172
+0.585,1.176x1012,0.085,0.147,0.217
+,,,,
+DG=DH m TDT/T m 2,DG=DH m TDT/T m 2,DG=DH m TDT/T m 2,DG=DH m TDT/T m 2,DG=DH m TDT/T m 2
+0.292,1.358x1012,0.102,0.177,0.172
+0.585,1.358x1012,0.091,0.157,0.217
+,,,,
+DG=DH m DT/T m-DC pDT 2/2T m,DG=DH m DT/T m-DC pDT 2/2T m,DG=DH m DT/T m-DC pDT 2/2T m,DG=DH m DT/T m-DC pDT 2/2T m,DG=DH m DT/T m-DC pDT 2/2T m
+0.292,1.230x1012,0.097,0.168,0.172
+0.585,1.230x1012,0.087,0.151,0.217

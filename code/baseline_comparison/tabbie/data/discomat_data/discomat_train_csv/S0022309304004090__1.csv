@@ -1,0 +1,5 @@
+Sample,E  s  (eV) (27-64 degC) (T<T c),E  s  (eV) (100-140 degC) (T>T c)
+50 SISOVO-MM,0.27,0.30
+50 SISOVO-MQ,0.30,0.26
+60 SISOVO-MM,0.17,0.24
+67 SISOVO-MM,0.20,0.25

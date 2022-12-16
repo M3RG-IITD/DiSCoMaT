@@ -1,0 +1,7 @@
+Samples,Crystal phases of peak 1,Crystal phases of peak 2,Crystal phases of peak 3
+0.0,Li2Si2O5 (583degC),Li2SiO3 (617degC),-
+0.5,"Li2Si2O5, Li2SiO3 (609degC)",-,-
+1.0,"Li2Si2O5, Li2SiO3 (562degC)",Li3PO4 (695degC),-
+1.5,"Li2SiO3, Li2Si2O5 (545degC)",SiO2 (661degC),"Li2Si2O5, Li3PO4 (688degC)"
+2.0,Li2SiO3 (523degC),SiO2 (676degC),"Li2Si2O5, Li3PO4 (701degC)"
+2.5,Li2SiO3 (506degC),SiO2 (684degC),"Li2Si2O5, Li3PO4 (714degC)"

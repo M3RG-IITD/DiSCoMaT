@@ -1,0 +1,19 @@
+Q,Name,Symbol,Unit,d Range (ppm)
+31P,31P,31P,31P,31P
+3,Branching,P   0 B   3,OP(PO)3,-35/-40
+,,P   1 B   3,OP(PO)2(OB),-25
+,,P   2 B   3,OP(PO)(OB)2,-13/-15
+4,,P   4 B   4,P(OB)4,-30/-34
+2,Middle,P   0 B   2,OP(OP)2O-,-15/-28
+2,,P   1 B   2,OP(OP)(OB)O-,-10/-18
+2,,P   2 B   2,OP(OB)2O-,-2/-9
+1,End,P   0 B   1,OP(OP)O2 2-,6/-5
+1,,P   1 B   1,OP(OB)O2 2-,14/4
+0,Monomer,P   0 B   0,OPO3 3-,25/10
+,,,,
+11B,11B,11B,11B,11B
+4,Branching,B   3 P   4,B(OP)3(OB),-2/-3
+4,,B   2 P   4,B(OP)2(OB)2,-1/-0.4
+4,,B   1 P   4,B(OP)(OB)3,0.3/-0.4
+4,,B   4 P   4,B(OP)4,-3/-4
+3,,B   3 P   3,B(OP)3,17/18

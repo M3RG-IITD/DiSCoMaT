@@ -1,0 +1,10 @@
+Glass sample,Precursor type,Mn2O3 concentration (mol%),T (degC),t (min),Probable Mn valence state
+S1,NH4H2PO4,1,1300,30,Mn2+
+S2,P2O5,2,1300,30,"Mn2+, Mn3+"
+S3,NH4H2PO4,2.5,1300,80,"Mn2+, Mn3+"
+S4,NH4H2PO4,5,1300,80,"Mn2+, Mn3+"
+S5,NH4H2PO4,10,1300,80,"Mn2+, Mn3+"
+S6,NH4H2PO4,20,1300,80,"Mn2+, Mn3+"
+S7,P2O5,10,1100,30,"Mn2+, Mn3+"
+S8,NH4H2PO4,10,1300,20,"Mn2+, Mn3+"
+S9,NH4H2PO4,10,1300,30,Mn2+

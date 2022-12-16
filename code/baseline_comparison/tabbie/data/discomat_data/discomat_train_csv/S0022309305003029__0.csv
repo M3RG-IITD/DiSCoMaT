@@ -1,0 +1,7 @@
+Heating rate (degC/min),First peak,First peak,Second peak,Second peak,Third peak,Third peak
+Heating rate (degC/min),Onset (degC),Peak (degC),Onset (degC),Peak (degC),Onset (degC),Peak (degC)
+2.5,249.8,253.6,269.3,286.2,-,295.2
+5,253.1,259.0,276.6,293.8,298.3,305.3
+10,258.8,263.4,276.7,297.0,304.7,312.9
+20,264.6,267.6,276.8,286.6,306.4,323.6
+40,268.5,272.8,282.9,290.0,310.9,333.8

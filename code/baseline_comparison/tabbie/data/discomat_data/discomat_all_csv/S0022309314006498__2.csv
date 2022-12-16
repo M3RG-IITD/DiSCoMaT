@@ -1,0 +1,20 @@
+Sample notation,Other ID,R =Ga/(Ga+La),GeS2,Ga2S3,La2S3,MS,M,Precursor,Furnace,T melt (degC),Quench
+GaLS72-10Ca-f*,GC1a,0.72,0,65,25,10,Ca,Sulfides,Box,1200,Furnace
+GaLS72-10Ca-w,GC1b,0.72,0,65,25,10,Ca,Sulfides,Box,1200,Water
+GaLS72-10Ca-a,GC1c,0.72,0,65,25,10,Ca,Sulfides,Box,1200,Air
+GaLS72-10Ca-wc,GC1d,0.72,0,65,25,10,Ca,Sulfides,Box,1200,Water (800degC-)
+GaLS72-10Zn-a,GC3a,0.72,0,65,25,10,Zn,Sulfides,Box,1200,Air
+GaLS72-a,GC2a,0.72,0,72.2,27.8,0,,Sulfides,Box,1200,Air
+GaLS70-f,GC4a,0.70,0,70,30,0,,Sulfides,Box,1200,Furnace
+GaLS70-a,GC4b,0.70,0,70,30,0,,Sulfides,Box,1200,Air
+GaLS65-20Ca-w#,GC6a,0.65,0,52,28,20,Ca,Sulfides,Box,1200,Water
+GaLS65-20Ca-f,GC6b,0.65,0,52,28,20,Ca,Sulfides,Box,1215,Furnace
+GaLS65-20Ca-a,GC6c,0.65,0,52,28,20,Ca,Sulfides,Box,1300,Air
+,,,,,,,,,,,
+,,Ge/La,,,,,,,,,
+GeLS-1100-a,GC5a,0.61,55,0,45,0,,Sulfides,Box,1100,Air
+GeLS-900-a,GC5b,0.61,55,0,45,0,,Sulfides,Box,900,Air
+GGLS-15CdS-e-w,GC7a,2.33,70,15,0,15,Cd,Elements,Rocking,1050,Water
+GGLS-15CdS-s-w,GC8a,2.33,70,15,0,15,Cd,Sulfides,Box,1050,Water
+GGLS-5CdS-e-w,GC10a,9.0,90,5,0,5,Cd,Elements,Rocking,1050,Water
+GGLS-5CdS-e-a,GC10b,9.0,90,5,0,5,Cd,Sulfides,Box,1050,Air

@@ -1,0 +1,9 @@
+Reaction,DH (kJ/mol)
+"(1) aAl 2 O 3*bB 2 O 3*cGd 2 O 3*dNa 2 O*(1-a-b-c-d)SiO 2(glass,298 K)-aAl 2 O 3(dissolved,976 K)+(bB 2 O 3(dissolved,976 K)+cGd 2 O 3(dissolved,976 K)+dNa 2 O(dissolved,976 K)+(1-a-b-c-d)SiO 2(dissolved,976 K)",DH 1
+"(2)  Al 2 O 3(crystal,298 K)-Al 2 O 3(dissolved,976 K)",108.1+-0.9     b
+"(3)  B 2 O 3(crystal,298 K)-B 2 O 3(dissolved,976 K)",36.5+-0.55     b
+"(4)  Gd 2 O 3(crystal,298 K)-Gd 2 O 3(dissolved,976 K)",7.94+-3.4
+"(5)  Na 2 O(crystal,298 K)-Na 2 O(dissolved,976 K)",-113.1+-0.8
+"(6)  SiO 2(a-quartz,298 K)-SiO 2(dissolved,976 K)",
+,
+"aAl 2 O 3(crystal,298 K)+bB 2 O 3(crystal,298 K)+cGd 2 O 3(crystal,298 K)+dNa 2 O(crystal,298 K)+(1-a-b-c-d)SiO 2(a-quartz,298 K)-aAl 2 O 3*bB 2 O 3*cGd 2 O 3*dNa 2 O*(1-a-b-c-d)SiO 2(glass,298 K)DH=-DH1+a*DH2+b*DH3+c*DH4+d*DH5+(1-a-b-c-d)*H6",38.50+-0.1

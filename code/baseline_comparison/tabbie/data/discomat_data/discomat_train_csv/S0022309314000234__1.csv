@@ -1,0 +1,4 @@
+Heating rate (degC/min),n,Mechanism,DT (K)
+10,2.142,Bulk nucleation,46
+15,2.351,Bulk nucleation,43
+20,2.632,Bulk nucleation,39

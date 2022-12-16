@@ -1,0 +1,14 @@
+Property,Value
+l exc/transition,960nm/2F7/2 - 2F5/2
+Emission peak/transition,612nm/5D0 - 7F2
+Luminescence branching ratios (5D0 - 7FJ),0.092 (J =1)
+Luminescence branching ratios (5D0 - 7FJ),0.550 (J =2)
+Luminescence branching ratios (5D0 - 7FJ),0.352 (J =4)
+Asymmetry parameter R,8
+Lifetime of 5D0 state,1550ms (measured)
+Lifetime of 5D0 state,1595ms (radiative)
+CIE coordinates,"x =0.636, y =0.363"
+Color,Reddish-orange
+Dominant wavelength/purity,604nm/98%
+"Efficiency of energy transfer, 2Yb3+ -Eu3+",10+-1%
+Judd-Ofelt parameters,"O 2 =9.6, O 4 =16.5, O 6 =3.1 [10-20 cm2]"

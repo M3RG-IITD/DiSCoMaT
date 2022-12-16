@@ -1,0 +1,5 @@
+Sample,"10B(p,ag)8Be g 429 keV","23Na(p,p ' g )23Na g 439 keV","7Li(p,p ' g )7Li g 478 keV","23Na(p,ag)20Ne g 1634 keV"
+Reference,2000,684,6542,124
+pH 7,1378,250,2259,46
+pH 12,1822,500,5257,121
+pH 0,392,208,262,32

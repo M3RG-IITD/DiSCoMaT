@@ -1,0 +1,6 @@
+Sample,(Tand)max (+-0.001),Temp. region of relaxation (degC),Spreading factor a (rads),AE for dipoles (+-0.01) eV
+LSGPb,0.048,112-147,0.30,2.75
+LSGZn,0.046,127-158,0.29,3.31
+LSGBa,0.043,132-160,0.27,3.72
+LSGSr,0.041,147-172,0.24,4.45
+LSGCa,0.039,158-179,0.21,4.52

@@ -1,0 +1,11 @@
+,Minimum allowable distance (nm)
+Li-Li,0.24
+Li-Ge,0.30
+Li-NBS,0.22
+Li-BS,0.29
+Ge-Ge,0.33
+Ge-NBS,0.20
+Ge-BS,0.20
+NBS-NBS,0.31
+NBS-BS,0.31
+BS-BS,0.29

@@ -1,0 +1,12 @@
+Goal,Test/sample,Ee(B) (nm),r AS (gcm-3),e R (nm),r R (gcm-3),Remarks,Figures
+Comparison of data from different techniques,1,280 [16],0.7,220,1.3,200<e MEB<230 nm,1 and 2
+,,,,,,,
+Crystalline phases influence on reflectivity signal,2,482,1.3,-,1.4,SON 68 glass alteration film,3
+Crystalline phases influence on reflectivity signal,3,467,0.3,-,2.2,Simplified glass alteration film,3
+,,,,,,,
+Drying influence,4a,54,-,46,1.1,Hypercritical drying,4
+Drying influence,4b,54,-,36,1.4,50 degC drying,4
+,,,,,,,
+XRR versus solution sampling,5,-,-,nd,2.5,Sampling possible,5
+XRR versus solution sampling,6,250,2.0,130+-15,2.3,m AS=500x10-7 gcm-2,5
+,,,,,,m R=300+-35x10-7 gcm-2,

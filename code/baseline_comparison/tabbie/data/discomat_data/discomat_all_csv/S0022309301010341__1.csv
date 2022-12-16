@@ -1,0 +1,16 @@
+,# Bonds,E AB (kJ/mol),Energy (kJ/mol)
+Glass-A,Glass-A,Glass-A,Glass-A
+Se-Ge,0.5,234,117
+Te-Ge,0.5,192,96
+Ge-Ge,0.5,186,93
+,,,
+,,,
+Total,1.5,,306
+,,,
+Glass-B,Glass-B,Glass-B,Glass-B
+Se-Ge,1.04,234,244
+InIV-SeIII,0.18,196,35
+InIV-Se,0.06,196,12
+Se-Se,0.07,227,16
+,,,
+Total,1.35,,307

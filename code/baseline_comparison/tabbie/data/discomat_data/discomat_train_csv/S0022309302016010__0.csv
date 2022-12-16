@@ -1,0 +1,6 @@
+Sample,Composition (wt%),Composition (wt%),Composition (wt%),Composition (wt%),Composition (wt%),Length (mm)
+Sample,Tb2O3,Eu2O3,Gd2O3,BaO,PbO,Length (mm)
+#1,10,-,3,36,-,20
+#2,10,-,3,25,-,20
+#3,10,-,3,15,20,20
+#4,-,10,3,36,-,20

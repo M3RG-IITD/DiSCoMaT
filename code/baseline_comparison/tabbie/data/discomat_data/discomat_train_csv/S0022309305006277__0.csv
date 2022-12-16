@@ -1,0 +1,15 @@
+Sample label,R2O3 'as batched',Chemical analysis,Chemical analysis,Chemical analysis,Method of analysis,Mass density (g/cm3),Melt temp. (degC),Crucible material,Reference
+Sample label,R2O3 'as batched',R2O3,P2O5,SiO2,Method of analysis,Mass density (g/cm3),Melt temp. (degC),Crucible material,Reference
+LaP25,0.25,0.253,0.747,0.0,Wet chem,3.223+-0.006,1560,Platinum,[9]
+PrP25,0.25,-,-,-,,,1280-1450,Alumina,[23]
+NdP25,0.25,-,-,-,,,1280-1450,Alumina,[23]
+SmP25,0.25,-,-,-,,,1250-1350,Silica,
+GdP25,0.25,0.233,0.711,0.056,EDAX,3.380+-0.001,1250-1350,Silica,
+DyP25,0.25,-,-,-,,,1280-1450,Alumina,[23]
+YP25,0.25,-,-,-,,2.953+-0.001,1280-1450,Alumina,[23]
+ErP25,0.25,-,-,-,,,1250-1350,Silica,
+YbP25,0.25,0.26,0.66,0.080,EDAX,3.536+-0.001,1250-1350,Silica,
+NdP15,0.15,0.130,0.850,0.020,EDAX,,1000-1200,Silica amp.,
+SmP15,0.15,0.152,0.826,0.022,EDAX,,1000-1200,Silica amp.,
+GdP10,0.10,0.098,0.902,0.000,EDAX,,1000-1200,Silica amp.,
+GdP15,0.15,0.129,0.818,0.053,EDAX,,1000-1200,Silica amp.,

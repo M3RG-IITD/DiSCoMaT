@@ -1,0 +1,4 @@
+Sample,H (GPa)+-0.3,E (GPa)+-3,H/E,h max (nm),h f (nm),h f/h max,%R =[(h max - h f)/h max * 100]
+As-cast,6.96,106.1,0.0656,204.72,153.32,0.749,25
+Ion irradiated 30min,7.42,108.7,0.0683,198.65,143.97,0.725,27
+Ion irradiated 60min,9.95,132.6,0.0750,178.8,122.30,0.684,30

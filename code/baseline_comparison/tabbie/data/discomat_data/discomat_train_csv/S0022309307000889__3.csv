@@ -1,0 +1,18 @@
+Code,U   m   '    ( kcal /   cm   3   ),E theort. (GPa),E expt (GPa),D =4G/K,s theort.,s expt
+NBP series,NBP series,NBP series,NBP series,NBP series,NBP series,NBP series
+NBP1,11.23,92.22,61.51,2.85,0.36,0.21
+NBP2,8.76,59.46,48.82,2.67,0.33,0.23
+NBP3,6.61,36.00,40.55,2.15,0.29,0.27
+NBP4,5.01,22.67,54.79,2.28,0.24,0.26
+,,,,,,
+NBB series,NBB series,NBB series,NBB series,NBB series,NBB series,NBB series
+NBB1,8.14,49.79,62.92,2.41,0.30,0.25
+NBB2,6.65,35.67,56.84,2.27,0.27,0.26
+NBB3,5.35,25.11,51.61,2.14,0.23,0.27
+NBB4,4.46,19.10,62.92,2.29,0.19,0.27
+,,,,,,
+NBT series,NBT series,NBT series,NBT series,NBT series,NBT series,NBT series
+NBT1,8.62,60.68,55.18,2.12,0.33,0.27
+NBT2,7.52,56.09,50.03,2.37,0.34,0.25
+NBT3,6.29,48.49,46.88,2.31,0.35,0.26
+NBT4,5.02,39.12,43.94,2.08,0.35,0.28

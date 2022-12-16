@@ -1,0 +1,5 @@
+Glass,T g +-2 (degC),T x +-5 (degC),T L +-5 (degC)
+ZBLANPb (core),256 (254),331 (335),474 (473)
+ZBLAN (clad.),267 (263),355 (358),472 (472)
+ZBLALiYPb (core),255 (258),346 (314),507 (-)
+HBLANY (clad.),280 (281),385 (358),470 (-)

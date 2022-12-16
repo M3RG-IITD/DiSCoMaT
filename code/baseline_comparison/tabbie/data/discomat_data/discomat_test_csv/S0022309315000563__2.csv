@@ -1,0 +1,8 @@
+Nuclear property,11B,29Si
+Nuclear spin,3/2,1/2
+Larmor frequency [MHz],160.4,99.4
+RF pulse intensity [kHz],66,50
+Repetition times,64,1000
+Flip angle [rad],p/6,p/2
+Delay time [s],5,20
+Spinning rate [kHz],16,16

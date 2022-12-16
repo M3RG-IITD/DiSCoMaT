@@ -1,0 +1,10 @@
+Glass,Temperature (degC),Coefficient diffusion +-5% (10-14 m2/s),Activation energy +-0.1 (104 J/mol),Reference
+Soda-lime,374,0.70,9.1,[18]
+Borosilicate,615,0.26,9.1,[19]
+BK-7,320,0.03,9.8,[20]
+Phosphate,355,61.90,8.2,[21]
+Tellurite,330,0.06,20.8,[22]
+Tellurite,330,0.10,-,[16]
+WNTEr05,330,0.09,-,[17]
+Silica,325,0.08,-,[23]
+Tellurite (our glass),280,0.01,1.3,-

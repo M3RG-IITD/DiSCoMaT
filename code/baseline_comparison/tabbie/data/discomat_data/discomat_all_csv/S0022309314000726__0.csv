@@ -1,0 +1,6 @@
+Sample,SAXRD,SAXRD,N2 adsorption-desorption,N2 adsorption-desorption,N2 adsorption-desorption
+Sample,"d 100, nm","a 0, nm","Surface area, m2 g-1","Pore volume, cm3 g-1","Pore size, nm"
+MBG-nHA0,6.52,7.53,395.33+-2.52,0.518+-0.006,5.2+-0.10
+MBG-nHA350,6.48,7.48,375.67+-2.51,0.539+-0.006,5.23+-0.06
+MBG-nHA500,6.45,7.45,354.20+-2.72,0.506+-0.007,5.10+-0.10
+MBG-nHA700,6.29,7.26,327.90+-3.21,0.478+-0.008,4.87+-0.06

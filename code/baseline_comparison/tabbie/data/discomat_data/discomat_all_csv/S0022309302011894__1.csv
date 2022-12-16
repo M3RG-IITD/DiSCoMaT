@@ -1,0 +1,7 @@
+Composition,Structure,N c,P (GPa),r exp (gcm-3),r calc (gcm-3)
+BaF2,Fluorite,8,P 0,4.828 [35],4.502
+,PbCl2,9,4.6,6.050 [36],5.265
+,Ni2In,11,20.5,6.733 [36],6.198
+,,,,,
+NaF,Rock-salt,6,P 0,2.828 [35],2.931
+,CsCl,8,30.0,4.217 [37],4.025

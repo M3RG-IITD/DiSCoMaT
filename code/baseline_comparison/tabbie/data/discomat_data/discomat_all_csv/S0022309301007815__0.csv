@@ -1,0 +1,8 @@
+x,Sample,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),r(g/cm -1) (+-0.005),T g (degC) (+-3),T c (degC) (+-3),Phase formed in glass-ceramics
+,,Na2O,ZrO2,SiO2,P2O5,r(g/cm -1) (+-0.005),T g (degC) (+-3),T c (degC) (+-3),Phase formed in glass-ceramics
+3.00,G1,33.33,16.67,50.00,-,2.9498,675,786,P+NS
+,,,,,,,,841,P+NC+NS
+2.75,G2,32.10,18.54,47.21,2.15,2.9107,755,827,P
+,,,,,,,,851,P+Un
+2.50,G3,30.92,20.49,44.17,4.42,2.9036,818,913,P+Un
+2.25,G4,29.54,22.73,40.91,6.82,2.8902,857,910,P+NC

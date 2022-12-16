@@ -1,0 +1,11 @@
+Bond,Bond energy(kcal/mol),Relative probability(at T=298.15K)
+Ag-Se,53.37,1
+Ge-Se,49.44,0.226
+Sb-Se,43.98,0.026
+Se-Se,44.04 [1],0.027
+Ag-Ge,38.85,3.71x10-3
+Ag-Ag,39.75 [22],5.08x10-3
+Ge-Ge,37.6 [1],2.37x10-3
+Ag-Sb,35.09,8.33x10-4
+Ge-Sb,33.76,5.12x10-4
+Sb-Sb,30.22 [1],1.26x10-4

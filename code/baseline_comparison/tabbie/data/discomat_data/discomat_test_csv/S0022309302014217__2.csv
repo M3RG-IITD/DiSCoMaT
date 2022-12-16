@@ -1,0 +1,9 @@
+Glass,800,850,900,950,1000
+B-Glass,A,A,A,A,W
+V-0.1,A,A,A,A W (traces),W
+V-0.3,A,A,A,"Glass phase W, CZS","W, CZS"
+V-0.5,A,A,A,"Glass phase W, CZS","CZS, W"
+V-0.7,A,A,"Glassy phase W, CZS","W, CZS","CZS, W"
+V-1.0,A,A,"Glassy phase W, CZS","CZS, W","CZS, W"
+V-2.0,A,A,"CZS, PW","CZS, PW","CZS, PW"
+V-5.0,A,"CZS, PW","CZS, PW","CZS, PW","CZS, PW"

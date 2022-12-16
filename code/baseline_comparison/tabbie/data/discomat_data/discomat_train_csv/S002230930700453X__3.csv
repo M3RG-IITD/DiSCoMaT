@@ -1,0 +1,6 @@
+Reaction,Enthalpy
+"(1) PbO (s, 25degC)-PbO (sol, 807degC)",DH 1 =DH ds (PbO)
+"(2) PbSO4 (s, 25degC)-PbO (sol, 807degC)+SO3 (sol, 807degC)",DH 2 =DH ds (PbSO4)
+"(3) PbO (s, 25degC)+SO3 (g, 25degC)-PbSO4 (s, 25degC)",DH 3 =D    H   f   o     (PbSO4)
+"(4) SO3 (g, 25degC)-SO3 (sol, 807degC)",DH 4 =DH ds (SO3)
+DH ds (SO3)=-DH 1 +DH 2 +DH 3,

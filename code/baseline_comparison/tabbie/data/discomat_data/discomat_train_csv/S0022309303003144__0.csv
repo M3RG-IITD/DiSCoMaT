@@ -1,0 +1,6 @@
+dc measurements,dc measurements,dc measurements,ac measurements,ac measurements,ac measurements,ac measurements,ac measurements
+Sample,s dc x10-6 (300 K) (Om)-1,E a(dc) (kJ/mol),s ac x10-6 (300 K) (Om)-1,E a(ac) (kJ/mol),M '' peak (K),e ' (300 K-1 kHz),t  M  x10-5 (s)
+A,13.17,52+-0.5,13.57,69+-0.3,275,102,1.83
+B,7.69,53+-0.3,10.56,67+-0.1,275,81,2.00
+C,4.61,53+-0.4,10.09,60+-0.6,275,78,3.48
+D,0.41,44+-0.7,2.29,42+-0.3,303,62,18.00

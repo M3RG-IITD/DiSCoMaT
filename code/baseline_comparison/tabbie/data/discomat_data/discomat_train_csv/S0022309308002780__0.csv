@@ -1,0 +1,16 @@
+"Ribbon annealed at 400degC, milled at 150rpm",Milling time (h)
+REC_1,5
+REC_2,10
+REC_3,15
+,
+"Ribbon as-quenched, milling time 5h",Milling speed
+ASQ_1,150
+ASQ_2,200
+,
+"Ribbon annealed at 400degC, milling time 5h",
+REC_1,150
+REC_4,200
+,
+"Ribbon annealed at 515degC, milling time 5h",
+NAN_1,150
+NAN_2,200

@@ -1,0 +1,36 @@
+Parameters of analyses and quantities under determination,Their values for glasses,Their values for glasses
+Parameters of analyses and quantities under determination,G1,G2
+"Number of micrographs, L",7,6
+,,
+"Number of traces analysed, N",4758,2576
+,,
+"Volume fraction of particles, V p",,
+"(a) as area fraction of traces, V t",0.047+-0.004,0.065+-0.002
+"(b) as a result of calculation of radius distribution of particles, V p",0.048,0.0667
+,,
+"Number density of traces n t, 108 cm-2",44+-6,23+-3
+Characteristics of radii of traces,,
+"Sample average r a, nm",17.7+-0.9,28.8+-1.5
+"Sample standard deviation s  r , nm",5.0,7.7
+s  r /r a,0.28,0.27
+,,
+"Number density of particles n p, 1015 cm-3",1.2,0.38
+Characteristics of radius distribution of particles,,
+"Mean value R a, nm",20.7,33.8
+"Standard deviation s  R , nm",4.0,6.0
+s  R /R a,0.19,0.18
+,,
+Characteristics of sample of nearest neighbor distances for traces,,
+Number of elements,3772,1988
+"Sample average r a, nm",90+-5,125+-6
+"Sample standard deviation s  r , nm",31,42
+s  r /r a,0.35,0.34
+,,
+Parameters of calculation of PCF histogram for traces,,
+"Maximum intertrace distance r  g , nm",174 (50pxl),198 (50pxl)
+Number of traces in ensemble A  g  for averaging,4064,2218
+"Step of histogram Dr, nm",17.4 (5pxl),19.8 (5pxl)
+,,
+Parameters of Gaussian-kernel estimation of PCF for traces,,
+"Maximum intertrace distance r  g , nm",157 (45pxl),178 (45pxl)
+Number of traces in ensemble A  gh  for averaging,4041,2189

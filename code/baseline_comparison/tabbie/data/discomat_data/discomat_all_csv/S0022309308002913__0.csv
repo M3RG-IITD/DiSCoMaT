@@ -1,0 +1,5 @@
+Kinetic parameters,"Relation among v 1, v 2 and t"
+r   2       r   1,1   1 + d / m        N   0   exp    -     Q   N     RT      t         N   *
+K  n,g   u   0     d   m       (   d   m   + 1   )     1   1 + (   v   2   /   v   1     )   - 1                  N   *      1 +     r   2       r   1              1   1 +     v   2       v   1         x       N   0      1 +         r   2       r   1         - 1            1   1 +         v   2       v   1         - 1
+n,d   m   +   1   1 + (   v   2   /   v   1     )   - 1
+Q,d   m     Q   G   +   1   1 + (   v   2   /   v   1     )   - 1       Q   N              d   m   +   1   1 + (   v   2   /   v   1     )   - 1

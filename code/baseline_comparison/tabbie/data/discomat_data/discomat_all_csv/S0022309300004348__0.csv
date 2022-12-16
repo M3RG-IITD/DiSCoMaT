@@ -1,0 +1,4 @@
+Sample,Chlorine content (ppm),OH content (ppm),Metallic impurities (ppb),Fictive temperature (degC)
+F300s,1000,<1,<10,1353+-11
+F300vlc,500,<1,<10,1302+-23
+F310,<50,433*,<10,1236+-17

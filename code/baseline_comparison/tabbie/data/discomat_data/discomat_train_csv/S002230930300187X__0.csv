@@ -1,0 +1,10 @@
+Glass,Composition by batch/mol%,Composition by batch/mol%,Composition by batch/mol%,Composition by analysis/mol%,Composition by analysis/mol%,Composition by analysis/mol%,T g (degC),T f (degC),ax10-7 (degC-1)
+Glass,P2O5,TeO2,ZnO,P2O5,TeO2,ZnO,T g (degC),T f (degC),ax10-7 (degC-1)
+a,10.0,30.0,60.0,11.9,30.9,57.2,432.6,465.3,111.3
+b,10.0,20.0,70.0,11.7,41.1,47.2,392.0,427.0,118.8
+c,10.0,10.0,80.0,16.3,54.5,29.2,371.0,401.3,139.2
+d,20.0,50.0,30.0,20.4,48.9,30.8,378.5,411.6,117.7
+e,20.0,40.0,40.0,22.4,44.7,33.0,377.1,416.6,114.6
+f,20.0,30.0,50.0,23.4,37.6,38.9,382.1,414.2,131.1
+g,20.0,20.0,60.0,23.2,36.8,40.0,388.4,435.2,113.0
+h,20.0,10.0,70.0,24.9,31.4,43.7,391.0,435.2,105.7

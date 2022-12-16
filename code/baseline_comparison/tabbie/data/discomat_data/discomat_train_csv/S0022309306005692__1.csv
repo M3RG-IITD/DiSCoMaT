@@ -1,0 +1,20 @@
+Compound,Valence,Coordination geometry,Bond distances,Pre-edge peak energy/eV
+CuCr2O4,II(d9),CuO4 tetrahedra,4x1.91A,8975.8
+CuAl2O4,II(d9),CuO4 tetrahedra+CuO6 octahedra,Cu1: 4x1.91A,8975.8
+,,CuO4 tetrahedra+CuO6 octahedra,Cu2: 6x1.93A,
+,,,,
+CuFe2O4,II(d9),CuO6 octahedra,4x2.12A,8976.3
+,,CuO6 octahedra,2x2.18A,
+,,,,
+Cu(OH)2,II(d9),CuO6 octahedra,4x1.96A,8976.5
+,,CuO6 octahedra,1x2.36A,
+,,CuO6 octahedra,1x2.92A,
+,,,,
+CuO,II(d9),CuO4 square-planer,4x1.95A,8977.0
+Cu2O,I(d10),CuO2 linear,2x1.85A,N/A
+CuFeO2,I(d10),CuO2 linear,2x1.85A,N/A
+Ca30Na20P45Cu(II)5,-,-,-,8976.3
+Ca30Na15P45Cu(II)10,-,-,-,8976.3
+Ca30Na20P45Cu(I)2.5,-,-,-,8976.2
+Ca30Na15P45Cu(I)5,-,-,-,8976.3
+Ca30Na15P45Cu(I)10,-,-,-,8976.3

@@ -1,0 +1,7 @@
+Glass,Temperature (degC),Temperature (degC),Temperature (degC),Temperature (degC),Temperature (degC),Temperature (degC)
+Glass,810,850,880,930,1020,1100
+A,-,G,-,G,"G, (sp+mull)","G, (sp|+mull)"
+B,-,G,-,G,"G, (sp+mull)","G, (sp|+mull)"
+C,G,-,G,-,"G, (sp+mull)","G, (sp|+mull)"
+D,-,G,-,G,"G, (sp+mull|)","G, (sp|+mull)"
+E,G,-,G,-,"G, (sp+mull|)","G, (sp|+mull)"

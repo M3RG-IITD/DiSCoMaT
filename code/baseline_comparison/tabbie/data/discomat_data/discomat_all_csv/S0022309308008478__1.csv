@@ -1,0 +1,29 @@
+Vibration mode,Mode number,Frequency,Intensity,Intensity,Depolarization ratio
+Vibration mode,Mode number,Frequency,IR,Raman,Depolarization ratio
+"TeOTe linkage between two fourfold coordinated tellurium atoms,     TeO   4    : antisymmetric stretching of TeO bonds",(1),645,9.8,29.9,0.196
+"TeOTe linkage between two fourfold coordinated tellurium atoms,     TeO   4    : antisymmetric stretching of TeO bonds",(2),620,15.4,6.3,0.703
+,,,,,
+"TeOTe linkage between fourfold coordinated tellurium atom,     TeO   4    , and threefold coordinated tellurium atom,   O    TeO   2    : antisymmetric stretching of TeO bonds",(3),625,8.7,3.5,0.263
+"TeOTe linkage between fourfold coordinated tellurium atom,     TeO   4    , and threefold coordinated tellurium atom,   O    TeO   2    : antisymmetric stretching of TeO bonds",(4),545,6.5,3.1,0.472
+,,,,,
+"TeOTe linkage between two threefold coordinated tellurium atoms,   O    TeO   2    : antisymmetric stretching of TeO bonds",(5),545,15.1,9.4,0.750
+"TeOTe linkage between two threefold coordinated tellurium atoms,   O    TeO   2    : antisymmetric stretching of TeO bonds",,,,,
+TeOMo linkage: antisymmetric stretching of TeO and MoO bonds,(6),705,8.3,129.0,0.305
+TeOMo linkage: antisymmetric stretching of TeO and MoO bonds,(7),615,36.1,64.7,0.253
+TeOMo linkage: antisymmetric stretching of TeO and MoO bonds,(8),665,5.3,64.4,0.273
+,,,,,
+"MoOMo linkage between two sixfold coordinated molybdenum atoms,   O    MoO   5     or   2 [ O    MoO   5   ]  : antisymmetric stretching of MoO bonds",(9),850,20.9,114.9,0.298
+,,,,,
+"MoOMo linkage between two paired sixfold coordinated molybdenum atoms,   2 [ O    MoO   5   ]  : antisymmetric stretching of MoO bonds",(10),705,14.4,0.2,0.133
+"MoOMo linkage between two paired sixfold coordinated molybdenum atoms,   2 [ O    MoO   5   ]  : antisymmetric stretching of MoO bonds",(11),675,0.1,21.1,0.140
+"MoOMo linkage between two paired sixfold coordinated molybdenum atoms,   2 [ O    MoO   5   ]  : antisymmetric stretching of MoO bonds",(12),505,0.0,66.6,0.250
+"MoOMo linkage between two paired sixfold coordinated molybdenum atoms,   2 [ O    MoO   5   ]  : antisymmetric stretching of MoO bonds",(13),430,8.2,0.0,0.125
+,,,,,
+"TeO double bond stretching in threefold coordinated tellurium atom,   O    TeO   2",(14),765,1.2,22.6,0.124
+,,,,,
+"MoO double bond in single sixfold coordinated molybdenum atom,   O    MoO   5",(15),945,2.5,78.2,0.131
+,,,,,
+"MoO double bonds in paired sixfold coordinated molybdenum atoms,   2 [ O    MoO   5   ]",(16),935,3.1,41.5,0.125
+"MoO double bonds in paired sixfold coordinated molybdenum atoms,   2 [ O    MoO   5   ]",(17),925,4.5,27.9,0.123
+,,,,,
+Complete-symmetry vibrations of     TeO   4     trigonal bipyramids,(18),730,2.9,2.5,0.645

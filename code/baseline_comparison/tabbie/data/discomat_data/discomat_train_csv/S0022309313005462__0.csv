@@ -1,0 +1,11 @@
+"Sol-gel formulation (weight ration, g)",The quantity of BSA loaded on silica surface (mg/g)
+Base-catalyzed gels,Base-catalyzed gels
+TEOS:BSA=4:0.02,17
+TEOS:BSA=4:0.04,35
+TEOS:BSA=4:0.06,52
+TEOS:BSA=4:0.08,70
+,
+Acid/base-catalyzed gels,Acid/base-catalyzed gels
+TEOS:APTMS:BSA=4:0.86:0.08,48
+TEOS:APTMS:BSA=4:0.86:0.1,60
+TEOS:APTMS:BSA=4:0.86:0.12,70

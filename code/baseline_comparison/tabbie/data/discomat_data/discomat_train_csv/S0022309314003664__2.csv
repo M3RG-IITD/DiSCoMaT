@@ -1,0 +1,10 @@
+Sample code,Glass transitiontemperature(degC),Glass transitiontemperature(degC),Crystallization temperature(degC),Crystallization temperature(degC),Liquidus temperature(degC),Liquidus temperature(degC),Liquidus temperature(degC)
+Sample code,Tg1,Tg2,Tc1,Tc2,Tm1,Tm2,Tm3
+15BTe,339,-,427,-,682,706,-
+20BTe,352,-,447,491,684,689,696
+25BTe,355,-,445,463,686,691,-
+30BTe,366,-,474,-,685,-,-
+5Al-10BTe,346,-,446,499,690,-,-
+10Al-10BTe,330,371,493,-,751,-,-
+20Al-10BTe,331,400,616,-,789,-,-
+30Al-10BTe,335,399,635,-,809,-,-

@@ -1,0 +1,12 @@
+Sample,Composition,Composition,Composition,Composition,Composition,Composition,Composition,Composition,Addition
+Sample,Bi2O3,B2O3,BaO,ZnO,SiO2,CaO,MgO,Al2O3,CuO
+B1,21.5,35,28,15.5,-,-,-,-,-
+,,,,,,,,,
+B1-Cu001,21.5,35,28,15.5,-,-,-,-,0.001
+B1-Cu005,21.5,35,28,15.5,-,-,-,-,0.005
+B1-Cu01,21.5,35,28,15.5,-,-,-,-,0.01
+B1-Cu02,21.5,35,28,15.5,-,-,-,-,0.02
+,,,,,,,,,
+B2,43,18,19,13,2,3,1,1,-
+,,,,,,,,,
+B2-Cu005,43,18,19,13,2,3,1,1,0.005

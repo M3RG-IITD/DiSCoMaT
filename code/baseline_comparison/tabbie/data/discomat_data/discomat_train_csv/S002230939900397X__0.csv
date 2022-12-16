@@ -1,0 +1,9 @@
+Sample,Reaction conditions,al (cm-1) (+-0.005),c (ppmw) (+-10)
+S-24,Unary GeS2 glass without purification,1.28,250
+P7,"100 mol% GeS2, T=475, t=5",0.34,60
+S-0,Without purification,2.82,470
+P1,"T=375, t=8, GeS2 powder",1.61,270
+P2,"T=375, t=16, GeS2 powder",1.86,310
+P4,"T=275, t=24, GeS2 powder",1.80,300
+P8,"T=475, t=6, glass composition",0.83,140
+P9,"T=350, t=6, glass composition",2.01,340

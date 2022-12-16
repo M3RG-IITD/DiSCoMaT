@@ -1,0 +1,8 @@
+Samples,n,a,103b,10-5c,RMSD,Reference for fit
+ab/gr/ph/tr,264,102.1,1,-64.02,0.769,This study
+sb/sba/fu06/fu18,475,76.78,1,-45.14,0.789,This study
+foid/teph,132,106.3,1,-101.3,0.859,This study
+Global (constrained),871,82.80,1,-48.27,0.954,This study
+Global (unconstrained),871,3.467,112.7,-3.646,0.922,This study
+Global,871,-122.3,341.6,63.44,1.592,Bouhifd et al. [2]
+Global,871,81.44,0.098,-31.09,1.089,Richet [10]

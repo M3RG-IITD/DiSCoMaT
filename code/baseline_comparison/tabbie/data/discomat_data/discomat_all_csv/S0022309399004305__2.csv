@@ -1,0 +1,8 @@
+,Site-I,Site-II
+K diffusion,,
+Before,Occupied by K-1,Occupied by K-2
+After,Vacancy,Occupied by K-1
+,,
+Li diffusion,,
+Before,Occupied Li-1,Occupied Li-2
+After,Occupied Li-2,Occupied Li-1

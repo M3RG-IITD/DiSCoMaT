@@ -1,0 +1,9 @@
+Melt #,Temperature,Bubbling flow rate f (L/min),Bubbling time t (min),Bubbling time t (min),Bubbling time t (min),Bubbling time t (min),Bubbling time t (min)
+Melt #,Temperature,Bubbling flow rate f (L/min),0,30,60,90,120
+Melt #,Temperature,Bubbling flow rate f (L/min),Absorption coefficient of OH groups a OH (cm-1),Absorption coefficient of OH groups a OH (cm-1),Absorption coefficient of OH groups a OH (cm-1),Absorption coefficient of OH groups a OH (cm-1),Absorption coefficient of OH groups a OH (cm-1)
+S-1,1200,0.20,15.39,7.72,3.13,1.50,0.87
+S-2,1200,0.35,15.39,1.81,0.83,0.78,0.60
+S-3,1200,0.50,15.39,1.60,0.49,0.43,0.30
+S-4,1200,0.80,15.39,1.58,0.47,0.39,0.28
+S-5,1150,0.20,28.63,13.18,7.11,3.07,1.95
+S-6,1250,0.20,7.92,3.13,1.78,0.61,0.43

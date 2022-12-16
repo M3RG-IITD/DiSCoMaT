@@ -1,0 +1,6 @@
+No,Energy transfer process,Wavelength
+ET1,Bi+[3P1 - 3P0]: Yb3+[2 F7/2 - 2 F5/2],900~1630nm: 980nm
+ET2,Bi+[3P1 - 3P0]: Er3+[4I15/2 - 4I11/2],900~1630nm: 980nm
+ET3,Bi+[3P1 - 3P0]: Tm3+[3 F4 - 3H4],900~1630nm: 1470nm
+ET4,Bi+[3P1 - 3P0]: Tm3+[3H6 - 3H5],900~1630nm: 1215nm
+ET5,Yb3+[2 F5/2 - 2 F7/2]: Er3+[4I15/2 - 4I11/2],980nm: 980nm

@@ -1,0 +1,15 @@
+Glass,Gas,Temperature range (degC),S 0 (x1016 atoms/gm-atm),-DH S (cal/mol)
+SiO2 (present study),He,69-861,8.34,710
+SiO2 (Shelby),He,103-636,9.98,450
+SiO2 (literature avg.),He,25-1050,6.73,760
+,,,,
+GeO2 (present study),He,115-790,4.74,150
+GeO2 (Shelby),He,110-176,3.43,240
+GeO2 (Doremus),He,300-500,4.23,0
+,,,,
+SiO2 (present study),Ne,271-846,3.77,1540
+SiO2 (Shelby),Ne,194-457,3.80,1320
+SiO2 (literature avg.),Ne,25-1050,3.16,1660
+,,,,
+GeO2 (present study),Ne,101-756,4.19,0
+GeO2 (Doremus),Ne,300-500,4.23,0

@@ -1,0 +1,5 @@
+Type of crack,Driving stress field,th,Boussinesq term,Blister term
+Ring,srr /H,p/2,0.5- n,2   n - 2   b   p   1 + n     1 - 2 n   tan  Ps     E H
+Radial,sphph /H,p/2,n -0.5,2 b   p   1 + n   tan  Ps     E H
+Median,sthth /H,0,0.25-0.5n,-  b  p   1 + n   tan  Ps     E H
+Lateral,srr /H,0,-1.5,6 b   p   1 + n     1 - 2 n   tan  Ps     E H

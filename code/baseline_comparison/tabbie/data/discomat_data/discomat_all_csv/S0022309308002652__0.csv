@@ -1,0 +1,7 @@
+Sample code,Weight percentage (wt%),Weight percentage (wt%),Weight percentage (wt%),Weight percentage (wt%),Density (kgm-3),"Glass melting temperature, T m (degC)","Glass transition temperature, T g (degC)","Crystallization temperature, T C (degC)",Micro hardness,Micro hardness
+,P2O5,CaO,Na2O,K2O,,,,,Mean HV,Standard deviation
+PCN,47,30.5,22.5,0,2635,739,~210,~529,309,14.61
+PCNK15,47,30.5,21.0,1.5,2715,727,~240,~580,257.6,10.71
+PCNK30,47,30.5,19.5,3.0,2657,714,~270,~560,324.2,14.43
+PCNK45,47,30.5,18.0,4.5,2691,711,~200,~580,310.8,28.31
+PCNK60,47,30.5,16.5,6.0,2626,711,~250,~590,335.8,5.40

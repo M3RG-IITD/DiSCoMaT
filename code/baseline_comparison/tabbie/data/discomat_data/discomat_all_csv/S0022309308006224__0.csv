@@ -1,0 +1,8 @@
+Dose (kGy),Cut-off wavelength (nm),E opt (eV),DE (eV),Induced band intensity (arbitrary. units),Induced band intensity (arbitrary. units)
+Dose (kGy),Cut-off wavelength (nm),E opt (eV),DE (eV),LEB,HEB
+Non-irradiated,346,3.30,0.15,0,0
+5,352,3.16,0.20,2.40,1.67
+10,357,3.03,0.25,4.66,2.05
+15,361,2.96,0.28,6.69,3.83
+20,366,2.92,0.32,9.01,5.44
+25,371,2.89,0.34,11.09,7.06

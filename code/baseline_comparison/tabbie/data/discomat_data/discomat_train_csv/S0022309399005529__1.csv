@@ -1,0 +1,6 @@
+Sample,Iron,Isomer shift (mm/s),Splitting quadrupole (mm/s),Area (%)
+Non-irradiated,Fe3+,0.34,1.17,58.9
+Fe2+,1.06,2.24,41.05,
+,,,,
+Irradiated (107 R),Fe3+,0.33,1.18,58.62
+Fe2+,1.05,2.25,41.37,

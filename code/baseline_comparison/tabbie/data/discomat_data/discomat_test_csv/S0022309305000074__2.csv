@@ -1,0 +1,4 @@
+Glass,Index n e,Average dispersion     n     F   '     -   n     C   ',"Absorption at l =600nm, cm-1","Linear thermal expansion coefficient in 20-300degC range, 107 K-1",Element of the fiber
+VS 1199-1,1.8636,0.027,0.0012,90+-1.5,Core
+VS 1199-2,1.8608,0.0269,0.0012,90+-1.5,Cladding
+TO 1192,1.873,0.029,1.2,92+-1.5,Light absorbing elements

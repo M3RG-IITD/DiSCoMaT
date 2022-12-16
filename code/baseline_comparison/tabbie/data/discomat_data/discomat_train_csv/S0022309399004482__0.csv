@@ -1,0 +1,29 @@
+Glass,HfF4,ZrF4,BaF2,CeF3,AlF3,InF3,NaF,LiF,Batch of HfF4 used
+Tests on the effect of temperature,Tests on the effect of temperature,Tests on the effect of temperature,Tests on the effect of temperature,Tests on the effect of temperature,Tests on the effect of temperature,Tests on the effect of temperature,Tests on the effect of temperature,Tests on the effect of temperature,Tests on the effect of temperature
+P156,54,,19,5,3.5,0.5,,18,2
+,,,,,,,,,
+Tests on the effect of InF3 addition,Tests on the effect of InF3 addition,Tests on the effect of InF3 addition,Tests on the effect of InF3 addition,Tests on the effect of InF3 addition,Tests on the effect of InF3 addition,Tests on the effect of InF3 addition,Tests on the effect of InF3 addition,Tests on the effect of InF3 addition,Tests on the effect of InF3 addition
+P232,54,,19,5,4.0,0.0,18,,3
+P236,54,,19,5,3.8,0.2,18,,3
+P235,54,,19,5,3.2,0.8,18,,3
+P234,54,,19,5,2.0,2.0,18,,3
+P233,54,,19,5,0.2,4.0,18,,3
+,,,,,,,,,
+Tests on the effect of CeF3 addition,Tests on the effect of CeF3 addition,Tests on the effect of CeF3 addition,Tests on the effect of CeF3 addition,Tests on the effect of CeF3 addition,Tests on the effect of CeF3 addition,Tests on the effect of CeF3 addition,Tests on the effect of CeF3 addition,Tests on the effect of CeF3 addition,Tests on the effect of CeF3 addition
+P240,55.7,,19.6,2,4.13,,18.57,,3
+P239,53.43,,18.8,6,3.96,,17.81,,3
+P241,51.16,,18,10,3.79,,17.06,,3
+,,,,,,,,,
+Tests on the effect of ZrF4 addition,Tests on the effect of ZrF4 addition,Tests on the effect of ZrF4 addition,Tests on the effect of ZrF4 addition,Tests on the effect of ZrF4 addition,Tests on the effect of ZrF4 addition,Tests on the effect of ZrF4 addition,Tests on the effect of ZrF4 addition,Tests on the effect of ZrF4 addition,Tests on the effect of ZrF4 addition
+P18,57,,34,5,4,,,,1
+P17,56,1,34,5,4,,,,1
+P40,28.5,28.5,34,5,4,,,,1
+,,,,,,,,,
+Tests on the production of 21 mmx30 mmx138 mm blocks,Tests on the production of 21 mmx30 mmx138 mm blocks,Tests on the production of 21 mmx30 mmx138 mm blocks,Tests on the production of 21 mmx30 mmx138 mm blocks,Tests on the production of 21 mmx30 mmx138 mm blocks,Tests on the production of 21 mmx30 mmx138 mm blocks,Tests on the production of 21 mmx30 mmx138 mm blocks,Tests on the production of 21 mmx30 mmx138 mm blocks,Tests on the production of 21 mmx30 mmx138 mm blocks,Tests on the production of 21 mmx30 mmx138 mm blocks
+P251,54,,19,5,3.5,0.5,18,,2
+P337,54,,19,5,3.5,0.5,18,,6
+P343,54,,19,5,3.5,0.5,18,,"4, 5, 6, 7"
+P345,54,,19,5,3.5,0.5,18,,"5, 6, 8"
+P346B,54,,19,5,3.5,0.5,18,,9
+P349,54,,19,5,3.5,0.5,18,,10
+P355B,54,,19,5,3.5,0.5,18,,11

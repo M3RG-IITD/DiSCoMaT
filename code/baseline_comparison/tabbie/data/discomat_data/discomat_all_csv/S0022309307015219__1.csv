@@ -1,0 +1,7 @@
+,Initial,Initial,Final,Final,Final,Final
+,Mobility (cm2 V-1 s-1),Lifetime t 0 (ms),Mobility (cm2 V-1 s-1),Change in mobility (%),Lifetime t  (ms),Change in lifetime (%)
+Holes (A) (annealed),0.107,18.2,0.116,8.41,32.7,80.0
+,,,,,,
+Electrons (A) (annealed),2.4x10-3,363,3.0x10-3,25.0,559,54.0
+Electrons (B) (deposited),2.8x10-3,147,3.4x10-3,21.4,227,54.4
+Electrons (B) (annealed),2.5x10-3,129,3.3x10-3,32.0,179,38.8

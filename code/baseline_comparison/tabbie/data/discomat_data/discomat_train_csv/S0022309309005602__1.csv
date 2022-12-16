@@ -1,0 +1,14 @@
+Specimen,Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1),Infrared absorption band position (cm-1)
+a,500,-,760,-,927,-,1060,-,1252,-,-,-,-,2365
+b,500,-,760,-,927,-,1060,-,1263,-,-,-,1654,2365
+c,500,-,760,-,928,-,1060,-,1263,-,-,-,1654,2365
+d,500,-,760,-,933,-,1060,-,1261,-,-,-,1654,2361
+e,500,-,765,-,933,-,1056,-,1264,-,-,-,1654,2362
+f,500,-,760,-,933,-,1059,-,1270,-,-,-,1653,2362
+g,500,-,755,-,934,-,1057,-,1283,-,-,-,1654,2360
+h,500,-,-,-,932,-,1050,-,1283,-,-,-,1653,2362
+i,500,-,-,-,935,-,1060,-,1284,-,-,-,1656,-
+j,500,-,-,-,935,-,1067,-,1283,-,-,-,1654,-
+k,500,724,-,894,-,-,-,-,-,-,1375,1450,1654,-
+Z1 MoO3,-,-,850,-,950,984,-,1068,-,-,-,-,-,-
+Z2 ZnO,500,-,784,-,-,-,-,-,1260,1350,-,1484,-,-

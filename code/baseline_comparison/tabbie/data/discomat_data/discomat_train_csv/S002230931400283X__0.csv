@@ -1,0 +1,6 @@
+"Heating rate, b(K/min)",Tg (K),Peak1,Peak1,Peak2,Peak2
+"Heating rate, b(K/min)",Tg (K),Tc1  (K),Tp1  (K),Tc2  (K),Tp2  (K)
+5,740,774,830,897,980
+10,747,794,838,945,1008
+15,750,798,845,958,1027
+25,753,810,853,968,1057

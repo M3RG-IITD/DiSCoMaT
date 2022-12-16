@@ -1,0 +1,14 @@
+Sample name,Composition,Composition,Composition,Composition,Composition,T cast (degC)
+Sample name,Fe2O3 (wt%),SiO2 (wt%),Na2O (wt%),PbO (wt%),Si/O,T cast (degC)
+PF91,10,,,90,,1000
+PF82,20,,,80,,1000
+PF73,30,,,70,,1000
+FN,81.8,,18.2,,,1400
+FSN1,10,63,27,,0.385,1400
+FSN31,30,50,20,,0.326,1100
+FSN32,30,50,20,,0.326,1400
+FSN33,30,50,20,,0.326,1400+1200
+FSN41,40,42.8,17.2,,0.290,1300
+FSN42,40,42.8,17.2,,0.290,1400
+FSN51,50,35.7,14.3,,0.250,1350
+FSN52,50,35.7,14.3,,0.250,1400

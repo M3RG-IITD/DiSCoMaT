@@ -1,0 +1,7 @@
+Glass,Composition in mol%,Composition in mol%,Composition in mol%,Composition in mol%,Composition in mol%,Physical properties,Physical properties,Physical properties,Physical properties
+,Sr(PO3)2,MgF2,CaF2,SrF2,AlF3,Tg  (degC),ne,n   e,r   (g/cm3)
+FP00,-,10,28,23,39,400,1.405,105,3.42
+FP03,3,9.5,27.5,22.5,37.5,420,1.427,97,3.50
+FP10,10,10,30,15,35,440,1.460,90,3.46
+FP20,20,10,22,18,30,480,1.504,80,3.52
+P100,100,-,-,-,-,490,1.561,66,3.20

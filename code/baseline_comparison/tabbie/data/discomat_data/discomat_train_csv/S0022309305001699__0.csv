@@ -1,0 +1,15 @@
+Oxide wt%,Glass,Glass,Glass,Glass,Glass
+Oxide wt%,A (1:1:2.5)*,B (1:1:3)*,C (1:1:3.5)*,D (1:1:5)*,E (1:1:6)*
+SiO2,56.57,58.73,63.62,70.15,74.73
+TiO2,-,-,0.02,0.03,0.05
+A12O3,0.03,0.04,0.01,-,0.02
+Fe2O3,-,-,-,-,0.12
+MgO,0.44,0.36,0.45,0.28,0.40
+CaO,21.30,19.01,16.73,13.26,11.74
+Na2O,21.01,20.52,18.70,14.58,12.12
+P2O5,0.04,-,-,0.03,0.04
+Total,99.39,98.66,99.53,98.33,99.22
+,,,,,
+The real molar ratios,The real molar ratios,The real molar ratios,The real molar ratios,The real molar ratios,The real molar ratios
+Na2O/CaO,0.89,0.97,1.01,0.99,0.93
+SiO2/CaO,2.48,2.88,3.55,4.94,5.94

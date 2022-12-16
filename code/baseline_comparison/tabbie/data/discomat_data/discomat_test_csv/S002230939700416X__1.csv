@@ -1,0 +1,12 @@
+Sample No.,Gel and sintering conditions,Gel and sintering conditions,Gel and sintering conditions,Gel and sintering conditions,Gel and sintering conditions,Characterization,Characterization,Characterization,Characterization,Characterization,Characterization,Characterization
+,NH4OH conc. (N),drying schedule,gel density (g/cm3),heating rate (degC/h),max. temp. (degC),glass appearance,heating by torch,weight loss (-D w/w 0),residual OH (ppm),r. index D max   (%),r. index D min   (%),remarks
+D638-1,1.500,A,0.49,10,1050,smoky,*,0.147,58,1.33,,incomplete sintering
+D638-2,0.750,A,0.54,10,1050,slightly smoky,*,0.154,6,1.27,0.49,
+D638-3,0.375,A,0.55,10,1050,slightly smoky,*,0.152,6,1.35,0.65,
+D638-4,0.188,A,0.55,10,1050,slightly smoky,*,0.154,6,-,-,
+D638-5,0.750,C,0.51,10,1050,smoky,*,0.144,14,1.27,0.60,
+D638-6,0.750,B,0.54,10,1050,slightly smoky,*,0.154,12,1.27,0.51,
+D638-7,0.050,A,0.52,10,1050,smoky,*,0.162,415,1.18,0.77,incomplete sintering
+D639,0.750,A,0.54,200,1100,slightly smoky,*,0.136,24,1.42,1.42,
+D642,0.750,A,0.54,20,1100,transparent,*,0.136,2,1.56,1.56,subject to fiber
+D643,0.050,A,0.54,20,1100,very slightly smoky,*,0.146,2,-,-,

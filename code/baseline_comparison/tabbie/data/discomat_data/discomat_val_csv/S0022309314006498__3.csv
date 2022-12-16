@@ -1,0 +1,18 @@
+Sample notation,Other ID,Visible Appearance,Microstructure,Char. performed
+GaLS72-10Ca-f,GC1a,Opaque,Large crystals,"XRD, SEM"
+GaLS72-10Ca-w,GC1b,Transparent,Amorphous,XRD
+GaLS72-10Ca-a,GC1c,Opaque,Phase-separated,"XRD, SEM"
+GaLS72-10Ca-wc,GC1d,Opaque,,-
+GaLS72-10Zn-a,GC3a,Opaque,Large crystals,"XRD, SEM, hardness"
+GaLS72-a,GC2a,Opaque,Phase-separated,"XRD, SEM, hardness"
+GaLS70-f,GC4a,Opaque,,XRD
+GaLS70-a,GC4b,Opaque,Phase-separated,"XRD, SEM"
+GaLS65-20Ca-w,GC6a,Transparent,Amorphous,"XRD, SEM, FTIR, hardness"
+GaLS65-20Ca-f,GC6b,Opaque,,-
+GaLS65-20Ca-a,GC6c,Opaque,"Phase-separated, some crystals",SEM
+GeLS-1100-a,GC5a,Metallic,,XRD
+GeLS-900-a,GC5b,Metallic,Large crystals,"XRD, SEM, hardness"
+GGLS-15CdS-e-w,GC7a,Transparent,Amorphous,"XRD, FTIR, index, hardness"
+GGLS-15CdS-s-w,GC8a,Metallic,,XRD
+GGLS-5CdS-e-w,GC10a,Transparent,Amorphous,"XRD, FTIR"
+GGLS-5CdS-e-a,GC10b,Metallic,,XRD

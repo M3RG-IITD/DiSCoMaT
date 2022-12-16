@@ -1,0 +1,14 @@
+Sample,Temperature (degC),Time (h),Visual appearance
+2(i),394+-1.8,0.5,Transparent pink
+2(i),394+-0.3,1.0,Transparent pink
+2(i),394+-0.5,3.0,Transparent pink
+2(i),394+-2.4,6.0,Transparent pink
+2(ii),394+-0.9,6.0,Transparent pink
+2(ii),394+-0.3,16.0,Transparent pink
+2(ii),394+-1.0,48.0,Transparent pink
+2(iii),394+-2.5,72.0,Transparent pink
+2(iii),394+-3.5,96.0,Transparent pink
+2(iii),394+-3.0,120,Transparent pink
+2(iii),394+-3.0,144,Transparent pink
+2(iii),394+-3.5,168,Transparent pink
+2(iii),600+-1.4,0.25,Opaque pink

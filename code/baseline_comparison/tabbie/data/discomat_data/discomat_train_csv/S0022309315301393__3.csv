@@ -1,0 +1,8 @@
+Ion and energy,Se (keV/nm),phM (ion/cm2)(460nm),phM (ion/cm2)(460nm),phM (ion/cm2)(460nm),phM (ion/cm2)(650nm),phM (ion/cm2)(650nm),phM (ion/cm2)(650nm)
+Ion and energy,Se (keV/nm),KU1,UV,IR,KU1,UV,IR
+Br 28MeV,6.068,2.3x1012,2.3x1012,2.5x1012,5.0x1011,1.3x1012,1.6x1012
+Br 18MeV,4.959,2.4x1012,2.4x1012,1.2x1012,<5.0x1011,1.7x1012,1.2x1012
+Si 28.55MeV,3.417,1.8x1013,1.5x1013,1.2x1013,2.0x1012,2.0x1012,1.4x1013
+C 4MeV,1.291,-,2.8x1013,2.5x1013,-,4.8x1012,2.0x1013
+He 4MeV,0.173,No max,No max,No max,6.5x1013,1.0x1014,No max
+H 2MeV,0.027,No max,No max,No max,8.1x1014,1.7x1015,No max

@@ -1,0 +1,7 @@
+Glass ID,Glass composition (mol%),Glass composition (mol%),Glass composition (mol%),Glass composition (mol%),Glass composition (mol%),Properties (degC),Properties (degC),Transparency
+Glass ID,BaO,ZnO,B2O3,SiO2,Total,Tg,Ts,Transparency
+LED-101,25,25,25,25,100,550+-2,638+-3,O
+LED-102,40,20,20,20,100,560+-2,649+-3,O
+LED-103,20,40,20,20,100,545+-2,634+-3,O
+LED-104,20,20,40,20,100,573+-2,669+-3,O
+LED-105,20,20,20,40,100,587+-2,689+-3,O

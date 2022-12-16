@@ -1,0 +1,7 @@
+Name,Composition (mol%),Composition (mol%),Composition (mol%),Density   (g/cm3),Total number of atoms,Number of erbium atoms,Cell size (A)
+Name,Er2O3,Na2O,SiO2,Density   (g/cm3),Total number of atoms,Number of erbium atoms,Cell size (A)
+Ess1,1,0,99,2.326,2416,16,33.07
+Enss10,1,10,84,2.423,2416,16,32.69
+Enss20,1,20,79,2.501,2416,16,32.26
+Enss30,1,30,69,2.619,2416,16,31.88
+E2nss30,2,30,68,2.753,2432,32,31.87

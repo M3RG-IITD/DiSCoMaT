@@ -1,0 +1,11 @@
+Glass,T (degC),n,m,Comments
+N4,590,2.4+-0.3,0.8+-0.1,Growth of a constant number of crystals: n3m
+,,1.0+-0.1,0.4+-0.1,Growth of a constant number of crystals: n3m
+,650,4.1+-0.3,1.0+-0.0,Nucleation and growth at constant rates: n1+3m
+,,1.1+-0.1,0.3+-0.1,Growth of a constant number of crystals: n3m
+,720,1.5+-0.1,0.56+-0.04,Growth of a constant number of crystals: n3m
+,,,,
+N1,700,2.2+-0.1,0.69+-0.01,Growth of a constant number of crystals: n3m
+,,,,
+N5,647,3.8+-0.4,0.90+-0.06,Nucleation and growth at constant rates: n1+3m
+,,1.5+-0.1,0.52+-0.04,Growth of a constant number of crystals: n3m

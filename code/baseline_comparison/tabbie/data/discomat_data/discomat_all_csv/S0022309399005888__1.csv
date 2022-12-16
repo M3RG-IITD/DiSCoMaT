@@ -1,0 +1,15 @@
+Sample,r-Factor,r (A),n (atoms),s 2 (A2)
+Hardystonite,,,,
+Fit,0.015,1.932 (0.005),3.9 (0.4),0.0032 (0.0008)
+actual [3],1.937,4.0,,
+,,,,
+Zn series glasses,Zn series glasses,Zn series glasses,Zn series glasses,Zn series glasses
+Zn4,0.010,1.952 (0.005),4.6 (0.5),0.0066 (0.0010)
+Zn8,0.006,1.957 (0.005),4.5 (0.4),0.0067 (0.0008)
+Bulk glass,0.010,1.957 (0.005),4.1 (0.4),0.0062 (0.0010)
+Zn12 Crystal-glass layer,0.020,1.956 (0.006),4.0 (0.6),0.0061 (0.0013)
+,,,,
+CZR series glasses,CZR series glasses,CZR series glasses,CZR series glasses,CZR series glasses
+CZR17.84,0.039,1.951 (0.008),4.1 (0.8),0.0046 (0.0016)
+CZR17.85,0.016,1.958 (0.006),4.2 (0.5),0.0048 (0.0011)
+CZR19.21,0.012,1.960 (0.005),4.0 (0.4),0.0055 (0.0010)

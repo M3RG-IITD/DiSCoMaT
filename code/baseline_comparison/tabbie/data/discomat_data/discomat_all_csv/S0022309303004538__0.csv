@@ -1,0 +1,13 @@
+Treatment,Temperature (degC),Time (h),Number of modes,Number of modes
+Treatment,Temperature (degC),Time (h),Constraints guide,Confined guide
+HCl,250,2,0,1
+HCl+HF,250,2+2,0,1
+HCl,250,5,1,2
+HCl+HF,250,5+5 min,0,2
+HCl+HF,250,5+2,0,2
+HCl+HF,250,5+16,0,2
+,,,,
+HCl,280,2,1,2
+HCl+HF,280,2+2,1,2
+HCl+HF,280,2+5,1,2
+HCl+HF,280,2+16,1,2

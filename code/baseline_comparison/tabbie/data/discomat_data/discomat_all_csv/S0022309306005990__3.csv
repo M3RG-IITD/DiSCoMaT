@@ -1,0 +1,9 @@
+Parameter,Reported [Ref.],Our MD values
+r P-S (A),2.05 [10],2.10
+r Li-S (A),2.41-2.47 [10],2.47
+r P-I (A),2.47 [11],2.53
+r I-I (A) (non-bonded),3.7 [12],4.12
+Angle (S-P-S),105deg [11],89deg(1)
+Angle (S-P-I),104deg [11],104deg(1)
+Angle (S-Li-S),85-120deg [10],92deg(17)
+Angle (P-S-P),"135, 141 [11]",155deg(4)

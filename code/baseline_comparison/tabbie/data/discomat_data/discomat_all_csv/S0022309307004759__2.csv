@@ -1,0 +1,48 @@
+Sample name,Pre-edge peak (eV) (+-0.2eV),Area under pre-edge peak (a.u.),Total area under pre-edge peak (a.u.),Fe valency and site
+Fe2O3,7113.1,0.27+-0.01,0.43+-0.02,Fe3+ in octahedral sites
+Fe2O3,7114.2,0.16+-0.01,,
+Fe2O3,7116.5,-,,Other transitions
+,,,,
+Fe3O4,7111.1,0.04+-0.01,0.63+-0.03,Fe2+ in octahedral sites
+Fe3O4,7112.7,0.38+-0.01,0.63+-0.03,Fe3+ in tetrahedral sites
+Fe3O4,7114.6,0.21+-0.01,0.63+-0.03,Fe3+ in octahedral sites
+FN,7112.8,0.64+-0.01,0.74+-0.02,Fe3+ in tetrahedral sites
+FN,7114.2,0.10+-0.01,0.74+-0.02,Fe3+ in octahedral sites
+FN,7115.8,-,0.74+-0.02,Other transitions
+,,,,
+PF73,7112.8,0.21+-0.01,0.41+-0.02,Fe3+ in tetrahedral sites
+PF73,7113.4,0.20+-0.01,0.41+-0.02,Fe3+ in octahedral sites
+PF73,7116.2,-,0.41+-0.02,Other transitions
+PF73,7118.1,,0.41+-0.02,
+,,,,
+PF82,7112.7,0.20+-0.01,0.39+-0.02,Fe3+ in tetrahedral sites
+PF82,7113.6,0.19+-0.01,0.39+-0.02,Fe3+ in octahedral sites
+PF82,7116.0,-,0.39+-0.02,Other transitions
+PF82,7118.0,,0.39+-0.02,
+,,,,
+PF91,7111.3,0.03+-0.01,0.45+-0.03,Fe2+ in octahedral sites
+PF91,7112.8,0.22+-0.01,0.45+-0.03,Fe3+ in tetrahedral sites
+PF91,7113.5,0.20+-0.01,0.45+-0.03,Fe3+ in octahedral sites
+PF91,7116.4,-,0.45+-0.03,Other transitions
+,7118.4,,,
+,,,,
+FSN1,7111.1,0.05+-0.01,0.44+-0.03,Fe2+ in octahedral sites
+FSN1,7112.9,0.26+-0.01,0.44+-0.03,Fe3+ in tetrahedral sites
+FSN1,7114.4,0.13+-0.01,0.44+-0.03,Fe3+ in octahedral sites
+,,,0.44+-0.03,
+FSN31,7113.1,0.51+-0.01,0.51+-0.01,Fe3+ in tetrahedral sites
+FSN32,7113.0,0.58+-0.01,0.58+-0.01,
+FSN33,7113.0,0.57+-0.01,0.57+-0.01,
+FSN41,7112.9,0.69+-0.01,0.69+-0.01,
+FSN42,7113.0,0.63+-0.01,0.63+-0.01,
+,,,,
+FSN51,7112.8,0.49+-0.01,0.59+-0.02,Fe3+ in tetrahedral sites
+FSN51,7113.6,0.10+-0.01,0.59+-0.02,Fe3+ in octahedral sites
+FSN51,7116.3,-,0.59+-0.02,Other transitions
+,,,,
+FSN52,7112.9,0.49+-0.01,0.60+-0.02,Fe3+ in tetrahedral sites
+FSN52,7114.4,0.11+-0.01,0.60+-0.02,Fe3+ in octahedral sites
+FSN51 H-region,7113.3,0.50+-0.01,0.80+-0.02,Fe3+ in octahedral sites
+FSN51 H-region,7114.3,0.30+-0.01,,
+FSN51 H-region,7116.7,-,,Other transitions
+FSN51 L-region,7113.0,0.45+-0.01,0.45+-0.01,Fe3+ in tetrahedral sites

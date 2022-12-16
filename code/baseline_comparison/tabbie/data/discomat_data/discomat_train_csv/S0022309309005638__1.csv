@@ -1,0 +1,5 @@
+Sample,EXAFS,EXAFS,EXAFS,EXAFS,XRD,XRD
+Sample,Dy-S length (A),Coordination number,Debye-Waller factor (A2),R-factor,Dy-S length (A),Coordination number
+Dy2S3,2.82+-0.01,7.5 (fixed),0.010+-0.001,0.0016,2.83,7.5
+GAS,2.78+-0.01,6.7+-0.5,0.009+-0.001,0.0034,,
+GGS,2.83+-0.01,7.1+-0.6,0.010+-0.001,0.0048,,

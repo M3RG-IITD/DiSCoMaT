@@ -1,0 +1,11 @@
+Property,Value
+Tg  (degC),165
+Tx  (degC),250
+T = Tg  - Tx  (degC),85
+r (kg/m3),4530
+a (10-6 K-1),25.4
+C-p (Jkg-1 K-1),360
+Hv (kg/mm2),133.6
+G (GPa),6.91
+E (GPa),17.7
+v (-),0.279

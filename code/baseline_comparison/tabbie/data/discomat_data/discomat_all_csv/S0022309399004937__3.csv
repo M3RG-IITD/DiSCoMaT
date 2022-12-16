@@ -1,0 +1,10 @@
+Level,Nd3+,Nd3+,Ho3+,Ho3+
+Level,4G5/2(+2G7/2),2K13/2(+4G7/2 + 4G9/2),5F5,5S2(+5F4)
+Excitation (nm),586,530,650,540
+Emission (nm),598,536,660,550
+Lifetime (ms),0.48+-0.04,3.9+-0.4,67+-6,30+-3
+Total transition rate (s-1),(2.1+-0.2)x106,(2.5+-0.2)x105,(1.5+-0.1)x104,(3.3+-0.3)x104
+Radiative transition rate (s-1),7.14x104,5.64x103,1.30x104,1.34x104
+Quantum efficiency (%),3.4+-0.3,2.2+-0.2,87+-8,40+-4
+Nonradiative transition rate (s-1),2.0x106,2.4x105,2x103,2x104
+Energy gap (cm-1),1075,1951,2147,3047

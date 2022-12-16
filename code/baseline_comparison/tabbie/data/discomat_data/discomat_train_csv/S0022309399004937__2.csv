@@ -1,0 +1,9 @@
+Transition,Peak position (nm),Oscillator strength (10-8),Oscillator strength (10-8),Deviation (%)
+Transition,Peak position (nm),Observed,Calculated,Deviation (%)
+5I8 - 5I7,1975,260+-3,270,3.6
+5I8 - 5I6,1170,131+-1,133,1.8
+5I8 - 5I5,901,21+-0.5,28,30.2
+5I8 - 5I4,760,2.3+-0.1,1.8,22.0
+5I8 - 5F5,653,708+-15,734,3.6
+5I8 - 5S2 + 5F4,545,808+-40,693,14.2
+5I8 - 5F3 + 5F2  + 3K8,490,,,

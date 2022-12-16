@@ -1,0 +1,6 @@
+Label,Average stretching force constant F in (N/m),No. of network bonds/volume (nb x1022 atomscm-3),Theoretical bulk modulus (kbc)GPa,Eopt(dic) (eV),Eopt(ind) (eV),Eu (eV)
+TV-10,521,7.52,41.64,3.20,3.11,0.46
+TV-7.5,516,7.96,44.08,3.28,3.21,0.41
+TV-5.0,510,8.43,46.68,3.31,3.24,0.36
+TV-2.5,505,9.00,49.84,3.53,3.43,0.32
+TV-0.0,500,9.67,53.55,3.86,3.83,0.26

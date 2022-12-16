@@ -1,0 +1,23 @@
+Laser properties,Laser wavelength peak (nm),1535
+,Emission cross section (x10-20 cm2),0.8
+,Fluorescence lifetime (ms),7.9
+,Fluorescence line width (nm) FWHM,55
+,,
+Optical properties,Index of refraction (n D),1.533
+,Index of refraction (laser line),1.521
+,dn/dT (20-40degC) (x10-7/degC),-10
+,Temperature coeff. of optical path (10-6/K),3.3
+,,
+Thermal properties,Transformation temperature (degC),450
+,Deformation temperature (degC),485
+,Coeff. of thermal expansion (10-7degC-1) (20-40degC),82
+,(20-100degC),94
+,Thermal conductivity (W M-1 K-1),0.85
+,Maximum thermal loading (watts/cm),375
+,,
+Mechanical properties,Density (g cm-3),2.90
+,Young's modulus (103 N/mm2),67
+,Poisson's ratio,0.24
+,Knoop hardness (Kgf/mm2),435
+,,
+Chemical properties,"Durability (Wt. lossx10-5 g/cm2, H2O, 100degC, 1 H)",5.2

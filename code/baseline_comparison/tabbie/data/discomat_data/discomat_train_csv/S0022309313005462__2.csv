@@ -1,0 +1,9 @@
+Sample,Average value of fitting parameter,Average value of fitting parameter,Average value of fitting parameter,Equation
+Sample,b,Q e,r2,Equation
+Silica,0.369,0.466,0.992,Q e =0.172C e/(1+0.369C e)
+Silica containing 17mg/g of BSA,0.219,1.171,0.984,Q e =0.267C e/(1+0.228C e)
+Silica containing 35mg/g of BSA,0.242,1.340,0.984,Q e =0.296C e/(1+0.227C e)
+Silica containing 52mg/g of BSA,0.360,1.350,0.986,Q e =0.424C e/(1+0.360C e)
+APTMS/silica containing 48mg/g of BSA,0.302,1.361,0.978,Q e =0.410C e/(1+0.302C e)
+APTMS/silica containing 60mg/g of BSA,0.329,1.550,0.979,Q e =0.546C e/(1+0.329C e)
+APTMS/silica containing 70mg/g of BSA,0.458,1.655,0.984,Q e =0.757C e/(1+0.458C e)

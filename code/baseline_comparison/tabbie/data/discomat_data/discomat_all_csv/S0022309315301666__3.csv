@@ -1,0 +1,14 @@
+,,Peak position (ppm),Peak position (ppm),Peak position (ppm),Width at baseline,Width at half height
+,,Maximum,Half height,Width at baseline,Width at half height,
+,,Upfield,Downfield,Width at baseline,Width at half height,
+A,A.1,-87,-73,-79,35,14
+A,A.2,-86,-72,-79,34,14
+A,A.3,-86,-72,-80,35,14
+A,A.4,-85,-71,-78,34,14
+A,A.5,-85,-71,-78,32,14
+B,B.1,-93,-72,-82,46,21
+B,B.2,-90,-72,-81,40,18
+B,B.3,-89,-72,-80,40,17
+B,B.4,-89,-72,-80,37,17
+B,B.5,-89,-72,-79,39,17
+B,B.6,-87,-72,-79,34,15

@@ -1,0 +1,17 @@
+T (degC),Sample number and duration of heat treatment,Sample number and duration of heat treatment,Sample number and duration of heat treatment,Sample number and duration of heat treatment,Sample number and duration of heat treatment,Sample number and duration of heat treatment
+,No. 1 (24 h),No. 2 (24 h),No. 2 (48 h),No. 3 (24 h),No. 4 (24 h),No. 5 (24 h)
+670,,0,,0,0,0
+683,,,,,,0.25
+688,,,,,0.05,1.2
+695,,,,,0.2,1.3
+702,,,,0,0.9,0.9
+713,,,0.05,0.05,0.8,0.4
+722,0,0.1,0.2,0.8,0.5,0.1
+735,,0.2,0.6,0.6,0.1,
+740,,0.3,0.5,0.3,,
+745,0.03,0.3,0.4,0.2,,
+750,0.06,0.2,0.3,,0.1,0.1
+754,0.02,,0.3,,,
+758,0.05,,0.2,,,
+760,0.08,,0.1,0.1,,
+1000,500,,,270,300,290

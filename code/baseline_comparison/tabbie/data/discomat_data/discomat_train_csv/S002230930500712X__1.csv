@@ -1,0 +1,6 @@
+Sample,Abbreviation,Quench rate (degC/s),T f (degC)
+Calorimetric T g,n/a,3.7x10-2,682
+Slow cooling,Slow,1.7x10-2,674
+Water quench,Water,1x103,807
+Fast quench,Fast,1x105,872
+Drawn fibers,Fiber,1x106,912

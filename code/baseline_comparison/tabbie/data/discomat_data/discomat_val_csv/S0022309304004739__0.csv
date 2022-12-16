@@ -1,0 +1,7 @@
+Sample,System composition,System composition,System composition,Density (gcm-3),Molar volume (cm3),Refractive index,Refractive index,Refractive index,Refractive index,Error,Abbe number,Error
+,TeO2,WO3,ZnF2,,,C' (643.8 nm),e (546.1 nm),F' (479.98 nm),g (435.8 nm),,,
+A,70,20,10,5.9456,28.33,2.1276,2.1585,2.1946,2.2329,+-0.001,17.3,+-0.2
+B,60,20,20,5.9259,27.475,2.0723,2.0995,2.1312,2.1646,+-0.0005,18.7,+-0.1
+C,50,20,30,5.9086,26.6,2.0639,2.0904,2.1214,2.1541,+-0.001,19,+-0.3
+D,70,10,20,5.7236,27.2,2.0655,2.0920,2.1226,2.1543,+-0.0005,19.1,+-0.1
+E,60,15,25,5.81,26.92,2.041,2.0661,2.0949,2.1251,+-0.0005,19.8,+-0.1

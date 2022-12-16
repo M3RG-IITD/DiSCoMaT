@@ -1,0 +1,21 @@
+Code,Composition in mol%,Composition in mol%,T g in K
+Code,Na2B4O7,PbO,T g in K
+NBP series,NBP series,NBP series,NBP series
+NBP1,75,25,618
+NBP2,50,50,613
+NBP3,33,67,597
+NBP4,21,79,577
+,,,
+,Na2B4O7,Bi2O3,
+NBB series,NBB series,NBB series,NBB series
+NBB1,75,25,665
+NBB2,50,50,650
+NBB3,33,67,636
+NBB4,21,79,612
+,,,
+,Na2B4O7,TeO2,
+NBT series,NBT series,NBT series,NBT series
+NBT1,75,25,685
+NBT2,50,50,646
+NBT3,33,67,616
+NBT4,21,79,591

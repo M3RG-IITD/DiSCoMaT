@@ -1,0 +1,8 @@
+Electrode,Penetrating ion,"Applied load, P (N)","Layer depth, d (mm)","Crack length modified surface, c (mm)","Crack length reference region, c 0 (mm)","Residual stress, s (MPa)"
+Al plate,H,5,1,66+-6,60+-5,31+-23
+,,5,3,66+-3,,17+-9
+,,5,5,64+-4,,9+-9
+,,,,,,
+Ag evaporated film,Ag,5,1,57+-2,60+-5,-19+-11
+,,5,3,44+-3,,-87+-22
+,,5,5,35+-5,,-142+-50

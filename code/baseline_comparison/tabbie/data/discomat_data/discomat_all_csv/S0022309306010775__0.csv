@@ -1,0 +1,7 @@
+Glass,Mol% by analysis,Mol% by analysis,Density (g/cm3),Melting temperature (K),Time (min),Annealing Initial temperature (K)
+Glass,Metal oxide,P2O5,Density (g/cm3),Melting temperature (K),Time (min),Annealing Initial temperature (K)
+NaPO3,49.4,50.6,2.491,850,25,325
+Mg(PO3)2,48.9,51.1,2.415,1400,15,500
+Ca(PO3)2,48.3,51.7,2.642,1300,15,500
+Sr(PO3)2,50.4,49.6,3.158,1300,15,500
+Al(PO3)3,25.4,73.6,2.612,1920,30,855

@@ -1,0 +1,8 @@
+Sample no.,Treatment method,t 1 (ps),I 1 (%),t 2 (ps),I 2 (%),gap size R (nm)
+0,Suprasil,386,69.8,1364,30.2,3.1
+1,"Etched in H2SO4, consolidated in oven",356,56.0,1439,44.0,4.8
+2,"Etched in H2SO4, consolidated in flame",366,59.1,1449,40.9,5.0
+3,"Etched in H2SO4 and NaOH, consolidated in oven",368,62.0,1407,38.0,3.9
+4,"Etched in H2SO4 and NaOH, consolidated in flame",370,62.7,1419,37.3,4.5
+5,Etched in H2SO4,362,71.0,1478,29.0,5.6
+6,Etched in H2SO4 and NaOH,369,70.8,1505,29.2,5.8

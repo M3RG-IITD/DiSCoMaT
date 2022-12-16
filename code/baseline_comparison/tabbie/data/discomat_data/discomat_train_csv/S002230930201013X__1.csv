@@ -1,0 +1,5 @@
+Sample,Sulfur neighbours (Ge-S),Sulfur neighbours (Ge-S),Oxygen neighbours (Ge-O),Oxygen neighbours (Ge-O)
+,N1 (+-0.2),R1 (+-0.01),N2 (+-0.2),R2 (+-0.01)
+Non-exposed,3.8,2.20,,
+Exposed 5 h,3.7,2.21,0.4,2.01
+Exposed 10 h,3.5,2.21,0.5,2.00

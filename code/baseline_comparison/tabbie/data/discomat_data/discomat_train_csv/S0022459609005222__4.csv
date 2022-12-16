@@ -1,0 +1,4 @@
+Sample,Density (g/cm3),Crystal volume fraction (%),Correction (74% maximum)
+Glass,3.684 (rglass ),0,0
+2h/646degC,3.812 (rsample ),77.6,57
+5h/850degC,3.849 (rcrystal ),100,74

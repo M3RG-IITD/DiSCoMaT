@@ -1,0 +1,9 @@
+Material,Wavelength (mm),Wavelength (mm),Wavelength (mm),Wavelength (mm)
+Material,1.06,1.06,0.69,0.69
+Material,"s GSA, 10-18 cm2",s ESA/s GSA,"s GSA, 10-18 cm2",a ns/a 0
+Cr:YAG [13],0.3-0.6,0.2,,
+Cr:Mg2SiO4,0.45-0.6 [12],0.4 [12],3.1 [19],0.5 [19]
+Cr:Y2SiO5 [19],,,2,0.33
+Cr:CaGd4(SiO4)3O [33],0.3-1.1,0.05-0.45,2,0.35
+Cr:aluminate glass [20],,,,0.7-0.85
+Cr:calcium-aluminate glass (this work),0.7,0.70,1.5+-0.2,0.83

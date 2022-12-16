@@ -1,0 +1,4 @@
+S value,T p 1 ONT (degC),T p 2 ONT (degC),Maximum T p 1-T p 1' (degC),Maximum T p 2-T p 2' (degC),T g midpoint (degC),Softening point (degC)
+0.00,630,630,52,11,632,643
+0.50,572,None,19,None,584,600
+1.00,550,555,35,9,549,564

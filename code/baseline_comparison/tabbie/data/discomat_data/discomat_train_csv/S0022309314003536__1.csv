@@ -1,0 +1,8 @@
+,,73S10C,73S10C,63S20C,63S20C,53S30C,53S30C
+Peak assignment,Peak identity,Raman shift (cm-1),% Population,Raman shift (cm-1),% Population,Raman shift(cm-1),% Population
+A,Q0,-,-,-,-,880,6
+B,Q2,930,8,949,26,950,37
+C,Q P  0,970,4,980,8,970,13
+D,Q P  1,1013,18,1022,14,1020,12
+E,Q3,1090,62,1088,46,1073,32
+F,Q4,1160,8,1144,6,-,-

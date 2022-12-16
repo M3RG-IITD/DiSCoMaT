@@ -1,0 +1,12 @@
+Sample,Chemical shift [ppm],Coordination number,Crystal system
+A1,15.1,6-fold,Amorphous
+A2,14.8,6-fold,Amorphous
+A3,15.1,6-fold,Amorphous
+"A4, B2",15.1 (50.0),6-fold (4-fold),Amorphous
+A5,56.4,4-fold,Amorphous
+B1,15.0 (50.0),6-fold (4-fold),Amorphous
+B3,14.9 (50.0),6-fold (4-fold),Amorphous
+C1,15.2,6-fold,Amorphous
+Ref1 (a-Al2O3),15.1,6-fold,"Corundum structure,     D   3 d   6     (R3c), trigonal system a 0 =5.350A, a =55deg9'"
+Ref2 (g-Al2O3),8.3,6-fold,"Spinel structure,     D   4 h   19     (I4/amd), tetragonal system a 0 =5.75A, c 0 =9.42A"
+Ref2 (g-Al2O3),70.4,4-fold,"Spinel structure,     D   4 h   19     (I4/amd), tetragonal system a 0 =5.75A, c 0 =9.42A"

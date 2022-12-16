@@ -1,0 +1,13 @@
+Composition,Shell 1,Shell 1,Shell 2,Shell 2,Shell 3,Shell 3
+Composition,# NN,Distance (A),# NN,Distance (A),# NN,Distance (A)
+RAG10,RAG10,RAG10,RAG10,RAG10,RAG10,RAG10
+Beamline 2-1 (SSRL),11.8+-0.6,2.8+-0.2,30.1+-1.4,4.8+-0.2,53.4+-2.4,6.9+-0.2
+Hard-sphere model,12.0+-1.2,2.6+-0.3,30.3+-1.2,5.2+-0.3,61.5+-1.2,7.8+-0.3
+,,,,,,
+RAG11,RAG11,RAG11,RAG11,RAG11,RAG11,RAG11
+Beamline 2-1 (SSRL),12.2+-0.6,2.8+-0.2,31.0+-1.4,4.8+-0.2,54.8+-2.4,6.9+-0.2
+Hard-sphere model,12.0+-1.2,2.6+-0.3,30.3+-1.2,5.2+-0.3,61.5+-1.2,7.8+-0.3
+,,,,,,
+RAG12,RAG12,RAG12,RAG12,RAG12,RAG12,RAG12
+Beamline 2-1 (SSRL),12.0+-0.6,2.8+-0.2,31.5+-1.4,4.7+-0.2,51.6+-2.4,6.9+-0.2
+Hard-sphere model,12.0+-1.2,2.6+-0.3,30.3+-1.2,5.2+-0.3,61.5+-1.2,7.8+-0.3

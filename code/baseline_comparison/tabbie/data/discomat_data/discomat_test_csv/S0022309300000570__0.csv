@@ -1,0 +1,7 @@
+Type,Sample name,Sample name,Metal impurity (wtppm),Metal impurity (wtppm),Metal impurity (wtppm),Metal impurity (wtppm),Metal impurity (wtppm),Metal impurity (wtppm),Metal impurity (wtppm),Metal impurity (wtppm),Metal impurity (wtppm),Metal impurity (wtppm),OH (wtppm),Molar ratio of Al2O3/M2O
+,,,Al,Na,K,Li,Ca,Cu,Fe,Mg,Mn,Ti,,
+A,-,(Mitsubishi Chemical),0.01,0.01,<0.01,<0.01,0.03,<0.01,0.05,<0.01,<0.01,0.04,11,0.9
+B,-,(Mitsubishi Chemical),19.9,0.01,<0.01,<0.01,0.03,<0.01,0.05,<0.01,<0.01,0.04,16,1696
+C,-,(Unimin),6.8,0.1,0.1,0.1,0.4,<0.05,0.1,<0.01,<0.01,1.0,<2,11.8
+D,HR,(Nippon Silica Glass),17,1.0,0.5,0.8,0.7,0.05,0.8,0.2,<0.01,1.1,10,3.7
+E,N,(Nippon Silica Glass),9,0.6,0.3,0.2,0.6,0.03,0.4,0.2,<0.01,1.6,200,5.3

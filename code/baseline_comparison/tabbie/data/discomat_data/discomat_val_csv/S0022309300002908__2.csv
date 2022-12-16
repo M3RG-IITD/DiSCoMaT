@@ -1,0 +1,13 @@
+Samples,Samples,B%,B%,NBO%,NBO%,NBO%,Oxygens in Tricluster
+Samples,Samples,N 3,N 4,B-O-Ba,Si-O-Ba,total,Oxygens in Tricluster
+BBS433,Model,58.3,41.7,16.4,12.6,29.0,
+BBS433,MAS,45,55,-,-,26.0,1.3%
+BBS433,3QMAS,-,-,13.8+-5,16.3,30.1,-
+,,,,,,,
+BBS352,Model,46.9,53.1,0,2.3,2.3,-
+BBS352,MAS,48,52,-,-,6.8,4.0%
+BBS352,3QMAS,-,-,2.8,2.3,5.1,-
+,,,,,,,
+BBS252,Model,53.8,46.2,0,0,0,-
+BBS252,MAS,52,48,-,-,4.8,5.6%
+BBS252,3QMAS,-,-,2.5,1.6,4.1,-
