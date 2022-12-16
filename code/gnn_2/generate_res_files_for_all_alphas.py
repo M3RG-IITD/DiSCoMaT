@@ -25,6 +25,7 @@ print('using device:', device)
 
 parser = ArgumentParser()
 parser.add_argument('--seeds', nargs='+', required=True, type=int)
+parser.add_argument('--alphas', nargs='+', required=True, type=float)
 parser.add_argument('--hidden_layer_sizes', nargs='+', required=True, type=int)
 parser.add_argument('--num_heads', nargs='+', required=True, type=int)
 parser.add_argument('--use_max_freq_feat', action='store_true')
@@ -35,7 +36,9 @@ parser.add_argument('--model_variant', required=True, type=str)
 args = parser.parse_args()
 print(args)
 
-alphas = [0.4, 0.5, 0.6, 0.7, 0.8]
+# alphas = [0.4, 0.5, 0.6, 0.7, 0.8]
+alphas = args.alphas
+print("Alphas:", alphas)
 
 lm_name = 'm3rg-iitd/matscibert'
 cache_dir = os.path.join(table_dir, '.cache')
