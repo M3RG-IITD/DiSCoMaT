@@ -30,7 +30,25 @@ git checkout f3a960f80244cf9e80558ab30f7f7e8cbf03c0a0
 export TORCH_CUDA_ARCH_LIST="6.0;6.1;6.2;7.0;7.5"
 pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" --global-option="--deprecated_fused_adam" ./
 ```
+## Setup 4: downloading MATSCIBERT
+```
+Download files from https://huggingface.co/m3rg-iitd/matscibert/tree/main and place it in folder named saved_matscibert
+```
 
+# Create data required for training and inference in TABBIE
+```
+python create_data_for_tabbie.py
+mkdir ./data/ft_cell/discomat_data/discomat_all_csv
+cd data/ft_cell/discomat_data/discomat_all_csv
+cp -a ./../discomat_train_csv/. ./../discomat_val_csv/. ./../discomat_test_csv/. .
+cd ../../../../
+```
+
+# Make directories to save logits
+```
+mkdir row_col_gid_logit
+mkdir edge_logit
+```
 
 # Seeds to replicate the result
 ```

@@ -115,10 +115,10 @@ def eval_model(split, debug=False):
         t_idx = x['t_idx']
         new_name = pii + '__' + str(t_idx)
         
-        comp_gid_logits = torch.load(f'./row_col_gid_logit_17_ada/{new_name}.pt', map_location=device)
+        comp_gid_logits = torch.load(f'./row_col_gid_logit/{new_name}.pt', map_location=device)
         comp_gid_labels = x['row_label'] + x['col_label']
         assert comp_gid_logits.size()[0] == len(comp_gid_labels)
-        edge_logits = torch.load(f'./edge_logit_17_ada/{new_name}.pt', map_location=device)
+        edge_logits = torch.load(f'./edge_logit/{new_name}.pt', map_location=device)
         #edge_labels = x['edge_list']
         y_comp_true += comp_gid_labels
         
