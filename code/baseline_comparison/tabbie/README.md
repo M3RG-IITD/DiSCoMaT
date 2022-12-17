@@ -32,6 +32,7 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
 ```
 ## Setup 4: downloading MATSCIBERT
 ```
+cd tabbie
 Download files from https://huggingface.co/m3rg-iitd/matscibert/tree/main and place it in folder named saved_matscibert
 ```
 
