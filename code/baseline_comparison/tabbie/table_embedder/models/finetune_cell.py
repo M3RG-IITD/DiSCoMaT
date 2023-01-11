@@ -525,8 +525,13 @@ class TableEmbedder(Model):
 
         comp_gid_loss_fn = self.loss_func2(row_col_gid_logits, batch_row_col_gid_labels)
         
+<<<<<<< HEAD
         torch.save(edge_logits, f'./edge_logit_17_ada/{name}.pt')
         torch.save(row_col_gid_logits, f'./row_col_gid_logit_17_ada/{name}.pt')
+=======
+        torch.save(edge_logits, f'./edge_logit/{name}.pt')
+        torch.save(row_col_gid_logits, f'./row_col_gid_logit/{name}.pt')
+>>>>>>> 403b9606a8a4ac8486a272a6bb737a411f94d330
         
         prob_r_c_g_l = F.softmax(row_col_gid_logits, dim=1)
         mask1 = torch.ones(extra_rows_mask.size())

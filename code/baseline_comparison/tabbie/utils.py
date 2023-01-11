@@ -8,7 +8,11 @@ from torch.utils.data import Dataset
 import pdb
 
 
+<<<<<<< HEAD
 table_dir = './data'
+=======
+table_dir = './../../../data'
+>>>>>>> 403b9606a8a4ac8486a272a6bb737a411f94d330
 comp_data = pickle.load(open(os.path.join(table_dir, 'train_data.pkl'), 'rb')) + \
             pickle.load(open(os.path.join(table_dir, 'val_test_data.pkl'), 'rb'))
 #pdb.set_trace()
