@@ -58,7 +58,7 @@ mkdir edge_logit
 # Seeds to replicate the result
 ```
 Edit the seeds present in tabbie/exp/ft_cell/cell.jsonnet file:
-1. For TABBIE_ADAPTED : [[seed used in TABBIE(comment out the seeds)], ["random_seed": 20050, "numpy_seed": 2005, "pytorch_seed": 200,], ["random_seed": 2, "numpy_seed": 2, "pytorch_seed": 2,]
+1. For TABBIE : [[seed used in TABBIE(comment out the seeds)], ["random_seed": 20050, "numpy_seed": 2005, "pytorch_seed": 200,], ["random_seed": 2, "numpy_seed": 2, "pytorch_seed": 2,]
 2. For TABBIE_ADAPTED : [[seed used in TABBIE(comment out the seeds)], ["random_seed": 20050, "numpy_seed": 2005, "pytorch_seed": 200,], ["random_seed": 30000, "numpy_seed": 6000, "pytorch_seed": 1200,]]
 
 Reason for using different 3rd seed: Obtained better ressults from baseline, wanted to be fair to the baselines by obtaining best possible results.
