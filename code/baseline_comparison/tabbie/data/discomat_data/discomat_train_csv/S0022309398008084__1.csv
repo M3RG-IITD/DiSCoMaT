@@ -1,0 +1,7 @@
+Sample,mol% SiO2,mol% B2O3,mol% Bi2O3,mol% TiO2,mol% Nb2O5,Crystalline phases,e
+S1,40,-,36,12,12,Bi7Ti4NbO21; Bi3TiNbO9; Bi5Nb3O15,129+-8
+S2,50,-,25,16.7,8.3,Bi3TiNbO9; Bi2Ti2O7,82+-11
+S3,40,-,30,20,10,Bi2Ti2O7,-
+S4,37,-,40,11.5,11.5,Bi3TiNbO9; Bi7Ti4NbO21,154+-18
+S5,30,-,35,23.3,11.7,Bi2Ti2O7; Bi3TiNbO9,99+-8
+BS1,20,20,30,10,20,BiNbO4; Bi2Ti2O7; Bi3TiNbO9,-

@@ -1,0 +1,6 @@
+Sample code,T p (degC),T m (degC),E c (kJ/mol),Density (% TD)
+S1,526,767,116+-15,98+-0.5
+S1 with Cs,526,767,93,90+-0.3
+S2,565,820,131,98+-0.6
+S2 with Cs,565,800,116,94+-0.5
+Se76Sb6Te20,416,-,,

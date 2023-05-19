@@ -1,0 +1,17 @@
+,Range (mm),Straggle (mm),,Range (mm),Straggle (mm),
+,Alpha particles: vac/ion=180,Alpha particles: vac/ion=180,,Li ions: vac/ion=363,Li ions: vac/ion=363,
+Longitudinal,5.29,0.16,,2.47,0.18,
+Lateral,0.20,0.26,,0.19,0.25,
+,,,,,,
+% energy,Ions,Recoils,,Ions,Recoils,
+,Alpha particles: 1.8 MeV,Alpha particles: 1.8 MeV,,Li ions: 1 MeV,Li ions: 1 MeV,
+Ionization,99.45,0.15,,97.5,0.98,
+Vacancies,0.01,0.01,,0.02,0.05,
+Phonons,0.06,0.41,,0.14,1.30,
+,,,,,,
+Displaced atom,<E> /ion ( eV),Range (  A   ) Less than,Number of displaced atoms/ion,<E> /ion ( eV),Range (  A   ) Less than,Number of displaced atoms/ion
+,Alpha particles: 1.8 MeV,Alpha particles: 1.8 MeV,Alpha particles: 1.8 MeV,Li ions: 1 MeV,Li ions: 1 MeV,Li ions: 1 MeV
+O,57,15,110,66,15,221
+Si,65,15,50,71,15,101
+B,39,15,9,42,15,18
+Na,50,15,11,54,15,23

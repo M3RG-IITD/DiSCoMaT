@@ -1,0 +1,9 @@
+Samples,L (mm),T (degC),s dc (O-1cm-1),s sp (O-1cm-1),r,Despace charge,n (#/m3),n ratio,m (cm2/V s)
+As-received,90,200,3.5x10-13,4.9x10-12,0.33,333,5.9x1019,1.0,3.7x10-12
+(T f =1069degC),(T f =1069degC),(T f =1069degC),(T f =1069degC),(T f =1069degC),(T f =1069degC),(T f =1069degC),(T f =1069degC),(T f =1069degC),(T f =1069degC)
+Heat-treated,99,200,1.0x10-13,4.7x10-12,1.8,216,1.4x1020,2.4,4.4x10-13
+(T f=1221degC),(T f=1221degC),(T f=1221degC),(T f=1221degC),(T f=1221degC),(T f=1221degC),(T f=1221degC),(T f=1221degC),(T f=1221degC),(T f=1221degC)
+As-received,90,160,2.1x10-14,1.5x10-13,0.16,91.6,3.0x1018,0.05,4.2x10-12
+(OH=5 ppmwt),(OH=5 ppmwt),(OH=5 ppmwt),(OH=5 ppmwt),(OH=5 ppmwt),(OH=5 ppmwt),(OH=5 ppmwt),(OH=5 ppmwt),(OH=5 ppmwt),(OH=5 ppmwt)
+Hydrated,162,160,2.1x10-15,2.8x10-16,0.0027,1.64,2.2x1014,3.8x10-6,5.9x10-9
+(OH=762 ppmwt),(OH=762 ppmwt),(OH=762 ppmwt),(OH=762 ppmwt),(OH=762 ppmwt),(OH=762 ppmwt),(OH=762 ppmwt),(OH=762 ppmwt),(OH=762 ppmwt),(OH=762 ppmwt)

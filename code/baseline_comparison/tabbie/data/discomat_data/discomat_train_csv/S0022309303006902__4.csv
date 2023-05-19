@@ -1,0 +1,19 @@
+Crystal,Variety,Space group,Crystalline parameters,Shortest distances Pb-O or Te-O
+TeO2,a,P41212,a=b=4.810 A,d(Te-Oeq)=1.88 A (x2)
+,,,c=7.612 A,d(Te-Oax)=2.12 A (x2)
+,,,,
+PbTeO3,b,P41,a=b=5.304 A,"d(Pb-O)=2.27, 2.45, 2.49, 2.69, 2.60 (x2) A"
+,,,c=11.900 A,
+,,,,"d(Te-O)=1.84, 1.85, 1.89 A"
+,,,,
+Pb(PO3)2,,P21/c,a=7.29 A,d(Pb-O)=7x(2.43-2.79 A)
+,,,b=7.95 A,
+,,,c=17.28 A,
+,,,,
+Na2PbP2O7,,,,"d(Pb-O)=2.33, 2.38, 2.43, 2.52, 2.69, 2.76 A"
+,,,,
+PbTe5O11,,C2/c,a=18.959 A,"d(Pb-O)=2.45 A, 2.51 A,"
+,,,b=4.414 A,"5x(2.63 A-2.88 A), and 3.08 A"
+,,,c=25.798 A,
+,,,b=98.12deg,Diphenoidal TeO4:2d(Te-O) from 1.88 to 1.94 A and 2xd(Te-O) from 2.08 to 2.44 A
+,,,,Polyhedral TeO3+1: 3xd (Te-O) from 1.82 to 1.96 A and 1xd(Te-O) from 2.41 to 2.44 A

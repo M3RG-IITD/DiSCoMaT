@@ -1,0 +1,6 @@
+t,Lifetime (ms),8.0+-0.4
+1/t,Transition probability (s-1),(125+-6)x103
+W,Calculated spontaneous emission probability (s-1),(3.6+-0.4)x103
+W NR,Nonradiative transition probability (s-1),(121+-6)x103
+e,Quantum efficiency (%),3.0+-0.2
+DE,Energy gap (cm-1),3100

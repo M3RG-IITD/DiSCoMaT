@@ -1,0 +1,6 @@
+Sample code,Initial state,Diffusion treatment,Fictive temperature (degC),D eff(water)/cm2/s,D eff(hydrogen)/cm2/s
+A1,As-manufactured,"750degC, 355Torr water vapor, 3h",1250,(3.5-7.0)x10-11,(7+-1)x10-9
+A2,As-manufactured,"750degC, 355Torr water vapor, 12h",1250,(2.5-7.0)x10-11,(7.5+-1.5)x10-9
+A3,As-manufactured,"750degC in dry nitrogen, various lengths of time",1250,-,(1.5+-0.1)x10-7
+B1,De-hydroxylated,"750degC, 355Torr water vapor, 3h",1000,(6.5+-0.5)x10-11,-
+B2,De-hydroxylated,"750degC, 355Torr water vapor, 3h",1250,(5.5+-0.5)x10-11,-

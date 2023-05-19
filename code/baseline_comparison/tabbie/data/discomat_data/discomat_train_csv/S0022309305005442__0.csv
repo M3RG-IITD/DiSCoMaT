@@ -1,0 +1,5 @@
+,S,Se,Te
+E (keV),100,210,300
+Fluence(x1015 at.cm-2),2,1.5,1.4
+Annealing time(h),1,1,1
+Annealing temperature(degC),800-950,800-950,800-950

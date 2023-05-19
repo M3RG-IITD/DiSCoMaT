@@ -1,0 +1,8 @@
+Glass,lc (nm),Positions of transitions in nm from 4A2g (F) to,Positions of transitions in nm from 4A2g (F) to,Positions of transitions in nm from 4A2g (F) to,Positions of transitions in nm from 4A2g (F) to,Positions of transitions in nm from 4A2g (F) to,Eg (eV)+-0.01,DE (eV)+-0.001,Lth +-0.0001
+Glass,lc (nm),4T1g (P),4T1g (F),4T2g (F),2T1g (G),2Eg (G),Eg (eV)+-0.01,DE (eV)+-0.001,Lth +-0.0001
+C0,299,-,-,-,-,-,4.29,0.254,0.4474
+C1,315,351,438,625,644,691,4.02,0.481,0.4480
+C2,322,362,439,622,646,694,3.94,0.518,0.4493
+C3,328,365,435,624,649,690,3.66,0.528,0.4506
+C4,335,367,438,626,650,690,3.59,0.575,0.4524
+C5,342,368,439,628,652,691,3.37,0.602,0.4537

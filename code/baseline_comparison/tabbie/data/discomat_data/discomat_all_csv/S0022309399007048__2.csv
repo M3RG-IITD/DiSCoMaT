@@ -1,0 +1,6 @@
+T (degC),Leaching time (days),Amount (at. cm-2),Amount (at. cm-2),Amount (at. cm-2),Depth (nm),Depth (nm),Depth (nm)
+T (degC),Leaching time (days),Ca,Na,H,Ca,Na,H
+,Blank (dried for 15 h),0.8,,0,10,8,0
+60,1,1.9,18,n.d.,8,32,n.d.
+60,2,1.8,13,5.1,8,40,54
+80,1,1.9,24,11,73,73,73

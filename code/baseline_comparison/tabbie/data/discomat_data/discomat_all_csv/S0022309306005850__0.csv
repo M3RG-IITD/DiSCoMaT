@@ -1,0 +1,10 @@
+Molecule,"Bond, angle",Present work (GGA-BLYP),Other data
+Water,OH (A),0.975,0.957 (expt)
+Water,HOH (deg),105.05,104.5 (expt)
+,,,
+Linear NaOH,OH (A),0.967,
+Linear NaOH,Na-O (A),1.906,1.956 [18]
+,,,
+Bent NaOH,OH (A),0.976,
+Bent NaOH,Na-O (A),1.974,
+Bent NaOH,NaOH (deg),123.04,

@@ -1,0 +1,28 @@
+Physical property,Value
+Measured property,Measured property
+"Density, d (gcm-3)",5.34
+"Transformation temperature, T g (degC)",415
+"Deformation temperature, T d (degC)",456
+"Coefficient of thermal expansion, a CTE (degC-1) (30-300 degC)",91x10-7
+Refractive index,Refractive index
+n d (at l =587.1 nm),1.8204
+n e (at l =546.1 nm),1.8284
+n C' (at l =643.8 nm),1.8125
+n F' (at l =480.0 nm),1.8462
+,
+Calculated property,Calculated property
+Er2O3 concentration (mol%),0.33
+"Er3+ ion concentration, N (ionscm-3)",1.64x1020
+"Average molecular weight, M av",129.67
+"Molar volume, V m (cm3)",24.28
+"Molar refractivity, M R (cm3)",10.57
+"Reflectivity per surface, R (%)",8.46
+"Dielectric constant, e",3.314
+"Abbe number, n e",24.55
+"Dispersive power,     n   e   - 1",0.041
+"Polaron radius, r p (A)",7.36
+"Inter-ionic distance, r i (A)",18.27
+"Field strength, F (cm-2)",5.54x10-18
+"Electronic polarizability factor, a (cm3)",6.34x10-22
+"Non-linear refractive index, n 2 (esu)",11.02x10-13
+"Coefficient of non-linear refractive index, g (cm2 W-1)",2.52x10-14

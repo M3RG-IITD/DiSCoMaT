@@ -1,0 +1,19 @@
+Wave number (cm-1),Wave number (cm-1),Compositions,Compositions,Compositions,Compositions,Assignment
+Diopside [44],Di-Ca-Ts GCs,BaCMAS1,BaCMAS2,BaCMAS3,BaCMAS4,Assignment
+335,335,-,-,850degC,850degC,O(nbr)-Si-O (nbr) wagging
+335,337,"900degC, 950degC, 1000degC","900degC, 950degC, 1000degC","900degC, 950degC, 1000degC","900degC, 950degC, 1000degC",O(nbr)-Si-O (nbr) wagging
+366,-,-,-,-,-,Not assigned
+395,390-392,"900degC, 950degC, 1000degC","900degC, 950degC, 1000degC","900degC, 950degC, 1000degC","900degC, 950degC, 1000degC",Chain deformation [O (nbr)-Ca-O (nbr)] bending
+395,400,850degC,850degC,850degC,850degC,Chain deformation [O (nbr)-Ca-O (nbr)] bending
+-,418,"900degC, 950degC, 1000degC","900degC, 950degC, 1000degC","900degC, 950degC, 1000degC","950degC, 1000degC",Not assigned
+470,480,"850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC",Chain deformation [O (nbr)-Mg-O (nbr)] bending
+510,520,"850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC",Chain deformation [O (nbr)-Mg-O (nbr)] bending
+630,638-640,"850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC",O(nbr)-Si-O (nbr) bending
+670,660,-,-,850degC,-,Not assigned
+670,675,"900degC, 950degC, 1000degC","900degC, 950degC, 1000degC","900degC, 950degC, 1000degC",850-1000degC,Not assigned
+670,680,850degC,850degC,-,-,Not assigned
+865,875,"850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC",Si-O (nbr) stretching
+920,925,900-1000degC,900-1000degC,850-1000degC,850-1000degC,Si-O (nbr) stretching
+965,975,"850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC","850degC, 900degC, 950degC, 1000degC",Si-O (br) stretching
+1070,1075,"850degC, 900degC","850degC, 900degC",-,-,Si-O (br) stretching
+1070,1080,-,-,"950degC, 1000degC","950degC, 1000degC",Si-O (br) stretching

@@ -1,0 +1,3 @@
+Temperature range,E    s   from log(s  dc *T) vs. 1000/T plot,E    n   from log(n  H ) vs. 1000/T plot,E  nmax  from log(n  max ) vs 1000/T plot
+298 to 333K,E 1 =-1.02eV,E 1 =-0.846eV,E 1 =0.954eV
+333 to 363K,E 2 =-3.42eV,E 2 =-2.965eV,E 2 =3.351eV

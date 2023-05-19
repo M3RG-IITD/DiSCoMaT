@@ -1,0 +1,10 @@
+Label,SiO2,B2O3,Na2O,CdO,MnO,Treatment,Absorption
+S1,95.5,-,-,4.5,-,150 degC/4 h/H2S,450
+S2,95.5,-,-,4.5,-,400 degC/4 h/H2S,494
+S3,93.0,-,-,5.0,2.0,400 degC/4 h/H2S,453
+S4,95.5,-,-,4.5,-,150 degC/12 h/H2S 550 degC/12 h/vacuum,500
+S5,93.0,-,-,5.0,2.0,150 degC/12 h/H2S 550 degC/12 h/vacuum,479
+,,,,,,,
+B1,73.5,18.0,4.5,4.5,-,400 degC/4 h/H2S,484
+B2,71.4,17.6,4.5,4.5,2.0,400 degC/4 h/H2S,437
+B3,71.4,17.6,4.5,4.5,2.0,150 degC/12 h/H2S 550 degC/12 h/vacuum,496

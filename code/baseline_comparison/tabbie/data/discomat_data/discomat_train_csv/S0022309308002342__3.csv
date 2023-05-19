@@ -1,0 +1,25 @@
+Sample,Core-glass-film/cladding-glass-substrate composition,Pulse duration (ms),Film thickness (mm),Film thickness (mm),Film quality,Waveguiding assessment
+Sample,Core-glass-film/cladding-glass-substrate composition,Pulse duration (ms),Average,Standard deviation,,
+HSC07,ZBLANP/ZBLAN,100,na,na,Film did not cover entire substrate. Crystals and particles present,Strong output intensity
+HSC08,'','',21,3,'',Strong output intensity
+HSC11,'','',na,na,'',Not assessed
+HSC12,'','',na,na,'',Not assessed
+HSC13,'','',na,na,'',Not assessed
+HSC14,'',400,12,3,Film covered entire substrate. Crystals and particles present,Strong output intensity
+HSC15,'','',15,3,'',Weak output intensity
+HSC16,'','',14,4,'',Weak output intensity
+HSC17,'','',12,3,'',Weak output intensity
+HSC18,'','',16,4,'',Broken at preparation
+HSC19,'','',11,2,'',Non-guiding
+HSC20,'','',10,2,'',Strong output intensity
+HSC21,'','',11,2,'',Non-guiding
+HSC22,'','',14,3,'',Non-guiding
+HSC23,'','',12,4,'',Non-guiding
+HSC24,'','',15,3,'',Weak output intensity
+HSC25,'','',13,3,'',Weak output intensity
+HSC26,ZBLALiYPb/HBLANY,'',10,3,Film covered entire substrate. A few crystals and particles present,Weak output intensity
+HSC27,'','',12,2,'',Broke during waveguide preparation
+HSC28,'','',14,3,'',Strong output intensity
+HSC29,'','',13,2,'',Strong output intensity
+HSC30,'','',14,3,'',Strong output intensity
+HSC31,'','',11,3,'',Strong output intensity

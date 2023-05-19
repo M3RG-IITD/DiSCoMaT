@@ -1,0 +1,8 @@
+Sample treatment,fc (NMR),fc (microscopy),fc (XRD)
+"500degC, 50h",2.5 (0.4),1.9,1.0
+"500degC, 75h",3.8 (0.8),4.9,3.0
+"500degC, 90h",15 (4.8),9.4,6.7
+"500degC, 120h",100,n.d.,n.d.
+"500degC, 4h+620degC, 5min",0.0,0.0,n.d.
+"500degC, 4h+620degC, 10min",2.1,2.2,1.0
+"500degC, 4h+620degC, 20min",82,75,n.d.

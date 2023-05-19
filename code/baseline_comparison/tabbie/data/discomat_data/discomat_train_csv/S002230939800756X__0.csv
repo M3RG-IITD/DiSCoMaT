@@ -1,0 +1,5 @@
+Pump wavelength (nm),Average power (mW),Exposure time (h),Absorption at 514 nm (dB) (+-0.3)
+285,6,1,1.4
+300,6,1,1.7
+351,18,0.5,3.6
+364,18,0.5,1.5

@@ -1,0 +1,5 @@
+Heat treatment,Hardness H v (Kg/mm2),Toughness K c (Mpamm1/2),Thermal expansion coefficient (10-6 K-1)
+Base glass,137,0.176,178
+290degC 5h,136,0.179,178
+290degC 35h,143,0.165,193
+290degC 5h+10min 375degC,132,0.217,175

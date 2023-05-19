@@ -1,0 +1,23 @@
+Sample code,IS (mm/s) (+-0.03),IS (mm/s) (+-0.03),QS (mm/s) (+-0.03),QS (mm/s) (+-0.03)
+Sample code,Fe2+,Fe3+,Fe2+,Fe3+
+Series A,Series A,Series A,Series A,Series A
+A1,1.20,0.38,2.16,0.89
+A2,1.19,0.38,2.15,0.89
+A3,1.19,0.37,2.17,0.88
+A4,1.19,0.37,2.15,0.88
+,,,,
+Series B,Series B,Series B,Series B,Series B
+B1,1.20,0.38,2.15,0.88
+B2,1.19,0.37,2.13,0.88
+B3,1.18,0.37,2.15,0.88
+B4,NM,NM,NM,NM
+,,,,
+Series C,Series C,Series C,Series C,Series C
+C1,1.18,0.38,2.17,0.90
+C2,NM,NM,NM,NM
+C3,1.20,0.37,2.17,0.93
+,,,,
+Series M,Series M,Series M,Series M,Series M
+M1,1.17,0.41,2.26,0.89
+M2,1.18,0.42,2.26,0.89
+M3,1.18,0.42,2.24,0.90

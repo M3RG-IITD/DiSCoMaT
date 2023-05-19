@@ -1,0 +1,4 @@
+,E i,E r,E o,DE(=E i-E o)
+,Initial site potential right after ion exchange,Final site potential after relaxation,Original site potential (before exchange),Energy barrier
+K into Li site,-1.037,-3.475,KK=3.678,DE=2.641
+Li into K site,-4.796,-6.267,LiLi=6.471,DE=1.675

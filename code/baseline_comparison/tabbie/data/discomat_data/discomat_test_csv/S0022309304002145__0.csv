@@ -1,0 +1,6 @@
+,Ag-As-S,Cu-Ag-As-S,Cu-Ag-As-Se,Pb-Ag-As-S,PbS-Ag-As-S
+Ion,Ag+,Cu2+,Cu2+,Pb2+,Pb2+
+Sensitivity mV/pX,50-56,23-29,23-29,~30,~26
+Response time (min),<1,<1,<1,~5,~5
+pH range,,2-8,2-8,,
+Detection limit mol/l,1x10-6,1x10-5,1x10-6,1x10-4,1x10-5

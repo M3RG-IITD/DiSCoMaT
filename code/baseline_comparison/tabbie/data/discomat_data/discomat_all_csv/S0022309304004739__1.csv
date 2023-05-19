@@ -1,0 +1,7 @@
+Sample,R m (cm3 mol-1),R m (cm3 mol-1),R m (cm3 mol-1),R m (cm3 mol-1),Polarizability in A3,Polarizability in A3,Polarizability in A3,Polarizability in A3,Sellmeier gap,Dispersion energyy
+,C' (643.8 nm),e (546.1 nm),F' (479.98 nm),g (435.8 nm),C' (643.8 nm),e (546.1 nm),F' (479.98 nm),g (435.8 nm),E s in eV,E d in eV
+A,15.31,15.57,15.86,16.16,6.08,6.18,6.29,6.41,6.474,20.789
+B,13.85,14.61,14.88,15.15,5.71,5.8,5.9,6.01,6.720,20.301
+C,14.18,14.07,14.32,14.58,5.5,5.6,5.7,5.8,6.766,20.247
+D,14.38,14.4,14.66,14.91,5.6,5.7,5.8,5.9,6.815,20.466
+E,13.82,14.04,14.28,14.53,5.5,5.6,5.7,5.8,6.918,20.188

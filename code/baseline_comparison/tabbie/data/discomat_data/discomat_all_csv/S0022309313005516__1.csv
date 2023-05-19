@@ -1,0 +1,8 @@
+Property,Glass,Mold
+"Density, r (kg/m3)",2550,"14,650"
+"Young's Modulus, E (GPa)","100.8, T<=510degC10, T>=560degC",570
+"Poisson's Ratio, n",0.252,0.22
+"Specific Heat, cp (J/kg/K)","1100, T<=470degC1730, T>=570degC",314
+"Thermal Conductivity, k (W/m/K)",1.126,38
+"Thermal Expansion Coefficient, a (K-1)",,4.9x10-6
+"Glass Transition Temperature, Tg (degC)",527,-

@@ -1,0 +1,9 @@
+Transition,Peak position (nm),Oscillator strength (10-8),Oscillator strength (10-8),Deviation (%)
+Transition,Peak position (nm),Observed,Calculated,Deviation (%)
+4I9/2 - 4F3/2,891,474+-8,636,34.2
+4I9/2 - 4F5/2 + 2H9/2,816,1754+-20,1687,3.8
+4I9/2 - 4F7/2 + 4S3/2,757,1482+-15,1552,4.7
+4I9/2 - 4F9/2,691,119+-1,130,8.9
+4I9/2 - 4H11/2,637,36+-1,36,0.1
+4I9/2 - 4G5/2 + 2G7/2,596,6748+-70,6763,0.2
+4I9/2 - 2K13/2 + 4G7/2+4G9/2,529,1835+-40,1597,13.0

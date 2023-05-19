@@ -1,0 +1,7 @@
+Crystallization,Crystallization,Crystalline phases,Crystalline phases,Crystalline phases,Crystalline phases,Crystalline phases,Crystalline phases,Crystalline phases
+Glass ID,Temperature (degC),Fe3O4 PDF: 771545,Fe2O3 PDF: 391346,CaMg(SiO3)2 PDF: 750945,NaFe(Si2O6) PDF: 711492,CaFeSi2O6 PDF: 711499,Fe2SiO4 PDF: 832073,Na(AlSi3O8) PDF: 711150
+L01,750/10h,X,,-,-,-,-,-
+L01,820/10h,X,,X,X,X,-,-
+,,,,,,,,
+M01,760/10h,X,,-,-,-,-,-
+M01,1140/10h,,X,-,-,-,X,X

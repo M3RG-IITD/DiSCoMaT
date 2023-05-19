@@ -1,0 +1,5 @@
+Body type,Bioactive (%),Biocompatible 1 (%),Biocompatible 2 (%),Time (s)
+A,100,-,-,360
+B,35,65,-,225
+C,35,-,65,240
+D,-,-,100,240

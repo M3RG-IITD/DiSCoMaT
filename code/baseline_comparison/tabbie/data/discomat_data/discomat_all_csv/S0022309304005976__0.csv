@@ -1,0 +1,6 @@
+Sample code,Initial state,Diffusion treatment,Fictive temperature (degC),Diffusion co-efficient determined
+A1,As-manufactured in H2 atmosphere,"750degC, 355Torr water vapor, 3h",1250,Water and hydrogen
+A2,As-manufactured in H2 atmosphere,"750degC, 355Torr water vapor, 12h",1250,Water and hydrogen
+A3,As-manufactured in H2 atmosphere,"750degC in dry nitrogen, various lengths of time",1250,Hydrogen
+B1,H2 removed at 1000degC in dry Ar for 6h,"750degC, 355Torr water vapor, 3h",1000,Water
+B2,"H2 removed at 1000degC in dry Ar for 6h, then heated at 1250degC and quenched","750degC, 355Torr water vapor, 3h",1250,Water

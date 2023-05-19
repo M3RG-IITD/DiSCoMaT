@@ -1,0 +1,7 @@
+Samples,Bond Assignment (cm-1),Bond Assignment (cm-1),Bond Assignment (cm-1),Bond Assignment (cm-1)
+Samples,B-O (stretching of trigonal BO3 bond)+-0.07,B-O (stretching of tetrahedral BO4 bond)+-0.04,O-H (H2O) bond+-0.1,Bending vibration+-0.03
+S1,1365.50,"898.56, 1056.29","3445.59, 3739.18",700.14
+S2,1373.01,"894.80, 1060.05","3453.34, 3738.55, 3853.01",702.02
+S3,1312.92,"883.54, 1041.27","3443.34, 3701.65, 3781.71",728.31
+S4,1346.72,"891.05, 1052.54","3460.85, 3742.31, 3849.26",717.04
+S5,1380.52,"879.78, 1045.02","3427.70, 3861.14",732.06

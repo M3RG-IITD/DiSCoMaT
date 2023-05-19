@@ -53,3 +53,9 @@ python compute_results.py --model tabert
 python compute_results.py --model tabert_adapted
 python compute_results.py --model gat
 ```
+
+### Simple Rule Based Model
+This can be run by the the command:
+```bash
+python simple_rule_based_baseline.py
+```

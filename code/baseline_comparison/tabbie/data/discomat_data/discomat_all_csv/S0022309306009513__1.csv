@@ -1,0 +1,24 @@
+IR Spectra,IR Spectra,,
+Sample description,T CAL (degC),,
+C1 1/2 of middle disk,667,,
+A1 1/2 of middle disk,611,,
+A2 1/2 of middle disk,665,,
+A3 1/2 of middle disk,687,,
+A4 1/2 of middle disk,714,,
+B1 1/2 of middle disk,665,,
+B2 1/2 of middle disk,795,,
+,,,
+Raman Spectra,Raman Spectra,Raman Spectra,Raman Spectra
+Sample name,Sample name,Position in the sample,T CAL (degC)
+C1,C1 (ISO),1/2 of top disk (isothermal area),608
+C1,C1 (EDGE),1/2 of top disk (sample edge),639
+,,,
+A1,A1 (ISO),1/2 of middle disk (isothermal area),600
+A2,A2 (ISO),1/2 of middle disk (isothermal area),653
+A3,A3 (ISO),1/2 of middle disk (isothermal area),670
+,,,
+A4,A4 (ISO),1/2 of middle disk (isothermal area),700
+A4,A4 (EDGE),1/2 of middle disk (sample edge),731
+,,,
+B1,B1 (ISO),1/2 of middle disk (isothermal area),656
+B1,B1 (EDGE),1/2 of middle disk (sample edge),687

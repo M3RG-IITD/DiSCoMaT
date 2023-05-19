@@ -1,0 +1,20 @@
+Pre-DTA heat treatment,T c (degC),Peak area (degCmin/mg)
+Glass A,Glass A,Glass A
+As-cast,602.8,0.10070
+490 degC/2 h,588.8,0.10670
+490 degC/10 h,599.7,0.05260
+490 degC/18 h,606.3,0.03855
+490 degC/26 h,617.7,0.03643
+430 degC/2 h,599.2,0.07949
+440 degC/2 h,606.1,0.07992
+450 degC/2 h,611.8,0.08737
+,,
+Glass B,Glass B,Glass B
+As-cast,603.3,0.10500
+490 degC/2 h,596.1,0.11900
+490 degC/10 h,598.8,0.07768
+490 degC/18 h,596.7,0.04394
+490 degC/26 h,616.8,0.03238
+430 degC/2 h,605.9,0.12660
+440 degC/2 h,598.8,0.11170
+450 degC/2 h,595.2,0.12320

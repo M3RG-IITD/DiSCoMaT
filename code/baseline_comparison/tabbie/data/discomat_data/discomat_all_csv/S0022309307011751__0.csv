@@ -1,0 +1,7 @@
+Sample,Composition,Melting temperature (degC)/time (h)/redox condition
+Ti-1,NBS1+0.5mol% Ti2O3,1500/4/normal
+Ti-2,NBS1+1.0mol% TiO2,1500/4/normal
+Ti-3,NBS1+1.0mol% TiO2,1500/4/reducing agent graphite
+Ti-4,NBS2+1.0mol% TiO2,1600/4/normal
+Ti-5,NBS2+0.5mol% Ti2O3,1600/4/reducing agent graphite
+Ti-6,NBS2+1.0mol% TiO2,1600/4/reducing agent graphite

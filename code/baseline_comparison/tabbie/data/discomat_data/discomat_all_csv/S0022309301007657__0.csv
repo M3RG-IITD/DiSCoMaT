@@ -1,0 +1,17 @@
+Sample,PbO (mol%),ZnO (mol%),B2O3 (mol%),P2O5 (mol%),r+-0.1(gcm -3),V M  (cm 3),T g+-2 (degC),T d+-2 (degC),a+-0.5(ppmK -1),DR+-10% (gcm -2  min -1)
+A1,25,25,0,50,3.75,39.3,254,274,10.9,780x10-6
+A2,25,25,5,45,3.85,37.3,336,363,10.3,64x10-6
+A3,25,25,10,40,4.02,34.8,394,419,9.7,49x10-6
+A4,25,25,15,35,4.24,32.2,431,453,9.3,1.2x10-6
+A5,25,25,20,30,4.25,31.2,460,474,8.8,1.2x10-6
+A6,25,25,25,25,4.56,28.3,463,493,7.5,7.9x10-6
+A7,25,25,30,20,Partly separated glass,Partly separated glass,Partly separated glass,Partly separated glass,Partly separated glass,Partly separated glass
+A8,25,25,40,10,Partly separated glass,Partly separated glass,Partly separated glass,Partly separated glass,Partly separated glass,Partly separated glass
+A9,25,25,50,0,4.50,24.7,479,510,5.4,75x10-6
+B1,0,50,20,30,3.26,29.8,500,525,6.3,350x10-6
+B2,5,45,20,30,3.51,29.7,490,509,7.2,30x10-6
+B3,10,40,20,30,3.65,30.5,483,503,7.5,1.2x10-6
+B4,20,30,20,30,4.08,30.7,474,496,8.7,1.3x10-6
+B5,30,20,20,30,4.47,31.3,465,489,8.9,1.2x10-6
+B6,40,10,20,30,4.77,31.2,464,488,9.3,11x10-6
+B7,50,0,20,30,5.34,31.5,458,478,10.7,39x10-6

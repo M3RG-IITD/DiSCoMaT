@@ -1,0 +1,14 @@
+,mol%,mol%,,mol%,mol%,mol%,,
+Sample No.,AgI,Ag2MoO4,,AgI,Ag2O,MoO3,T g (degC),T p (degC)
+series I,series I,series I,series I,series I,series I,series I,series I,series I
+1,75,25,,(60,20,20),54,500
+2,70,30,,(53.8,23.1,23.1),60,500
+3,66.7,33.3,,(50,25,25),65,500
+4,60,40,,(42.8,28.6,28.6),79,500
+series II,series II,series II,series II,series II,series II,series II,series II,series II
+3,(66.7,33.3),,50,25,25,65,500
+5,,,,50,24,26,75,500
+6,,,,50,23,27,84,530
+7,,,,50,22,28,94,530
+8,,,,50,21,29,101,530
+9,,,,50,20,30,111,530

@@ -1,0 +1,12 @@
+Host materials,Activation energy (+-0.007eV),sdc (+-0.20x10 -10Scm-1),Reference
+BPNa5,0.823,1.61x10-10,This work
+BPNa10,0.762,1.82x10-10,This work
+BPNa15,0.634,3.46x10-10,This work
+BPNa20,0.612,3.52x10-10,This work
+NPBo5,0.854,1.52x10-10,This work
+NPBo10,0.765,1.82x10-10,This work
+NPBo15,0.672,2.03x10-10,This work
+NPBo20,0.653,2.36x10-10,This work
+30Na2O-10MoO3-60P2O5,0.842,2x10-9,[44]
+60MoO3-40P2O5,0.591,1.12x10-10,[44]
+27Na2O-3Al2O3-70B2O3,0.771,1.39x10-11,[45]

@@ -1,0 +1,8 @@
+Parameter,Na,Ge,O
+Number of atoms,,,
+SG00,0,400,800
+SG15,120,340,740
+SG30,240,280,680
+"Charge, z (in e units)",0.6,2.4,-1.2
+s  ij  (nm),0.180,0.204,0.268
+Half box length (nm),1.3337,1.2575,1.2901

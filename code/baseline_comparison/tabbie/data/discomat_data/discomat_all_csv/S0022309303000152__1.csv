@@ -1,0 +1,11 @@
+Method/Ref.,Investigated type of alkali ion,Energy of primary electrons (keV),Current density (A/m2),Maximum dose (C/m2)
+AES [9],Na,"1.5, 3",100-1300,3.6x105
+AES [9],K,"1.5, 3",500-4000,2.1x106
+AES [39],Na,0.5-4,10,900
+AES [8],"Na, K",1.5,0.1-10,200-2000
+"XPS, AES [40]",Na,"2.5, 4.5","0.012, 0.04",480
+"XPS, AES [20]",Na,2-5,15,10800
+ISS [22],"K, Rb, Cs",0.5,0.05,8000
+XPS [21],Na,3,5,6600
+"EPMA [41,42]",K,50,1.9,14700
+XPS (this work),K,1.6,0.02-0.22,5200

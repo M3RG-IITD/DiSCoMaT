@@ -1,0 +1,11 @@
+,Molecule,Molecule,Molecule,Molecule,Molecule
+,OPH3,OPF3,OPCl3,OPBr3,OPI3
+OP bond length (A),1.467,1.428,1.440,1.445,1.451
+PX bond length (A),1.395,1.520,1.985,2.191,2.430
+OPX angle (deg),116.808,117.135,114.614,114.024,113.110
+XPX angles (deg),101.238,100.834,103.873,104.559,105.600
+OP vibration frequency (cm-1),1376.33,1512.68,1429.16,1400.22,1371.19
+Corrected frequency,1273,1400,1322,1295,1268
+Experimental frequency [18],-,1416.8,1321.5,1277,-
+IR absorption (Debye2/amu/A2),8.0,7.7,6.0,5.4,5.0
+Raman intensity (A4/amu),7.8,4.7,10.5,13.5,16.2

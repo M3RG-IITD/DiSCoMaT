@@ -1,0 +1,13 @@
+Crucible,Atmosphere,Additives or process,Eu2+/Gd3+ EPR signal ratio +-5%,Estimated Eu2+ concentration (mol%) +-5%,Luminescence (350 nm excitation)
+Graphite,Ar,-,0.23,0.29,Orange
+Graphite,Ar,0.25% InF3,0.04,0.05,Orange
+gc,Ar,e/chemical,0.22,0.28,Orange
+gc,"Ar, 5% H2",-,0.52,0.66,Orange
+gc,"Ar, 5% H2",-,0.81,1.03,Nil
+gc,"Ar, 5% H2",-,0.74,0.94,Nil
+gc,Ar,1% LiH,0.74,0.94,Nil
+gc,Ar,1% NaH,0.66,0.84,Weak orange
+gc,Ar,0.25% LiBH4,0.78,0.99,Nil
+gc,Ar,0.5% ZrH2,0.86,1.09,Nil
+gc,Ar,1% EuF2 (PB),0.05,0.06,Orange
+gc,Ar,1% EuF2 (Cerac),0.67,0.85,Nil

@@ -1,0 +1,11 @@
+Annealing time (h),Average radius (nm),Melting temperature (K),Melting temperature (K)
+,,DSC,XRD
+27,2.2,-,-
+50,3.1,-,-
+80,4.5,-,-
+100,4.8,382,-
+120,4.6,407,-
+150,5.6,421,-
+180,7.9,452,-
+200,11.5,474,488
+300,15.8,495,523

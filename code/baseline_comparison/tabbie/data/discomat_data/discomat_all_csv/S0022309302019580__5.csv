@@ -1,0 +1,13 @@
+Barium glasses,T p 1,T p 1,T p 1,T p 2,T p 2,T p 2,T p 3,T p 3,T p 3
+S value,0.00,0.50,1.00,0.00,0.50,1.00,0.00,0.50,1.00
+E a Marotta (kJ/mol),307,221,266,156,245,306,None,None,209
+Linear fit (R 2),0.98,0.96,0.98,0.99,0.98,0.95,None,None,0.94
+E a Matusita (kJ/mol),301,215,261,149,239,300,None,None,203
+Linear fit (R 2),0.98,0.96,0.98,0.98,0.98,0.95,None,None,0.94
+,,,,,,,,,
+Potassia glasses,Tpnuc2,Tpnuc2,Tpnuc2,T p 1,T p 1,T p 1,T p 2,T p 2,T p 2
+S value,0.00,0.50,1.00,0.00,0.50,1.00,0.00,0.50,1.00
+E a Marotta (kJ/mol),None,309,245,254,317,331,249,None,387
+Linear fit (R 2),None,0.93,0.99,0.99,0.99,0.98,0.99,None,0.97
+E a Matusita (kJ/mol),None,304,240,248,311,325,243,None,381
+Linear fit (R 2),None,0.93,0.99,0.99,0.99,0.98,0.99,None,0.97

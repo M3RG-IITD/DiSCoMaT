@@ -1,0 +1,10 @@
+Glass code (mol% oxide),Precursor mixture (mass% +-0.01g),Precursor mixture (mass% +-0.01g),Precursor mixture (mass% +-0.01g),Precursor mixture (mass% +-0.01g),Precursor mixture (mass% +-0.01g)
+Glass code (mol% oxide),NaH2PO4,FePO4*2H2O,CaHPO4,MgHPO4*3H2O,P2O5
+P40Mg24Ca16Na20,43.00,0.00,19.51,37.49,0.00
+P45Mg24Ca16Na15,31.63,0.00,19.13,36.77,12.48
+P50Mg24Ca16Na10,20.69,0.00,18.77,36.07,24.48
+P55Mg24Ca16Na5,10.15,0.00,18.42,35.40,36.03
+P40Mg24Ca16Na15Fe5,30.43,15.80,18.40,35.37,0.00
+P45Mg24Ca16Na10Fe5,19.92,15.51,18.07,34.73,11.78
+P50Mg24Ca16Na5Fe5,9.78,15.23,17.74,34.10,23.14
+P55Mg24Ca16Fe5,0.00,14.96,17.43,33.50,34.11

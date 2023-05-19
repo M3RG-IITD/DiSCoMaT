@@ -1,0 +1,12 @@
+Exp. #,CaO Mol.,GeO2 Mol.,Li2O Mol.,B2O3 Mol.,Al2O3 Mol.,Sample   'as-quenched',Sample   after devitrification,Fluorescence,Fluorescence,Fluorescence,Fluorescence
+Exp. #,CaO Mol.,GeO2 Mol.,Li2O Mol.,B2O3 Mol.,Al2O3 Mol.,Sample   'as-quenched',Sample   after devitrification,Parent glass,Parent glass,Glass-ceramics,Glass-ceramics
+Exp. #,CaO Mol.,GeO2 Mol.,Li2O Mol.,B2O3 Mol.,Al2O3 Mol.,Sample   'as-quenched',Sample   after devitrification,Cr3+,Cr4+,Cr3+,Cr4+
+1,2.00,1.00,0.50,0.50,-,G,S/N,Yes,None,Yes,Yes
+2,2.00,1.00,1.00,0.50,-,G/P,V/O,None,None,None,Yes
+3,2.00,1.00,1.00,0.78,-,G,V/O,Yes,None,None,None
+4,2.00,1.00,0.70,0.50,-,G,V/O,None,None,None,Yes
+5,2.00,1.00,0.70,0.34,-,P,-,-,-,-,-
+6,2.00,1.00,1.00,0.50,0.10,G,V/O,None,None,None,Yes
+7,2.00,1.00,1.00,0.50,0.20,G,V/T,None,None,None,Yes
+8,2.00,1.00,0.85,0.50,0.20,G,V/T,None,None,None,Yes
+9,2.00,1.00,0.92,0.50,0.20,G,V/T,None,None,None,Yes

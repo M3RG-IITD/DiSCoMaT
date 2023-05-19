@@ -1,0 +1,5 @@
+Compound,s Min (ppm),s Max (ppm),d c (ppm),% of total intensity
+a224,950,1100,1125,100
+a227,1450,2100,40,100
+a225 P1,750,1000,1350,60 (solid fit)
+a225 P2,1000,1550,500,40 (solid fit)

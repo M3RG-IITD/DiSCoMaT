@@ -1,0 +1,4 @@
+Glass/fiber,V @633nmrad/(T*m)+-0.5,Abs(cm-1)*10-5 @633nm+-0.01,Q
+Core glass,27.1,2.3312,0.03
+Cladding glass,26.3,2.1241,0.028
+High NA (0.9) fiber,26.1,-,-

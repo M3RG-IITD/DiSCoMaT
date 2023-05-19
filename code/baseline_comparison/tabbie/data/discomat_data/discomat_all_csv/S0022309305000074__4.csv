@@ -1,0 +1,22 @@
+Parameter,Our fiber,"Fiber produced by Sentel Technologies, USA [2]"
+,D =200mm,D =125mm
+,D =180mm,
+Material of a core,Inorganic glass VS 1199,Organic glass PMMA (polymethyl methacrylate)
+"Glass transition temperature T g, degC",655,<230
+"Diameter of a core, mm",5,10
+"Diameter of 1st cladding, mm",22 (D =200mm),
+"Diameter of 1st cladding, mm",20 (D =180mm),
+"Diameter of 2nd cladding, mm",57 (D =200mm),
+"Diameter of 2nd cladding, mm",52 (D =180mm),
+"Diameter of 3rd cladding, mm",206 (D =200mm),
+"Diameter of 3rd cladding, mm",185 (D =180mm),
+"Thickness of polymer coating, mm",50,
+Mode,Singlemode,Singlemode
+,(l =0.6328mm),
+EO effect,Quadratic (Kerr effect),Linear (Pockels effect)
+Poling,No,Was made during the drawing
+Arrangement of electrodes,Pressed to the fiber,Embedded in the fiber
+"Gap between electrodes, mm",250,40
+"Driving voltage, V",700,110
+"Length of fiber to which the voltage was applied, cm",10,10
+"Halfwave length, m",20,384

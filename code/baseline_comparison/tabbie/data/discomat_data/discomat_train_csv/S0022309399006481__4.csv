@@ -1,0 +1,9 @@
+Phase,Elements,Decoupled orbital configuration,Hybrid orbital configuration,Covalent linkage
+Ca4P,P,[He]2s22p23s13p33d5,[sp3d4]d1*,8
+Ca4P,Ca,[Ne]3s23p64s14p1,[sp],2
+FeP4,Fe,[Ne]3s23p63d44s14p3,[sp3d4],8
+FeP4,P,[He]2s22p23s23p3,[p2]p1*,2
+CdP4,Cd,[Kr]4d74f15s15p3,[d3s1p3f1],8
+CdP4,P,[He]2s22p23s23p3,[p2]p1*,2
+Zr3P4,Zr,[Ar]3d104s24p44d55s1,[sp2d5],8
+Zr3P4,P,[He]2s22p43s13p33d3,[sp3d2]d1*,6

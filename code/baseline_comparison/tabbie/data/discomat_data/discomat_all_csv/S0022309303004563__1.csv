@@ -1,0 +1,3 @@
+Sample,T g (degC),T x (degC),T c1 (degC),T c2 (degC),T c3 (degC),T L (degC)
+Fine,393+-5,438+-5,486+-5,589+-5,668+-5,724+-5
+Coarse,394+-5,442+-5,484+-5,615+-5,-,698+-5

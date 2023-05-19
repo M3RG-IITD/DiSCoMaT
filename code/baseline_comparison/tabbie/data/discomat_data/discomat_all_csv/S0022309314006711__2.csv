@@ -1,0 +1,7 @@
+Nucleant,a (degCmin-1),a (degCmin-1),a (degCmin-1),a (degCmin-1),A E /kJmol-1,k  D (T c )
+Nucleant,5,10,15,20,A E /kJmol-1,k  D (T c )
+Without nucleant,601,613,621,625,355,1.2x1019
+TiO2,601,614,622,628,322,6.2x1017
+ZrO2,659,675,687,697,254,1.1x1012
+V2O5,596,605,615,626,278,1.7x1015
+Nb2O5,653,672,677,686,300,5.6x1014

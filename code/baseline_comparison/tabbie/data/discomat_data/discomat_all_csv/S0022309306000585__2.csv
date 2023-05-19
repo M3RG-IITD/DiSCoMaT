@@ -1,0 +1,8 @@
+Absorption mode,Phosphate unit,Wavenumber (cm-1)
+(PP) bending,"Q 3, Q 2, Q 1, Q 0",550-600
+n s (PP),"Q 3, Q 2, Q 1",800-650
+n as (PP),"Q 3, Q 2, Q 1",1050-850
+n as (PO4),Q 0,1050-1030
+n as (PO3),Q 1,1100
+n s (PO2),Q 2,1170-1100
+n as (PO2),Q 2,1300-1200

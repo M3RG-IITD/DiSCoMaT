@@ -1,0 +1,11 @@
+Sample,As-3d5/2,As-3d5/2,As-3d5/2,Se-3d5/2,Se-3d5/2,Se-3d5/2,As/Se,D Se-As (eV)
+Sample,Position (eV),FWHM (eV),Asymmetry,Position (eV),FWHM (eV),Asymmetry,,
+Film on Si as-prepared,41.12,0.93,0.000,53.26,0.74,0.000,1.25,12.14
+Film on Si post irradiation (~8 h),41.28,0.68,0.000,53.37,1.02,0.025,0.57,12.09
+Film on glass as-prepared,40.93,1.02,0.000,53.27,0.91,0.000,1.66,12.33
+Film on glass post irradiation (~10 h),41.12,0.98,0.024,53.27,1.11,0.010,0.66,12.15
+Bulk as-prepared,41.33,1.00,0.019,53.57,0.83,0.000,1.60,12.24
+Bulk during irradiation,40.74,1.01,0.015,52.95,0.80,0.000,1.34,12.21
+Bulk post irradiation (55 min),40.94,0.98,0.018,53.11,0.81,0.104,1.31,12.17
+Crystalline arsenic,40.67,0.58,0.000,-,-,-,-,-
+Crystalline selenium,-,-,-,53.78,0.72,0.019,-,-

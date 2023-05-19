@@ -1,0 +1,10 @@
+"ln A,A(J/m6 K)",K(J2 K m-6),s * ph 1/3 (J/m2),"s (Eq. (15), a=0.4) (J/m2)","s (Eq. (15), a=0.4) (J/m2)",ph(th),ph(th),th (grad),th (grad)
+"ln A,A(J/m6 K)",K(J2 K m-6),s * ph 1/3 (J/m2),M=0.292,M=0.585,M=0.292,M=0.585,M=0.292,M=0.585
+DG=DH mDT/T m,DG=DH mDT/T m,DG=DH mDT/T m,DG=DH mDT/T m,DG=DH mDT/T m,DG=DH mDT/T m,DG=DH mDT/T m,DG=DH mDT/T m,DG=DH mDT/T m
+64.2,1.308x1020,0.047,0.172,0.217,0.020,0.010,34,28
+,,,,,,,,
+DG=DH m TDT/T m 2,DG=DH m TDT/T m 2,DG=DH m TDT/T m 2,DG=DH m TDT/T m 2,DG=DH m TDT/T m 2,DG=DH m TDT/T m 2,DG=DH m TDT/T m 2,DG=DH m TDT/T m 2,DG=DH m TDT/T m 2
+66.3,1.175x1020,0.046,0.172,0.217,0.019,0.009,34,28
+,,,,,,,,
+DG=DH mDT/T -DCp (T m) DT 2/2T m,DG=DH mDT/T -DCp (T m) DT 2/2T m,DG=DH mDT/T -DCp (T m) DT 2/2T m,DG=DH mDT/T -DCp (T m) DT 2/2T m,DG=DH mDT/T -DCp (T m) DT 2/2T m,DG=DH mDT/T -DCp (T m) DT 2/2T m,DG=DH mDT/T -DCp (T m) DT 2/2T m,DG=DH mDT/T -DCp (T m) DT 2/2T m,DG=DH mDT/T -DCp (T m) DT 2/2T m
+64.9,1.212x1020,0.046,0.172,0.217,0.019,0.009,34,28

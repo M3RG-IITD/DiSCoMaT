@@ -1,0 +1,15 @@
+Reaction,DH    (kJ/mol)
+"(1) REAlO3 (glass, 298 K)-1/2RE2O3 (dissolved, 1078 K)+1/2Al2O3 (dissolved, 1078 K)",DH 1
+"(2) RE2O3 (xtal, 298 K)-RE2O3 (dissolved, 1078 K)",DH 2
+"(3) Al2O3 (xtal, 298 K)-Al2O3 (dissolved, 1078 K)",120.4+-0.6 (13)
+"(4) 1/2RE2O3 (xtal, 298 K)+1/2Al2O3 (xtal, 298 K)-REAlO3 (glass, 298 K) DH 5=-DH 1+1/2DH 3+1/2DH 2",DH 4
+,
+"(5) REAlO3 (glass, 298 K)-REAlO3 (xtal, 1078 K)",DH 5
+"(6) REAlO3 (xtal, 298 K)-REAlO3 (xtal, 1078 K)",DH 6
+"(7) REAlO3 (xtal, 298 K)-REAlO3 (glass, 298 K) DH 7=DH 6-DH 5",DH 7
+,
+"(8) REAlO3 (xtal, 298 K)-1/2RE2O3 (dissolved, 1078 K)+1/2Al2O3 (dissolved, 1078 K) DH 8=DH 7+DH 1",DH 8
+"(9) 1/2RE2O3 (xtal, 298 K)+1/2Al2O3 (xtal, 298 K)-REAl2O3 (xtal, 298 K) DH 9=DH 4-DH 7",DH 9
+"(10) 2RE (solid, 298 K)+3/2 O2 (gas, 298 K)-RE2O3 (xtal, 298 K)",DH 10
+"(11) 2Al (solid, 298 K)+3/2 O2 (gas, 298 K)-Al2O3 (xtal, 298 K)",-1675.7+-1.329
+"(12) RE (solid, 298 K)+Al (solid, 298 K)+3/2 O2 (gas, 298 K)-REAlO3 (xtal, 298 K) DH 12=Dh 9+1/2DH 10+1/2DH 11",DH 12

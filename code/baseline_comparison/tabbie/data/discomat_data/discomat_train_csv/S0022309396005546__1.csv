@@ -1,0 +1,16 @@
+Group,Glass No.,"Heat treatment (time, temperature)","Heat treatment (time, temperature)","Heat treatment (time, temperature)"
+Group,Glass No.,Nucleation (1st step),Crystallisation (2nd step),Cooling (3rd step)
+I,1,,,"1 h, 450degC"
+,,,,
+II,2,"72 h, 454degC",,"1 h, 450degC"
+,3,"96 h, 454degC",,"1 h, 450degC"
+,4,"145 h, 454degC",,"1 h, 450degC"
+,,,,
+III,5,"96 h, 454degC","39 h, 490degC","1 h, 450degC"
+,6,"96 h, 454degC","50 h, 490degC","1 h, 450degC"
+,7,"51 h, 454degC","50 h, 490degC","1 h, 450degC"
+,8,"96 h, 454degC","105 min, 535degC","1 h, 450degC"
+,9,"96 h, 454degC","130 min, 535degC","1 h, 450degC"
+,10,"51 h, 454degC","130 min, 535degC","1 h, 450degC"
+,11,"72 h, 454degC","15 min, 572degC","1 h, 450degC"
+,12,"72 h, 454degC","10 min, 572degC","1 h, 450degC"

@@ -1,0 +1,5 @@
+Sample code,Mol P2O5/mol SiO2,V     H   2   O     /V TEOS (mL/mL),V     C   2     H   5   OH    /V TEOS (mL/mL),Precursor for SiO2/precursor for P2O5,Adjusting reagent,Gelation time (days)
+1H,1/10,1,1,TEOS/H3PO4,NH3 solution,5
+2H,1/10,2,1,TEOS/H3PO4,NH3 solution,15
+2T,1/10,2,1,TEOS/TEP,HCl solution,18
+1T,1/10,1,1,TEOS/TEP,HCl solution,21

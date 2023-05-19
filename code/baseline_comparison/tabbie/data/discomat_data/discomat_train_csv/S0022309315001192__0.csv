@@ -1,0 +1,6 @@
+Glass composition,Cooling technique,Glass melting temperature,Glass transition temperature,Density
+Glass composition,Cooling technique,Tm  (degC),Tg  (degC),r (g/cm3)
+NBS1,,~1450,553+-5,2.453+-0.002
+NBS2,Furnace cooled (fc),~1650,442+-5,2.171+-0.002
+NBS2,Quenched (qu1),~1650,442+-5,2.169+-0.005
+NBS2,Quenched (qu2),~1750,442+-5,2.169+-0.005

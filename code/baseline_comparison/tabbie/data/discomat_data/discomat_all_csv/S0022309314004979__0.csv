@@ -1,0 +1,7 @@
+TBZLN:Ho3+ glass,d,rp,N,NOH,Eopt,Characteristic temperatures,Characteristic temperatures,Characteristic temperatures,Characteristic temperatures,Characteristic temperatures,Characteristic temperatures
+TBZLN:Ho3+ glass,d,rp,N,NOH,Eopt,Tg,Ts,Tx,Tp,Tm,DT
+0.05,4.248,39.84,0.158,2.428,3.14,286,320,/,/,559,>=150
+0.1,4.212,31.72,0.313,2.576,3.09,288,320,/,/,561,>=150
+0.5,4.137,18.69,1.531,2.379,3.11,290,320,/,/,563,>=150
+1.0,3.949,15.10,2.900,2.220,3.10,292,328,446,469,565,154
+1.5,4.116,13.04,4.512,1.950,3.11,295,332,447,469,568,152

@@ -1,0 +1,6 @@
+Sample,Nominal composition (mol%),Nominal composition (mol%),Nominal composition (mol%),Analyzed composition (mol%),Analyzed composition (mol%),Analyzed composition (mol%)
+Sample,P2O5,SiO2,P/Si,P2O5,SiO2,P/Si
+5P,5,95,0.105,5.00,95.0,0.105
+10P,10,90,0.222,8.40,91.6,0.183
+20P,20,80,0.500,11.9,88.1,0.270
+30P,30,70,0.857,19.1,80.9,0.472

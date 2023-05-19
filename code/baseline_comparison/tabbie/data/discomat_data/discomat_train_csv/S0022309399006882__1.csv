@@ -1,0 +1,9 @@
+Solvent,Solute,T/K,D(DH)diss
+,,,kJ/mol per mol%
+(Bi2O3)4(B2O3)6,CuO,1033,0
+,Y2O3,1033,0
+,Y2Cu2O5,1033,5
+,,,
+,,,kJ/mol per mmol/l
+50 vol% HF 6M+50 vol% HNO3 4M,Na2O 2SiO2,298,2
+,Na2O Cs2O 2SiO2,298,2

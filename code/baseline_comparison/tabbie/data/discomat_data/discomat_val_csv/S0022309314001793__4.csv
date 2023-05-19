@@ -1,0 +1,8 @@
+Glass,sac (x10-6) (O-cm)-1,N(EF) in (x1025 ev-1/cm3),N(EF) in (x1025 ev-1/cm3),N(EF) in (x1025 ev-1/cm3),Activation energy for conductioneV,Breakdown strengthkV/cm
+Glass,sac (x10-6) (O-cm)-1,Austin and Mott,Butcher and Hyden,Pollak,Activation energy for conductioneV,Breakdown strengthkV/cm
+C0,8.46,28.05,11.69,28.49,0.166,15.42
+C1,9.75,30.11,12.56,30.58,0.151,15.12
+C2,11.04,32.04,13.36,32.54,0.144,14.84
+C3,12.91,34.65,14.45,35.19,0.140,14.38
+C4,15.88,38.43,16.02,39.03,0.130,14.18
+C5,18.73,41.73,17.40,42.37,0.121,13.95

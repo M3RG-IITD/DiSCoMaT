@@ -1,0 +1,6 @@
+No.,Fe2+/Fe3+,A,B,Expected,Measured
+1,Pure Fe2+,Yes,No,1,0.957
+2,Pure Fe3+,Yes,No,0,0.030
+3,1,Yes,No,0.50,0.493
+4,1,No,No,0.50,0.461
+5,1,Yes,Yes,0.50,0.493

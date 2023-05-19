@@ -1,0 +1,10 @@
+,D 0 (eV),r 0 (nm)
+Two-body interactions,Two-body interactions,Two-body interactions
+P1.85-O-0.74,0.004251,0.21550
+O-0.74-O-0.74,0.012185,0.32743
+Zn0.74-O-0.74,0.000827,0.31343
+,,
+,k 0 (eV/rad2),th 0 (deg)
+Three-body interactions,Three-body interactions,Three-body interactions
+O-P-O,3.5401,109.47
+P-O-P,20.9326,135.58

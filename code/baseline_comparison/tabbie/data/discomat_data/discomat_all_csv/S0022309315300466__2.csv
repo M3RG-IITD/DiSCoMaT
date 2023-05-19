@@ -1,0 +1,8 @@
+,Duration of immersion in SBF,Composition of the layer (mol%) (+-1.5mol%),Composition of the layer (mol%) (+-1.5mol%),Composition of the layer (mol%) (+-1.5mol%),Composition of the layer (mol%) (+-1.5mol%),Composition of the layer (mol%) (+-1.5mol%),Ratio (Ca+Sr+Mg)/P
+,Duration of immersion in SBF,Na2O,P2O5,CaO,SrO,MgO,Ratio (Ca+Sr+Mg)/P
+B0,24h,5,40,46,2,7,0.68
+B0,336h,2,35,47,8,8,0.89
+B1.25,336h,2,35,48,8,7,0.91
+B2.5,336h,2,35,51,3,9,0.92
+B3.75,336h,4,34,50,4,9,0.92
+B5,336h,3,35,50,3,10,0.90

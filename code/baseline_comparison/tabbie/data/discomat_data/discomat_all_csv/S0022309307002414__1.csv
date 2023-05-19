@@ -1,0 +1,6 @@
+Property,Textured glass-ceramics LaBGeO5,Pilot ceramics PCNT,Industrial ceramics PZT-4
+Pyroelectric coefficient g =dP s/dT (nC/cm2 K),2,50,40
+Dielectric constant e,<11,300,1300
+Pyroelectric figure of merit g/e (nC/cm2K),0.2,0.16,0.03
+"Dielectric losses, tan d",< 0.01,<0.02,0.03
+Volume specific electrical resistance r v (GOcm),>100 at 300degC,>100 at 20degC,~10 at 20degC

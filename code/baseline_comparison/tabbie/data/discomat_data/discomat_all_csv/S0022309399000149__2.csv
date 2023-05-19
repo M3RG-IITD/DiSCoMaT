@@ -1,0 +1,11 @@
+,(A) Emission,(A) Emission,(C) Emission,(C) Emission,
+,Emission l (nm) +-0.1 nm,Excitation l (nm) +-0.1 nm,Emission l (nm) +-0.1 nm,Excitation l (nm) +-0.1 nm,Reference
+Crystallized materials,,,,,
+AgBaP3O9,365,250,-,-,[25]
+AgMg(PO3)3,320,230,-,-,This work
+AgZn(PO3)3,370,255,550,300,[27]
+AgPO3,380,250,580,300,[4]
+,,,,,
+Glass materials,,,,,
+Composition b5,370,260,570,300,This work
+Composition a2,375,260,570,300,This work

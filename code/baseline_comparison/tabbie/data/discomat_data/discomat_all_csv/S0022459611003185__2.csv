@@ -1,0 +1,5 @@
+Glass host,t ave (in ms),t  R  (in ms),W NR (in s-1),e (in %)
+PTBEu01,2.10,5.38,290,39
+PTBEu05,2.14,5.62,281,39
+PTBEu10,2.20,5.62,277,39
+PTBEu20,2.22,5.62,272,40

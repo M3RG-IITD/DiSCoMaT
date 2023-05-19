@@ -1,0 +1,5 @@
+Sample,Conductivity (s) at indicated temperature (x10-5S/cm),Conductivity (s) at indicated temperature (x10-5S/cm),E a (kJ/mol)
+G1,41.6+-0.1,(300 degC),43+-2.6
+G2,1.3+-0.4,(300 degC),52+-3.4
+G3,5.1+-0.2,(300 degC),79+-3.1
+G4,3.0+-0.1,(310 degC),50+-2.8

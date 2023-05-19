@@ -1,0 +1,8 @@
+Sample,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),T g (degC),d (g cm-3),a (10-6degC-1)
+,P2O5,PbBr2,PbCl2,PbO,PbF2,,,
+1,30,20,50,,,173,4.84,26.6
+2,30,30,40,,,146,4.75,25.8
+3,28.5,28.5,38,5,,190,5.46,-
+4,28.5,28.5,38,,5,156,5.25,-
+5,28.5,28.5,38,2.5,2.5,186,5.43,-
+6,36,36,18,5,5,175,5.18,-

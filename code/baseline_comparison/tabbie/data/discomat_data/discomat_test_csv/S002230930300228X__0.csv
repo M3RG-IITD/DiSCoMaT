@@ -1,0 +1,10 @@
+,A (s-2),E a (kJmol-1),E a (kJmol-1),t 0 (s),t ex (s),s (-60 degC) ( O -1  m-1) [21]
+Glass,2.0x108,E m 15.0,E b 1.9,2.3x10-12,,8.0x10-1
+,,,,,,
+Composite type A,Composite type A,Composite type A,Composite type A,Composite type A,Composite type A,Composite type A
+a-AgI,1.3x108,12.0,12.0,1.3x10-11,10-2,1.2x10-2
+Glass matrix,1.1x108,8.5,8.5,9.0x10-11,10-2,1.2x10-2
+,,,,,,
+Composite type B,Composite type B,Composite type B,Composite type B,Composite type B,Composite type B,Composite type B
+a-AgI,1.1x108,9.3,9.3,4.0x10-11,3x10-3,2.8x10-1
+Glass matrix,1.3x108,11.5,11.5,2.8x10-11,3x10-3,2.8x10-1

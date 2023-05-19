@@ -1,0 +1,16 @@
+No,Unit,Symbol of the species,Symbol of the species
+No,Unit,This work,Ducel et al.
+1,Si-O 6/2(P),Si(Q6),
+2,Si-O 4/2(T),Si(Q4),
+3,(NaO)-Si-O 3/2(T),Si(Q3),
+4,(NaO)2-Si-O 2/2(T),Si(Q2),
+5,O=P-O 3/2(P),P(Q3),BP
+6,O=P-(ONa)O 2/2(P),P(Q2),MP
+7,(NaO)-P-O 3/2(T),P[Q3(1Na)],-
+8,(NaO)2-P-O 2/2(T),P[Q2(2Na)],"MB ' 1, MB ' 2"
+9,(NaO)3-P-O 1/2(T),P[Q1(3Na)],EB
+10,P-O 4/2(B),P[Q4(0Na)],BB
+11,P-O 4/2(Si),P[Q4(4Si)],
+12,B-O 3/2(B),B(Q3),
+13,B-O 4/2(T) Na,B[Q4(1Na)],"CP, CNa"
+14,B-O 4/2(P),B[Q4(0Na)],

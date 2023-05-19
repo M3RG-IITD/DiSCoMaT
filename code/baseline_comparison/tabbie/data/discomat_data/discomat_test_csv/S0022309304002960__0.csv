@@ -1,0 +1,6 @@
+Sample,Phase composition after heat-treatment temperature,Phase composition after heat-treatment temperature
+Sample,823 K,973 K
+As-quenched,"Amorphous matrix, fcc-Co, hcp-Co","fcc-Co, hcp-Co, Co2B, Co2Si"
+500 h,"fcc-Co, hcp-Co","fcc-Co, hcp-Co, Co2B"
+1000 h,"fcc-Co, hcp-Co","fcc-Co, hcp-Co, Co2B"
+1500 h,"fcc-Co, hcp-Co, CoO","fcc-Co, hcp-Co, CoO, Co2B"

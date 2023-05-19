@@ -1,0 +1,6 @@
+,Molar composition (mol%),Molar composition (mol%),Molar composition (mol%),Molar composition (mol%),Molar composition (mol%),Refractive index,Refractive index,Absorption edge
+,Ga2S3,Na2S,La2S3,La2O3,LaF3,1.20 mm,1.52 mm,(nm)
+GLS,65,-,32,3,-,2.42,2.41,545
+GLSO,70,-,-,30,-,2.25,2.25,500
+GLSOF,70,-,-,15,15,2.28,2.26,497
+GNS,68,32,-,-,-,2.16,2.14,473

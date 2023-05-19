@@ -1,0 +1,3 @@
+Type of optical fibre,Continuous length,Core/Clad diameter ratio (mm),NA,Minimum loss at 2-4 mm/(dB/km),Core concentricity (%),Bending strength (GPa),Notes
+Multimode,Up to hundreds of meters,"300/400, 130/250",0.13-0.4,20-100,85,0.8-1.2,Intensity of OH<0.3 dB/m SH<1 dB/m
+Single-mode,Tens of meters,8/200,Not measured,400,85,0.4-0.6,Cut-off wavelength: 1.1-1.5 mm

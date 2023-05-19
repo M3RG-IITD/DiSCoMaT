@@ -1,0 +1,8 @@
+Reduction time,Mean particle radius,Normalized intensity,5D0 lifetime,Asymmetric ratio
+(min),(+-0.1 nm),I = I ex337/I ex578 (+-0.1),(+-0.02 ms),I AS (+-0.2)
+Before reduction,-,1,1.79,3.2
+0.5,4.0,2.3,1.79,3.4
+1,4.3,2.5,1.85,3.4
+2,4.5,1.7,1.71,3.5
+5,5.1,0.9,1.79,3.2
+10,4.4,1.4,1.86,3.4

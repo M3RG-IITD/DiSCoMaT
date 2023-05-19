@@ -1,0 +1,8 @@
+Sample,Laser power (W),Power density 103 (W/cm2),Exposition time (s),Micrometer sized particles of b-BBO phase dispersed on glass surface,Geometry of region exposed to the irradiation
+Samples submitted to a laser irradiation,Samples submitted to a laser irradiation,Samples submitted to a laser irradiation,Samples submitted to a laser irradiation,Samples submitted to a laser irradiation,Samples submitted to a laser irradiation
+SAM01,0.98,3.1,300,No,Dot
+SAM02,0.98,3.1,300,Yes,Dot
+,,,,,
+Sample,Temperature (degC),Time (h),,,
+Sample heat-treated on a electrical furnace,Sample heat-treated on a electrical furnace,Sample heat-treated on a electrical furnace,,,
+SAM03,630,14,,,

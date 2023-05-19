@@ -1,0 +1,16 @@
+Annealing times labels,,First stage,Second stage,Third stage,Fourth stage,Fifth stage,Sixth stage
+As-cast C1,Stress (MPa),32.8,78.5,121.2,155.1,-,-
+As-cast C1,Strain rate (s-1),1.1x10-4,2.6x10-4,3.6x10-4,4.7x10-4,-,-
+As-cast C1,Apparent viscosity (Pas),9.8x1010,9.9x1010,9.9x1010,10.1x1010,-,-
+,,,,,,,
+10min C1,Stress (MPa),35.4,81.3,122.2,158.6,-,-
+10min C1,Strain rate (s-1),1.1x10-4,2.5x10-4,3.6x10-4,4.8x10-4,-,-
+10min C1,Apparent viscosity (Pas),10.7x1010,11.0x1010,11.3x1010,11.0x1010,-,-
+,,,,,,,
+20min C2,Stress (MPa),65.4,117.9,167.5,218.0,264.4,312.5
+20min C2,Strain rate (s-1),1.2x10-6,5.1x10-6,1.2x10-5,1.7x10-5,2.4x10-5,3.1x10-5
+20min C2,Apparent viscosity (Pas),1.8x1013,7.6x1012,4.7x1012,4.3x1012,3.7x1012,3.3x1012
+,,,,,,,
+30min C3,Stress (MPa),313,-,-,-,-,-
+30min C3,Strain rate (s-1),<3x10-7,,,,,
+30min C3,Apparent viscosity (Pas),>1015,,,,,

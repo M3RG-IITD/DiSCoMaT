@@ -1,0 +1,12 @@
+Standard,r-Factor,r (A),n (Atoms),s 2 (A2)
+SnO,SnO,SnO,SnO,SnO
+Fit,0.068,2.22 (0.01),3.9 (1.0),0.0117 (0.0034)
+Actual [9],0.068,2.22,4.0,0.0117 (0.0034)
+,,,,
+Cassiterite (SnO2),Cassiterite (SnO2),Cassiterite (SnO2),Cassiterite (SnO2),Cassiterite (SnO2)
+Fit,0.020,2.04 (0.01),5.9 (1.5),0.0053 (0.0027)
+Actual [13],0.020,2.05,6.0,0.0053 (0.0027)
+,,,,
+Brannockite (KLi3Sn2Si12O30),Brannockite (KLi3Sn2Si12O30),Brannockite (KLi3Sn2Si12O30),Brannockite (KLi3Sn2Si12O30),Brannockite (KLi3Sn2Si12O30)
+Fit,0.011,2.01 (0.01),6.4 (1.2),0.0064 (0.0021)
+Actual [14],0.011,2.01,6.0,0.0064 (0.0021)

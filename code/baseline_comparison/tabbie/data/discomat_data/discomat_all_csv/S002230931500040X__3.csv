@@ -1,0 +1,15 @@
+Atom pair,Type of interaction,Interatomic distance (A),u  l  l '   2    1 / 2    (A)
+Te-O,Short bond,<1.977,0.048
+Te-O,Long bond,1.977  -2.230 in Na2Te4O9,0.083
+Te-O,Long bond,1.977  -2.300 in K2Te4O9,
+Te-O,Not bonded,>2.230 in Na2Te4O9,0.134
+Te-O,Not bonded,>2.300 in K2Te4O9,
+O-O,O-Te-O link,<3.240,0.100
+O-O,Not linked,>3.240,0.147
+M-O,Bonded,<2.926 in Na2Te4O9,0.120
+M-O,Bonded,<3.372 in K2Te4O9,
+M-O,Not bonded,>2.926 in Na2Te4O9,0.149
+M-O,Not bonded,>3.372 in K2Te4O9,
+M-M,All,All,0.152
+Te-Te,All,All,0.119
+Te-Na,All,All,0.136

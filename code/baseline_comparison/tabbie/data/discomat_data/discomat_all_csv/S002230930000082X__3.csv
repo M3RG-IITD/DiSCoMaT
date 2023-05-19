@@ -1,0 +1,9 @@
+Property,TYS100,TIR65 [2],BKS (F) [3],RG (F) [4]
+Density (Mg/m3),2.95+-0.01,2.96,2.80,2.99
+Hardness (GPa),5.1+-0.2,5.5,5.5,5.6
+Young's modulus (GPa),90.4+-0.5,121.5,92.6,100
+Thermal expansion coefficient (10-6 degC-1),9.7+-0.5,10.0,5.9,7.8
+"Fracture toughness, K IC (MPa m1/2)",0.8+-0.1,1.1,0.6,-
+Erosion coefficient (10-5 cm3/g),7.4+-0.5,8.7,-,-
+Machinability,Good,Good,Poor,-
+Glass transition temperature (degC),696+-1,750,-,665

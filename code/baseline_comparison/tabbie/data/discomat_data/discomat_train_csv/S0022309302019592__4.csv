@@ -1,0 +1,13 @@
+Time,Heat treatment,,
+,1125 degC,1150 degC,1175 degC
+1 h,1 h,1 h,1 h
+Surface,"SP, SC, WSp","SP, SC, MSp",(Sample melted)
+Bulk,"SP, MSp","SP, SSp","SP, SSp"
+,,,
+3 h,3 h,3 h,3 h
+Surface,"SP, SC, WSp","SP, SC, MSp",(Sample melted)
+Bulk,"SP, SSp","SP, SSp","SP, SSp"
+,,,
+5 h,5 h,5 h,5 h
+Surface,"SP, SC, WSp","SP, SC, MSp",None
+Bulk,"SP, SSp","SP, SSp",None

@@ -1,0 +1,10 @@
+Glass composition,Peak wavelength (nm),FWHM (nm),Reference
+ZBLAN,1320,89,[11]
+"CdX 2(X=F-,Cl-)",1313,87,[11]
+InF3 based,1320,88,[11]
+HfF4 based,1320,80,[11]
+Ga-La-S,1334,90,[30]
+GeS x,1340,110,[31]
+Ge-Ga-S,1344,80,[32]
+Ge-Sb-S,1343,77,[5]
+Ge-Ga-Se,1343,70,This work

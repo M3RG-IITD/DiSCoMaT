@@ -1,0 +1,12 @@
+Shear relaxation function,Hydrostatic relaxation function,,
+ps 1   t  =    G 1   t    2  G 0,ps 2   t  =    G 2   t    3  K 0,,
+,,,
+Material set A (full viscoelastic material behavior),Material set A (full viscoelastic material behavior),Material set A (full viscoelastic material behavior),Material set A (full viscoelastic material behavior)
+wi,ti  (s),v i  = 1 -   K    K 0,li  (s)
+0.5794458,0.38,0.85,10
+0.3624554,0.48,0.85,10
+0.03,0.88,0.85,10
+0.028,74.4,0.85,10
+,,,
+Material set B (simplified material behavior),Material set B (simplified material behavior),Material set B (simplified material behavior),
+1.0,2.504,K 0  =  E  3   1 - 2 n,

@@ -1,0 +1,4 @@
+Nucleus,NMR frequency (MHz),Pulse duration (ms),Repetition time (s),Number of scans
+11B,115.54,4,20,100
+23Na,95.26,2.5,2,100
+29Si,71.54,4,300 or 3600,20-100

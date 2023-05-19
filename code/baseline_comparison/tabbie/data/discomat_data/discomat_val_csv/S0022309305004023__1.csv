@@ -1,0 +1,44 @@
+Samples,Low frequency region,Low frequency region,High frequency region,High frequency region
+Samples,Band positions in cm-1,Chemical bonds,Band positions in cm-1,Chemical bonds
+CaSP0,530,Si-O-Si,1200,Si-O-H
+CaSP0,570,Si-O-Ca,1424,Si-O-H
+CaSP0,610,Si-O-Ca,1705,H2O
+CaSP0,660,Si-O-Ca,2207,Si-O-H
+CaSP0,720,Si-O-Si,,
+,,,,
+CaSP1,520,Si-O-Si,1330,PO
+CaSP1,580,Si-O-Ca,1521,H2O
+CaSP1,620,O-P-O,1785,P-O-H
+CaSP1,640,P-O-Ca,2330,P-O-H
+CaSP1,720,P-O-P,,
+,,,,
+CaSP2,540,Si-O-Si,1350,PO
+CaSP2,588,Si-O-Ca,1621,H2O
+CaSP2,624,O-P-O,1974,P-O-H
+CaSP2,660,P-O-Ca,2713,P-O-H
+CaSP2,726,P-O-P,,
+,,,,
+CaSP5,550,Si-O-Si,1372,PO
+CaSP5,590,Si-O-Ca,1684,H2O
+CaSP5,640,O-P-O,2200,P-O-H
+CaSP5,700,P-O-Ca,2745,P-O-H
+CaSP5,770,P-O-P,,
+CaSP5,860,PO   4   3 -,,
+,,,,
+CaSP30,560,"O-P-O, OP-O",1170,P-O-
+CaSP30,650,Si-O-P,1380,PO
+CaSP30,704,O-P-O,1758,H2O
+CaSP30,813,P-O-P,2346,P-O-H
+CaSP30,917,PO   4   3 -,2973,P-O-H
+,,,,
+CaSP40,560,"O-P-O, OP-O",1175,P-O-
+CaSP40,648,Si-O-P,1385,PO
+CaSP40,745,O-P-O,1962,P-O-H
+CaSP40,828,P-O-P,2573,P-O-H
+CaSP40,970,PO   4   3 -,3046,P-O-H
+,,,,
+CaSP50,560,"O-P-O, OP-O",1200,P-O-
+CaSP50,650,Si-O-P,1390,PO
+CaSP50,768,O-P-O,2000,P-O-H
+CaSP50,829,P-O-P,2629,P-O-H
+CaSP50,1037,PO   4   3 -,3059,P-O-H

@@ -1,0 +1,5 @@
+Transition,Peak position (nm),Measured oscillator strength (10-6),Calculated oscillator strength (10-6),Deviation (%)
+4 I 15/2-4 I 11/2,980,2.34,2.31,1
+4 I 15/2-4 I 9/2,803,1.4,1.1,21
+4 I 15/2-4 F 9/2,656,3.7,3.9,5
+4 I 15/2-4 S 3/2,546,1.1,0.9,18

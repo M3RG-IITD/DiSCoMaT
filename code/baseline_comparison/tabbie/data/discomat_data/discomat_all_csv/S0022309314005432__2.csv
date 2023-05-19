@@ -1,0 +1,3 @@
+Sample,"Tc (+-0.3, degC)(at heating rates of 5, 10, 15, 20degC/min)",Ec (Marotta) (kJ/mol),Ec (modified Kissinger) (kJ/mol),Ec (Augis-Bennett) (kJ/mol),n (Marotta),n (Ozawa)
+Gbase,"620, 636, 639, 643",656 (r   =-0.988),641 (r=-0.987),636 (r=-0.992),0.60 (r=-0.985),0.66 (r=-0.990)
+GFe-5,"600,607,615,624",295 (r=-0967),288 (r=-0.965),289 (r=-0.966),1.77 (r=-0.994),1.81 (r=-0.998)

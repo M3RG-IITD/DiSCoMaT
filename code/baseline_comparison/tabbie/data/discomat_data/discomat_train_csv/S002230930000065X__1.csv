@@ -1,0 +1,8 @@
+Sample,Composition x (%),Composition x (%),Composition x (%),Composition x (%),Composition x (%),T g (degC),T x (degC),H '
+Sample,P2O5,PbBr2,PbCl2,PbO,PbF2,T g (degC),T x (degC),H '
+1,30,20,50,,,173,233,0.35
+2,30,30,40,,,146,203,0.39
+3,28.5,28.5,38,5,,190,240,0.26
+4,28.5,28.5,38,,5,156,230,0.47
+5,28.5,28.5,38,2.5,2.5,186,244,0.31
+6,36,36,18,5,5,175,260,0.49

@@ -1,0 +1,18 @@
+Glass,Glass,Component 1,Component 1,Component 1,Component 2,Component 2,Component 2,Component 3,Component 3,Component 3,RMS (%),,
+Glass,Glass,CS (ppm),Area (%),Unit,CS (ppm),Area (%),Unit,CS (ppm),Area (%),Unit,RMS (%),,
+(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,(a)  29  Si MAS NMR,,
+H,a,-80,94,"Q 2,SiSi",-87,6,"Q 3,SiSiSi",,,,4.8,,
+H,b,-80,87,"Q 2,SiSi",-86,13,"Q 3,SiSiSi",,,,4.9,,
+H,c,-78,15,"Q 1,Si",-82,67,"Q 2,SiSi",-88,18,"Q 3,SiSiSi",4.2,,
+H,d,-79,23,"Q 1,Si",-82,66,"Q 2,SiSi",-89,11,"Q 3,SiSiSi",4.3,,
+HP5,,-82,89,"Q 2,SiSi",-88,4,"Q 3,SiSiSi",-91,7,"Q 3,SiSiP",5.0,,
+HP6.5,,-78.5,14,"Q 1,Si",-82.7,53,"Q 2,SiSi",-90.6,33,"Q 3,SiSiP",4.1,,
+,,,,,,,,,,,,,
+Glass,Component 1,Component 1,Component 1,Component 2,Component 2,Component 2,Component 3,Component 3,Component 3,Component 4,Component 4,Component 4,RMS (%)
+Glass,CS (ppm),Area (%),unit,CS (ppm),Area (%),Unit,CS (ppm),Area (%),Unit,CS (ppm),Area (%),Unit,RMS (%)
+(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR,(b)  31  P MAS NMR
+H,8.7,94,Q 0,-12,6,Q 2,,,,,,,4.6
+HP5,8.5,90,Q 0,2.1,7,Q 1,-12,3,Q 2,,,,4.7
+HP5,8.5,90,Q 0,5,5,"Q 1,Si",0.6,2,Q,-12,3,Q 2,4.6
+HP6.5,8.7,80,Q 0,2.3,20,Q 1,,,,,,,4.2
+HP6.5,8.7,80,Q 0,5.3,14,"Q 1,Si",0.7,6,Q,,,,4.0

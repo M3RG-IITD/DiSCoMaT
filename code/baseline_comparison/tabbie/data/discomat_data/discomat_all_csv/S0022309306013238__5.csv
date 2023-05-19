@@ -1,0 +1,9 @@
+Compound,First neighbors,N,R (A),Second neighbors,N,R (A)
+Glass La1,O,6.5,2.52,Si,5.8,3.82
+Glass La1,O,6.5,2.52,B,3.3,3.50
+Glass La1,O,6.5,2.52,Al,<0.1,3.74
+Glass La1,O,6.5,2.52,La,<0.1,4.30
+,,,,,,
+Gel La1b,O,5.6,2.54,Si,5.7,3.82
+Gel La1b,O,5.6,2.54,Al,1.2,3.78
+Gel La1b,O,5.6,2.54,La,1.7,4.05

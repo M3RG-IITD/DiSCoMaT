@@ -1,0 +1,9 @@
+Number,Sample,Nitrogen content (ppm),Density (g/cm3),NH and/or NH2 content (ppm),Foaming by re-heating
+1,As-sintered,6800+-500,2.237+-0.002,9+-1,observed
+,After HIP,6700+-500,2.244+-0.002,1+-1,not observed
+2,As-sintered,5800+-500,2.236+-0.002,6+-1,observed
+,After HIP,5400+-500,2.241+-0.002,1+-1,not observed
+3,As-sintered,1800+-500,2.215+-0.002,8+-1,observed
+,After HIP,2400+-500,2.224+-0.002,3+-1,not observed
+4,As-sintered,10700+-500,2.255+-0.002,12+-1,observed
+,After HIP,10000+-500,2.263+-0.002,2+-1,not observed

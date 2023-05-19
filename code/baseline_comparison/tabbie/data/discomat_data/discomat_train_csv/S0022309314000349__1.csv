@@ -1,0 +1,20 @@
+DFT/B3lyp,DFT/B3lyp,DFT/B3lyp,DFT/B3lyp,a-PbZrF6
+Sym. *,"n, cm-1",Assignment **,Assignment **,"n, cm-1"
+A1,564,ns ZrF8 (4Ft +4Fbr) in phase,,566
+B2,503,nas ZrF4 (4Fbr) in phase,,501
+E,480,nas ZrF4(4Ft) in phase,460-450,
+A1,468,d ZrF4 (2Fbr +2Fbr) scissoring sym comb in the plane of bridges,460-450,
+B2,454,nas ZrF4 (4Fbr) in phase,460-450,
+E,409,das ZrF4 (2Ft +2Fbr) scissoring,,-
+B2,399,d ZrF4 (2Fbr -2Fbr) scissoring as comb in the plane of bridges,380-360,
+A1,395,ns ZrF8 (4Fbr -4Ft) out phase,380-360,
+E,315,d ZrF4 (4Fbr) rocking in the plane of bridges,292,
+B2,300,d ZrF4 (2Ft +2Ft) umbrella,292,
+E,265,d ZrF4 (4Ft +4Fbr) wagging,,261
+B1,257,"d ZrF8 (4Ft +4Fbr) scissoring, rotation",,-
+A1,250,d ZrF4 (2Ft -2Ft) twisting,,247
+A2,207,Twisting ZrF4 (2Fbr +2Fbr),,-
+E,135,d ZrF4 (2Ft -2Fbr) twisting,,-
+B1,114,"d ZrF8 (4Ft +4Fbr) scissoring, twisting",,-
+EB1,21848,Rotation ZrF8,,220
+B2E,18938,Zr-Zr transl,,170

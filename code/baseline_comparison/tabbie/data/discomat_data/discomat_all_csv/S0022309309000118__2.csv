@@ -1,0 +1,7 @@
+Heating rate (K/min),First crystallization stage,First crystallization stage,First crystallization stage,First crystallization stage,Second crystallization stage,Second crystallization stage,Second crystallization stage,Second crystallization stage
+Heating rate (K/min),n,E a (kJmol-1),K 0 (s-1),l,n,E a (kJmol-1),K 0 (s-1),l
+2.5,1.30+-0.06,280.46+-12.90,8.40+-0.39E21,1.16+-0.05,2.69+-0.08,473.79+-14.69,7.32+-0.23E31,1.33+-0.23
+5,1.28+-0.04,280.46+-9.26,4.23+-0.14E21,1.29+-0.04,2.90+-0.10,477.13+-17.65,6.16+-0.22E31,1.53+-0.23
+10,1.64+-0.10,282.01+-18.05,3.37+-0.21E21,1.49+-0.09,3.74+-0.15,479.81+-19.67,4.68+-0.19E31,1.74+-0.07
+20,1.60+-0.08,284.90+-13.96,3.01+-0.15E21,1.55+-0.07,3.76+-0.14,482.44+-18.33,4.21+-0.16E31,2.28+-0.08
+40,1.70+-0.07,291.69+-11.67,4.76+-0.19E21,1.83+-0.07,3.88+-0.14,487.75+-17.56,4.41+-0.16E31,2.32+-0.08

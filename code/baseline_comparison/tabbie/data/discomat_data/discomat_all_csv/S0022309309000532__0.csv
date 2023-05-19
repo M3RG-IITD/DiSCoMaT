@@ -1,0 +1,16 @@
+Element,s,R (10-10 m),Tm  (K),Typical REBMGs system
+Sc,0.28,1.62,1814,Sc-Al-Co-Y
+Y,0.24,1.8,1783,"Y-Sc-Al-Co, Y-Al-Co"
+La,0.28,1.88,1193,"La-Al-Ni-Cu, La-Al-Co(Ni)"
+Ce,0.24,1.83,795,"Ce-Al-M(MCu, Co, Ni), Ce-Al-Cu-X (XCo, Nb, B, et al.)"
+Pr,0.28,1.83,1208,"Pr-Fe-Al, Pr-Al-M-N(M, NFe, Cu, Ni, Co)"
+Nd,0.28,1.82,1297,"Nd-Al-Fe, Nd-Al-M-N(M, NFe, Cu, Ni, Co)"
+Sm,0.27,1.8,1345,"Sm-Al-Co(Ni), Sm-Al-Co-X(XY, Nb)"
+Gd,0.26,1.8,1583,"Gd-Al-Co(Fe, Ni), Gd-Al-Ni-Cu (Co), Gd-Y-Al-Co"
+Tb,0.26,1.78,1629,"Tb-Al-Co, Tb-Y-Al-Co"
+Dy,0.25,1.77,1680,"Dy-Al-Co, Dy-Y-Al-Co"
+Ho,0.23,1.77,1734,"Ho-Al-Co, Ho-Y(Zr)-Al-Co"
+Er,0.24,1.76,1770,"Er-Al-Co(Ni), Er-Y-Al-Co(Ni, Fe)"
+Tm,0.21,1.75,1818,"Tm-Al-Co, Tm-Y(Zr)-Al-Co"
+Yb,0.21,1.93,1092,"Yb-Zn-Mg, Yb-Zn-Mg-Cu"
+Lu,0.26,1.75,1925,"Lu-Al-Co, Lu-Y(Zr)-Al-Co"

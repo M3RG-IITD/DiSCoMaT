@@ -1,0 +1,10 @@
+Material,Vickers microhardness HV [kg/mm2],Fracture toughness K Ic [MPam1/2],Normalized wear volume V n [mm3/m],Elastic modulus E [GPa]
+Unglazed porcelainized stoneware,420+-46 (25),1.628+-0.475,1.552,70 (EWP) 72 (4 PB)
+Industrial glaze,415+-48 (25),-,2.080,-
+As-sprayed CZS,457+-82 (25) (cross-section),0.371+-0.217,3.198,31 (4PB)
+9-30 CZS,511+-78 (25) (cross-section),1.112+-0.141,2.390,-
+9-60 CZS,498+-44 (25) (cross-section),0.900+-0.165,1.540,-
+10-30 CZS,622+-99 (50) (cross-section),2.144+-0.446,1.194,110 (4PB)
+10-15 CZS,594+-85 (50) (cross-section),2.535+-0.623,0.720,-
+Bulk CZS glass,575+-40 (25),1.584+-0.216,-,95 (EWP)
+Bulk CZS thermally treated,640+-63 (50),Not measurable (layer too thin),,-

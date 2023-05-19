@@ -1,0 +1,18 @@
+Spectral line,Binding energy [eV],Binding energy [eV],Peak area fraction [%],Peak area fraction [%],Bonding structure
+Spectral line,Before,After,Before,After,Bonding structure
+F 1s,685.8,685.6,100,100,Metal fluorides
+,,,,,
+Zr 3d5/2,183.7,183.6,21.0,37.5,"(Hydr)oxyfluoride, Zr(OH)4"
+Zr 3d5/2,185.0,184.7,79.0,62.5,Fluoride
+,,,,,
+O 1s,530.9,530.9,27.5,37.0,Zr oxyfluoride
+O 1s,532.2,532.0,46.0,42.0,"Zr (Na, Ba) hydroxyfluoride"
+O 1s,533.5,533.2,26.5,21.0,C-O bonds
+,,,,,
+Ba 3d5/2,779.3,779.3,12.5,12.0,(Hydr)oxyfluoride
+Ba 3d5/2,781.3,781.3,87.5,88.0,Fluoride
+,,,,,
+Na 1s,1071.6,-,24.5,-,Fluoride
+Na 1s,1072.6,-,75.5,-,"Hydroxide, Na+"
+,,,,,
+La 3d5/2,836.0,836.0,100,100,Fluoride

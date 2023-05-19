@@ -1,0 +1,5 @@
+Composition,Bi2O3,Bi2O3,SiO2,SiO2,Al2O3,Al2O3,B2O3,B2O3,ZnO,ZnO,TiO2,TiO2
+Composition,wt.%,mol%,mol%,wt.%,mol%,wt.%,wt.%,mol%,wt.%,mol%,wt.%,mol%
+GZn,72.5,28.3,13.0,39.3,3.0,5.3,3.5,9.1,8.0,18.0,-,-
+GZnTi,72.5,28.3,13.0,39.3,3.0,5.3,3.5,9.1,4.0,8.9,4.0,9.1
+GTi,72.5,28.2,13.0,39.2,3.0,5.3,3.5,9.1,-,-,8.0,18.1

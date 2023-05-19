@@ -1,0 +1,12 @@
+Parameter,Value,Unit,Source
+d,1.000x10-9,m,[19]
+v,5.236x10-28,m3,v= 4p  3     d 2    3
+rn,2.434x1023,/m3,
+s,6.583x10-2,N/m,Estimated from s 1 2   DH f   N0 1/3Vc2/3    [18]
+,,,
+DH f,4.000x104,N m/mol,The enthalpy of fusion [20]
+N 0,6.023x1023,/mol,Avogadro number
+V c,9.984x10-6,m3/mol,The difference in volume between melt and crystal
+e,"log  e=A+2B/{(T-T0)+[(T-T0)2+4CT]1/2}; A=2.40, B=253.31, C=2.77, T 0=628.83",Pa s,Approximated from [3]by assuming the viscosity at T g is near 1012 Pa s
+,,,
+DS  n,4.635x101,N m/K,DSn= DH f   T1

@@ -1,0 +1,13 @@
+Code,a[x10-7(degC-1)],T g (degC) 5.3-5.5degC/min;T1,T g (degC) 1degC/min;T4,T  soft  . (degC)
+CAB1,"67.10 [50-400degC, 5.3degC/min],T3; *67.39 [50-300degC, 5.3degC/min], T3;",500,,"520, 5degC/min, T1"
+CAB1,"36 [400-470degC, 1degC/min], T4",500,483,"504, 1degC/min, T4"
+CAB2,"78.20 [50-400degC, 6.2degC/min], T3; *83.94 [50-230degC, 6.2degC/min], T3;",496,,"520, 5degC/min, T1"
+CAB2,"87.1 [400-470degC, 1degC/min] , T4",496,482,"510, 1degC/min, T4"
+DR1,"65.30 [50-400degC, 5.2degC/min], T3; *65.97 [50-300degC, 5.2degC/min], T3;",497,,"521, 5degC/min, T1"
+DR1,"45 [400-470degC, 1degC/min], T4",497,486,"508, 1degC/min, T4"
+DR2,"52.40 [50-400degC, 5.4degC/min], T3; *57.24 [50-210degC, 5.4degC/min], T3;",506,,"541, 5degC/min, T1"
+DR2,"28 [417-470degC, 1degC/min], T4",506,493,"519, 1degC/min, T4"
+PFeOx,"90.40 [50-400degC, 5.3degC/min],T3; *90.14 [50-300degC, 5.3degC/min],T3;",515,,"546, 5degC/min, T1"
+PFeOx,"79 [400-470degC, 1degC/min], T4",515,503,"531-547, 1degC/min,T4"
+PFeUox,"84.70 [50-400degC, 6.3degC/min],T3; *87.52 [50-300degC, 6.3degC/min],T3;",535,,"578, 5degC/min, T1"
+PFeUox,"88-94 [400-470degC, 1degC/min], T4",535,523-526,"559, 1degC/min, T4"

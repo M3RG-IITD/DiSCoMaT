@@ -1,0 +1,5 @@
+DFT/B3LYP Basis set,Structure,Structure,Structure,Structure,Structure
+DFT/B3LYP Basis set,NMR parameters,23Na s iso (ppm),a% s ref =583.7 (ppm)31,23Na CQ  (MHz),23Na n
+6-311++G,[Na(H2O)4]+,546.27,6.4,8.13,0.54
+6-311++G,[Na(H2O)6]+,583.88,0.03,4.01,0.007
+6-311++G,[Na(H2O)8]+,619.08,6.1,0.89,0.91

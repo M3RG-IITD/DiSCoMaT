@@ -1,0 +1,12 @@
+Atom pair,CN ij,"Cut-off distance, rij  (A)","Cut-off distance, rij  (A)","Cut-off distance, rij  (A)"
+Atom pair,CN ij,B5,B10,B15
+Si-O,4 (1.45-2.0),1.45,1.5,1.5
+B-O,3 and 4 (0.9-1.9),1.0,0.8,1.0
+Si-Si,-,2.86,2.8,2.81
+O-O,-,2.15,2.15,2.15
+Na-O,-,2.07,2.05,2.05
+Zr-O,-,1.95,1.9,1.98
+Ba-O,-,2.42,2.51,2.45
+Na-Na,-,2.53,3.01,3.02
+Si-B,-,2.75,2.44,2.41
+Si-Na,-,2.48,2.35,2.47

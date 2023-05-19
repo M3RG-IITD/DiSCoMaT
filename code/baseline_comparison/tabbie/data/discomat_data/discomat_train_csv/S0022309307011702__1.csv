@@ -1,0 +1,9 @@
+,T g,T onset,T peak1,T peak2
++-,2,1,2,3
+"A, as-received",950,1134,1167,-
+"B, as-received",918,1107,1166,1270
+"B, shots",918,1130,1232,-
+"A, humidity 4 weeks",950,1134,1174,-
+"A, water 4 weeks",905,1136,1179,-
+"B, humidity 4 weeks",918,1118,1172,-
+"B, water 4 weeks",918,1109,1175,1273

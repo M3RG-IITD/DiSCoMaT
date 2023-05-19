@@ -1,0 +1,9 @@
+Name of the samples,Nominal compositions in mol%,Nominal compositions in mol%,Nominal compositions in mol%,Melting temperature in degC,Optical quality,XRD
+Name of the samples,CaO,SiO2,P2O5,Melting temperature in degC,Optical quality,XRD
+CaSP0,60,40,0,x  *,Clear,Amorphous
+CaSP1,59.34,39.56,1,x,Clear,Amorphous
+CaSP2,58.94,39.16,2,x,Clear,Amorphous
+CaSP5,56.94,37.96,5,x,Clear,Amorphous
+CaSP30,41.96,27.97,30,x,Clear,Amorphous
+CaSP40,35.96,23.98,40,1100,Clear,Amorphous
+CaSP50,29.97,19.98,50,1100,Clear,Amorphous

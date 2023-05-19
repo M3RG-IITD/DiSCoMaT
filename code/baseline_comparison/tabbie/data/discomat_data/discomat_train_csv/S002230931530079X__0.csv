@@ -1,0 +1,10 @@
+Item,Chemical composition (wt.%),Chemical composition (wt.%),Chemical composition (wt.%),Chemical composition (wt.%),Thermal property (degC)
+Temperature,SiO2 (calc.),B2O3 (calc.),Na2O (calc.),H2O (meas.),Tg +-2
+60degC,48.4,4.1,15.1,32.2 (2),53
+80degC,50.8,4.3,15.9,28.9 (2),82
+100degC,55.5,4.7,17.2,22.3 (2),103
+150degC,59.6,5.0,18.6,16.6 (1),147
+200degC,67.3,5.7,21.0,5.8 (2),192
+250degC,68.0,5.7,21.3,4.9 (2),251
+300degC,68.5,5.8,21.4,4.1 (1),375
+350degC,69.1,5.8,21.6,3.2 (3),407

@@ -1,0 +1,7 @@
+OH group proton donor,OH group proton acceptor,Linear configuration,Linear configuration,Linear configuration,Linear configuration,Linear configuration,Cyclic configuration,Cyclic configuration,Cyclic configuration,Cyclic configuration,Cyclic configuration
+OH group proton donor,OH group proton acceptor,RO-O (nm),o3 (cm -1),I 3,o4 (cm -1),I 4,RO-O (nm),o5 (cm -1),I 5,o6 (cm -1),I 6
+Si-OH,HO-Si,0.27,3660,4,3590,31,0.23,3570,20,3540,9
+Si-OH,HO-Ge,0.28,3560,5,3610,26,0.23,3580,14,3450,15
+Ge-OH,HO-Si,0.28,3660,4,3490,46,0.28,3580,14,3450,15
+Ge-OH,HO-Ge,0.28,3580,4,3520,37,0.20,3490,15,3460,9
+,,,,,,,,,,,

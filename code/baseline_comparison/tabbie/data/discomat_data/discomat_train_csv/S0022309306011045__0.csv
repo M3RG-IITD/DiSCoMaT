@@ -1,0 +1,23 @@
+Group,Sample name,Category,Manufacturing method,Impurity (ppm),Impurity (ppm)
+Group,Sample name,Category,Manufacturing method,Cl,OH
+1,A1,Oxygen-deficient     P     O   2       =1.0%,Ar plasma,12000,ND
+1,A2,Oxygen-deficient     P     O   2       =1.5%,Ar plasma,3200,0.8
+1,A3,Oxygen-deficient     P     O   2       =5.0%,Ar plasma,1000,3.0
+1,A4,Oxygen-deficient     P     O   2       =15.0%,Ar plasma,400,3.3
+,,,,,
+2,B1,Oxygen-deficient,O2 plasma,1200,3.0
+2,B1,Mol. rate,,,
+2,B1,O2:SiCl4,,,
+2,B1,0.15:1,,,
+B3,Oxygen-deficient,O2 plasma,340,3.0,
+B3,Mol. rate,,,,
+B3,O2:SiCl4,,,,
+B3,1:1,,,,
+,,,,,
+3,P,Oxygen surplus,Ar+O2 plasma,370,0.6
+4,D,High-OH,Flame hydrolysis,ND,1000
+4,S1,Unknown (B2 b),CVD soot remelting,0.3,200
+,,,,,
+5,S2,Oxygen-deficient,CVD soot remelting,0.2,ND
+5,S3,Oxygen-deficient,CVD soot remelting,0.3,ND
+5,S4,Oxygen-deficient,CVD soot remelting,ND,6.0

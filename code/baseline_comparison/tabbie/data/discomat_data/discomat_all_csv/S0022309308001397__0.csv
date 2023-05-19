@@ -1,0 +1,5 @@
+Specimen,Current density J (A/mm2),Pulse frequency f (Hz),Processing time t (s),Stable temperature T (K)
+1,1556,6,600,656+-2
+2,1556,6,3600,656+-2
+3,1556,7,600,694+-2
+4,1556,8,600,734+-2

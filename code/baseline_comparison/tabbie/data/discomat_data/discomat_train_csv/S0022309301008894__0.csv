@@ -1,0 +1,16 @@
+Glass,s dc(o) (O m)-1,E dc (kJmol -1),E  M  (kJmol -1),D(gcm -1),R   (A),t  s  (s)
+,(+-1.0%),(+-1.0%),(+-1.0%),(+-0.5%),(+-0.5%),(+-0.5%)
+NAP series,NAP series,NAP series,NAP series,NAP series,NAP series,NAP series
+35-5-60,3.14x10-8,80.1,78.2,2.45,-,2.5x10-4
+30-10-60,3.14x10-8,74.3,73.3,2.49,-,2.5x10-4
+20-20-60,1.40x10-8,72.4,72.4,2.59,-,3.9x10-4
+,,,,,,
+NAFP series,NAFP series,NAFP series,NAFP series,NAFP series,NAFP series,NAFP series
+20-15-5-60,6.31x10-9,69.5,69.5,2.61,6.24,1.8x10-3
+20-10-10-60,5.88x10-9,66.6,65.6,2.76,4.86,4.0x10-3
+20-5-15-60,1.41x10-8,55.9,56.9,2.79,4.23,1.1x10-3
+,,,,,,
+NFP series,NFP series,NFP series,NFP series,NFP series,NFP series,NFP series
+35-5-60,4.08x10-8,74.3,73.3,2.69,6.17,2.0x10-4
+30-10-60,3.90x10-8,73.3,72.4,2.83,4.82,1.8x10-4
+20-20-60,1.17x10-8,53.1,55.6,2.89,3.79,7.9x10-4

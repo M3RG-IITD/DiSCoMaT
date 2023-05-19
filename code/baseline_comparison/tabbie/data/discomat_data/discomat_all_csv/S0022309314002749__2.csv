@@ -1,0 +1,4 @@
+Energy transfer,N(number of phonons) (% phonon assisted),N(number of phonons) (% phonon assisted),N(number of phonons) (% phonon assisted),Energy transfer coefficient (cm6/s)
+Yb3+ -Yb3+(migration) (2F5/2 + 2F7/2 - 2F7/2 + 2F5/2),099.333,,10.667,9.81x10-39
+Yb3+ -Tm3+ (direct transfer) (2F5/2 - 3H5),178.037,221.960,30.003,6.86x10-41
+Tm3+ -Yb3+ (back transfer) (3H5 - 2F5/2),199.354,,20.646,3.07x10-43

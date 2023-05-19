@@ -1,0 +1,12 @@
+,Poling temperature,Poling temperature,Poling temperature
+,200 degC,225 degC,250 degC
+Duration (min),60,60,60
+Voltage DV (kV),4,4,4
+,,,
+L (mm) (+-10%),5,7,27
+d 33 (pm/V) (+-0.01),0.20,0.29,0.33
+d 33 L (10-6 pm2/V),1,2.,0.9
+d 31/d 33 (+-10%),0.33,0.32,0.35
+,,,
+DV/L (108 V/m),8,5.7,1.5
+2d 33/3kh 3333 (3) (108 V/m),0.53,0.8,0.9

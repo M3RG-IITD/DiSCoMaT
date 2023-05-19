@@ -1,0 +1,11 @@
+Glass number,T g (+-0.3) (degC),Tx  (+-0.3) (degC),T P (+-0.1) (degC),DT (+-0.4) (degC),Crystalline phases (after 1h heat treatment above Tx ),Crystalline phases (after 1h heat treatment above Tx )
+Glass number,T g (+-0.3) (degC),Tx  (+-0.3) (degC),T P (+-0.1) (degC),DT (+-0.4) (degC),Dominant,Minor
+1Q,669.5,798.7,813.7,129.2,Not done,Not done
+1,668.9,800.7,816.9,131.8,LCB,Undefined residual phase
+,,,,,,
+2,658.0,821.3,853.1,163.3,LCB,-||-
+3,664.9,792.3,813.1,127.4,LCB,-||-
+4,670.6,797.1,811.2,126.5,LCB,-||-
+5,672.5,783.8,799.3,111.3,LaB3O6,"Ca3La2(BO3)4, LCB"
+9,657.3,802.8,822.8,145.5,"LCB  , LaBO3","LaBO3   , Undefined Phase"
+10,641.0,745.5,755.7,104.5,"LCB  , LaBO3",LaBO3

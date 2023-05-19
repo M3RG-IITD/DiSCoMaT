@@ -1,0 +1,14 @@
+Position (cm) b,Intensity,Integral
+Base composition (   RMS: 0.0172),Base composition (   RMS: 0.0172),Base composition (   RMS: 0.0172)
+(B) 949,0.320,28.8
+(C) 1061,1.53,232
+,,
+Base composition+Ti (RMS: 0.0186),Base composition+Ti (RMS: 0.0186),Base composition+Ti (RMS: 0.0186)
+(A) 899,0.833,53.8
+(B) 949,0.775,68.9
+(C) 1065,1.11,179
+,,
+"Base composition+Ti, Cl (RMS: 0.0288)","Base composition+Ti, Cl (RMS: 0.0288)","Base composition+Ti, Cl (RMS: 0.0288)"
+(A) 901,0.800,50.0
+(B) 950,1.36,130
+(C) 1061,1.27,208

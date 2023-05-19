@@ -1,0 +1,8 @@
+Sample,Chemical composition (mol%),Chemical composition (mol%),Chemical composition (mol%),Chemical composition (mol%),Chemical composition (mol%),Chemical composition (mol%),Chemical composition (mol%)
+Sample,SiO2,Na2O,CaO,Al2O3,P2O5,K2O,Er2O3
+AL01,72.64,13.94,10.96,0.99,0.4,0.6,0.47
+AL05,69.84,13.40,10.54,4.81,0.38,0.58,0.45
+AL10,66.64,12.79,10.05,9.17,0.37,0.55,0.43
+AL15,63.71,12.23,9.61,13.16,0.35,0.53,0.41
+AL20,61.14,11.73,9.23,16.67,0.33,0.51,0.39
+AL25,58.70,11.26,8.86,20,0.32,0.49,0.39

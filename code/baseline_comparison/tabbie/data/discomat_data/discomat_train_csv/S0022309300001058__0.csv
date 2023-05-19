@@ -1,0 +1,5 @@
+Samples,Heat treatment temperatures (degC),r (g/cm3)(+-8%),P (%),Transmittance at 0.532 mm (%)
+1#,500,1.20,48,70
+2#,650,2.07,15,81
+4#,750,2.32,5.2x10-2,70
+3#,850,2.34,2x10-3,53

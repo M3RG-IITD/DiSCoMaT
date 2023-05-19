@@ -1,0 +1,6 @@
+Annealing temperature (degC),250,300,350,400
+DL  under 9.8N (mm),-272,-387,-225,-367
+DL  under 19.6N (mm),-270,-324,-112,-259
+DL  under 29.4N (mm),-260,-251,-57,+43
+DL  under 39.2N (mm),-254,-109,+168,+194
+D   L   39.2 N   C   - D   L   9.8 N   C     (mm),18,278,393,561

@@ -1,0 +1,7 @@
+Cycle I (fast cooling),Cycle II (slow cooling)
+20ps NVT 6000K,20ps NVT 6000K
+20ps NVT 4000K,20ps NVT 4000K
+20ps NVT 2000K,20ps NVT 2000K
+800ps NVT 1300K,800ps NVT 1300K
+30ps NVT per 100 degree from 1300 up to 300K (a total time of 300ps),30ps NVT per degree from 1300 up to 300K (a total time of 30000ps)
+30ps NPT 300K,30ps NPT 300K

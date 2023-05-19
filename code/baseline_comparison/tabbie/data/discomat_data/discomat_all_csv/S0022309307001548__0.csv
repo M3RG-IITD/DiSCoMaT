@@ -1,0 +1,7 @@
+Glass composition (mol%),Glass composition (mol%),Glass composition (mol%),Glass composition (mol%),X=Dopants (ppmw),X=Dopants (ppmw),X=Dopants (ppmw),Thermal properties,Thermal properties,Fiber type
+TeO2,Na2O,B2O3,ZnO,Er2O3,Tm2O3,"(Ce,Eu,Yb)2O3",T g (K),T  x  (K),Fiber type
+80,10-X,0,10,5000,0,0,560,Not observed,Fiber I
+80,10-X,0,10,5000,0,"Ce=10,000",560,Not observed,Fiber II
+80,10-X,0,10,5000,0,"Eu=10,000",560,Not observed,Fiber III
+65,20-X,15,10,5000,0,0,580,712,Fiber IV
+80,10-X,0,10,0,5000,"Yb=10,000",560,Not observed,Fiber V

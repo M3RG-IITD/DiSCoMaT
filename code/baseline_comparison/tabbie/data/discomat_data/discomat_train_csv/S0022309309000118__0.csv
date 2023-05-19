@@ -1,0 +1,6 @@
+Model,Crystallization event,n,E a (kJmol-1),K 0 (s-1),l
+JMA,First,1-4,200-300,0-5E22,
+JMA,Second,1-4,400-500,0-5E32,
+,,,,,
+Impingement,First,1-4,200-300,0-5E22,1-4
+Impingement,Second,1-4,400-500,0-5E22,1-4

@@ -1,0 +1,55 @@
+Symbol,Meaning,Equation
+SBN,Sodium BoroSilicate ([SiO2]-[B2O3]-[Na2O]),
+NBO,Non-bridging oxygen atoms,
+HV,Material hardness,5
+KC,Fracture toughness as measured in vacuum,
+K  C   IND,KC  arises from indentation studies.,6
+K  C   VIF,Vickers's indentation fracture toughness,7
+n,Poisson's ratio,3
+[],mol%,
+R SBN,"N a  2  O      B 2   O 3     , ratio of mol% of [Na2O] to mol% of [B2O3]",
+R max SBN,"For R SBN < R max SBN, Na+ ions predominantly cause fully coordinated [3]B to transform into fully coordinated [4]B. For R SBN > R max SBN, extra Na+ ions cause fully coordinated [4]B to transform into [3]B with NBO and it causes NBO in the silica network.",R max  S B N   = 0.5 +   K  S B N   16
+K SBN,"S i O  2      B 2   O 3     , ratio of mol % of [SiO2] to mol % of [B2O3]",
+Tg,Glass transition temperature,
+E,Young's modulus,2
+<CN>,Mean coordination number of the boron atoms,
+[4]B,The concentration of [4]B per volume unit deduced from NMR measurements and ICP-AES results,
+N NBO,Number of NBO per volume unit,4
+N Na,Number of Na+ ions acting as network modifiers,
+N  [4]B,"Each [4]B structural unit has one Na+ ion attaching to it. Thus, this equates to the number of Na+ ion acting as a network compensator.",
+r,Density of sample,1
+rw,Density of water,
+md,Mass of samples in air at 24degC,
+mw,Mass of samples in water at 24degC,
+VL,longitudinal Velocities,
+VT,transverse Velocities,
+PC,Crack appearance probability,
+P,Indentation load,
+Pid,Residual indentation depth,
+Pad,Residual indentation depth after annealing,
+di,An indentation diagonal length on one indent (note there are 2 per indent),
+da,An indentation diagonal length on one indent (note there are 2 per indent) after annealing,
+d,The mean of <d  i >  values obtained for one indent.,
+V  i  -,Indentation volume below the free surface,
+V  i  +,"Indentation volume above the free surface, i.e. pile-up",
+V  a  -,Indentation volume below the free surface after annealing,
+V  a  +,"Indentation volume above the free surface after annealing, i.e. pile-up",
+ci,The crack length measured from the indentation center.,
+c,The average distance (<c  i > ) from the indentation center to the crack tip,
+CR,Crack resistance: the load where PC  exceeds 50%,
+VR,Recovered volume ratio,8
+VP,Volume-conserving shear flow ratio as determined in the pile-up,9
+Pf,Packing fraction,10
+rt,Minimal theoretical density,11
+Vi,Ideal volume for an oxide,12
+NA,Avogadro number,
+rA,Ionic radii of the cation in the oxide [AxOy],
+rO,The ionic radii of anion in the oxides [AxOy],
+"(aR , bR , khR , dR )",Fitting parameters for the sigmoid fit of VR  for Eq. (13),
+"(aP , bP , khP )",Fitting parameters for the sigmoid fit of VP  for Eq. (14),
+"srr , sthth , sphph , srth , srph , sthph",Yoffe's stress field in spherical polar coordinates,"15, 16, 17, 18, 19"
+B,Strength of blister field,Table 3
+b,Sellappan's blister field strength,Table 3
+V i  m,Volume of indent disregarding elastic recovery,Table 3
+a,Half the diagonal of the projected surface area,Table 3
+Ps,Apical angle of the indenter,Table 3

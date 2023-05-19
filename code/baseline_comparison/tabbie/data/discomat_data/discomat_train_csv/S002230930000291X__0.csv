@@ -1,0 +1,7 @@
+Transition,Wavelength (nm),Radiative transition probability (s-1),Branching ratio (%),Calculated lifetime (ms)
+3 F 4-3 H 6,1821,470,100,2126+-200
+3 H 5-3 F 4,~4200,5,1,1876+-180
+3 H 5-3 H 6,1215,528,99,
+3 H 4-3 H 5,~2300,48,1.8,370+-37
+3 H 4-3 F 4,1457,237,8.7,
+3 H 4-3 H 6,812,2441,89.5,

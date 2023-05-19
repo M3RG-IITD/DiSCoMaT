@@ -1,0 +1,10 @@
+Sample,Ion exchange,Annealing,Annealing
+,Duration (h),Temperature (degC),Duration (h)
+1a,310,-,-
+1b,310,480,120
+1c,310,600,168
+2a,382,380,432
+,,600,97
+2b,429,380,810
+,,480,384
+2c,426,410,459

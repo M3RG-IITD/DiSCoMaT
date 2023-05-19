@@ -1,0 +1,12 @@
+Composition (mol%),Composition (mol%),Composition (mol%),Characteristic temperatures,Characteristic temperatures,Characteristic temperatures,Stability parameters,Stability parameters
+Sb2O3,CuI,MX n,T g (degC),T x (degC),T p (degC),T x-T g,S (K)
+70,10,20 NaCl,239,292,309,53,3.8
+70,10,20 NaI,256,303,307,47,0.7
+90,,10 PbCl2,269,388,400,118,5.2
+80,,20 PbCl2,288,404,439,116,14.0
+70,,30 PbCl2,297,420,468,123,19.7
+60,,40 PbCl2,293,412,445,119,13.4
+80,10,10 PbCl2,255,331,393,76,18.4
+70,10,20 PbCl2,268,412,489,144,41.5
+60,10,30 PbCl2,268,373,418,105,17.4
+70,10,20 PbI2,267,314,318,47,0.8

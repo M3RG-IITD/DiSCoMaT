@@ -1,0 +1,8 @@
+Chemical,Supplier,Purity,XRD phase,As-analyzed
+Ga2S3,American Elements,99.999%,a-Ga2S3 (monoclinic C1c1),
+La2S3,American Elements,99.9%,La10S14.5O0.5 (tetragonal I41 /acd),
+La2S3,Lorad,Not stated,La10S14.55O0.45 (tetragonal I41 /acd)La1.98O2.13S0.84 (hexagonal  P  3 -  m 1 ),~96% tetragonal~4% hexagonal
+ZnS,Alfa Aesar,99.99%,ZnS (cubic  F  4 -  3 m  hexagonal P63mc),"Likely from CVD, fit shows ~10% hexagonal"
+CaS,Alfa Aesar,99.9%,CaS (cubic Fm3m),
+CdS,Alfa Aesar,99.999%,CdS (hexagonal P63mc),
+GeS2,American Elements,99.999%,GeS2 (monoclinic P21 /c or P121 /c1c)GeS (orthorhombic Pnma),~25% GeS2 ~75% GeS

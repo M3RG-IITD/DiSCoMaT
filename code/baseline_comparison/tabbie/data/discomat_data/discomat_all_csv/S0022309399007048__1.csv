@@ -1,0 +1,12 @@
+T (degC),Leaching time,Amount (at. cm-2),Amount (at. cm-2),Amount (at. cm-2),Depth (nm),Depth (nm),Depth (nm)
+T (degC),Leaching time,Ba,Na,H,Ba,Na,H
+,Blank (dried for 15 h),0,0,0,0,0,0
+20,1 h,3.5,10,3.9,,,
+20,4 h,4.2,18,17,57,57,57
+20,9 h,6.4,30,24,57,57,57
+20,1 day,17,59,64,134,105,105
+20,2 days (series 1),27,104,83,159,159,159
+20,2 days (series 2),38,121,81,155,184,184
+60,1 day,251,742,>149,969,1000,>359
+60,2 days,292,834,>149,1141,1150,>359
+80,1 day,92,464,67,811,811,402

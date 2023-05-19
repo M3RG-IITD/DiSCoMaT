@@ -1,0 +1,7 @@
+Sample name,Glass type,Peak at (cm-1),"Extinction coefficient, a (x1019  cm -1 )","Molar extinction coefficient, e (lglass/molOH-cmglass)"
+Suprasil I,Commercial v. silica,3674,17.80,77.5
+AP7,Aluminophosphate,2900,0.70,27.56
+AS4,Aluminosilicate,3520,1.92,40.01
+FS4,Fluorosilicate,3531,11.64,90.00
+FS5,Fluorosilicate,3408,1.84,94.72
+FS6,Fluorosilicate,3400,1.14,99.51

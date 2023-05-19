@@ -1,0 +1,31 @@
+Dose (kGy),r,vL,vT,Y,Ke
+Dose (kGy),kgm-3,ms-1,ms-1,GPa,GPa
+0mol% of Bi  2  O  3  concentration,0mol% of Bi  2  O  3  concentration,0mol% of Bi  2  O  3  concentration,0mol% of Bi  2  O  3  concentration,0mol% of Bi  2  O  3  concentration,0mol% of Bi  2  O  3  concentration
+0,4099,5007,2341,61.11,72.81
+30,4141,4895,2322,60.54,68.84
+120,4157,4875,2485,67.99,64.57
+,,,,,
+5mol% of Bi  2  O  3  concentration,5mol% of Bi  2  O  3  concentration,5mol% of Bi  2  O  3  concentration,5mol% of Bi  2  O  3  concentration,5mol% of Bi  2  O  3  concentration,5mol% of Bi  2  O  3  concentration
+0,4264,4956,2202,56.67,76.80
+30,4309,4866,2225,58.44,73.04
+120,4319,4849,2382,65.73,68.88
+,,,,,
+10  mol% of Bi  2  O  3  concentration,10  mol% of Bi  2  O  3  concentration,10  mol% of Bi  2  O  3  concentration,10  mol% of Bi  2  O  3  concentration,10  mol% of Bi  2  O  3  concentration,10  mol% of Bi  2  O  3  concentration
+0,4576,4858,2099,55.86,81.11
+30,4621,4845,2118,57.23,77.96
+120,4630,4777,2243,63.29,74.60
+,,,,,
+15mol% of Bi  2  O  3  concentration,15mol% of Bi  2  O  3  concentration,15mol% of Bi  2  O  3  concentration,15mol% of Bi  2  O  3  concentration,15mol% of Bi  2  O  3  concentration,15mol% of Bi  2  O  3  concentration
+0,4755,4793,2048,55.35,82.19
+30,4802,4783,2071,57.08,81.14
+120,4812,4752,2140,60.39,77.46
+,,,,,
+20mol% of Bi  2  O  3  concentration,20mol% of Bi  2  O  3  concentration,20mol% of Bi  2  O  3  concentration,20mol% of Bi  2  O  3  concentration,20mol% of Bi  2  O  3  concentration,20mol% of Bi  2  O  3  concentration
+0,4958,4761,2004,55.43,85.36
+30,5006,4719,2034,57.27,83.56
+120,5015,4624,2113,60.79,78.12
+,,,,,
+25mol% of Bi  2  O  3  concentration,25mol% of Bi  2  O  3  concentration,25mol% of Bi  2  O  3  concentration,25mol% of Bi  2  O  3  concentration,25mol% of Bi  2  O  3  concentration,25mol% of Bi  2  O  3  concentration
+0,5111,4588,1931,53.07,87.18
+30,5148,4468,1976,56.12,85.64
+120,5168,4447,2084,59.97,80.14

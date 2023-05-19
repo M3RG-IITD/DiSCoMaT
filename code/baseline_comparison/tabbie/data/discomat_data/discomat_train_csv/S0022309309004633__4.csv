@@ -1,0 +1,12 @@
+Glass,Total europium concentration (cm-3),Eu3+- concentration cA  (cm-3),Interaction parameter g (ms-1/2),Intrinsic radiative transfer rate 1/t 0 (ms-1),Forster distance R (nm)
+FP10,1x1019,8x1018,0,0.80,-
+,5x1019,4x1019,0.12,0.80,0.71
+,1x1020,8x1018,0.32,0.80,0.78
+,5x1020,4x1020,2.36,0.80,0.89
+,1x1021,8x1018,8.70,0.80,1.09
+P100,1x1018,9.1x1017,0.02,1.20,1.44
+,1x1019,9.1x1018,0.22,1.20,1.52
+,1x1020,9.1x1019,1.16,1.20,1.24
+Duran,2x1019,1x1019,0,0.95,-
+,1x1020,5x1019,0,0.95,-
+,1x1021,5x1020,0.46,0.95,0.49

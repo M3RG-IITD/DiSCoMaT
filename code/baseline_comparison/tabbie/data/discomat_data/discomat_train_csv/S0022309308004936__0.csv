@@ -1,0 +1,5 @@
+Glass name,Concentration (mol%),Concentration (mol%),Concentration (mol%),Concentration (mol%),Concentration (mol%),DTA values (+-5degC),DTA values (+-5degC),DTA values (+-5degC),DTA values (+-5degC)
+Glass name,GeO2,Na2O,Li2O,ZnO,Er2O3,T g,Tx,T c,T m
+A,70.00,20.00,-,9.95,0.05,488,600,625,763
+B,70.00,-,20.00,9.95,0.05,479,547,555,918
+C,70.00,10.00,10.00,9.95,0.05,466,535,543,837

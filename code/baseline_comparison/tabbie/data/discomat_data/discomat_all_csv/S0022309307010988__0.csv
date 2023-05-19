@@ -1,0 +1,6 @@
+Sample,Preliminary pressurex10-4 (Pa),Laser fluency(Jcm-2),Deposition time(min),Average deposition rate(nmpulse-1),Composition (at.%),Composition (at.%),Composition (at.%)
+Sample,Preliminary pressurex10-4 (Pa),Laser fluency(Jcm-2),Deposition time(min),Average deposition rate(nmpulse-1),Ag,Sb,S
+Bulk 1,-,-,-,-,26.5,24.5,49.0
+PLD 1,8.2,1,10,0.065,27.8,26.9,45.3
+PLD 2,5.8,1,20,0.032,26.4,25.6,48.0
+PLD 3,7.4,2,16,0.029,27.7,27.3,45.0

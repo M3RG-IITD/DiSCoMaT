@@ -1,0 +1,5 @@
+Heating rate (degC/min),T  p1 (degC),T  p1 (degC),T  p1 (degC),T  p1 (degC),T  p2 (degC),T  p2 (degC),T  p2 (degC),T  p2 (degC)
+Heating rate (degC/min),5,10,15,20,5,10,15,20
+G-0,865,878,891,905,967,989,1004,1015
+G-Ce,858,868,885,899,966,987,1008,1017
+G-La,859,873,890,902,974,997,1009,1027

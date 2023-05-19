@@ -1,0 +1,10 @@
+Parameter,H 0,H 0,H 0,H 0,H 0
+,LDK =LDCa,d K = d Ca,"d 2,K = d 2,Ca",LM   K       LM   Ca     = 0 . 6969,"LM   2 , K       LM   2 , Ca     = 0 . 6969"
+m,0.10,0.05,0.06,-,-
+m  x,-,-,-,0.78,0.79
+m 0,-,-,-,0.70,0.70
+s,0.16,0.09,0.08,-,-
+s',-,-,-,0.09,0.10
+q,14.31,13.82,19.24,23.09,20.54
+t crit (f =500; p =99.9),"3.31 (2-sided), 3.11 (1-sided)","3.31 (2-sided), 3.11 (1-sided)","3.31 (2-sided), 3.11 (1-sided)","3.31 (2-sided), 3.11 (1-sided)","3.31 (2-sided), 3.11 (1-sided)"
+Result,LDK >LDCa,d K > d Ca,"d 2,K > d 2,Ca",LM   K       LM   Ca     > 0 . 70,"LM   2 , K       LM   2 , Ca     > 0 . 70"

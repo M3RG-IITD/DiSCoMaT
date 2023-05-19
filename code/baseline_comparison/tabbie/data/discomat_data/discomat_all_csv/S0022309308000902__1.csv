@@ -1,0 +1,5 @@
+,550degC,600degC,650degC,700degC,750degC,800degC,850degC,900degC,950degC,1000degC
+GST,G,G,M,"M, D","M, D, KFR","KFR, D, M","KFR, D, M",KFR,KFR,KFR
+GP2,G,G,M,M,"M, D, KFR","KFR, M, D, FA","KFR, M, D, FA","KFR, FA","KFR, FA, T, C","KFR, E, SPMS, T, FA"
+GP4,G,G,M,M,M,"M, FA, U","M, FA, U, KFR, C","M, FA, KFR, SPMS, C","KFR, FA, U, T, C","KFR, SPMS, FA, T, E, U"
+GP5,G,G,"M, FA","M, FA","M, FA","C, M, FA, U","C, M, FA, U","SPMS, C, M, KFR, FA, U","SPMS, C, T, KFR, FA","SPMS, KFR, FA, T, E"

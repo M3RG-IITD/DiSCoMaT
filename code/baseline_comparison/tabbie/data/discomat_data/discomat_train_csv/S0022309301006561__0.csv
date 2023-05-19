@@ -1,0 +1,7 @@
+Glass composition,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),d iso  (ppm)(+-0.5),d iso  (ppm)(+-0.5),d iso  (ppm)(+-0.5),FWHM (ppm) (+-0.2),FWHM (ppm) (+-0.2),FWHM (ppm) (+-0.2)
+Glass composition,SiO2,Na2O,CaO,Na2O+CaO,Q4,Q3,Q2,Q4,Q3,Q2
+Na2Si3O7,75,25,0,25,-106.7,-94.1,-,12.1,11.0,-
+(CaO)0.2(Na2Si3O7),71.4,23.8,4.8,28.6,-106.9,-94.5,-,11.7,11.9,-
+(CaO)0.4(Na2Si3O7),68.2,22.7,9.1,31.8,-106.9,-93.6,-81.5,9.8,12.6,5.6
+(CaO)0.6(Na2Si3O7),65.2,21.7,13.0,34.7,-106.9,-93.0,-81.6,9.4,13.3,7.9
+(CaO)(Na2Si3O7),60.0,20,20,40,-106.9,-91.7,-83.9,-,13.4,11.1

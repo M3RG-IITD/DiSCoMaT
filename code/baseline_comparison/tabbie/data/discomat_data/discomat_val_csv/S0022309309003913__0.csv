@@ -1,0 +1,9 @@
+Heat-treatment temperature/time,Average radius (nm),Absorption peak position (nm),Peak wavelength of photoluminescence (nm),FWHM   (nm)
+465degC/20h,1.7,1028,1386,290
+480degC/20h,2.3,1305,1500,264
+495degC/20h,2.6,1435,1580,264
+510degC/20h,3.1,1638,1787,389
+495degC/5h,2.2,1276,1499,266
+495degC/10h,2.3,1305,1536,247
+495degC/15h,2.4,1363,1570,255
+495degC/30h,2.8,1525,1785,383

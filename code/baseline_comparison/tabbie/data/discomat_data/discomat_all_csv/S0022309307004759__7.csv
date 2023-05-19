@@ -1,0 +1,29 @@
+,FSN51 (1350degC),FSN52 (1400degC)
+1st nn shell,1st nn shell,1st nn shell
+x =FeO6 (%),43.0+-6,29.2+-2
+y =FeO4 (%),-,10.5+-5
+FeO4 in glass (%),57.0+-6,60.3+-7
+R octahedra (+-0.01A),1.95,2.03
+R tetrahedra (+-0.01A),-,1.88*
+R glass (+-0.01A),1.88*,1.88*
+DWoctahedra (x10-3 A2),14.2,8.2
+DWtetrahedra (x10-3 A2),-,2.1*
+DWglass (x10-3 A2),3.0*,3.0*
+N 2(Fe) (%),7* x,13* x
+,,12* y +6* x
+,,
+2nd nn shell,2nd nn shell,2nd nn shell
+R Fe-Fe (+-0.02A),2.94,2.96
+,,3.30
+DW2 (x10-3 A2),9.8,13.2
+,,13.2
+,,
+3rd nn shell,3rd nn shell,3rd nn shell
+N 3(O) (%),6* x,6* x +12* y
+R Fe-O (+-0.03A),3.27,3.35
+DW3 (x10-3 A2),1.4*,2.0
+,,
+4th nn shell,4th nn shell,4th nn shell
+N 4(Fe) (%),6* x,6* x +4* y
+R Fe-Fe (+-0.04A),3.67,3.63
+DW4 (x10-3 A2),5.7,13.2*

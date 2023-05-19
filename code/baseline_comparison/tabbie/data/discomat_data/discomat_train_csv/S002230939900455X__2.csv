@@ -1,0 +1,5 @@
+Glass,T 0 (degC) +-1,T d calculated (degC) +-1,T d measured (degC) +-1,T 0-T dcal (degC) +-2,T 0-T dmeas (degC) +-2
+ZBLAN,344,326,320,+18,+24
+GIPCdZn,322,331,321,-9,+1
+IZBS,345,384,353,-39,-8
+CdFCl,205,258,235,-53,-30

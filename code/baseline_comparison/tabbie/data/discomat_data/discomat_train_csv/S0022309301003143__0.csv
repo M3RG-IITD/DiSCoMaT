@@ -1,0 +1,9 @@
+"Heat-treatment schedule: T (degC), t (h)","SAXS, 2R (nm)","XRD, 2R (nm)","XRD, 2R (nm)",Low-frequency Raman spectroscopy,Low-frequency Raman spectroscopy,Low-frequency Raman spectroscopy,Relative fraction of crystallinity,Relative fraction of crystallinity
+"Heat-treatment schedule: T (degC), t (h)","SAXS, 2R (nm)",Spinel,Magnesium aluminotitanate,2R (nm),n(cm -1),I/I 460,Spinel,Magnesium aluminotitanate
+Initial glass,2.4-8.0,-,-,-,-,-,-,-
+"720, 24",3.2-8.0,-,-,4.0,66,-,-,-
+"750, 16",5.0-10.0,-,-,5.3,50,0.5,-,-
+"750, 30",6.4-10.0,-,-,7.4,36,0.6,-,-
+"770, 24",6.8-11.4,4.3,8.0,7.8,34,1.9,1.0,2.3
+"750, 6+800, 6",8.3,3.5,12.0,10.2,26,2.3,4.5,3.0
+"750, 6+950, 6",13.4,5.2,13.0,15.0,~17.0,5.0,10.0,2.6

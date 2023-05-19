@@ -1,0 +1,29 @@
+,PF73,PF82,PF91,,FN
+1st nn shell,1st nn shell,1st nn shell,1st nn shell,1st nn shell,1st nn shell
+x =FeO6 (%),72.0+-4,73.2+-3,70.2+-2,x =FeO6 (%),17.1+-4
+FeO4 in the glass (%),28.0+-4,26.8+-3,29.8+-2,y =FeO4 (%),68.4+-4
+,,,,FeO4 in the glass (%),14.5+-4
+R octahedra (+-0.01A),1.97,1.98,1.98,R octahedra (+-0.01A),2.03
+R glass (+-0.01A),1.88*,1.88*,1.88*,R tetrahedra (+-0.01A),1.88*
+,,,,R glass (+-0.01A),1.88*
+DWoctahedra (x10-3 A2),4.2,4.2*,4.2*,DWoctahedra (x10-3 A2),5.6
+DWglass (x10-3 A2),3.0*,3.0*,3.0*,DWtetrahedra (x10-3 A2),3.7
+,,,,DWglass (x10-3 A2),3.0*
+,,,,,
+2nd nn shell,2nd nn shell,2nd nn shell,2nd nn shell,2nd nn shell,2nd nn shell
+N 2(Fe) (%),7* x,7* x,7* x,N 2(Na) (%),2* x +3* y
+R Fe-Fe (+-0.02A),3.05,3.18,3.10,R Fe-Na (+-0.02A),2.95
+DW2 (x10-3 A2),22.4,19.0,22.4*,DW2 (x10-3 A2),17.2
+,,,,,
+3rd nn shell,3rd nn shell,3rd nn shell,3rd nn shell,3rd nn shell,3rd nn shell
+N 3(O) (%),6* x,6* x,6* x,N 3(Fe) (%),4* x +5* y
+R Fe-O (+-0.03A),3.30,3.31,3.24,R Fe-O (+-0.03A),3.33
+DW3 (x10-3 A2),1.4*,1.4*,1.4*,DW3 (x10-3 A2),11.6
+,,,,,
+4th nn shell,4th nn shell,4th nn shell,4th nn shell,4th nn shell,4th nn shell
+N 4(Pb) (%),-,3* x,3* x,-,-
+N 4(Fe) (%),6* x,3* x,3* x,,
+R Fe-Pb (+-0.04A),-,3.52,3.51,-,-
+R Fe-Fe (+-0.04A),3.52,3.69,3.69,,
+DW4 (x10-3 A2),-,2.1,1.6,-,-
+DW4 (x10-3 A2),8.4,4.2,3.2,,

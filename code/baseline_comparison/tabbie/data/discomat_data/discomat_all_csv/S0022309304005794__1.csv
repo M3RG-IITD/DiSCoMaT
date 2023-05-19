@@ -1,0 +1,5 @@
+Level,Lifetime from Judd-Ofelt (ms),Lifetime from Judd-Ofelt (ms),Experimental lifetime (+-0.2ms),Experimental lifetime (+-0.2ms),Experimental lifetime (+-0.2ms),Experimental lifetime (+-0.2ms)
+Level,Glass (+-6%),'Crystal' (+-16%),PG,GCB,GCC,GCD
+3H4 (l =1460nm),0.4,0.5,<0.5,0.6,1.6,1.6
+3H5 (l =1214nm),1.6,2.2,1.5,8.4,4.0,6.0
+3F4 (l =1622nm),2.4,5.1,2.6,10.6,8.4,10.0

@@ -1,0 +1,11 @@
+Sample No.,PA50,PB50,PC50,PC55,PA55,PB55,Al15,Na10,PA62.5
+[NaO0.5]ex/[BO1.5],0,0,0,0.13,0.17,0.33,0.33,0.33,0.42
+Above Gd solubility,P,P,P,P,P,P,P,P,P
+,,,,,,,,,
+Sample No.,PC70,PA70,Al10,Na15,B20,B15,Al2,PC100,PA90
+[NaO0.5]ex/[BO1.5],0.50,0.67,0.67,0.67,0.75,1.00,1.20,1.25,1.33
+Above Gd solubility,P,C,C,C,C,C,C,C,C
+,,,,,,,,,
+Sample No.,PB70,B10,PA100,Na30,B5,PB100,B0,,
+[NaO0.5]ex/[BO1.5],1.33,1.50,1.67,1.67,3.00,3.33,-,,
+Above Gd solubility,C,C,C,C,C,C,C,,

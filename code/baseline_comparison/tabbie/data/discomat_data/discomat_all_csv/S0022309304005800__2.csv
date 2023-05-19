@@ -1,0 +1,11 @@
+Glass,T g (degC),"Crystallization temperature (T x, degC)","Crystallization temperature (T x, degC)","Crystallization temperature (T x, degC)",T x - T g  * (degC)
+,T g (degC),Onset,Peak,End,T x - T g  * (degC)
+55A28Y15S2Yb (Powder),882+-3,967+-2,984+-1,995+-2,85+-5
+55A28Y15S-2Yb (Bulk),878+-3,972+-2,977+-1,983+-2,94+-5
+50A8Y20L20S2Yb (Powder),855+-3,955+-2,991+-1,1033+-2,100+-5
+50A8Y20L20S2Yb (Bulk),857+-3,1018+-2,1026+-1,1031+-2,161+-5
+50A3Y25L20S2Yb (Powder),853+-3,961+-2,998+-1,1041+-2,108+-5
+50A3Y25L20S2Yb (Bulk),848+-3,997+-2,1053+-1,1080+-2,149+-5
+50A10Y20L20S (Powder),851+-3,974+-2,1009+-1,1046+-2,123+-5
+50A10Y20L20S (Bulk),862+-3,1004+-2,1054+-1,1062+-2,142+-5
+62.5A37.5Y (Powder),874+-3,923+-2,931+-1,933+-2,49+-5

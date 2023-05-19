@@ -1,0 +1,9 @@
+Sample code,Glass composition (mol%),Glass composition (mol%),Glass composition (mol%),Glass composition (mol%) determined by EDS,Glass composition (mol%) determined by EDS,Glass composition (mol%) determined by EDS,Molar ratio,Molar ratio,T g (+-2K),T c (+-2K),D (kgm-3) (+-20kgm-3),R Fe-Fe (A)   (+-0.5%)
+Sample code,PbO,Fe2O3,P2O5,PbO,Fe2O3,P2O5,O/P,(Fe+Pb)/P,T g (+-2K),T c (+-2K),D (kgm-3) (+-20kgm-3),R Fe-Fe (A)   (+-0.5%)
+A0(G),43.3,13.7,43.0,36.2,17.6,46.2,3.46,0.77,771,869,4.1x103,3.53
+A1(G),38.3,18.7,43.0,35.3,20.7,44.0,3.61,0.87,785,933,4.7x103,3.19
+A2(G),33.3,23.7,43.0,30.4,24.6,45.0,3.66,0.88,810,951,4.5x103,3.06
+A3(G),28.3,28.7,43.0,28.0,26.1,45.9,3.66,0.87,804,946,4.4x103,3.02
+A4(C),23.3,33.7,43.0,32.9,23.8,43.3,3.70,0.93,779,864/918,-,-
+A5(C),18.3,38.7,43.0,-,-,-,4.06,1.11,-,864/919,-,-
+A6(C),13.3,43.7,43.0,-,-,-,4.18,1.17,-,864/919,-,-

@@ -1,0 +1,47 @@
+Sample #,System,Quench,Phase (mass% of crystalline),,ICSD#
+GaLS72-10Ca-f (sectioned),Ga-La-Ca-S,Furnace,CaGa2S4,(79.8),46017
+,,,Ga2S3,(11.1),202408
+,,,La3S4,(7.9),56782
+,,,La3.33Ga6S12O2,(1.2),32540
+GaLS72-10Ca-f (polished),Ga-La-Ca-S,Furnace,CaGa2S4,(90.7),46017
+,,,Ga2S3,(7.3),202408
+,,,Ga2O3,(2.0),166199
+GaLS72-10Ca-a (polished),Ga-La-Ca-S,Air,Ga2S3,(60.4),409550
+,,,CaO,(21.1),51409
+,,,Ca3Ga4O7,(16.3),100356
+,,,LaS1.96,(2.2),250043
+GaLS72-10Ca-w (powder),Ga-La-Ca-S,Water,amorphous,,-
+GaLS65-20Ca-w (powder),Ga-La-Ca-S,Water,Amorphous,,-
+GaLS72-10Zn-a (polished),Ga-La-Zn-S,Air,Ga2O12S3,(33.4),79304
+,,,Zn3S2O9,(25.5),15280
+,,,ZnGa2S4,(18.2),53604
+,,,ZnLa2Ga2OS6,(22.8),61044
+,,,La2O2S2,(0.3),68498
+GaLS72-a (polished),Ga-La-S,Air,Ga2S3,(61.6),202408
+,,,GaLa3OS5,(23.7),38067
+,,,La,(9.2),43568
+,,,La2O3,(5.5),24693
+GaLS70-f (polished),Ga-La-S,Furnace,S,(63.3),15767
+,,,Ga2S3,(29.1),409550
+,,,LaGaS3,(7.6),27192
+GaLS70-a (polished),Ga-La-S,Air,Ga2S3,(36.3),409550
+,,,S,(33.2),15767
+,,,LaGaS3,(28.1),27192
+,,,La2S3,(2.4),201012
+GeLS-1100-a (ingot),Ge-La-S,Air,Ge3.33La6S14,(53.1),636865
+,,,La10S14.5O0.5,(38.6),6002
+,,,Ge,(8.3),600774
+GeLS-1100-a (ampoule wall),Ge-La-S,Air,GeS,(98.1),1621
+,,,Ge,(1.9),184252
+GeLS-900-a (polished),Ge-La-S,Air,S,(72.0),38147
+,,,Ge,(23.0),76146
+,,,La2S3,(4.0),166513
+,,,GeLa2S5,(1.0),42026
+,,,Many unfit,,
+GGLS-15CdS-e-w (powder),Ge-Ga-Cd-S,Water,Amorphous,,-
+GGLS-15CdS-s-w (powder),Ge-Ga-Cd-S,Water,Cd0.36Ga0.64S,(53.1),108210
+,,,CdGa2S4,(31.4),52801
+,,,GaS,(13.2),202408
+,,,Ge0.987Ga0.013,(2.3),103274
+GGLS-5CdS-e-w,Ge-Ga-Cd-S,Water,Amorphous,,-
+GGLS-5CdS-e-a,Ge-Ga-Cd-S,Air,GeS2,(100.0),31685

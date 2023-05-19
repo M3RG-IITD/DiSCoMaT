@@ -1,0 +1,23 @@
+Impurity,Technique of determination,"Impurity content, ppm wt, in samples","Impurity content, ppm wt, in samples","Impurity content, ppm wt, in samples","Impurity content, ppm wt, in samples","Impurity content, ppm wt, in samples","Impurity content, ppm wt, in samples"
+Impurity,Technique of determination,1,2,3,4,5,6
+H in form of S-H,IR spectroscopy,0.70,0.86,6.7,12.7,0.17,0.13
+COS,IR spectroscopy,0.33,0.06,0.43,0.65,<0.001,<0.001
+CS2,IR spectroscopy,0.13,0.07,0.24,0.14,<0.001,<0.001
+Si in form of Si-O,IR spectroscopy,<1,<1,2,2,5,3
+,,,,,,,
+Si (inclusions),Laser ultramicroscopy,41,1,2.2,1.6,0.5,-
+,,,,,,,
+C,Laser masS-Spectrometry,5.4,6.6,54,28,35,34
+Si,Laser masS-Spectrometry,1.3,0.6,2.0,2.0,12,4.4
+Al,Laser masS-Spectrometry,0.08,0.02,0.1,0.1,0.4,<0.05
+Cl,Laser masS-Spectrometry,2,2,2.7,2.7,135,80
+Na,Laser masS-Spectrometry,0.2,0.2,0.4,0.4,0.1,0.1
+K,Laser masS-Spectrometry,0.9,0.4,1.8,1.4,0.3,1.2
+Ca,Laser masS-Spectrometry,1.1,1.4,3.9,2.0,0.4,0.6
+Cr,Laser masS-Spectrometry,<0.2,<0.1,0.6,0.8,<0.2,<0.2
+Mn,Laser masS-Spectrometry,<0.2,<0.1,0.2,0.2,<0.1,<0.1
+Fe,Laser masS-Spectrometry,1.2,0.2,3.5,3.9,0.15,0.4
+Ni,Laser masS-Spectrometry,<0.2,<0.2,0.5,0.7,<0.2,<0.2
+Cu,Laser masS-Spectrometry,1.7,<0.2,3.9,4.0,<0.2,<0.2
+Zn,Laser masS-Spectrometry,<0.5,<0.3,2.3,1.9,<0.5,<0.5
+Te,Laser masS-Spectrometry,<1.3,<1.3,<1.3,<1.3,380,700

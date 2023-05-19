@@ -1,0 +1,5 @@
+Materials,Heating profile [temp (degC)/time (min)],IE conditions [temp (degC)/time (h)],Flexural strength before/after IE [MPa]; mean value with SD,Characteristic flexural strength before/after IE [MPa] (d0),Weibull modulus (m) before/after IE
+GAM7,530/600; 660/30; 730/30,400/9,314+-50/725 +-80,327/755,13.2/10.32
+GAM7,530/600; 660/30; 830/90,400/16,402+-26/595+-52,433/627,8.65/12.16
+GBM10,550/600; 710/30;,410/16,376+-71/584+-71,400/640,6.12/9.89
+GBM10,550/600; 710/30; 870/90,420/16,406+-40/837 +- 81,462/870,7.52/12.58

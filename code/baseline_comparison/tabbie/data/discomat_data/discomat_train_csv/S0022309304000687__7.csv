@@ -1,0 +1,10 @@
+Aqueous specie,25 degC,90 degC
+Si(OH)4,log([Si(OH)4(aq)])=-2.89,log([Si(OH)4(aq)])=-3.20
+SiO(OH)3 -,log([SiO(OH)3 -(aq)])=pH-12.70,log([SiO(OH)3 -(aq)])=pH-12.21
+Al3+,log([Al3+(aq)])=-3 pH+7.98,log([Al3+(aq)])=-3 pH+9.04
+Al(OH)4 -,log([Al(OH)4 -(aq)])=pH-15.30,log([Al(OH)4 -(aq)])=pH-14.29
+Fe2+,log([Fe2+(aq)])=-2 pH+12.85,log([Fe2+(aq)])=-2 pH+13.04
+Fe(OH)3 -,log([Fe(OH)3 -(aq)])=pH-19.08,
+Fe3+,log([Fe3+(aq)])=-3 pH-11.40,log([Fe3+(aq)])=-3 pH-13.44
+Fe(OH)4 -,log([Fe(OH)4 -(aq)])=pH-19.12,
+MoO4 2-,log([MoO4 2-(aq)])=2 pH-2.16,

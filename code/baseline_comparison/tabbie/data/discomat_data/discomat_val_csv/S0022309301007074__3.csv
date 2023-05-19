@@ -1,0 +1,17 @@
+Atom type,Mechanism considered,Observation,r
+Glass former,"1 - Atom is displaced from its position in the glass network by ion or other recoils, a `vacancy' is created",* Always occurs,|
+Glass former,"2 - Displaced atom, ends its trajectory in an interstitial (crystal's interstitial-like) position",* Occurs associated to mechanism 1,|
+Glass former,3 - Displaced atom ends its trajectory in an opened site of the same glass former,* Occurs associated to mechanism 1,|
+Glass former,3 - Displaced atom ends its trajectory in an opened site of the same glass former,* Needs an open structure,|
+Glass former,3 - Displaced atom ends its trajectory in an opened site of the same glass former,* Needs inhomogeineties to result in a preferential direction,|
+Glass former,3 - Displaced atom ends its trajectory in an opened site of the same glass former,* Range of recoils>inhomogeneities size,|
+Glass former,4 - Displaced atom ends its trajectory in an opened site of a different glass former (B incorporates in SiO2 glass),* Occurs associated to mechanism 1,|
+Glass former,4 - Displaced atom ends its trajectory in an opened site of a different glass former (B incorporates in SiO2 glass),* Needs phase separation,|
+Glass former,4 - Displaced atom ends its trajectory in an opened site of a different glass former (B incorporates in SiO2 glass),* Range of recoils>inhomogeneities size (some borosilicate glasses),|
+Glass former,5 - Displaced atom ends its trajectory and incorporates to other oxide glass decreasing electrostatic repulsion among atomic aggregates (Si incorporates in BO4/2 - glass),* Needs phase separation,|
+Glass former,5 - Displaced atom ends its trajectory and incorporates to other oxide glass decreasing electrostatic repulsion among atomic aggregates (Si incorporates in BO4/2 - glass),* Range of recoils>inhomogeneities size,|
+Glass modifier,"6 - Atom is displaced from its position in the glass network by ion or other recoils, a vacancy is created",* Always occurs,|
+Glass modifier,"7 - Displaced atom, ends its trajectory in an interstitial (crystal's interstitial-like) position",* Occurs associated to mechanism 6,|
+Glass modifier,8 - Displaced atom ends its trajectory in an open site within a different glass composition (Na from the B/Na-rich particles incomes the Si-rich matrix),* Occurs associated to mechanism 6,|
+Glass modifier,8 - Displaced atom ends its trajectory in an open site within a different glass composition (Na from the B/Na-rich particles incomes the Si-rich matrix),* Needs phase separation to result in a preferential direction,|
+Glass modifier,8 - Displaced atom ends its trajectory in an open site within a different glass composition (Na from the B/Na-rich particles incomes the Si-rich matrix),* Range of recoils>inhomogeneities size,|

@@ -1,0 +1,7 @@
+Sample,T 1 relaxation times (s),T 1 relaxation times (s),T 1 relaxation times (s),T 1 relaxation times (s),Composition of +-4%),Composition of +-4%),Composition of +-4%),Composition of +-4%),Q4/Q3
+Sample,Q3,Q3,Q4,Q4,Q3 for,Q3 for,Q4 for,Q4 for,Q4/Q3
+Sample,Long,Short,Long,Short,Long T 1,Short T 1,Long T 1,Short T 1,Q4/Q3
+N33M1,20.0+-2.0,-,-,-,-,-,-,-,0
+N28,19.5+-2.1,-,-,-,-,-,-,-,0
+N25,52.5+-4.3,10.0+-1.2,-,-,78.9,21.1,-,-,0.53+-0.05
+N20,80.0+-7.0,12.0+-1.7,100.0+-9.0,14.0+-1.8,44.9,55.1,40.7,59.3,1.17+-0.12

@@ -1,0 +1,7 @@
+Samples,Measured density (g/cm3) (+-0.001),Vickers hardness (GPa) (+-0.05),Measured half crack length (mm) (+-0.1),Fracture toughness (MPam1/2) (+-0.05),Brittleness (mm-1/2) (+-0.2)
+CPAS-0,2.842,3.83,194,0.50,7.7
+CPAS-10,2.856,3.92,187,0.52,7.5
+CPAS-20,2.871,4.08,179,0.55,7.4
+CPAS-30,2.881,4.17,171,0.58,7.2
+CPAS-40,2.886,4.25,164,0.61,6.9
+CPAS-50,2.891,4.38,159,0.63,6.8

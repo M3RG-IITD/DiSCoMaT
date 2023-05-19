@@ -1,0 +1,8 @@
+Test condition,Test condition,Failure strain (+-0.02),DH (J/g+-0.2),Volume fraction of crystallized phase (%+-0.2)
+570 (degC+-0.2),2x10-3 s-1,1.64,27,35
+,1x10-2 s-1,0.89,36,13
+,2x10-2 s-1,0.47,39,6
+,,,,
+2x10-3 (s-1 +-0.2x10-3),570 degC,1.64,27,35
+,560 degC,1.58,31,25
+,550 degC,1.06,37,10

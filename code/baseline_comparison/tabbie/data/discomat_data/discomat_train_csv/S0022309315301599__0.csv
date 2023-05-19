@@ -1,0 +1,6 @@
+Samples,Blue band,Blue band,Orange band,Orange band
+Samples,IPL (a.u.),PL spectrum FWHM (nm),IPL (a.u.),PL spectrum FWHM (nm)
+As-deposited sample,2.2x107,129,2.0x107,166
+Annealing at 500degC,4.2x107,75,5.4x107,199
+Annealing at 600degC,4.5x107,77,6.9x107,196
+Annealing at 700degC,...,...,3.6x107,190

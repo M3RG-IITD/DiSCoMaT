@@ -1,0 +1,10 @@
+Glass,Site,d iso (ppm),C Q (MHz),e,Relative intensity,Relative intensity,D&B Model R=(Na2O+ xCaO-ZrO2)/B2O3,D&B Model R=(Na2O+ xCaO-ZrO2)/B2O3,D&B Model R=(Na2O+ xCaO-ZrO2)/B2O3
+Glass,Site,d iso (ppm),C Q (MHz),e,Relative intensity,Relative intensity,x =1,x =0,x =0.5
+17O-Si glass,BO3 ring,17.5(1),2.65(0.12),0.2(0.1),17.5,34,31,44,38
+17O-Si glass,BO3 nonring,14.0(2.8),2.53(0.12),0.3(0.1),16.8,34,31,44,38
+17O-Si glass,BO4 (1),-0.3,0.45,0.6,47.4,66,69,56,62
+17O-Si glass,BO4 (2),-1.9,0.21,0.6,18.3,66,69,56,62
+17O-Si-Zr glass,BO3 ring,17.5(1),2.65(0.12),0.2(0.1),27.6,48,35,56,46
+17O-Si-Zr glass,BO3 nonring,14.0(2.8),2.53(0.12),0.3(0.1),20.3,48,35,56,46
+17O-Si-Zr glass,BO4 (1),-0.2,0.57,0.6,40.9,52,65,44,54
+17O-Si-Zr glass,BO4 (2),-2.0,0.10,0.6,11.2,52,65,44,54

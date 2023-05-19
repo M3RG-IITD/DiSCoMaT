@@ -1,0 +1,8 @@
+Melting time (h),QS (mm/s) (+-0.05),QS (mm/s) (+-0.05),IS (mm/s) (+-0.05),IS (mm/s) (+-0.05),Fraction of Fe2+ (+-0.02),Fraction of Fe2+ (+-0.02),Calculated glass composition (mol%),Calculated glass composition (mol%),Calculated glass composition (mol%)
+Melting time (h),Fe2+,Fe3+,Fe2+,Fe3+,Batch,Glass,FeO,Fe2O3,P2O5
+1,2.07,0.90,1.24,0.38,0,0.19,14.1,30.1,55.8
+3,2.06,0.90,1.25,0.39,0,0.19,14.1,30.1,55.8
+6,2.05,0.92,1.25,0.38,0,0.21,15.5,29.2,55.3
+9,2.08,0.91,1.25,0.38,0,0.22,16.2,28.7,55.1
+12,2.15,0.89,1.22,0.40,0,0.24,17.5,27.8,54.7
+24,2.09,0.91,1.24,0.40,0,0.26,18.8,26.8,54.4

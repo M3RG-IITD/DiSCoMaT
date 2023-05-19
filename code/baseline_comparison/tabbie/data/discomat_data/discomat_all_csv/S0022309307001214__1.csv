@@ -1,0 +1,18 @@
+Topic,Corresponding values,Corresponding values,Corresponding values
+"Concentration of Ho2O3, mol%",0.1,0.3,1.0
+,,,
+"Inter-ionic distance, r i (A)",28.7,19.8,13.2
+,,,
+"Polaron radius, r p (A)",11.6,8.0,5.3
+,,,
+Upconversion (l exc =892nm),Upconversion (l exc =892nm),Upconversion (l exc =892nm),Upconversion (l exc =892nm)
+Ratio of I491 at different concentration,1,70.5,56.1
+Ratio of I543 at different concentration,1,10.0,6.8
+Ratio of I658 at different concentration,1,9.1,8.7
+Ratio of I491:I543:I658 at same concentration,1:7.40:0.86,1:1.05:0.11,1:0.90:0.13
+,,,
+Down conversion (l exc =451nm),Down conversion (l exc =451nm),Down conversion (l exc =451nm),Down conversion (l exc =451nm)
+Ratio of I491 at different concentration,1,60.8,45.4
+Ratio of I543 at different concentration,1,8.8,6.5
+Ratio of I658 at different concentration,1,10.0,9.7
+Ratio of I491:I543:I658 at same concentration,1:7.09:0.86,1:1.03:0.14,1:0.90:0.18

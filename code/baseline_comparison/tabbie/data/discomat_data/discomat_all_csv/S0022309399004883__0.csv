@@ -1,0 +1,4 @@
+Impurity,Position of band maximum (mm),Range of studied concentrations (ppm mol),Extinction coefficient (cm-1/ppm mol),A content of the impurity which corresponds to intrinsic losses (ppb mol)
+CO2,4.33,2-8,0.036+-0.005,0.004
+COS,4.95,10-70,0.24+-0.7,0.006
+CS2,6.68,1-6,1.1+-0.3,1

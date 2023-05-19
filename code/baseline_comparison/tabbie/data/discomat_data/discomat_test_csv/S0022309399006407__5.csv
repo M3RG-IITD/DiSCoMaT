@@ -1,0 +1,13 @@
+Sample,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Dissolution rate in water (mm/day)
+Sample,P2O5,PbBr2,PbCl2,PbO,PbF2,Dissolution rate in water (mm/day)
+B1,40,0,60,0,0,1.0x10-4
+B2,40,10,50,0,0,1.3x10-4
+B3,40,20,40,0,0,8.1x10-5
+B4,40,30,30,0,0,2.1x10-4
+B5,30,20,50,0,0,7.9x10-5
+B6,30,30,40,0,0,9x10-5
+B7,50,30,20,0,0,1.0x10-2
+B11,60,30,10,0,0,2.2x10-2
+B27,28.5,28.5,38,5,0,5x10-5
+B42,28.5,28.5,38,0,5,9.8x10-5
+B52,28.5,28.5,38,2.5,2.5,1.1x10-4

@@ -1,0 +1,6 @@
+Glass code,T g +-5 (DTA) (degC),T g +-2 (dilatometry) (degC),T c +-7 (degC),T d +-5 (degC),Density d +-0.05 (gm/cc),CTE within RT-T g a +-0.05 (x10-6 K-1)
+BCAS1,665,672,785,712,3.33,9.9
+BCAS2,623,620,762,679,3.82,11.2
+BCAS3,617,624,758,661,3.86,11.6
+BCAS4,609,611,755,672,3.89,11.9
+BCAS5,608,604,720,660,3.93,12.4

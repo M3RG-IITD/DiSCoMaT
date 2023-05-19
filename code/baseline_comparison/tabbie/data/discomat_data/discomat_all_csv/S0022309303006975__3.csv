@@ -1,0 +1,34 @@
+,First layer,Second layer,Third layer,Fourth layer
+Thickness (nm),69,173,69,-
+LaY glass unirradiated (at.%),Si: 0.14,Si: 0.141,Si: 0.14,Pristine glass
+LaY glass unirradiated (at.%),Al: 0.12,Al: 0.128,Al: 0.12,Pristine glass
+LaY glass unirradiated (at.%),Y: 0.060,Y: 0.050,Y: 0.065,Pristine glass
+LaY glass unirradiated (at.%),La: 0.060,La: 0.050,La: 0.065,Pristine glass
+LaY glass unirradiated (at.%),O: 0.594,O: 0.594,O: 0.62,Pristine glass
+LaY glass unirradiated (at.%),H: 0.026,H: 0.0103,,Pristine glass
+,,,,
+Thickness (nm),69,173,69,-
+LaY glass irradiated (at.%),Si: 0.14,Si: 0.141,Si: 0.14,Pristine glass
+LaY glass irradiated (at.%),Al: 0.12,Al: 0.128,Al: 0.12,Pristine glass
+LaY glass irradiated (at.%),Y: 0.068,Y: 0.05,Y: 0.065,Pristine glass
+LaY glass irradiated (at.%),La: 0.068,La: 0.05,La: 0.065,Pristine glass
+LaY glass irradiated (at.%),O: 0.578,O: 0.598,O: 0.61,Pristine glass
+LaY glass irradiated (at.%),Bi: 0.001,Bi: 0.022,,Pristine glass
+LaY glass irradiated (at.%),H: 0.025,H: 0.0103,,Pristine glass
+,,,,
+Thickness (nm),240,1744,922,401
+CeY glass unirradiated (at.%),Si: 0.04,Si: 0.03,Si: 0.03,Si: 0.09
+CeY glass unirradiated (at.%),Al: 0.04,Al: 0.03,Al: 0.03,Al: 0.08
+CeY glass unirradiated (at.%),Y: 0.08,Y: 0.07,Y: 0.063,Y: 0.051
+CeY glass unirradiated (at.%),Ce: 0.075,Ce: 0.072,Ce: 0.063,Ce: 0.051
+CeY glass unirradiated (at.%),O: 0.737,O: 0.77,O: 0.763,O: 0.688
+CeY glass unirradiated (at.%),H: 0.028,H: 0.028,H: 0.051,H: 0.04
+,,,,
+Thickness (nm),240,1744,1303,401
+CeY glass irradiated (at.%),Si: 0.04,Si: 0.03,Si: 0.03,Si: 0.09
+CeY glass irradiated (at.%),Al: 0.04,Al: 0.03,Al: 0.03,Al: 0.08
+CeY glass irradiated (at.%),Y: 0.06,Y: 0.06,Y: 0.065,Y: 0.053
+CeY glass irradiated (at.%),Ce: 0.072,Ce: 0.072,Ce: 0.064,Ce: 0.053
+CeY glass irradiated (at.%),O: 0.755,O: 0.780,O: 0.76,O: 0.684
+CeY glass irradiated (at.%),Bi: 0.005,H: 0.028,H: 0.051,H: 0.04
+CeY glass irradiated (at.%),H: 0.028,,,

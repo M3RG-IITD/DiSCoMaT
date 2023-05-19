@@ -1,0 +1,19 @@
+Melting temperature (degC),Fe-sites,Mossbauer parameters,Mossbauer parameters,Mossbauer parameters,Mossbauer parameters,Mossbauer parameters,% Area,Fe2+/Fe-total or kh Fe(II),Fe2+/Fe-total or kh Fe(II)
+Melting temperature (degC),Fe-sites,d (mm/s),D or e (mm/s),B hf (T),s  D  or s  B hf  (mm/s or T),kh 2 (red),% Area,Mossbauer,Spectrophotometry
+1300,Fe2+ doublet,1.12 (0.055),2.5 (0.11),-,0.54 (0.11),1.10,6.8 (0.8),0.068 (0.008),0.062 (0.022)
+,Fe3+ doublet,0.461 (0.032),0.82 (0.05),-,0.549 (0.049),,14.6 (0.7),,
+,Fe3+ sextet,0.441 (0.014),-0.062 (0.014),-,-,,78.6 (1),,
+,Component 1,,,53.58 (0.12),2.0,,21.1,,
+,Component 2,,,33.1 (1.2),18.0,,57.5,,
+,,,,,,,,,
+1500,Fe2+ doublet,1.115 (0.028),2.36 (0.055),-,0.52 (0.095),0.9,13.7 (0.6),0.137 (0.008),0.144 (0.043)
+,Fe3+ doublet,0.485 (0.037),0.65 (0.06),-,0.466 (0.049),,12.9 (1.4),,
+,Fe3+ sextet,0.419 (0.024),-0.058 (0.024),-,-,,73.5 (1.5),,
+,Component 1,,,53.42 (0.22),3.12 (0.29),,31.1,,
+,Component 2,,,28.5 (1.9),14.3 (2.25),,42.3,,
+,,,,,,,,,
+1600,Fe2+ doublet,1.124 (0.015),2.35 (0.029),-,0.55,1.27,15.1 (1),0.151 (0.01),0.173 (0.023)
+,Fe3+ doublet,0.395 (0.036),0.62 (0.06),-,0.408 (0.029),,10.9 (1),,
+,Fe3+ sextet,0.437 (0.012),-0.073 (0.012),-,-,,74.2 (1.5),,
+,Component 1,,,53.55 (0.11),2.51 (1.5),,27.8,,
+,Component 2,,,25.2 (1.95),17.8 (1.95),,46.2,,

@@ -1,0 +1,14 @@
+Sample,r-factor,r (A),n (atoms),s 2 (A2)
+Standards,Standards,Standards,Standards,Standards
+Ag2O,,,,
+Fit,0.007,2.04 (0.01),1.8 (0.2),0.0043 (0.0012)
+Actual [9],,2.04,2.0,
+,,,,
+AgO,,,,
+Fit,0.054,2.09 (0.01),2.7 (0.4),0.0060 (0.0027)
+Actual [11],,2.08,3.0,
+,,,,
+Glasses,Glasses,Glasses,Glasses,Glasses
+AG-CAB-4,0.025,2.22 (0.03),2.5 (0.7),0.0236 (0.0074)
+AG-RABS-3,0.014,2.14 (0.01),1.5 (0.2),0.0075 (0.0024)
+AG-RABS-2,0.019,2.13 (0.01),1.6 (0.2),0.0066 (0.0027)

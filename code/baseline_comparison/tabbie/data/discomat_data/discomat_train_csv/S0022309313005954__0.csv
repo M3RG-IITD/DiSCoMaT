@@ -1,0 +1,5 @@
+Film,Thickness in nm,"Optical band gap, E g in eV","Tauc parameter, B 1/2 in cm-1/2 eV-1/2","Urbach energy, E e in meV"
+As2S3,900,2.38+-0.002,1438+-3,45+-5
+Bi/As2S3,905,2.04+-0.001,361+-2,112+-2
+Bi/As2S3,910,2.16+-0.003,425+-3,81+-3
+Bi/As2S3,915,2.28+-0.001,548+-1,63+-3

@@ -1,0 +1,25 @@
+Element,T  i,Std. error
+Al,3063.70,115.18
+B,548.48,104.96
+Ca,1650.97,441.82
+Cr,31857.26,2300.57
+Fe,3737.48,147.33
+K,-687.67,325.81
+Li,156.93,72.99
+Mg,3224.76,293.06
+Mn,32.40,565.15
+Na,-263.75,65.42
+Ni,13842.64,579.08
+Si,986.88,52.81
+Ti,2316.13,653.04
+U,2919.40,1040.95
+Zr,4073.25,454.23
+,,
+Statistic,Statistic,Value
+R 2,R 2,0.936
+R 2 adj,R 2 adj,0.930
+s,s,29.76
+Min response,Min response,811
+Mean response,Mean response,1080
+Max response,Max response,1365
+Observations,Observations,158

@@ -1,0 +1,6 @@
+Sample,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),T g degS
+Sample,Li2O,Nb2O5,GeO2,Al2O3 (over 100%),T g degS
+LNG1,25,30,45,,550
+LNG2,25,30,45,10,560
+LNG3,30,30,40,10,540
+LNG4,30,25,45,,530

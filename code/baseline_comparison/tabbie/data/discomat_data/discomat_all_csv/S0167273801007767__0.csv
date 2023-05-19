@@ -1,0 +1,10 @@
+Melt,Glass,Exchange time,Exchange temperature (degC),Number of modes,Reference index increase,Depth (mm)
+Cu,GIL 49,10 min,500,"3 TE, 3 TM",0.0132,7.3
+Cu,GIL 49,20 min,500,"3 TE, 3 TM",0.0143,4.4
+Cu,GIL 49,30 min,500,"4 TE, 4 TM",0.0192,11.2
+Cu,GIL 49,40 min,500,"5 TE, 5 TM",0.0159,19.1
+Cu,BK7,20 min,500,"1 TE, 1 TM",,
+CuZn,GIL 49,30 min,350,-,,?
+CuZn,GIL 49,1 h,350,-,,24
+CuZn,GIL 49,1 h,400,-,,?
+CuZn,GIL 49,4 h,350,-,,?

@@ -1,0 +1,16 @@
+Glass samples,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%)
+Glass samples,SiO2,Al2O3,CaO,Bi2O3,Yb2O3
+SCBA-0,70,0,30,1.5,-
+SCBA-5,65,5,30,1.5,-
+SCBA-10,60,10,30,1.5,-
+SCBA-15,55,15,30,1.5,-
+SCBA-20,50,20,30,1.5,-
+SCBA-30,40,30,30,1.5,-
+SCBYA-4,71,4,25,2.0,3.0
+SCBYA-8,67,8,25,2.0,3.0
+SCBYA-12,63,12,25,2.0,3.0
+SCBYA-16,59,16,25,2.0,3.0
+SCBYA-20,55,20,25,2.0,3.0
+SCYA-4,71,4,25,0,3.0
+SCYA-8,67,8,25,0,3.0
+SCYA-20,55,20,25,0,3.0

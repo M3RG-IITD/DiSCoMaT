@@ -1,0 +1,7 @@
+,[PO4]-[PO4],[PO4]-[PO4],[PO4]-[PO4],[PO4]-[AlOy],[PO4]-[AlOy],[PO4]-[AlOy],[CeOx]-[AlOy],[CeOx]-[AlOy],[CeOx]-[AlOy],[CeOx]-[AlOy]
+,Sharing (%),Sharing (%),Sharing (%),Sharing (%),Sharing (%),Sharing (%),Sharing (%),Sharing (%),Sharing (%),Sharing (%)
+Glass,Total,Corner,Edge,Total,Corner,Edge,Total,Corner,Edge,Face
+CAP3,2656,100,0,671,100,0,42,83.3,14.3,2.4
+CAP5,2372,100,0,1699,100,0,126,77.8,22.2,0
+CAP6,2399,100,0,2655,100,0,95,84.2,15.8,0
+CAP9,2436,100,0,4649,100,0,44,72.7,27.3,0

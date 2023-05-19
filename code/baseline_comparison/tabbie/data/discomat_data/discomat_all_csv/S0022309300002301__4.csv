@@ -1,0 +1,6 @@
+Sample,I (for the temperature range 80-140 K),I (for the temperature range 80-140 K),I (for the temperature range 80-140 K),I (for the temperature range 80-140 K),I (for the temperature range 80-140 K),I (for the temperature range 80-140 K),II (for the temperature range 170-300 K),II (for the temperature range 170-300 K),II (for the temperature range 170-300 K),II (for the temperature range 170-300 K),II (for the temperature range 170-300 K),II (for the temperature range 170-300 K)
+,V 0 (10-23 J),f 0 D 2/v '2 0 (103 J m-5 s2),G,A/v '2 0 (10-5),B/v '2 0 (10-7),Q s,V 0 (10-23 J),f 0 D 2/v '2 0 (103 J m-5 s2),G,A/v '2 0 (10-5),B/v '2 0 (10-7),Q s
+(a),3900,0.90,0.10,7.00,1.00,0.957,3900,0.10,0.10,2.00,8.00,0.851
+(b),2900,0.20,0.10,1.00,2.00,0.963,2900,0.11,0.10,1.00,21.00,0.825
+(c),2900,0.30,0.10,7.00,1.00,0.920,2900,0.10,0.10,7.00,18.00,0.869
+(d),2200,1.40,0.10,9.00,26.00,0.921,-,-,-,-,-,-

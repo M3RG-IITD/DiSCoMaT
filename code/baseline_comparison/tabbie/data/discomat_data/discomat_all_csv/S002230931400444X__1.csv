@@ -1,0 +1,6 @@
+Heating rate/degC*min-1,Crystallization maximum temperature (T p)/K,Crystallization maximum temperature (T p)/K,Crystallization maximum temperature (T p)/K,Crystallization maximum temperature (T p)/K
+Heating rate/degC*min-1,F(only CaF2)(+-1K),FT (CaF2 +TiO2)(+-1K),FZ(CaF2 +ZrO2)(+-1K),FP(CaF2 +P2O5)(+-1K)
+5,1218,1175,1195,1177
+10,1227,1192,1216,1201
+15,1236,1203,1229,1211
+20,1247,1213,1240,1224

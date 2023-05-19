@@ -1,0 +1,16 @@
+Hematite (Fe2O3),Hematite (Fe2O3),Magnetite (Fe3O4),Magnetite (Fe3O4)
+N 1(O),3*,N octahedra (O),3
+N 1(O),3*,N tetrahedra (O),2
+R Fe-O (+-0.01A),1.93,R octahedra (+-0.01A),2.04
+R Fe-O (+-0.01A),2.09,R octahedra (+-0.01A),1.87
+DW1 (x10-3 A2),3.2,DWoctahedra (x10-3 A2),3.2
+DW1 (x10-3 A2),8.4,DWoctahedral (x10-3 A2),2.1
+N 2(Fe),7*,N 2(Fe),3
+R Fe-Fe (+-0.02A),2.95,R Fe-Fe (+-0.02A),2.97
+DW2 (x10-3 A2),9.3,DW2 (x10-3 A2),7.8
+N 3(O),6*,N 2(Fe),9
+R Fe-O (+-0.02A),3.28,R Fe-Fe (+-0.02A),3.47
+DW3 (x10-3 A2),1.4,DW2 (x10-3 A2),9.5
+N 4(Fe),6*,-,-
+R Fe-Fe (+-0.04A),3.71,-,-
+DW4 (x10-3 A2),7.1,-,-

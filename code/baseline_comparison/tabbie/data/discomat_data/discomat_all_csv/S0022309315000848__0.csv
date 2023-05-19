@@ -1,0 +1,8 @@
+C/SO4 2-,1300degC,1300degC,1500degC
+C/SO4 2-,Content of SO3 (glass)[mass%],Content of SO2 (bubbles)[volume%],Content of SO2 +O2 (bubbles)[volume%]
+0,0.441,0,98
+0.5,0.425,8.8,99
+1,0.357,52.5,99
+2,0.145,100,2
+3,0.186,99.6,0
+6,0.116 (sulfides identified),,

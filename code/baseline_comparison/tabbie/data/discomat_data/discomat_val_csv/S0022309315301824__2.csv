@@ -1,0 +1,14 @@
+Sample code,Glass transition temperature (degC),Glass transition temperature (degC),Crystallization temperature (degC),Crystallization temperature (degC),Liquidus temperature (degC),Liquidus temperature (degC),Liquidus temperature (degC),Average bond enthalpy (kJmol-1)
+Sample code,Tg1,Tg2,Tc1,Tc2,Tm1,Tm2,Tm3,Average bond enthalpy (kJmol-1)
+20BTe,352,-,447,491,684,689,696,345
+5Al20BTe,366,-,481,489,673,-,-,355
+10Al20BTe,379,440,524,-,635,-,-,363
+5W20BTe,358,-,464,502,603,665,-,368
+5W5Al20BTe,373,-,497,-,639,-,-,376
+5W10Al20BTe,350,388,524,627,-,-,-,381
+5Nb20BTe,369,-,500,569,658,-,-,369
+5Nb5Al20BTe,383,-,624,-,688,-,-,374
+5Nb10Al20BTe,326,401,635,-,-,-,-,381
+5Pb20BTe,340,-,418,521,681,-,-,338
+5Pb5Al20BTe,356,-,455,-,647,-,-,345
+5Pb10Al20BTe,323,386,528,617,-,-,-,355

@@ -1,0 +1,10 @@
+Parameter,,Dopant concentration (% mol),Dopant concentration (% mol),Dopant concentration (% mol),Dopant concentration (% mol)
+Parameter,,Eu,Eu,Ce,Ce
+Parameter,0,0.15,0.50,0.15,0.50
+Tg (degC),447.5,454.7,473.9,464.6,470.3
+Tx (degC),562.2,603.3,616.2,615.9,639.5
+Tp (degC),583.2,634.7,643.4,647.8,666.3
+Tx-Tg (degC),114.7,148.6,142.3,151.3,169.2
+Ea (kJ/mol),296.0,280.7,268.6,344.6,342.1
+sEa (kJ/mol),17.4,17.3,18.2,13.0,24.9
+R2,0.99,0.99,0.99,0.99,0.99

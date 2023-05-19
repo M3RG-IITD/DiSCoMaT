@@ -1,0 +1,18 @@
+Sample code,Batch composition (mol%),Batch composition (mol%),Batch composition (mol%),(Molar ratio),(Molar ratio),(Molar ratio),Fe2+/Fetot  *  (+-0.03%),D (g cm-1) (+-0.5%),R Fe-Fe (A) (+-0.5%)
+Sample code,MoO3,Fe2O3,P2O5,Mo/P,O/P,Fe/P,Fe2+/Fetot  *  (+-0.03%),D (g cm-1) (+-0.5%),R Fe-Fe (A) (+-0.5%)
+Series A,Series A,Series A,Series A,Series A,Series A,Series A,Series A,Series A,Series A
+A1,5,38,57,0.04,3.6,0.67,0.16,2.89,3.07
+A2,10,36,54,0.09,3.8,0.67,0.18,3.14,3.04
+A3,15,34,51,0.15,3.9,0.67,0.17,3.14,3.09
+A4,20,32,48,0.21,4.1,0.67,0.15,3.06,3.18
+,,,,,,,,,
+Series B,Series B,Series B,Series B,Series B,Series B,Series B,Series B,Series B,Series B
+B1,5,35,60,0.04,3.5,0.58,0.15,3.01,3.11
+B2,10,30,60,0.08,3.5,0.50,0.14,2.97,3.29
+B3,15,25,60,0.13,3.5,0.42,0.11,2.94,3.51
+B4,20,20,60,0.17,3.5,0.33,NM,2.88,3.80
+,,,,,,,,,
+Series C,Series C,Series C,Series C,Series C,Series C,Series C,Series C,Series C,Series C
+C1,5,40,55,0.05,3.7,0.73,0.20,3.00,2.98
+C2,10,40,50,0.10,4.0,0.80,0.22,3.14,2.93
+C3,15,40,45,0.17,4.3,0.89,0.26,3.29,2.89

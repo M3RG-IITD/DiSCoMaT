@@ -1,0 +1,17 @@
+Temperature (degC),pH of the tritiated solution,Exposure time (days),Surface activity (Bq/cm2),Macroscopic damage on the surface
+20,12,20,2.3,No
+,,56,1.6,No
+,7,98,0.6,Very little
+,,27,5.1,No
+,,63,4.1,No
+,0,105,2.3,Very little
+,,27,14.5,Strong
+,,63,33.8,Strong
+,,105,17.5,Strong
+,,,,
+90,12,7,222.8,Little
+,,45,138.5,Strong
+,7,7,118.7,Little
+,,45,165.3,Strong
+,0,7,15.5,Strong
+,,45,6.6,Strong

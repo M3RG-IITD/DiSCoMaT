@@ -1,0 +1,21 @@
+Sample,Sample form,(hkl),2th,d (A),e (x10-3),s exp. (MPa),s Theo. (MPa)
+Fully crystallized,Powder,330,53.27,1.7935,-,-,-
+Fully crystallized,Powder,11-3,63.71,1.5234,-,-,-
+Fully crystallized,Powder,28-1,66.46,1.4672,-,-,-
+Fully crystallized,Powder,0100,66.96,1.4576,-,-,-
+Fully crystallized,Powder,332,68.14,1.4352,-,-,-
+Fully crystallized,Powder,370,69.08,1.4181,-,-,-
+,,,,,,,
+86 h 460degC,Plate,330,53.20,1.7957,1.22,149,102
+86 h 460degC,Plate,11-3,63.66,1.5245,0.72,88,16
+86 h 460degC,Plate,28-1,66.40,1.4686,0.81,98,25
+86 h 460degC,Plate,0100,66.99,1.4569,-0.48,-58,-192
+86 h 460degC,Plate,332,68.06,1.4366,0.97,118,35
+86 h 460degC,Plate,370,69.04,1.4188,0.49,60,42
+,,,,,,,
+100 h 460degC,Plate,330,53.22,1.7951,0.89,108,102
+100 h 460degC,Plate,11-3,63.63,1.5252,1.18,143,16
+100 h 460degC,Plate,28-1,66.38,1.4686,0.95,116,25
+100 h 460degC,Plate,0100,67.03,1.4562,-0.96,-117,-192
+100 h 460degC,Plate,332,68.08,1.4364,0.83,101,35
+100 h 460degC,Plate,370,69.02,1.4192,0.77,94,42

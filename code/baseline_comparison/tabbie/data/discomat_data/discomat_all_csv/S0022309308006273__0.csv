@@ -1,0 +1,14 @@
+Parameter (+- error limits),ZnBB1,ZnBB2,ZnBB3,ZnBB4,ZnBB5,ZnBB6
+"Average molecular weight, M (g/mole)",169.88,189.7,209.52,229.34,249.16,268.97
+"Density, r(g/cc) (+-0.001)",4.265,4.468,4.675,4.972,5.213,5.313
+"Molar volume, V  m  (cc/mole) (+-0.01)",39.83,42.45,44.82,46.12,47.79,50.62
+"Oxygen packing density, O (gatm/l) (+-0.01)",70.29,65.96,62.47,60.71,58.59,55.31
+"Zn2+ ion concentration, N (x1021/cc) (+-0.01)",3.02,2.84,2.69,2.61,2.52,2.38
+"Inter ionic distance, R (A') (+-0.01)",6.91,7.06,7.19,7.26,7.35,7.49
+"Glass transition temperature, T g (degC) (+-1)",473,463,460,455,453,449
+"Cutoff wavelength, l cutoff (nm) (+-1)",344,353,358,365,371,375
+"Optical band gap energy, E opt (eV) (+-0.005)",3.464,3.357,3.267,3.243,3.209,3.169
+"Urbach energy, DE (eV) (+-0.001)",0.422,0.503,0.274,0.232,0.236,0.178
+"Oxide ion polarizability,     a     o   2 -       (E opt) (A'3) (+-0.005)",1.320,1.514,1.691,1.733,1.809,1.958
+"Optical basicity, L(E opt) (+-0.005)",0.405,0.567,0.682,0.706,0.747,0.817
+"Theoretical optical basicity, L th",0.617,0.625,0.632,0.639,0.647,0.654

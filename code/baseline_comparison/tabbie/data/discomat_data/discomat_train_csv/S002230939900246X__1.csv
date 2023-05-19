@@ -1,0 +1,13 @@
+Sample,Sample,Sample,"Activation energy, kJ mol-1","Activation energy, kJ mol-1",Pb/Ti mole ratio in composition
+Type,Type,Nucleation conditions,"1st peak, T p1","2nd peak, T p2",Pb/Ti mole ratio in composition
+PBTB2-6,Glass powder,As-solidified,214+-8,216+-12,1
+PBTB2-6,Glass bulk,As-solidified,200+-6,158+-10,1
+Bulk,"460degC, 1 h",251+-4,181+-9,1,
+Bulk,274+-16,"460degC, 2.5 h",-,1,
+Bulk,280+-11,"460degC, 10 h",-,1,
+,,,,,
+PBTB7-13 bulk,,"460degC, 5 h",272+-17,-,1.03
+,,,,,
+PBTB5-6 bulk,,"560degC, 5 h",389+-17,332+-9,0.6
+,,,,,
+PBT3 bulk,,"370degC, 5 h",180+-7,-,6

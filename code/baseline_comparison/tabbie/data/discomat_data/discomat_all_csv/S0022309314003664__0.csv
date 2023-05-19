@@ -1,0 +1,10 @@
+Sample code,Composition,Composition,Composition,"Molar mass, M(gmol-1)","Density, d(gcm-3)","Molar volume, Vm (cm3 mol-1)"
+Sample code,B2O3,TeO2,Al2O3,"Molar mass, M(gmol-1)","Density, d(gcm-3)","Molar volume, Vm (cm3 mol-1)"
+15BTe,15,85,-,146.04,5.110+-0.003,28.59
+20BTe,20,80,-,141.59,4.906+-0.002,28.86
+25BTe,25,75,-,137.09,4.728+-0.001,28.99
+30BTe,30,70,-,132.59,4.472+-0.002,29.65
+5Al-10BTe,10,85,5,147.72,5.047+-0.027,29.27
+10Al-10BTe,10,80,10,144.84,4.811+-0.015,30.10
+20Al-10BTe,10,70,20,139.07,4.416+-0.003,31.49
+30Al-10BTe,10,60,30,133.31,4.303+-0.002,30.98

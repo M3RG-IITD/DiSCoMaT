@@ -1,0 +1,24 @@
+Structural unit,Bond length (A),Bond length (A),Bond length (A),Bonds angle (deg),Bonds angle (deg),Bonds angle (deg)
+O    MoO   5,Mo    O   n,,1.722,O   n    Mo    O   b,,100.71
+O    MoO   5,Mo    O   t,,2.378,O   n    Mo    O   t,,172.4
+O    MoO   5,,,,O   b    Mo    O   t,,79.1
+Mo    O   b,{,1.922,Mo    O   b    Te,{,121.3,
+Mo    O   b,{,2.052,Mo    O   b    Te,{,139.2,
+Te    O   b,{,1.946,O   b    Mo    O   b,{,88.0,
+Te    O   b,{,2.113,O   b    Mo    O   b,{,157.8,
+,,,,,,
+,Te    O   t,,2.278,Mo    O   t    Te,,114.7
+,,,,Te    O   t    Te,,112.1
+,,,,,,
+2 [ O    MoO   5   ],Mo    O   n,,1.728,O   n    Mo    O   b,,98.6
+Mo    O   b,{,1.949,O   b    Mo    O   b,{,88.0,
+Mo    O   b,{,2.297,O   b    Mo    O   b,{,166.0,
+Mo    O   t,{,1.881,O   n    Mo    O   t,{,102.8,
+Mo    O   t,{,1.881,O   n    Mo    O   t,{,168.1,
+2.388,O   t    Mo    O   b,{,84.0,,,
+2.388,O   t    Mo    O   b,{,153.0,,,
+Te    O   b,{,1.938,Mo    O   b    Te,{,113.2,
+Te    O   b,{,2.037,Mo    O   b    Te,{,131.3,
+2 [ O    MoO   5   ],,,,Mo    O   t    Te,{,108.5
+2 [ O    MoO   5   ],Te    O   t,,2.247,,,126.8
+2 [ O    MoO   5   ],,,,Mo    O   t    Mo,,109.8

@@ -1,0 +1,10 @@
+XF2 (mol%),Glass powder (CaF2 series),Glass powder (CaF2 series),Glass powder (CaF2 series),Glass powder (CaF2 series),Glass powder (SrF2 series),Glass powder (SrF2 series),Glass powder (SrF2 series),Glass powder (SrF2 series),Glass powder (SrF2 series)
+XF2 (mol%),Tg (degC),Tp1,Tp2,Tp3,Tg (degC),Tp1,Tp2,Tp3,Tp4
+GF 0.0,790,925,-,-,783,918,1042,-,-
+GF 3.0,735,867,888,979,735,821,862,955,848
+GF 4.5,722,860,-,-,706,801,827,918,-
+GF 6.0,693,817,844,942,680,778,795,859,-
+GF 9.3,655,780,806,878,657,744,-,862,-
+GF 13.6,618,732,758,977,618,705,716,853,-
+GF 17.8,601,720,-,-,-,-,-,-,-
+GF 25.5,558,713,-,-,562,638,699,713,847

@@ -1,0 +1,8 @@
+Code,Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Density (r) (g/cm3),DE  opt  Allowed (eV),E  U  (eV)
+,B2O3,Na2O,PbO,Al2O3,TiO2,,,
+BNPA0T,60,20,10,10,0,2.80,3.28,0.613
+BNPA1T,60,19,10,10,1,2.83,3.41,0.544
+BNPA2T,60,18,10,10,2,2.76,3.37,0.406
+BNPA3T,60,17,10,10,3,2.78,3.38,0.353
+BNPA4T,60,16,10,10,4,2.77,3.24,0.377
+BNPA5T,60,15,10,10,5,2.78,3.12,0.405

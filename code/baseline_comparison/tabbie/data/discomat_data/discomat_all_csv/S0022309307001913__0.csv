@@ -1,0 +1,7 @@
+Samples,Composition (mol%),Composition (mol%),Characteristic temperatures (degC),Characteristic temperatures (degC),Characteristic temperatures (degC),T x-T g (degC)
+Samples,SbPO4,WO3,T g (+-2degC),T x (+-2degC),T p (+-1degC),T x-T g (degC)
+wsbp2,80,20,412,503,536,91
+wsbp3,70,30,421,530,547,109
+wsbp4,60,40,447,591,609,144
+wsbp5,50,50,467,599,614,132
+wsbp6,40,60,481,570,587,89

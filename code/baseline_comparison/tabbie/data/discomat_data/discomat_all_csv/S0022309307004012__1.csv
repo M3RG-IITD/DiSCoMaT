@@ -1,0 +1,15 @@
+Heat treatment,Heat treatment,Crystalline phases detected from X-ray diffraction,Crystalline phases detected from X-ray diffraction,Crystalline phases detected from X-ray diffraction,Crystalline phases detected from X-ray diffraction,Crystalline phases detected from X-ray diffraction
+Temperature (degC),Time (h),Amorphous,Mg2Al4Si5O18,MgTi2O5,Indialite,Cordierite
+850,1,X,,,,
+850,5,X,X,,,
+,,,,,,
+900,1,X,X,,,
+900,2,X,X,,,
+,,,,,,
+950,1,X,X,,,
+950,5,X,X,X,X,
+,,,,,,
+975,1,X,X,,,X
+,,,,,,
+1000,1,X,X,,,X
+1000,2,X,X,,,X

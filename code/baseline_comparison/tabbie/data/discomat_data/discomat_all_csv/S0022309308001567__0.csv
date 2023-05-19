@@ -1,0 +1,15 @@
+ID,T g (degC),T s (degC),T xi (degC),T xii (degC),T xiii (degC),T xi-T g (degC),a (x10-6/degC-1),r (gcm-3)
+Series I,Series I,Series I,Series I,Series I,Series I,Series I,Series I,Series I
+ICIE1,513,-,629,676,-,117,-,2.715
+ICSW2,511,542,636,679,-,125,15.70,2.719
+ICSW3,491,549,655,674,-,163,16.18,2.719
+ICSW5,485,-,605,625,-,120,-,2.696
+ICSW4,482,581,543,617,656,61,18.88,2.788
+,,,,,,,,
+Series II,Series II,Series II,Series II,Series II,Series II,Series II,Series II,Series II
+ICSW1,519,-,614,642,-,95,-,-
+ICSW6,515,-,620,653,-,105,-,2.721
+ICSW7,513,-,642,692,-,129,-,-
+ICSW8,509,533,652,669,-,143,16.37,2.727
+ICSW10,496,544,619,-,-,123,16.54,2.748
+ICSW9,491,-,580,613,-,89,-,2.787

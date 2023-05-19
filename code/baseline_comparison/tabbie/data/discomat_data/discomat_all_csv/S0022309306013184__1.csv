@@ -1,0 +1,9 @@
+Sample,Optical band gab energies in eV,Urbach energies in eV,Sellmeier gap energy in eV,Dispersion energy in eV
+A,2.63,0.066,6.46,21.01
+B,2.63,0.065,6.53,20.85
+C,2.63,0.065,6.63,20.77
+D,2.57,0.054,6.33,21.06
+E,2.63,0.065,6.39,20.89
+F,2.63,0.064,6.44,20.69
+,,,,
+Error,+-0.01,+-0.001,+-0.02,+-0.05

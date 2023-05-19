@@ -1,0 +1,20 @@
+Morse Potential B-O,
+D (eV),4.09
+b (A-1),1.09
+r (A),1.28
+,
+Buckingham Potential O-O,
+A (eV),2447
+r (A),0.30
+C (eV A6),42
+,
+Buckingham Potential B-B,
+A (eV),1290
+r (A),0.30
+C (eV A6),0
+,
+Three Body term O-B-O (120deg),
+K B (eV rad-2),0.04
+,
+Four Body term B-O-B-O (0deg),
+K T (eV rad-2),1.08

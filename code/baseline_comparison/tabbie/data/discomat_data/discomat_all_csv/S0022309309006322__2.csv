@@ -1,0 +1,10 @@
+Aging time [d],Distribution I,Distribution I,Distribution I,Distribution I,Distribution II,Distribution II,Distribution II,Distribution II,Distribution III,Distribution III,Distribution III,Distribution III
+,s 01 [MPa],m 1,R   1   2,n 1,s 02 [MPa],m 2,R   2   2,n 2,s 03 [MPa],m 3,R   3   2,n 3
+0,2858,7.1,0.98,50,-,-,-,,-,-,-,
+1,3640,115.0,0.94,8,3370,12.0,0.95,18,2197,8.6,0.95,24
+2,2819,4.3,0.95,50,-,-,-,,-,-,-,
+3,2741,4.2,0.96,50,-,-,-,,-,-,-,
+4,3024,5.9,0.96,50,-,-,-,,-,-,-,
+5,2817,5.2,0.98,50,-,-,-,,-,-,-,
+6,2907,5.0,0.96,50,-,-,-,,-,-,-,
+7,3214,8.9,0.98,50,-,-,-,,-,-,-,

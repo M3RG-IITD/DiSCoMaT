@@ -1,0 +1,8 @@
+Property,TYS100,TIR65 [2],BKS (F) [3],Silceram [9]
+Density (Mg/m3),3.02+-0.01,2.95,2.89,2.90
+Hardness (GPa),6.6+-0.2,5.9,7.9,5.6
+Young's modulus (GPa),115.2+-0.5,134.4,124,119.9
+Thermal expansion coefficient (10-6 degC-1),8.7+-0.5,9.0,6.5,7.5
+"Fracture toughness, K IC (MPa m1/2)",1.7+-0.1,1.5,1.7,1.0
+Erosion coefficient (10-5 cm3/g),3.9+-0.5,1.6,-,1.1
+Machinability,Good,Good,Good,-

@@ -1,0 +1,6 @@
+T  s  (degC),Peak position (eV),Peak position (eV),FWHM (eV),FWHM (eV),Relative area (%),Relative area (%)
+,GeGe,GeC,GeGe,GeC,GeGe,GeC
+RT,29.2,29.9,1.6,1.6,70.45,29.55
+200,29.2,29.9,1.6,1.6,63.40,34.60
+400,29.2,29.9,1.6,1.6,56.71,43.29
+600,29.3,30.0,1.6,1.6,18.21,81.79

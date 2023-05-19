@@ -1,0 +1,18 @@
+Cr3+ ion,Transition,Observed bands (cm-1),Predicted bands (cm-1)
+Glass (octahedral),4A2  g  - 2E2  g (G),14220,14705
+Glass (octahedral),4A2  g  - 4T2  g,15761,15554
+Glass (octahedral),4A2  g  - 4T1  g,22615,22114
+,,,
+,"10Dq=15761cm-1, B =707cm-1, C =3112cm-1, Dq/B =2.23, C/B =4.40","10Dq=15761cm-1, B =707cm-1, C =3112cm-1, Dq/B =2.23, C/B =4.40","10Dq=15761cm-1, B =707cm-1, C =3112cm-1, Dq/B =2.23, C/B =4.40"
+,,,
+Glass-ceramics (700degC - 5h) (octahedral),4A2  g  - 2E2  g (G),8849,9422
+Glass-ceramics (700degC - 5h) (octahedral),4A2  g  - 2T2  g (G),10802,10186
+Glass-ceramics (700degC - 5h) (octahedral),4A2  g  - 4T2  g,13088,13110
+Glass-ceramics (700degC - 5h) (octahedral),4A2  g  - 4T1  g,18854,18120
+Glass-ceramics (700degC - 5h) (octahedral),4A2  g  - 4T1  g (P),27206,27252
+,,,
+,"10Dq=13088cm-1, B =453cm-1, C =2036cm-1, Dq/B =2.89, C/B =4.50","10Dq=13088cm-1, B =453cm-1, C =2036cm-1, Dq/B =2.89, C/B =4.50","10Dq=13088cm-1, B =453cm-1, C =2036cm-1, Dq/B =2.89, C/B =4.50"
+,,,
+Zn-LiNbO3 [14] (octahedral),"10Dq=13420cm-1, B =646cm-1, C =3022cm-1, Dq/B =2.1, C/B =4.68","10Dq=13420cm-1, B =646cm-1, C =3022cm-1, Dq/B =2.1, C/B =4.68","10Dq=13420cm-1, B =646cm-1, C =3022cm-1, Dq/B =2.1, C/B =4.68"
+,,,
+CrCl3 [1] (octahedral),"10Dq=13600cm-1, B =510cm-1, Dq/B =2.66","10Dq=13600cm-1, B =510cm-1, Dq/B =2.66","10Dq=13600cm-1, B =510cm-1, Dq/B =2.66"

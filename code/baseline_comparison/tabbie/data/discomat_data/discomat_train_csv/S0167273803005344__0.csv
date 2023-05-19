@@ -1,0 +1,11 @@
+"Two-body BMH parameters, atom pair ij=ji",A  ij  (fJ),b  ij  (nm)
+Si-O,0.2962,0.234
+Al-O,0.2750,0.234
+Li-O,0.1300,0.240
+O-O,0.3200,0.234
+Si-Si,0.1877,0.230
+Al-Si,0.2523,0.233
+Li-Si,0.0817,0.230
+Al-Al,0.3418,0.235
+Li-Al,0.0817,0.230
+Li-Li,0.2300,0.230

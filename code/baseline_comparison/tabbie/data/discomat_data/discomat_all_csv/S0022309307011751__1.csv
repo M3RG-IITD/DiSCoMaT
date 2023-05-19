@@ -1,0 +1,19 @@
+Sample,Ti-O coordination,Ti K-edge energy (eV),Edge energy shift (eV),Pre-edge information,
+Sample,Ti-O coordination,Ti K-edge energy (eV),Edge energy shift (eV),Energy (eV),Relative height
+Ti foil,,4972.8,0,-,-
+Ti2O3,[6]Ti3+,4975.8,3.0,4970.4,0.2
+TiO2-rutile,[6]Ti4+,4979.5,6.7,4968.7,0.06
+,,,,4971.9,0.22
+,,,,4974.3,0.20
+TiO2-anatase,[6]Ti4+,4982.1,9.1,4968.8,0.09
+,,,,4971.9,0.17
+,,,,4974.3,0.17
+Sr2TiSi2O8,[5]Ti4+,4979.7,6.9,4970.4,0.61
+Ba2TiSi2O8,[5]Ti4+,4979.4,6.6,4970.6,0.52
+CsAlTiO4,[4]Ti4+,4979.7,6.9,4969.7,0.68
+Ti-1,,4980.2,7.4,4970.5,0.30
+Ti-2,,4981.8,9.0,4970.6,0.31
+Ti-3,,4981.0,8.2,4970.5,0.28
+Ti-4,,4981.1,8.3,4970.2,0.28
+Ti-5,,4979.9,7.1,4969.9,0.39
+Ti-6,,4980.6,7.8,4970.0,0.40

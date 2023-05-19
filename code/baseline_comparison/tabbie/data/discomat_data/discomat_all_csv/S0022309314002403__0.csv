@@ -1,0 +1,8 @@
+Sample codes,Sterilization condition,Accelerated aging condition
+ORP5,None,None
+1x,Subjected to 1 dose of gamma-irradiation.,None
+2x,Subjected to 2 doses of gamma-irradiation.,None
+55C.12M,None,Aged at 55degC; DRTA of 12month.
+55C.24M,None,Aged at 55degC; DRTA of 24month.
+70C.12M,None,Aged at 70degC; DRTA of 12month.
+70C.24M,None,Aged at 70degC; DRTA of 24month.

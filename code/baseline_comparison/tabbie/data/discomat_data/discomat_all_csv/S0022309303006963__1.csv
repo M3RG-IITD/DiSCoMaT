@@ -1,0 +1,15 @@
+Element,Si (mol/l),Si (mol/l),Si (mol/l),Si (mol/l),Al (mol/l),Al (mol/l),Al (mol/l),Al (mol/l)
+pH,2.8,5.5,10,13,2.8,5.5,10,13
+LaY,7.48E-3,3E-5,2.54E-5,<2.5E-5,2.12E-3,8.44E-7,1.07E-6,6.8E-7
+CeY,6.02E-3,1.71E-4,1.29E-4,1.45E-3,2.35E-3,5.00E-5,3.9E-5,1.52E-6
+R7T7 L,11.8E-3,5.19E-4,/,1.60E-2,9.20E-4,1.05E-5,/,8.3E-4
+Solubility of reference compounds (temperature),7.0E-3 (363 K),7.0E-3 (363 K),1.9E-2 (298 K),7.2E3 (298 K),2.45E-3 (363 K),6.10E-10 (363 K),10.0E2 (298 K),10.0E5 (298 K)
+,,,,,,,,
+Element,Y (mol/l),Y (mol/l),Y (mol/l),Y (mol/l),"Ln (La, Ce or Nd) (mol/l)","Ln (La, Ce or Nd) (mol/l)","Ln (La, Ce or Nd) (mol/l)","Ln (La, Ce or Nd) (mol/l)"
+pH,2.8,5.5,10,13,2.8,5.5,10,13
+LaY,1.32E-3,9.0E-7,3.5E-8,1.01E-8,1.29E-3,1.44E-6,2.10E-8,9.7E-9
+CeY,1.13E-3,1.3E-7,3.23E-7,2.21E-8,1.05E-3,1.15E-7,3.66E-7,1.02E-8
+R7T7 L,/,/,/,/,1.56E-4,5.95E-9,/,< 2.0E-9
+Solubility of reference compounds (temperature),1.12E7 (363 K),1.20E-4 (363 K),1.10E-14 (363 K),10.0E-6 (298 K),La 2.0E10,2.2E-1,2E-11,>2E-11
+Solubility of reference compounds (temperature),1.12E7 (363 K),1.20E-4 (363 K),1.10E-14 (363 K),10.0E-6 (298 K),Ce 6.0E9,7.0E-2,6E-12,>6E-12
+Solubility of reference compounds (temperature),1.12E7 (363 K),1.20E-4 (363 K),1.10E-14 (363 K),10.0E-6 (298 K),Nd 6.0E8 (363 K),7.0E-3 (363 K),6E-13 (363 K),3.2E-6 (298 K)

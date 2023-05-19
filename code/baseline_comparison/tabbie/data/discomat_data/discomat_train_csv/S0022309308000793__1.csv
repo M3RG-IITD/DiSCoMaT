@@ -1,0 +1,9 @@
+Sample,Sample,Sample,LAS,BLAS,BLAS
+Nucleation temp. (degC),Nucleation temp. (degC),Nucleation temp. (degC),810,760,760
+Crystal growth temp. (degC),Crystal growth temp. (degC),Crystal growth temp. (degC),880,830,830
+Pressure (MPa),Pressure (MPa),Pressure (MPa),0.1,0.1,196
+,,,,,
+Crystallinity (%),Crystallinity (%),(+-1%),90,81,83
+Relative XRD intensity of b-Qss (100),Relative XRD intensity of b-Qss (100),(+-1%),1.15,1.00,1.05
+Lattice constant of b-Qss,a (nm),(+-0.0004nm),0.5183,0.5189,0.5185
+,c (nm),(+-0.0004nm),0.5446,0.5438,0.5433

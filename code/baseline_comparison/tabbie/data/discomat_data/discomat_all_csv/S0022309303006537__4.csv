@@ -1,0 +1,12 @@
+Level,Population (N  i ) (1020 cm-3),Fraction (%),Total transition rate (N  i  A  i ) (1022 cm-3 s-1)
+1(4I15/2),7.19,88.3,
+2(4I13/2),0.21,2.5,4.56
+3(4I11/2),0.74,9.0,26.65
+4(4I9/2),0.005,0.06,1.02
+5(4F9/2),0,0,0.08
+6(4S3/2 + 2H11/2 + 4F7/2),0.007,0.09,17.12
+,,,
+Energy transfer coefficient (10-18 cm3 s-1),Energy transfer coefficient (10-18 cm3 s-1),N  i xN  j  (1038 cm-6),CxN  i xN  j  (1022 cm-3 s-1)
+C 2,40,4.30,1.72
+C 2r,5,3.68,0.18
+C 3,20,54.24,10.85

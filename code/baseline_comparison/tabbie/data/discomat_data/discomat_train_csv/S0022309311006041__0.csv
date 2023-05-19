@@ -1,0 +1,5 @@
+Sample,Annealing time,Grain size,Volume fraction
+S1,10min,40(6) nm,0.20(9)x10-3
+S2,12min,50(4) nm,0.8(2)x10-3
+S3,15min,45(4) nm,1.6(5)x10-3
+S4,20min,46(5) nm,2.5(9)x10-3

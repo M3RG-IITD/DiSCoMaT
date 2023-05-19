@@ -1,0 +1,16 @@
+Crystal,Raman band positions (cm-1),IR band positions (cm-1),Vibration assignments,Refs.
+m-WO3,"807, 715","940, 870, 810, 760, 740, 460",WO6,"49, 50"
+Bi2W2O9,851 nas (W-Oap),"963, 855 nas (W-Oap)",WO6,51
+Bi2W2O9,799 ns (W-Oap),799 ns (W-Oap),WO6,51
+Bi2W2O9,"739, 699 nas (W-O)","759, 709, 647 nas (W-O)",WO6,51
+WO3.xH2O,945-960 n (WO),920-1007 n (WO),WO6,"49, 50"
+WO3.xH2O,"800, 645-685 (O-W-O)","600-695, 700-880 n (O-W-O)",WO6,"49, 50"
+"M2W2O7; MK, Na",934-933 ns (WO),,WO4 WO6,52
+"M2W2O7; MK, Na",888-876 ns (WO),,WO4 WO6,52
+"M2W2O7; MK, Na","~500-800 n (W-O-W), ~200-300 d(W-O-W)",,WO4 WO6,52
+(NH4)10H2W12O42,~976 ns (WO),,WO6,"52, 57"
+(NH4)10H2W12O42,"958, 930, 834 nas (WO)",,WO6,"52, 57"
+(NH4)10H2W12O42,700-500 n (W-O-W); 330-190 d (W-O-W),,WO6,"52, 57"
+"A2(WO4)3; ASc, In, Al",1023-974 n1 (WO4),1010-960 n1 (WO4),WO4,"54, 58"
+"A2(WO4)3; ASc, In, Al",959-800 n3 (WO4),921-799 n3 (WO4),WO4,"54, 58"
+"A2(WO4)3; ASc, In, Al",390-314n2+ n4(WO4),420-300 n2+ n4(WO4),WO4,"54, 58"

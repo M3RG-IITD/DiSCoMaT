@@ -1,0 +1,33 @@
+Sample name,Category,Manufacturing method,Impurity (ppm),Impurity (ppm),1.5 eV PL band (Normalized intensity)
+Sample name,Category,Manufacturing method,Cl,OH,1.5 eV PL band (Normalized intensity)
+A1,Oxygen deficient,Ar plasma,12000,Free,x
+,P O2 =1.0%,,,,
+A2,Oxygen deficient,Ar plasma,3200,0.8,x
+,P O2 =1.5%,,,,
+A3,Oxygen deficient,Ar plasma,1000,3.0,x
+,P O2 =5.0%,,,,
+A4,Oxygen deficient,Ar plasma,400,3.3,* (0.056)
+,P O2 =15.0%,,,,
+AH1,High-OH,Ar plasma,1600,20,x
+,(Oxygen deficient+OH),+OH,,,
+AH2,High-OH,Ar plasma,340,500,x
+,(Oxygen deficient+OH),+OH,,,
+,,,,,
+B1,Oxygen deficient,O2 plasma,1200,3.0,* (0.069)
+,Mol. rate,,,,
+,O2:SiCl4,,,,
+,0.15:1,,,,
+B3,Oxygen deficient,O2 plasma,340,3.0,* (0.076)
+,Mol. rate,,,,
+,O2:SiCl4,,,,
+,1:1,,,,
+BH1,High-OH,O2 plasma,310,200,* (0.083)
+,(Oxygen deficient+OH),+OH,,,
+,,,,,
+P,Oxygen surplus,Ar+O2 plasma,370,0.6,* (1)
+,,,,,
+D,High-OH,Flame hydrolysis,Free,1000,x
+,,,,,
+S1,Unknown (B2 b),CVD soot remelting,0.3,200,x
+S3,Oxygen deficient,CVD soot remelting,0.3,Free,x
+S4,Oxygen deficient,CVD soot remelting,Free,6.0,x

@@ -1,0 +1,12 @@
+Defects [cm-3],ODC(II),E' center,NBOHC
+F-SiO  2  :H,F-SiO  2  :H,F-SiO  2  :H,F-SiO  2  :H
+Before,1x1013,-,-
+After,-,2x1013,1x1013
+,,,
+F-SiO  2,F-SiO  2,F-SiO  2,F-SiO  2
+Before,1x1013,1x1013,-
+After,-,6.4x1014,2.2x1014
+,,,
+High OH SiO  2,High OH SiO  2,High OH SiO  2,High OH SiO  2
+Before,-,2x1013,3x1013
+After,-,1.5x1014,6x1013

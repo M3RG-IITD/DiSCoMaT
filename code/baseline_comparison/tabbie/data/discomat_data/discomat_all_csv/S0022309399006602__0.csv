@@ -1,0 +1,12 @@
+,Heating rate (degC/min),Heating rate (degC/min),Heating rate (degC/min),Heating rate (degC/min),Heating rate (degC/min),Heating rate (degC/min),Heating rate (degC/min),Heating rate (degC/min),E a (kJ/mol)
+,5,10,20,40,60,80,120,180,E a (kJ/mol)
+Glass transition T g (degC),-,-,-,-,221,225,233,237,-
+First peak,First peak,First peak,First peak,First peak,First peak,First peak,First peak,First peak,First peak
+T on (degC),214.3,216.0,226.9,234.4,237.2,245.1,247.2,253.4,173+-11
+T p (degC),220.0,222.6,232.9,240.7,243.8,252.2,255.0,261.8,169+-10
+DH 1 (J/g),23.97,22.21,22.97,22.26,24.48,23.61,24.31,21.77,-
+,,,,,,,,,
+Second peak,Second peak,Second peak,Second peak,Second peak,Second peak,Second peak,Second peak,Second peak,Second peak
+T on (degC),319.4,326.1,339.1,348.1,353.7,361.9,363.4,368.9,207+-9
+T p (degC),322.2,328.9,341.6,350.8,356.3,364.7,368.2,374.9,200+-7
+DH 2 (J/g),82.67,74.65,86.36,80.10,86.93,80.32,80.51,70.98,-

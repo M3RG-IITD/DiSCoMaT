@@ -1,0 +1,16 @@
+Se-content %,x =30,x =35,x =40,x =45,x =50
+Experimentally measured density (g/cm3) +-0.2%,5.339,5.461,5.591,5.699,5.771
+Calculated density (g/cm3),5.341,5.460,5.578,5.697,5.816
+Molar volume (cm3/mol) +-0.2%,16.165,16.233,16.276,16.554,16.581
+Excess volume (cm3/mol) +-0.2%,1.633,1.661,1.656,1.838,1.871
+Molar mass (g/mol) +-1.02,172.614,177.302,181.992,188.682,191.371
+Atomic density x1022 (Atom/cm3),2.093,2.378,2.647,2.930,3.147
+The polaron radius Rp  (A),1.462,1.401,1.352,1.307,1.276
+The average spacing of Se-Se (r) (A),3.629,3.477,3.355,3.244,3.167
+"Field strength, F x1016 (cm-2)",0.936,1.019,1.094,1.171,1.228
+Compactness (d) +-0.0085,-0.1126,-0.1044,-0.0896,-0.0812,-0.0471
+Heat of atomization (kCal/mol) +-3.24,43.02,42.40,41.77,41.15,40.53
+"The average single bond energy, Hs  /< r> (kCal/mol) +-3.24",21.51,21.20,20.89,20.58,20.27
+Cohesive energy CE (kCal/mol) +-3.24,55.45,51.28,47.34,43.32,39.29
+"Mean bond energy, < E> (eV/bond) +-0.034",2.41,2.35,2.28,2.21,2.14
+"Glass transition temperature, TG  (K)",470,451,429,407,385

@@ -7,7 +7,7 @@
 
 ## About
 This repository contains the official implementation of 
-[DiSCoMaT: Distantly Supervised Composition Extraction from Tables in Materials Science](https://arxiv.org/abs/2207.01079). This model is trained on **4,408 distantly supervised tables** published in materials science research papers to extract compositions reported in the tables. These tables yielded a total of 38,799 tuples in the training set.
+[DiSCoMaT: Distantly Supervised Composition Extraction from Tables in Materials Science](https://comingsoon). This model is trained on **4,408 distantly supervised tables** published in materials science research papers to extract compositions reported in the tables. These tables yielded a total of 38,799 tuples in the training set.
 
 The tuples are of the form $\{(id, c_k^{id}, p_k^{id}, u_k^{id} )\}_{k=1}^{K^{id}}$, where
 - $id$ is the id of the material composition reported in the tables
@@ -29,5 +29,9 @@ The following figure represents the architecture of the model proposed in our wo
 ## Citation
 If you find this repository useful, please cite our work as follows:
 ```
+<<<<<<< HEAD
 Incoming ACL 2023. Will be added soon.
+=======
+Will be added soon.
+>>>>>>> d3d24f9fc9a95acde24fb57f94fd9e6e9122b555
 ```

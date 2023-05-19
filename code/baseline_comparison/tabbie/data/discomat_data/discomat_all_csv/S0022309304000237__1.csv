@@ -1,0 +1,10 @@
+Glass,Thermal factor (Nd2O3),Thermal factor (Nd2O3),CTE (x10-6/K),CTE (x10-6/K),CTE (x10-6/K)
+Winkelmann and Schott [15],Appen [15],Experiment,Predicted value,,
+Winkelmann and Schott [15],Appen [15],Experiment,Appen,Winkelmann and Schott,
+G2,16.5,24.9,7.8,9.6,10.4
+G3,12.8,15.3,7.8,9.6,10.0
+G4,10.6,10.3,7.4,9.3,9.2
+,,,,,
+F2,17.4,23.6,9.1,10.3,10.6
+F3,12.9,12.4,9,10.2,10.2
+F4,8.2,1.0,8.5,9.7,8.8

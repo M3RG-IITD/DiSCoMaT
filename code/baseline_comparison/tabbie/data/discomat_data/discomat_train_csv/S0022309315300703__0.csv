@@ -1,0 +1,11 @@
+Ref.,Precursors,Cat.,Curing,Drying,Pyrolysis,Sbet m2*g-1,Radial drying shrinkage (%),Apparent density (g*cm-3)
+[7],Resorcinol-formaldehyde,Na2CO3,"298K for 24h, at 333K for 72h, 353K for 48h",Ambient drying,1073 for 3h under a flow of Ar gas,600-1000,,
+[8],Resorcinol-formaldehyde,Na2CO3,80degC for seven days,Supercritical conditions,900degC for 3h under N2 atmosphere,250-650,2-25,0.3-0.6
+[9],Resorcinol-formaldehyde,Na2CO3,80degC for 23-25h,Ambient pressure,800degC for 1h under an argon atmosphere,640-730,,
+[10],Resorcinol-formaldehyde,Na2CO3,85degC for seven days,Supercritical acetone,,171-1150,14-75,0.06-1.22
+[11],Resorcinol-formaldehyde,K2CO3,,Supercritical carbon dioxide,Pyrolysed between the range of 773-1173degC,660-770,,
+[12],Resorcinol-formaldehyde,Na2CO3,85degC in an oven during 72h,Supercritical freeze drying subcritical,,230-750,,0.15-1.40
+[13],Resorcinol-formaldehyde,Na2CO3,2 to 14days at 708degC,Dry freezing,,400-470,,
+[14],Phenol-formaldehyde,Na2CO3,90degC for 4days,Freeze drying,At 1223degC,400,,
+[15],Phenol-formaldehyde,NaOH,Sol-gel at 80degC,Supercritical conditions,900degC for 3h under N2 atmosphere,520-720,15-24,0.290-0.630
+[16],Phenol-melamine-formaldehyde,NaOH,At 85degC for 5days,Supercritical conditions,800 for 3h under N2 atmosphere,520-690,,0.3-0.7

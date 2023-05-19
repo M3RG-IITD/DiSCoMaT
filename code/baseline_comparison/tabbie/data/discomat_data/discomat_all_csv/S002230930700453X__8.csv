@@ -1,0 +1,8 @@
+Sample,Heat treatment,DH ds (kJ/mol)=DH 1,DH f (kJ/mol)=DH 3,Measured CdSe size (nm)
+A,Dissolved 1100degC for 10min,81.12+-1.25 (12),,0
+B,Annealed 600degC for 2h,81.64+-1.94 (8),,1.96+-0.03
+C,Annealed 650degC for 2h,74.93+-2.40 (18),14.46+-2.66 (18),3.98+-0.04
+D,Annealed 700degC for 2h,78.12+-2.26 (18),11.27 +-2.54 (18),5.50+-0.03
+E,Annealed 750degC for 20h,84.55+-0.90 (8),4.84 +-1.46 (8),8.15+-0.08
+F,Sample as-received,85.55+-1.87 (10),3.84+-2.20 (10),9.95+-0.06
+G,Annealed 1000degC for 0.5h,92.67+-1.82 (9),-3.28 +-2.16 (9),40.93+-3.96

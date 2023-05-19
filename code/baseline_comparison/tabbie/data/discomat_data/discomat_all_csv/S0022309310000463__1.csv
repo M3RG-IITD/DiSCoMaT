@@ -1,0 +1,30 @@
+Sample identity/band position (cm) a,Sample identity/band position (cm) a,Sample identity/band position (cm) a,Sample identity/band position (cm) a,Sample identity/band position (cm) a,Sample identity/band position (cm) a,Sample identity/band position (cm) a,Band assignment
+KBO2*xH2O,Sb2O3,B2,B3,B4,B5,B6,
+,,,3554,3554,3354,3554,Free hydroxyl group
+,,,(w),(w),(w),(w),O-H (s-s)
+3462,3508,,3392,3369,3369,3368,O-H (s-v)
+"(s,b)",(w),,"(s,b)","(s,b)","(s,b)","(s,b)",
+,,,3277,3277,3277,3277,Hydrogen bonded OH
+,,,(w),(w),(w),(w),(-O-Hd+***Od--) (s-v)
+1646,1615,1639,1654,1654,1646,1654,H-O-H (b-v)
+(s),(w),(w),(m),(m),(s),(s),
+1423,,,1431,1431,1423,1323,B-O-B in [BO3] (as-s)
+(w),,,(w),(w),(m),(m),
+1377,,,1315,1315,1315,1338,B-O-B in [BO3] (as-s)
+(w),,,(m),(s),(s),(s),
+1231,,1223,1231,1238,1238,1238,B-O in [BO3] (as-v)
+(s),,(s),(m),(m),(m),(m),
+1008,,,1008,1008,1008,1008,B-O-B in [BO4] (as-s)
+(w),,,(m),(s),(s),(s),
+,954,938,931,931,931,931,O-Sb-O (s-v) (senarmontite)
+,(m),(s),(m),(s),(s),(m),O-Si-O (s-v)
+,739,,,,,,O-Sb-O (s-s)
+,(s),,,,,,(senarmontite)
+,692,685,685,685,685,685,O-Sb-O (s-s)
+,(m),(sh),(m),(m),(m),(sh),(valentinite)
+,592,600,592,592,600,600,O-Sb-O (as-s)
+,(m),(s),(s),(s),(s),(s),(valentinite)
+,546,,,,,,O-Sb-O (s-b)
+,(m),,,,,,(valentinite)
+,492,462,439,439,454,454,O-Sb-O (as-b)
+,(s),(m),(s),(s),(s),(w),(valentinite)

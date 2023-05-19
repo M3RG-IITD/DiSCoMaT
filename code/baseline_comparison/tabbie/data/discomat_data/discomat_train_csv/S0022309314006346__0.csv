@@ -1,0 +1,6 @@
+Label,System description,Withdrawal speed,Gelation time at 25degC
+Ti(0),TiO2,25mm/min,17days
+Ti(5),TiO2 +PCL 5wt.%,10mm/min,7days
+Ti(10),TiO2 +PCL 10wt.%,10mm/min,7days
+Ti(20),TiO2 +PCL 20wt.%,10mm/min,7days
+Ti(30),TiO2 +PCL 30wt.%,15mm/min,12days

@@ -1,0 +1,7 @@
+Sample,Substrate temperature during implantation (K),(Nominal)/effective dose (1016 ions cm-2),Thickness of superficial material loss layer upon ion implantation (nm),Subsequent heat treatment
+1A,77,(15.0)/11.4,22,Untreated
+1B,77,(15.0)/11.4,22,"873 K, 1 h"
+1C,77,(15.0)/11.4,22,"1373 K, 6 h"
+2A,300,(15.0)/19.2,101,Untreated
+2B,300,(15.0)/19.2,101,"873 K, 1 h"
+2C,300,(15.0)/19.2,101,"1373 K, 6 h"

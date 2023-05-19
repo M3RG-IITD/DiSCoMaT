@@ -1,0 +1,8 @@
+Heat treatment,s 25 degC (10-5 S/cm),Ea  (eV),Log s 0 (s 0 in S/cm)
+Annealed glass,9.8x10-7,0.80+-0.01,2.6
+524degC/6h+571degC/80min,1.9,0.420+-0.004,2.4
+524degC/12h+571degC/80min,2.3,0.46+-0.02,3.1
+524degC/18h+571degC/1h,2.0,0.42+-0.01,2.4
+524degC/24h+571degC/1h,1.3,0.39+-0.01,1.7
+524degC/48h+571degC/30min,2.0,0.390+-0.003,1.9
+618degC/30min (single heat treatment),7.6,0.46+-0.02,3.6

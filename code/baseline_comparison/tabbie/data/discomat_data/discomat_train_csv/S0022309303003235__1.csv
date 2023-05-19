@@ -1,0 +1,12 @@
+Glass compositions (mol%),Er2O3,BaO,Al2O3,T g (degC),Effective linewidth (nm)
+Reference,3,25.5,8.5,564,45.504
+,,,,,
+Set A1,7,21.5,8.5,579,46.080
+Set A1,12,16.5,8.5,607,
+Set A1,15,13.5,8.5,613,
+Set A1,18,10.5,8.5,T  x =594,
+,,,,,
+Set A2,7,25.5,4.5,559,49.51
+Set A2,11.5,25.5,0,560,
+Set A2,15,22,0,580,
+Set A2,18,19,0,617,

@@ -1,0 +1,10 @@
+Method,A,B,C,D
+Nucleation,480degC/10min,480degC/10min,480degC/10min,500degC/10min
+Crystallization,,,,
+Li2Si2O3,700degC/20min,700degC/20min,700degC/20min,700degC/20min
+Li2Si2O5,850degC/10min,850degC/10min,850degC/10min,850degC/10min
+Rietveld refinement,,,,
+Lithium-disilicate,41.1+-0.2wt.%,41.7+-0.2wt.%,42.7+-0.2wt.%,26.2+-0.2wt.%
+Al2O3 content (internal standard),24.96wt.%,25.83wt.%,25.18wt.%,24.76wt.%
+"""Relative crystal area""",78%+-2%,66%+-2%,78%+-2%,68%+-2%
+Biaxial strength/MPa (number of samples),615+-91 (12),340+-43 (12),680+-70 (37),356+-19 (9)

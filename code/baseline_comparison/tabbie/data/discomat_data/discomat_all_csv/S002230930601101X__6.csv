@@ -1,0 +1,5 @@
+Glass compositions (mol%),Glass compositions (mol%),Glass compositions (mol%),Line I,Line I,Line II,Line II,Line III,Line III,Total width (gauss)
+V2O5,PbO,CuO,g,DH (gauss),g,DH (gauss),g,DH (gauss),Total width (gauss)
+50,45,5,1.96,118,2.06,44,2.18,301,584
+50,40,10,1.96,153,2.06,55,2.18,301,608
+50,35,15,1.96,162,-,-,2.18,301,612

@@ -1,0 +1,8 @@
+Fracture pattern,Normal load (N),Normal load (N),Normal load (N),Normal load (N)
+Fracture pattern,Constant loading experiments,Constant loading experiments,Monotonic loading experiments,Monotonic loading experiments
+Fracture pattern,Ahn [19],This study,Loading rate 0.01 N/s,Unloading rate 0.01 N/s
+No crack,~0-0.05,~0-0.3,~0-0.4,~0.3-0
+Median cracks,~0.05-0.8,~0-0.3,~0-0.4,~0.3-0
+Median cracks and lateral cracks under plastic scratch,~0.8-1.5,~0-0.3,~0-0.4,~0.3-0
+"Median, radial cracks and lateral cracks intersecting the surface",~1.5-3,~0.3-0.8,~0.4-0.9,~0.9-0.3
+Median cracks and crushed scratch groove,~3-6,>0.8,>0.9,0.9>

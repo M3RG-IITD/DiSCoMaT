@@ -1,0 +1,9 @@
+Sample code,Batch composition (mol%),Batch composition (mol%),Batch composition (mol%),Glass composition determined by EDS (mol%),Glass composition determined by EDS (mol%),Glass composition determined by EDS (mol%),Molar ratio,Molar ratio,D (kgm-3) (+-20kgm-3),V m (m3 mol-1) (+-0.4%),Fe/Fetot  c  (+-0.03%)
+Sample code,Cr2O3,Fe2O3,P2O5,Cr2O3,Fe2O3,P2O5,O/P,(Fe+Cr)/P,D (kgm-3) (+-20kgm-3),V m (m3 mol-1) (+-0.4%),Fe/Fetot  c  (+-0.03%)
+Cr0,0,40,60,0,40.4,59.6,3.52,-,3.02x103,49.35x10-6,0.15
+Cr1,1,39,60,0.9,38.8,60.3,3.49,0.66,3.03x103,49.16x10-6,0.13
+Cr2,2,38,60,2.1,38.0,59.9,3.50,0.67,3.09x103,48.18x10-6,0.18
+Cr3,3,37,60,3.2,36.8,60.0,3.50,0.67,3.09x103,48.16x10-6,0.23
+Cr4,4,36,60,4.0,35.7,60.3,3.48,0.66,3.11x103,47.82x10-6,0.24
+Cr5,5,35,60,5.3,34.5,60.2,3.49,0.66,3.19x103,46.60x10-6,0.28
+Cr10 (C),10,30,60,5.5,39.6,54.9,3.73,0.82,-,-,0.22

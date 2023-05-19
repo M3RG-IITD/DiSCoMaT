@@ -1,0 +1,16 @@
+Matrix,Defect,g 1,g 2,g 3,Nuclei,A 1,A 2,A 3,Ref.
+GeO2,E'(Ge),2.0012,1.9953,1.9941,-,-,-,-,[16]
+SG20,E'(Ge),2.0012,1.9953,1.9941,-,-,-,-,This work
+,,,,,,,,,
+SG20B9N5,E'(Ge),2.0012,1.9953,1.9941,-,-,-,-,This work
+SG20B9N10,E'(Ge) slightly modified,2.0014,1.9953,1.9944,Na+ (I =3/2),Not resolved,Not resolved,Not resolved,This work
+SG20B9N15,E'(Ge)-SMGD,2.0014,1.9960,1.9941,Na+ (I =3/2),Not resolved,Not resolved,Not resolved,This work
+SG20B9N20,SMGD,2.0009,1.9984,1.9941,Na+ (I =3/2),Not resolved,Not resolved,Not resolved,This work and [16]
+,,,,,,,,,
+SG20B20,BOHC,2.0412,2.0115,2.0025,10B (I =3),2.91,5.12,4.55,[16]
+,,,,,11B (I =3/2),8.70,15.3,13.6,
+,E'(Ge),2.0070,1.9949,1.9936,-,-,-,-,[16]
+SG20B20N5,E'(Ge),2.0012,1.9953,1.9941,-,-,-,-,This work
+,BOHC,2.0412,2.0115,2.0025,10B (I =3),2.91,5.12,4.55,This work
+,,,,,11B (I =3/2),8.70,15.3,13.6,
+SG20B20N20,SMGD,2.0009,1.9984,1.9941,Na+ (I =3/2),Not resolved,Not resolved,Not resolved,This work

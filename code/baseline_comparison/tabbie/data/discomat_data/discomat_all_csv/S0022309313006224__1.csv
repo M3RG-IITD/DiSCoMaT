@@ -1,0 +1,8 @@
+Sample,Tg  (degC),Crystallization temperature (degC),Crystallization temperature (degC),Crystallization temperature (degC),Crystallization temperature (degC)
+Ti,Tg  (degC),Tc,Tc,Tc,
+Ti,Tg  (degC),a,b,c,
+BV,746+-6,916+-23,955+-5,-,-
+BV-Sr,749+-7,890+-9,942+-14,-,-
+BV-Mg,736+-9,872+-12,897+-11,983+-8,1035+-7
+BV-Zn,744+-7,874+-13,896+-14,975+-8,1031+-4
+BV-SrZnMg,741+-2,870+-5,897+-8,973+-2,1029+-13

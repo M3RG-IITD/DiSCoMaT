@@ -1,0 +1,11 @@
+Sample No.,Experimental conditions,Experimental conditions,Experimental conditions,Peak pos.,FWHM,7-Li nutation NMR,7-Li nutation NMR
+,P (GPa),T(n) (degC),T (degC),(ppm),(ppm),rf field (kHz),QCC (kHz)
+Glass,,,,,,,
+Burk 300,-,451,-,-90,16.2,15.6 (43),170 (180)
+Burk 0808,0.1,475,470,-91,19.3,44.9,220
+Burk 2511,0.31,490,490,-92,15.7,44.9,220
+Burk 2707,0.31,490,530,-92,14.7,-,-
+Burk 1807,0.5,none,508,-92.2,16.7,21.9 (43),150 (180)
+,,,,,,,
+Crystal,,,,,,,
+Burk 2607,0.31,475,,-92.3,0.7,-,-

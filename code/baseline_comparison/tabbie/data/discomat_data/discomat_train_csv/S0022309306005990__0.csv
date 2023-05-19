@@ -1,0 +1,6 @@
+Parameter,Glass A,Glass B,Glass C,Glass D
+Density (gm/cc),1.85,2.15,1.98,2.09
+s (S/cm) (exp.),1.77x10-4,5.32x10-4,0.82x10-4,2.32x10-4
+T g (K) (exp.),443,421.3,434,411.8
+s (S/cm) (MD),3.23x10-2,3.42x 10-2,1.31x10-2,2.64x10-2
+T g (K) (MD),658,549,648,529

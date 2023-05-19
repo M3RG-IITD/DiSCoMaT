@@ -1,0 +1,5 @@
+Wasteform,IS,IS,QS,QS,% Fe(II) Fraction
+Wasteform,Fe(II),Fe(III),Fe(II),Fe(III),% Fe(II) Fraction
+IP30LAW,1.08,0.42,2.39,0.83,9
+IP30LAW-A,1.07,0.43,2.25,0.81,12
+IP30LAW-C,1.16,0.42,2.15,0.81,11

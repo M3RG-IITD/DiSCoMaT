@@ -1,0 +1,6 @@
+,Glass transformation temperature,First exothermic peak,First exothermic peak,Second exothermic peak,Second exothermic peak,Melting peak,Melting peak
+,T g (degC),T 1 (degC),J (g),T 2 (degC),J (g),T M (degC),J (g)
+Glass 1,485,672,156,834,61,971,209
+Glass 2,479,749,148,,,974,236
+Glass 3,478,780,150,,,974,224
+Glass 4,476,739,231,,,979,176

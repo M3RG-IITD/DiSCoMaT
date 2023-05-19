@@ -1,0 +1,14 @@
+Sample,Concentrations in mol%,Concentrations in mol%,Concentrations in mol%,Concentrations in mol%,Concentrations in mol%,Concentrations in mol%,Concentrations in mol%,Concentrations in mol%
+Sample,Na2O,Al2O3,B2O3,SiO2,MgO,CaO,BaO,ZnO
+A,25,25,12.5,37.5,-,-,-,-
+B,25,25,12.5,35,2.5,-,-,-
+C,25,25,12.5,32.5,5,-,-,-
+D,25,25,12.5,35,-,2.5,-,-
+E,25,25,12.5,32.5,-,5,-,-
+F,25,25,12.5,32.5,2.5,2.5,-,-
+G,25,25,12.5,35,-,-,2.5,-
+H,25,25,12.5,32.5,-,-,5,-
+I,25,25,12.5,32.5,2.5,-,2.5,-
+K,25,25,12.5,35,-,-,-,2.5
+L,25,25,12.5,32.5,-,-,-,5
+M,25,25,12.5,32.5,2.5,-,-,2.5

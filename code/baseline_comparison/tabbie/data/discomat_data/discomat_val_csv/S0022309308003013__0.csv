@@ -1,0 +1,11 @@
+Method,Transformation stages,Transformation stages,Transformation stages,
+Method,I,II,III,
+DTA,Peak at 486K,Peak at 532K,Peak at 553K,
+dR r/dt,Peak at 496K,Peak at 544K,Peak at 561K,
+Mechanical properties,Up to 473K drop of the elastic modulus and increase of damping,Up to 510K a slight increase of elastic modulus and up to 503K decrease of loss modulus,Up to a sample break at 606K a continuous drop of elastic modulus and increase of loss modulus,
+Phase formation observed on XRD,"Amorphous matrix transforms into crystalline phases that may be attributed to: fcc Cu-based (*), Cu3P (+) and Ni2.55P (  )","fcc Cu-based (*), Cu3P (+) and Ni2P (x)","fcc Cu-based (*), Cu3P (+)",
+Ndeg,Peak temperatures (K),Peak temperatures (K),Peak temperatures (K),Peak temperatures (K)
+Ndeg,E',E'',tan d,DTA
+I,473,472,473,486
+II,510,503,503,532
+III,-,534,534,553

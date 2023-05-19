@@ -1,0 +1,9 @@
+Compound,"Quadrupole interaction frequency, o 1 (Mrad)","Asymmetry parameter, e","Width of typical frequency distribution, d (%)",Reference
+a-ZrF4,744+-92,0.32+-0.02,14+-1,[10]
+b-ZrF4,1020+-6,0.17+-0.04,1+-1,[11]
+,870+-6,0.22+-0.01,1+-1,
+a-ZrBaF6,1170+-24,0.74+-0.03,0+-1,[12]
+b-ZrBaF6,714+-30,0.37+-0.03,0+-1,
+,288+-30,0.0+-0.01,<15,
+ZrO2,727+-86,0.37+-0.01,3+-1,[10]
+HfF4,680+-8,0.39+-0.02,13+-1,[13]

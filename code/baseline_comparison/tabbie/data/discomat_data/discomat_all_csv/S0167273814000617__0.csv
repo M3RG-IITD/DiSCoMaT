@@ -1,0 +1,11 @@
+Composition [% mol],Composition [% mol],Composition [% mol],Dc (T=393K) [S/cm],WDc [eV],0 [S/cm],a (T=393K) [A-1],Structure,,,
+Fe2O3,B2O3,PbO,Dc (T=393K) [S/cm],WDc [eV],0 [S/cm],,,,,
+2.5,32.5,65,1.18*10-13,0.73,2.55*10-4,-,Amorphous and homogenous,,,
+7,31,62,4.02*10-11,0.68,2.80*10-2,0.54,Amorphous with nanogranules,,,
+13,29,58,5.39*10-10,0.62,2.31*10-2,0.69,Amorphous with nanogranules,,,
+,,,,,,,,,,
+,,,,Low T,High T,Low T,High T,Low T,High T,
+19,27,54,2.00*10-8,0.47,0.60,6.57*10-3,9.94*10-1,0.91,0.60,Amorphous with nanogranules
+25,25,50,5.91*10-6,0.22,0.30,1.56*10-3,3.18*10-2,1.14,0.93,Nanocrystallities
+31,23,46,2.83*10-4,0.17,0.40,8.47*10-3,3.23*10,1.11,0.48,Nanocrystallities
+37,21,42,1.17*10-4,0.14,0.26,3.78*10-3,2.32*10-1,1.28,0.94,Nanocrystallities

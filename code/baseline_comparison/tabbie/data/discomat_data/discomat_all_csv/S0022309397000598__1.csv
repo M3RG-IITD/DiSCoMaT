@@ -1,0 +1,7 @@
+Composition (mol%),Composition (mol%),Composition (mol%),Composition (mol%),Maximum thickness,T g (degC),T  x  (degC),T p (degC),DT (degC),S (K)
+GaF3,CdF2,PbF2,ZnF2,,,,,,
+40,40,,20,<1 mm,288,350,354,62,0.44
+40,40,20,,<3 mm,287,360,366,73,0.78
+35,20,45,,<3 mm,248,306,311,58,0.56
+35,,45,20,<1 mm,254,286,290,32,0.24
+35,20,30,15,>4 mm,259,339,349,80,1.50

@@ -1,0 +1,9 @@
+Sample number,Chemical composition (mol%),Chemical composition (mol%),Chemical composition (mol%),Chemical composition (mol%),r (g/cm3),VM  (cm3/mol),Tg  (degC),a (ppm/degC)
+,Bi2O3,PbO,WO3,TeO2,r (g/cm3),VM  (cm3/mol),Tg  (degC),a (ppm/degC)
+1,10,0,20,70,6.69,30.59,405,15
+2,8,0,23,69,6.45,30.94,404,15
+3,10,0,30,60,6.80,31.13,423,14
+4,10,0,35,55,6.74,31.95,434,12
+5,0,10,20,70,6.30,28.63,383,16
+6,0,10,30,60,6.43,29.15,413,13
+7,0,14,28,58,6.59,28.61,410,15

@@ -1,0 +1,5 @@
+Samples,Samples,850degC/2h,960degC/2h,1020degC/2h,1100degC/2h
+(a),Phase,G,G+m (trace),a',a'+S+M
+(a),Emissivity,0.72+-0.01,0.78+-0.01,0.90+-0.01,0.83+-0.01
+(b),phase,G,m+G (trace),m,a+m (trace)
+(b),Emissivity,0.69+-0.01,0.80+-0.01,0.82+-0.01,0.84+-0.01

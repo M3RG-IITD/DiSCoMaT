@@ -1,0 +1,7 @@
+Phase,Milling time (h),Strain,Crystallite size (nm),Lattice parameter (A)
+Fe2O3,1,-,14.3,-
+Fe2O3,5,-,8.02,-
+,,,,
+CoFe2O4,15,-0.0148,4.60,8.408
+CoFe2O4,25,-0.011,6.18,8.400
+CoFe2O4,30,-0.0099,6.83,8.408

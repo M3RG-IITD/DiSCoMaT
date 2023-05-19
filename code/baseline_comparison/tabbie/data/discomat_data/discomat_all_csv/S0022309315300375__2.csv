@@ -1,0 +1,5 @@
+,Hardness,Hardness,Compression test,Compression test
+Sample,HV 0.2 [ ],EIT  [GPa],W (20MPa) [J],W (50MPa) [J]
+"""SiONC""",1100+-70,73+-8.5,0.36+-0.02,0.57+-0.02
+"""SiNC""",1100+-60,73+-8,0.32+-0.02,0.54+-0.02
+SiOC (M130),1110+-30,70+-2,0.34+-0.02,0.58+-0.02

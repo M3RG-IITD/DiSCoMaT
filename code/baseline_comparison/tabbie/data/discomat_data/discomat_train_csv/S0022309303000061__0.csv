@@ -1,0 +1,7 @@
+Parameter,"Fitting of thermal expansion, data",Fitting of Dr/r 0 data after annealing in the range 500-593 K,"Fitting of Dr/r 0 data after annealing at 550, and than at 573 K",Dimension
+n r,3.12x1019,3.12x1019,3.12x1019,s-1
+Q r,130.45,130.45,130.45,kJmol-1
+"c f,0",2.5x10-9,1.38x10-9,2.57x10-12,-
+T 0,307,307,307,K
+B,6324,6324,6324,K
+g,0.8,0.8,0.8,-

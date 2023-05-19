@@ -1,0 +1,7 @@
+Sample,Composition (wt.%),Composition (wt.%),Composition (wt.%),Composition (wt.%),Composition (wt.%),Composition (wt.%),Composition (wt.%)
+Sample,SiO2,P2O5,Na2O,CaO,ZnO,MgO,SrO
+BV,64.42,5.95,5.20,24.43,-,-,-
+BV-Sr,64.42,5.95,5.20,24.31,-,-,0.12
+BV-Mg,64.42,5.95,5.20,22.48,-,1.95,-
+BV-Zn,64.42,5.95,5.20,24.42,0.01,-,-
+BV-SrZnMg,64.42,5.95,5.20,22.36,0.01,1.95,0.12

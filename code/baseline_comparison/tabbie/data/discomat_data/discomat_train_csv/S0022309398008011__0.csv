@@ -1,0 +1,6 @@
+Glass,Electronic edge loss,Multiphonon edge loss,Rayleigh scattering loss
+Glass,(dB m-1 +-7%),(dB m-1 +-7%),(dB m-1 +-1%)
+Ga:La:S,1.81x10-7 exp(1.22x10-3 n),5.06x106 exp(-8.01x10-3 n),5.89x10-18 n 4
+(Correlation,r 2=0.9998,r 2=0.9256,n/a)
+Ga:La:S:O,4.70x10-7 exp(1.10x10-3 n),9.72x105 exp(-6.50x10-3 n),2.34x10-18 n 4
+(Correlation,r 2=0.9995,r 2=0.9136,n/a)

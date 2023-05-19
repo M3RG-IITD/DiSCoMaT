@@ -1,0 +1,11 @@
+Indenter,Material,Type,Load,Hv (kg/mm2),Hv (kg/mm2),Hv (GPa),Hv (GPa)
+Micro-,Clear CVD ZnS (Vitron),Ceramic,200g,148.3,+-3.6,1.45,+-0.04
+Micro-,FLIR CVD ZnS (Vitron),Ceramic,200g,178.3,+-4.4,1.75,+-0.04
+Micro-,Crystran GLS,Glass,200g,378.1,+-11.2,3.71,+-0.11
+Micro-,GGLS-15CdS-e-w,Glass,200g,248.7,+-8.5,2.44,+-0.08
+Micro-,GaLS65-20Ca-w,Glass,200g,342.3,+-16.7,3.36,+-0.16
+Nano-,GaLS72-a,Phase-separated glass,200mN,432.0,+-38.7,4.24,+-0.38
+Nano-,GaLS72-10Zn-a -- phase 1,Glass ceramic,200mN,261.8,+-40.2,2.78,+-0.43
+Nano-,GaLS72-10Zn-a -- phase 2,Glass ceramic,200mN,527.6,+-95.1,5.58,+-1.01
+Nano-,GeLS-900-a -- phase 1,Glass ceramic,50mN,373.7,+-63.1,3.95,+-0.67
+Nano-,GeLS-900-a -- phase 2,Glass ceramic,10mN,1259.9,+-13.3,13.3,+-4.36

@@ -1,0 +1,13 @@
+Element line,Bonding type,E B (eV),E B (eV),E B (eV),Relative intensity (%),Relative intensity (%)
+Element line,Bonding type,RM *,CS,CD,CS,CD
+Si2p,Si-Si,98.8,99.5,0,3.9,0
+Si2p,Si-C,0,101.6,100.9,22.6,6.2
+Si2p,Si-O,103.3,0,0,0,0
+B1s,B-N,190.5,190.0,190.8,4.7,14.6
+B1s,B-C-N,0,192.1,192.7,9.2,7.0
+B1s,B-O,193.4,0,0,0,0
+C1s,C-Si,0,283.7,283.9,19.3,28.7
+C1s,C-C,284.3,284.8,285.0,26.6,12.9
+C1s,C-B-N/C-O,286.7,287.3,286.2,6.6,15.4
+N1s,N-B,398.4,398.3,398.2,2.0,7.8
+,N-B-C,0,399.4,400.0,5.0,7.4

@@ -1,0 +1,7 @@
+Code,Furnace used,Temperature (degC),Time (min),Pressure (kPa),Notes
+1,Vacuum hot press,550,60,0,No bonded
+2,Vacuum hot press,565,60,0,No bonded
+3,Vacuum hot press,585,60,28,Weakly bonded
+4,Conventional furnace,585,60,28,Bonded with bubbles on the interface
+5,Conventional furnace,585,240,33,Bonded with cracks
+6,Conventional furnace,605,240,28,"Good bonded, no bubbles, no cracks"

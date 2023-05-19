@@ -1,0 +1,38 @@
+Sample treatment [degC],Phase,a [nm],dav [nm],strain x104
+Gd/SiO  2  -- impregnation,Gd/SiO  2  -- impregnation,Gd/SiO  2  -- impregnation,Gd/SiO  2  -- impregnation,Gd/SiO  2  -- impregnation
+550,Am,,,
+900,Am,,,
+1000,B+Am,,,
+1100,B,,,
+"1100, 24h",B,,,
+,,,,
+Ce/SiO  2  -- impregnation  [8],Ce/SiO  2  -- impregnation  [8],Ce/SiO  2  -- impregnation  [8],Ce/SiO  2  -- impregnation  [8],Ce/SiO  2  -- impregnation  [8]
+550,F,0.5410,6.2,
+900,F,0.5417,7.9,
+1000,F,0.5418,10.2,
+1100,F,0.5420,14.0,
+,,,,
+CeO  2  /SiO  2  -- microemulsion,CeO  2  /SiO  2  -- microemulsion,CeO  2  /SiO  2  -- microemulsion,CeO  2  /SiO  2  -- microemulsion,CeO  2  /SiO  2  -- microemulsion
+550,F,0.5446,2.5,298
+900,F,0.5432,3.4,42
+1000,F,0.5425,4.7,61
+1100,F,0.5421,7.5,1
+"1100, 24h",F,0.5422,12.0,1
+,,,,
+(Ce+Gd)/SiO  2  -- impregnation,(Ce+Gd)/SiO  2  -- impregnation,(Ce+Gd)/SiO  2  -- impregnation,(Ce+Gd)/SiO  2  -- impregnation,(Ce+Gd)/SiO  2  -- impregnation
+550,F,0.5433,7.0,176
+900,F,0.5431,6.0,126
+1000,F,0.5437,7.0,113
+1100,F+B,0.5433,8.0,16
+"1100, 24h",F+B,0.5433,12,54
+,,,,
+Ce  0.5  Gd  0.5  O  1.75  /SiO  2  -- microemulsion,Ce  0.5  Gd  0.5  O  1.75  /SiO  2  -- microemulsion,Ce  0.5  Gd  0.5  O  1.75  /SiO  2  -- microemulsion,Ce  0.5  Gd  0.5  O  1.75  /SiO  2  -- microemulsion,Ce  0.5  Gd  0.5  O  1.75  /SiO  2  -- microemulsion
+550,F,0.5436,1.8,540
+900,F,0.5447,2.1,198
+1000,F,0.5446,2.6,58
+1100,F,0.5430,6.2,35
+"1100, 24h",F+B,0.5424,8.6,14
+,,,,
+Ce  0.5  Gd  0.5  O  1.75,Ce  0.5  Gd  0.5  O  1.75,Ce  0.5  Gd  0.5  O  1.75,Ce  0.5  Gd  0.5  O  1.75,Ce  0.5  Gd  0.5  O  1.75
+"H2, 1100, 3h",C,0.5430 *,48,
+"1100, 3h",C,0.5430 *,27,

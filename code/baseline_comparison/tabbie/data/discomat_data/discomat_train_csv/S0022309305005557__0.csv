@@ -1,0 +1,19 @@
+Cation,Coordination number,"Shannon ionic radius (A) [6,7]",Cation field strength (A-2),Electronegativity (Pauling units) [8],Single bond strength M-O (kJmol-1) [8]
+Si4+,4,0.40,25,1.90,799.6+-13.4
+Si4+,6,0.54,13.72,,
+,,,,,
+Al3+,4,0.53,10.68,1.61,511+-3
+Al3+,6,0.675,6.58,,
+,,,,,
+Y3+,6,1.04,2.77,1.22,719.6+-11.3
+Y3+,8,1.159,2.23,,
+,,,,,
+Fe3+,4 Tetrahedral,0.63,7.56,1.83,390.4+-17.2
+Fe3+,6 Octahedral,0.69,6.30,1.83,390.4+-17.2
+Fe3+,8,0.92,3.54,1.83,390.4+-17.2
+,,,,1.83,390.4+-17.2
+Fe2+,4 Tetrahedral,0.77,3.37,1.83,390.4+-17.2
+Fe2+,4 Square-planar,0.78,3.29,1.83,390.4+-17.2
+Fe2+,6 Octahedral,0.75,3.56,1.83,390.4+-17.2
+Fe2+,"6 Octahedral, high spin",0.92,2.36,1.83,390.4+-17.2
+Fe2+,8,1.06,1.78,,

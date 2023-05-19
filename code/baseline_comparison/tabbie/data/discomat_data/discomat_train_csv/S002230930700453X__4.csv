@@ -1,0 +1,9 @@
+Reaction,Enthalpy
+"(1) CdS (s, 25degC)+2O2 (g, 807degC)-CdSO4 (sol, 807degC)",DH 1 =DH ds (CdS)
+"(2) O2 (g, 25degC)-O2 (g, 807degC)",DH 2 =DH hc (O2)
+"(3) CdO (s, 25degC)-CdO (sol, 807degC)",DH 3 =DH ds (CdO)
+"(4) Cd (s, 25degC)+1/2 O2 (g, 25degC)-CdO (s, 25degC)",DH 4 =D    H   f   o     (CdO)
+"(5) SO3 (g, 25degC)-SO3 (sol, 807degC)",DH 5 =DH ds (SO3)
+"(6) S (s, 25degC)+3/2 O2 (g, 25degC)-SO3 (g, 25degC)",DH 6 =D    H   f   o     (SO3)
+"(7) Cd (s, 25degC)+S (s, 25degC)-CdS (s, 25degC)",DH 7 =DH f (CdS)
+DH f (CdS)=-DH 1 -2DH 2 +DH 3 +DH 4 +DH 5 +DH 6,

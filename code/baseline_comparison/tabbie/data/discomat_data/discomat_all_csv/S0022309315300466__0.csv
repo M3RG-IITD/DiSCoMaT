@@ -1,0 +1,7 @@
+,Density (g/cm3)+-0.02g/cm3,Tg +-2degC,Tx +-2degC,DT=Tx -Tg degC,Refractive index at +-0.001,Refractive index at +-0.001,Refractive index at +-0.001
+,Density (g/cm3)+-0.02g/cm3,Tg +-2degC,Tx +-2degC,DT=Tx -Tg degC,633nm,1061nm,1312nm
+B0,2.80,444,587,143,1.538,1.530,1.527
+B1.25,2.83,451,629,178,1.542,1.534,1.531
+B2.5,2.85,451,662,211,1.545,1.536,1.533
+B3.75,2.88,462,670,208,1.547,1.539,1.536
+B5,2.90,465,672,205,1.549,1.541,1.538

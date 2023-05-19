@@ -1,0 +1,6 @@
+Sample,Preparation method,Estimated composition (molar ratio) by EPMA,Maximum photoinduced refractive index change   (Dn max)
+A,As-deposited CVD film,Ge:Si=43:57,2.0x10-3
+B,CVD film heated at 600degC in air,Ge:Si=43:57,1.5x10-3
+C,As-deposited CVD film,Ge:B:Si=15:8:77,2.4x10-3
+D,Pristine VAD fiber preform,Ge:Si=10:90,0.01-0.1x10  b
+E,OH flooded VAD fiber preform,Ge:Si=10:90,1.3x10  c

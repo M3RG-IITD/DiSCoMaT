@@ -1,0 +1,3 @@
+Nature of sample/ alloy,T g (K),T x (K),T p (K),DT x (K),T m (K),T l (K),T rg =(T g/T m),T rg =(T g/T l),g = T x/(T g + T l)
+Bulk,680,770,778,90,1030,1105,0.660,0.615,0.431
+Ribbon,675,765,774,90,1031,1097,0.655,0.615,0.432

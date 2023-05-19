@@ -1,0 +1,12 @@
+N,Layer thickness (nm),DE g 1 (eV),DE g 2 (eV)
+First cycle,First cycle,First cycle,First cycle
+1,120,0.08+-0.01,0.09+-0.01
+48,2.5,0.12+-0.01,0.12+-0.02
+60,1.6,0.14+-0.01,0.14+-0.02
+90,1.4,0.19+-0.01,0.17+-0.02
+130,0.7,0.23+-0.01,0.22+-0.02
+,,,
+Second cycle,Second cycle,Second cycle,Second cycle
+1,120,0.08+-0.01,
+90,1.4,0.29+-0.02,
+130,0.7,0.35+-0.02,

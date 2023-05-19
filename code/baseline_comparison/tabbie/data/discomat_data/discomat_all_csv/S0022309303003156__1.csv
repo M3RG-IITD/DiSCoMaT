@@ -1,0 +1,64 @@
+,Packing density V  i  (10-6 m3 mol-1),Packing density V  i  (10-6 m3 mol-1),Packing density V  i  (10-6 m3 mol-1),Packing density V  i  (10-6 m3 mol-1),Dissociation energy G  i  (109 Jm-3),Dissociation energy G  i  (109 Jm-3),Dissociation energy G  i  (109 Jm-3)
+Coordination number:,3,4,6,8,3,4,6
+Network former,Network former,Network former,Network former,Network former,Network former,Network former,Network former
+V2O3,-,-,22.1,-,-,96.9,-
+GeO2,-,14.0,14.2,-,-,49.5,94.2
+B2O3,15.2,20.8,-,-,22.6,82.8,-
+V2O5,-,34.8,35.4,-,-,69.5,-
+SiO2,-,13.9,14.0,-,-,68.0,-
+TeO2,-,-,14.7,-,-,54.0,-
+As2O5,-,34.8,35.2,-,-,49.2,-
+Sb2O3,-,23.0,-,-,-,35.3,-
+Sb2O5,-,-,35.7,-,-,31.8,-
+P2O5,-,34.6,34.8,-,-,28.2,-
+,,,,,,,
+Intermediate oxide,Intermediate oxide,Intermediate oxide,Intermediate oxide,Intermediate oxide,Intermediate oxide,Intermediate oxide,Intermediate oxide
+Al2O3,-,21.0,21.5,-,-,131.0,119.2
+ZrO2,-,-,14.8,15.3,-,-,111.9
+BeO,-,7.0,-,-,-,-,102.0
+TiO2,-,14.1,14.4,-,-,-,101.2
+Ga2O3,-,21.3,21.9,-,-,-,81.7
+ThO2,-,-,16.4,16.7,-,-,80.8
+Fe2O3,-,21.3,22.1,-,-,-,78.5
+ZnO,-,7.5,8.0,-,-,-,49.9
+PbO,-,9.0,11.1,12.3,-,-,25.3
+CdO,-,8.2,9.1,10.0,-,-,33.2
+,,,,,,,
+Network modifier,Network modifier,Network modifier,Network modifier,Network modifier,Network modifier,Network modifier,Network modifier
+Ta2O5,-,-,35.9,36.2,-,-,95.6
+Cr2O3,-,-,21.9,-,-,-,91.4
+MgO,-,7.4,7.9,-,-,-,90.0
+Nb2O5,-,34.7,35.9,-,-,-,85.4
+Sc2O3,-,-,22.7,-,-,-,84.6
+Li2O,-,8.0,9.0,-,-,-,77.9
+Er2O3,-,-,24.3,26.3,-,-,74.9
+MnO2,-,-,14.2,-,-,-,74.7
+Y2O3,-,-,24.4,26.1,-,-,72.7
+Ce2O3,-,-,26.3,28.2,-,-,71.1
+Tm2O3,-,-,24.2,-,-,-,70.2
+MoO3,-,20.9,21.3,-,-,-,69.8
+Nd2O3,-,-,25.6,-,-,-,68.9
+Gd2O3,-,-,24.9,26.8,-,-,68.8
+CoO,-,7.4,8.0,-,-,-,68.8
+Pr2O3,-,-,25.9,-,-,-,67.9
+WO3,-,20.9,21.3,-,-,-,67.8
+Yb2O3,-,-,24.1,-,-,-,66.5
+La2O3,-,-,26.8,29.0,-,-,65.8
+CaO,-,-,9.4,10.5,-,-,64.1
+SnO2,-,14.4,14.7,-,-,-,63.4
+Dy2O3,-,-,24.5,26.3,-,-,63.4
+Sm2O3,-,-,25.2,-,-,-,63.1
+CuO,-,7.5,7.9,-,-,-,59.5
+Eu2O3,-,-,25.1,-,-,-,57.8
+SrO,-,-,10.6,11.8,-,-,45.4
+Cu2O,-,-,11.4,-,-,-,44.1
+SnO,-,-,8.9,-,-,-,39.9
+BaO,-,-,13.3,14.1,-,-,39.5
+PbO2,-,-,15.0,15.9,-,-,38.1
+Na2O,-,-,12.3,14.8,-,-,31.9
+Bi2O3,-,-,26.1,27.6,-,-,31.6
+In2O3,-,-,23.3,24.7,-,-,28.1
+Ag2O,-,12.3,14.6,18.0,-,-,27.2
+K2O,-,-,20.2,24.3,-,-,19.2
+Rb2O,-,-,23.6,27.6,-,-,18.8
+Cs2O,-,-,31.7,37.3,-,-,14.2

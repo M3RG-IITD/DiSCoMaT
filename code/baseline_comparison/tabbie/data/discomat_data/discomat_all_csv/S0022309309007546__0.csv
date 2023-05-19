@@ -1,0 +1,6 @@
+Glass,Chemical composition (wt.%),Chemical composition (wt.%),Chemical composition (wt.%),Chemical composition (wt.%),Chemical composition (wt.%),Fe3+/Fetot (at.%),Density (g/cm3),T g (K)
+Glass,SiO2,CaO,MgO,Na2O,Fe2O3  *,Fe3+/Fetot (at.%),Density (g/cm3),T g (K)
+0wtFe,74.3,10.8,10.2,4.43,-,-,2.501,917
+1wtFe,72.5,11.4,9.95,4.63,1.09,35-50,2.517,914
+3wtFe,70.8,11.1,9.59,4.49,3.14,60-75,2.549,921
+6wtFe,69.4,10.8,9.34,4.41,6.07,69+-3,2.600,926

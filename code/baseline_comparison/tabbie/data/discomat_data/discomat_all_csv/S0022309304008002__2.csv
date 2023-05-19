@@ -1,0 +1,17 @@
+Sample,o   BP   max     (cm-1) (Boson peak maximum),v   s   t     (m/s) (Transverse sound velocity),v   s   l     (m/s) (Longitudinal sound velocity),l   c   t   ~   v   s   t   /   o   BP     (nm) (Correlation length)
+SiO2:,,,,
+1bar,49,3748 (a),5944 (a),2.55
+16.8kbar,69,3519 (b),5259 (b),1.77
+,,,,
+GeO2:,,,,
+6kbar,50,2400 (c),3400 (c),1.60
+41.1kbar,79,2180 (c),3600 (c),0.92
+,,,,
+B2O3:,,,,
+1bar,30,1803 (a),3376 (a),2.00
+41.1kbar,74,3017 (c),5650 (c),1.36
+,,,,
+NBS-710,70,3303 (d),5760 (d),1.56
+ZBLA,48,2333 (e),3968 (e),1.62
+ZBLAN20,50,2384 (e),4270 (e),1.59
+HBLAN20,45,2530 (e),4035 (e),1.74

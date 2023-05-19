@@ -1,0 +1,13 @@
+T=623 K,T=623 K,T=623 K,T=673 K,T=673 K
+s(MPa),d  e     d  T     (K -1),N0OC (m 2  N -1  eV -1),d  e     d  T      (K-1),N0OC (m 2  N -1  eV -1)
+Linear heating tests,Linear heating tests,Linear heating tests,Linear heating tests,Linear heating tests
+7,9.6x10-6,4.4x10-10,1.6x10-5,7.3x10-10
+20,1.7x10-5,2.7x10-10,4.6x10-5,7.3x10-10
+45,2.7x10-5,1.9x10-10,7.3x10-5,5.2x10-10
+95,6.6x10-5,2.2x10-10,1.4x10-4,4.7x10-10
+195,1.3x10-4,2.1x10-10,3.1x10-4,5.1x10-10
+,,Averaged 2.7x10-10,,Averaged 5.9x10-10
+,,,,
+Isothermal tests,Isothermal tests,Isothermal tests,Isothermal tests,Isothermal tests
+,de  dt   (Pa),N0OC (m 2  N -1  eV -1),de  dt   (Pa),N0OC (m 2  N -1  eV -1)
+,7.5x1010,2.7x10-10,4.3x1010,5.1x10-10

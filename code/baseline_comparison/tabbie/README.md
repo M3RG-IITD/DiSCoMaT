@@ -30,6 +30,9 @@ git checkout f3a960f80244cf9e80558ab30f7f7e8cbf03c0a0
 export TORCH_CUDA_ARCH_LIST="6.0;6.1;6.2;7.0;7.5"
 pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" --global-option="--deprecated_fused_adam" ./
 ```
+<<<<<<< HEAD
+
+=======
 ## Setup 4: downloading MATSCIBERT
 ```
 cd tabbie
@@ -50,11 +53,12 @@ cd ../../../../
 mkdir row_col_gid_logit
 mkdir edge_logit
 ```
+>>>>>>> 403b9606a8a4ac8486a272a6bb737a411f94d330
 
 # Seeds to replicate the result
 ```
 Edit the seeds present in tabbie/exp/ft_cell/cell.jsonnet file:
-1. For TABBIE_ADAPTED : [[seed used in TABBIE(comment out the seeds)], ["random_seed": 20050, "numpy_seed": 2005, "pytorch_seed": 200,], ["random_seed": 2, "numpy_seed": 2, "pytorch_seed": 2,]
+1. For TABBIE : [[seed used in TABBIE(comment out the seeds)], ["random_seed": 20050, "numpy_seed": 2005, "pytorch_seed": 200,], ["random_seed": 2, "numpy_seed": 2, "pytorch_seed": 2,]
 2. For TABBIE_ADAPTED : [[seed used in TABBIE(comment out the seeds)], ["random_seed": 20050, "numpy_seed": 2005, "pytorch_seed": 200,], ["random_seed": 30000, "numpy_seed": 6000, "pytorch_seed": 1200,]]
 
 Reason for using different 3rd seed: Obtained better ressults from baseline, wanted to be fair to the baselines by obtaining best possible results.

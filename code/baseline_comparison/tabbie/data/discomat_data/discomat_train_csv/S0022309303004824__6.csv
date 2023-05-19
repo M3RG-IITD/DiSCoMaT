@@ -1,0 +1,16 @@
+Standard,r-factor,r (A),n (atoms),s 2 (A2)
+Tephroite,Tephroite,Tephroite,Tephroite,Tephroite
+Fit,0.024,2.19 (0.01),6.2 (1.1),0.0087 (0.0031)
+Actual [24],,2.22,6.0,
+,,,,
+Rhodonite,Rhodonite,Rhodonite,Rhodonite,Rhodonite
+Fit,0.014,2.18 (0.01),4.9 (0.7),0.0101 (0.0027)
+Actual [22],,2.21,5.75,
+,,,,
+Spessartine,Spessartine,Spessartine,Spessartine,Spessartine
+Fit,0.019,2.27 (0.01),9.6 (1.8),0.0156 (0.0042)
+Actual [23],,2.32,8.0,
+,,,,
+Willemite (6 wt% MnO),Willemite (6 wt% MnO),Willemite (6 wt% MnO),Willemite (6 wt% MnO),Willemite (6 wt% MnO)
+Fit,0.019,2.05 (0.01),4.4 (0.6),0.0056 (0.0022)
+Actual [38],,1.96 (Zn-O),4.0,

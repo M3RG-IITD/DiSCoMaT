@@ -1,0 +1,17 @@
+Compound,Glass sample,Glass sample,Glass sample,Glass sample,Glass sample,Glass sample
+Compound,SBNx,SBNx,SBNxCs,SBNxCs,SBNxVy,SBNxVy
+Compound,Nominal (wt%),EDS (wt%),Nominal (wt%),EDS (wt%),Nominal (wt%),EDS (wt%)
+SiO2,42.3-58.3,41-59+-1,42.5-57.2,41.8-58+-1,35-56.2,34-56+-1
+B2O3,23.1-31.9,-,22.9-31.7,-,17-30.8,-
+Na2O,7-34.6,6-36+-2,7-34.6,5.5-34+-2,7-34.6,6-34+-2
+,,,,,,
+Added compounds,Added compounds,Added compounds,Added compounds,Added compounds,Added compounds,Added compounds
+Na2SO4,6.7-8.8,0-2.8+-0.2,,,5-8,0.3-2.9+-0.2
+Cs2SO4,,,17-22,0-1.4+-0.2,,
+V2O5,,,,,5-15,4.3-15.2+-0.4
+,,,,,,
+Structural parameters,Structural parameters,Structural parameters,Structural parameters,Structural parameters,Structural parameters,Structural parameters
+R,0.3-1.36+-0.05,0.3-1.36+-0.05,0.3-1.36+-0.05,0.3-1.36+-0.05,0.3-1.36+-0.05,0.3-1.36+-0.05
+K,1.58-2.12+-0.05,1.58-2.12+-0.05,1.58-2.12+-0.05,1.58-2.12+-0.05,1.58-2.12+-0.05,1.58-2.12+-0.05
+R * =3K/16,0.79-0.89+-0.01,0.79-0.89+-0.01,0.79-0.89+-0.01,0.79-0.89+-0.01,0.79-0.89+-0.01,0.79-0.89+-0.01
+r,2.29-2.52+-0.001,2.29-2.52+-0.001,2.4-2.52+-0.001,2.4-2.52+-0.001,2.30-2.52+-0.001,2.30-2.52+-0.001

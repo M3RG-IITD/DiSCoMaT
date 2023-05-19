@@ -1,0 +1,9 @@
+Sample,Composition (mol%) K2O-Nb2O5-SiO2,T g (degC),Crystallizing phase,Crystallizing phase,Crystallizing phase
+Sample,Composition (mol%) K2O-Nb2O5-SiO2,T g (degC),A,B,C
+1,16.7-16.7-66.6,733,No phase,No phase,KNbSi2O7
+2,18.2-18.2-63.6,724,No phase,No phase,KNbSi2O7
+3,23-23-54,693,Unidentified,K3Nb3O6Si2O7,KNbSi2O7
+4,24-24-52,688,Unidentified,K3Nb3O6Si2O7,KNbSi2O7
+5,25-25-50,688,Unidentified,K3Nb3O6Si2O7,KNbSi2O7
+6,23-27-50,684,Unidentified,K3Nb3O6Si2O7,KNbSi2O7
+7,30-30-40,657,Unidentified,K3Nb3O6Si2O7,K3Nb3O6Si2O7

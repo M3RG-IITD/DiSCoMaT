@@ -1,0 +1,32 @@
+Composition,Temperature (K),E peak (V)
+Glass A,1473,0.090
+Glass A,1423,0.070
+Glass A,1373,0.060
+Glass A,1348,0.042
+,,
+Glass B,1423,0.030
+Glass B,1373,0.005
+Glass B,1348,0.000
+Glass B,1328,-0.015
+Glass B,1288,-0.030
+Glass B,1273,-0.040
+Glass B,1228,-0.050
+Glass B,1178,-0.070
+,,
+Glass C,1516,0.025
+Glass C,1488,0.016
+Glass C,1463,-0.001
+Glass C,1453,-0.008
+Glass C,1423,-0.014
+Glass C,1373,-0.062
+Glass C,1353,-0.075
+Glass C,1283,-0.110
+,,
+Glass D,1515,-0.024
+Glass D,1523,-0.020
+Glass D,1479,-0.036
+Glass D,1473,-0.034
+Glass D,1448,-0.048
+Glass D,1423,-0.052
+Glass D,1398,-0.063
+Glass D,1373,-0.080

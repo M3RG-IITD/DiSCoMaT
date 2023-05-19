@@ -1,0 +1,21 @@
+Sample,Arctangent parameters,Arctangent parameters,Arctangent parameters,Arctangent parameters,Lorentzian parameters,Lorentzian parameters,Lorentzian parameters,Lorentzian parameters
+,E (eV),W (eV),H,Feature,E (eV),W (eV),H,Feature
+Pu10S-If,5726.0,1.2,0.57,IIIglass,5718.4,2.9,0.01,A
+,,,,,5725.3,2.9,1.44,B 1
+CeO2,5731.0,1.2,0.50,IVCeO2,5720.0,2.4,0.02,A
+,,,,,5727.3,2.4,0.50,B 1
+,,,,,5730.2,2.6,0.90,B 2
+,,,,,5737.0,3.0,0.35,C 1
+,,,,,5739.5,2.9,0.36,C 2
+Pu10S-IIa,5726.0,1.2,0.42,IIIglass,5718.4,2.4,0.02,A
+,,,,,5725.5,2.9,1.08,B 1
+,5731.2,1.2,0.14,IVglass,5729.5,2.6,0.26,B 2
+,,,,,5735.0,3.0,0.07,C 1
+,,,,,5738.0,3.0,0.16,C 2
+Pu10A-Ic,5726.0,1.2,0.27,IIIglass,5725.5,2.9,0.80,B 1
+,5731.2,1.2,0.26,IV,5720.0,2.4,0.04,A
+,,,,,5727.5,2.4,0.10,B 1
+,,,,,5729.9,2.6,0.38,B 2
+,,,,,5735.0,3.0,0.12,C
+,,,,,5738.0,3.0,0.18,C
+,,,,,5740.0,3.0,0.10,C

@@ -1,0 +1,5 @@
+Glass compositions (mol%),Glass compositions (mol%),Glass compositions (mol%),Line I,Line I,Line II,Line II,Line III,Line III,Total width of the spectrum (gauss)
+V2O5,PbO,CuO,g,DH (gauss),g,DH (gauss),g,DH (gauss),Total width of the spectrum (gauss)
+50,45,5,1.96,150,2.06,60.2,2.17,301,602
+50,40,10,1.96,175,2.06,71.2,2.176,301,637
+50,35,15,1.96,197,-,-,2.16,301,647

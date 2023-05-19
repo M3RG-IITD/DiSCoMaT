@@ -1,0 +1,16 @@
+Sample,spin frequency/kHz,position of peaks/ppm,Mo(VI),reference
+,(magnetic field),Mo(IV),,
+Na2MoO4,static (7.0 T),-35+-5,,[43]
+crystal,MAS 6 kHz (11.7 T),-32.9,,this work
+Ag2MoO4,static (7.0 T),82+-2,,[43]
+crystal,,82.0,,[41]
+,MAS 6 kHz (11.7 T),82.0,,this work
+(n-Bu4N)2Mo2O7,MAS 6 kHz (11.7 T),-6.5,,this work
+crystal,,,,
+solution with CD2Cl2,(9.4 T),-5.8,,[34]
+Na2Mo2O7,,,,
+crystal,MAS 6 kHz (11.7 T),-74,-177,this work
+Ag2Mo2O7,,,,
+crystal,MAS 6 kHz (11.7 T),,63,this work
+MoO3,,,,
+crystal,MAS 4.2 kHz (9.4 T),,-114,[36]

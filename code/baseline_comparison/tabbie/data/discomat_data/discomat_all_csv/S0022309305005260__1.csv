@@ -1,0 +1,15 @@
+Glass,LiCl or LiBr salt bath treatment,LiCl or LiBr salt bath treatment,Heat treatment,Heat treatment,XRD observation,XRD observation
+Glass,Temperature (degC),Time (min),Temperature (degC),Time (h),b-Spodumene,Others
+R4795,620,"5, 10, 15",-,-,No,Yes
+,625,5,-,-,No,Not detectable
+,625,10,-,-,No,Not detectable
+,,,,,,
+R4795/3,625,15,-,-,Yes,Yes
+,640,15,-,-,Yes,Yes
+,625,15,625,2,Yes,Yes
+,630,5,-,-,Yes,Yes
+,630,10,-,-,Yes,Yes
+,,,,,,
+R4795/10,630,15,-,-,Yes,Yes
+,630,15,630,2,Yes,Yes
+,760,2-3s,620,15min,Yes,Yes

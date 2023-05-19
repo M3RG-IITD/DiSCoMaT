@@ -1,0 +1,28 @@
+Model,Geometry,Geometry,Vibrations,Frequency,IR,Raman
+Silica glass,SiO bond lengths,1.612,SiO bonds antisymmetric stretching in the SiOSi linkages,,,
+Silica glass,,1.610,SiO bonds antisymmetric stretching in the SiOSi linkages,1194,8.8,0.1
+Silica glass,SiOSi angles,144.2,SiO bonds antisymmetric stretching in the SiOSi linkages,1091,16.1,0.1
+,OSiO angles,109.4,,,,
+,,,,,,
+Single phosphorus center,OP bond length,1.458,OP bond stretching,,,
+Single phosphorus center,PO bond lengths,1.563,OP bond stretching,1316,6.2,1.9
+Single phosphorus center,SiO bond lengths,1.669,PO and SiO bonds antisymmetric stretching in the POSi linkages,,,
+Single phosphorus center,OPO angles,114.7,PO and SiO bonds antisymmetric stretching in the POSi linkages,1068,24.5,0.6
+Single phosphorus center,OPO angles,103.8,PO and SiO bonds antisymmetric stretching in the POSi linkages,1067,,
+Single phosphorus center,POSi angles,134.4,PO and SiO bonds antisymmetric stretching in the POSi linkages,,,
+,,,,,,
+Double phosphorus center,OP bond lengths,1.455,,,,
+Double phosphorus center,PO bond lengths in the POP linkage,1.601,,,,
+Double phosphorus center,PO bond lengths in the POSi linkages,1.550,OP bond stretching,1331,8.8,2.1
+Double phosphorus center,SiO bond lengths in the POSi linkages,1.660,PO bonds antisymmetric stretching in the POP linkage,1120,6.5,0.3
+Double phosphorus center,OPO angle in the POP linkage,111.8,PO bonds antisymmetric stretching in the POP linkage,,,
+Double phosphorus center,OPO angles in the POSi linkages,116.4,PO and SiO bonds antisymmetric stretching in the POSi linkages,1102,24.5,0.7
+Double phosphorus center,OPO angle in the POP linkage,103.2,PO and SiO bonds antisymmetric stretching in the POSi linkages,1100,23.7,0.3
+Double phosphorus center,OPO angles in the POSi linkages,104.0,,,,
+Double phosphorus center,POSi angles,138.0,,,,
+,,,,,,
+P2O5 glass,OP bond length,1.449,OP bond stretching,1391,7.8,1.9
+P2O5 glass,PO bond lengths,1.571,OP bond stretching,1386,8.0,2.5
+P2O5 glass,OPO angles,112.3,PO bonds antisymmetric stretching in the POP linkages,,,
+P2O5 glass,OPO angles,103.0,PO bonds antisymmetric stretching in the POP linkages,1020,25.4,1.7
+P2O5 glass,POP angles,130.9,PO bonds antisymmetric stretching in the POP linkages,,,

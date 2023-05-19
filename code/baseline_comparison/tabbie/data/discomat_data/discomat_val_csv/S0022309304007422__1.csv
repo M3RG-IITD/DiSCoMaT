@@ -1,0 +1,5 @@
+Energy (cm) a,Wavelength (nm),Absorption cross-section (x10 cm2/OH) a,Bandwidth FWHM (cm-1),Integrated absorption (normalized)
+2800,3570,15.0,920,1.000
+3450,2900,0.70,1010,0.053
+4200,2380,0.30,645,0.011
+4810,2080,0.30,1200,0.020

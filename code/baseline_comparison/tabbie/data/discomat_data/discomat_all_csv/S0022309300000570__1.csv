@@ -1,0 +1,8 @@
+Type,Al (wtppm),OH (wtppm),Activation energy of the a-relaxation (eV),Activation energy of the viscosity   (eV),Relaxation time (s) at T=1100degC,Viscosity (Poise) at T=1100degC,Shear modulus (dyn cm-2) at T=1100degC,Reference
+A,0.01,11,5.2+-0.2,-,3.6x103,-,-,Present work
+B,19.9,16,6.1+-0.4,-,8.9x104,-,-,Present work
+C,6.8,<2,6.0+-0.5,-,1.1x104,-,-,Present work
+D,17,10,6.1+-0.4,6.2,4.5x104,6.7x1014,1.5x1010,Present work
+E,9,200,5.5+-0.3,5.3,5.4x103,1.2x1014,2.2x1010,Present work
+-,<0.01,50,5.0+-0.2,5.2,2.6x103,8.2x1013,3.1x1010,Ref. [7]
+-,<0.01,100,5.1+-0.3,5.6,1.5x103,5.3x1013,3.6x1010,Ref. [7]

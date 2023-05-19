@@ -1,0 +1,8 @@
+r=V 5+/V  total,ratio of number  V 5+  ions to total number of V ions from XPS
+(1-r)=V 4+/V  total,ratio of number  V 4+  ions to total number of V ions from XPS
+f=Fe 3+/Fe  total,ratio of number  Fe 3+  ions to total number of Fe ions from XPS
+(1-f)=Fe 2+/Fe  total,ratio of number  Fe 2+  ions to total number of Fe ions from XPS
+N V,molar fraction of vanadium atoms from ICP
+N Fe,molar fraction of iron atoms from ICP
+N P,molar fraction of phosphorus atoms from ICP
+C calc,calculated Curie constant (emu K/Oe g)

@@ -1,0 +1,15 @@
+Wave number (cm-1),Vibrational mode,Source
+850-880,"Si-O-[NB], [Q0]",[26]
+850,"Si-O-[NB], [Q0]",[30]
+900-920,"Si-O-[NB], [Q1]",[26]
+900,"Si-O-[NB], [Q1]",[30]
+940,Si-OH,[31]
+950,"Si-O-[NB], [Q2]","[26,30]"
+952,Si-OH,[19]
+980,Si-OH,[31]
+970,Si-O-[NB] stretching,"[15,27]"
+980,Si-O-[NB] stretching,[17]
+1080,Si-O-[NB] stretching,[27]
+1100,"Si-O-[NB], [Q3]","[26,30]"
+1150,"Si-O-[NB], [Q3 ']",[26]
+1200,"Si-O-, [Q4]",[26]

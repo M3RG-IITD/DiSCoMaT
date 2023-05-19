@@ -1,0 +1,27 @@
+Property,Value
+Physical and optical properties,Physical and optical properties
+Molecular weight of glass (M),98.30
+Density (d gcm-3),3.49
+Refractive index (n),
+n F' (at l =480.0nm),1.700613
+n e (at l =546.1nm),1.685854
+n C' (at l =643.8nm),1.679995
+Reflection losses (R%),6.52
+Molar refractivity (R M cm3),10.72
+Molecular electronic polarizability (a e A3),4.25
+Rare earth ion concentration (N x1019 ionscm-3),2.67
+Ionic radius (r p A),6.26
+Inter ionic distance (r i A),15.5
+Field strength (F x10-14 cm2),7.66
+Abbe number (u e),33.26
+Nonlinear refractive index (n 2 x1013 esu),0.742
+Nonlinear refractive index coefficient (g x1016 cm2 W),1.84
+Nonlinear susceptibility (    kh   1111   3   x  1015),3.32
+,
+Thermal properties,Thermal properties
+Glass transition temperature (T g degC),661
+Crystallization initiation temperature (T x degC),805
+Crystallization peak temperature (T p degC),824
+Melting temperature (T m degC),1056
+Glass stability factor (T x - T g),144
+Hurby value (H =(T x - T g)/(T m - T P)),0.621

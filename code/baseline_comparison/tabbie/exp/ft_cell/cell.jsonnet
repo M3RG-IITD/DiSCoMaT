@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
+  "random_seed": 20050,
+  "numpy_seed": 2005,
+  "pytorch_seed": 200,
+=======
   #"random_seed": 20050,
   #"numpy_seed": 2005,
   #"pytorch_seed": 200,
+>>>>>>> 403b9606a8a4ac8486a272a6bb737a411f94d330
   "data_loader": {
      "batch_size": 1
     #"batch_size": std.parseInt(std.extVar("bs")),

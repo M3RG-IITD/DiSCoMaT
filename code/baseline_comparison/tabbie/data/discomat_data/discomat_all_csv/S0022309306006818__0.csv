@@ -1,0 +1,10 @@
+Material,Temperature (degC),Reduced temperature T (K)/T g (K),Crystallization? (Y/N)
+Vitreloy-106,,,
+,350+-5,0.93,N
+,370+-5,0.96,Y
+,390+-5,0.99,Y
+,,,
+RAG3,,,
+,420+-5,0.79,N
+,460+-5,0.84,Y
+,500+-5,0.88,Y

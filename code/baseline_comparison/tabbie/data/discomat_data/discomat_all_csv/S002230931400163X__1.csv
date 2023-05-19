@@ -1,0 +1,11 @@
+Glass,Method,"Property, P (mols-1 Pa-1 m-1), S (molm-3 Pa-1), D (m2 s-1)",Temperature rangeDT (degC),"Pre-exponential constants, P0  x10-10 (mols-1 Pa-1 m-1)S0  x10-5 (molm-3 Pa-1)D0  x10-9(m2 s-1)","Activation energies (ED, ES) (kJmol-1)"
+BABS,"c, p",P,170-480,3,67
+BABS,p,S,170-470,0.01,-17
+BABS,p,D,290-470,2000,82
+S5,"b, p",P,150-900,0.6,38
+S5,p,S,200-500,1.8,3
+S5,p,D,210-550,4,37
+S1H,c,P,200-400,2.4,43
+BS3,"b, c, p",P,200-480,0.4,39
+BS3,p,S,200-480,0.4,-2
+BS3,p,D,290-550,1.6,32

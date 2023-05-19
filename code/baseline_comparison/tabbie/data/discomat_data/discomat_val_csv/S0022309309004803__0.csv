@@ -1,0 +1,5 @@
+Sample ID,Sintering temperature (degC),Holding time (min),Relative density (%),Crystallite size (A),Hardness (HV),Fracture toughness (MPam1/2)
+Sample A,475,5,92.76,-,-,-
+Sample B,475,10,94.13,-,-,-
+Sample C,550,20,98.96,99,1341,1.67+-0.3
+Sample D,575,20,99.07,117,1230,1.58+-0.3

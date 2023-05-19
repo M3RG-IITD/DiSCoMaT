@@ -1,0 +1,8 @@
+Sample,Composition (mol.%),Composition (mol.%),Composition (mol.%),Composition (mol.%),Composition (mol.%)
+Sample,BaO,B2O3,Bi2O3,PbO,CKD
+G0,3,40,0,25,32
+G1,3,40,5,20,32
+G2,3,40,10,15,32
+G3,3,40,15,10,32
+G4,3,40,20,5,32
+G5,3,40,25,0,32

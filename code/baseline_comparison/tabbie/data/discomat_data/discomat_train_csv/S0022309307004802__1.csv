@@ -1,0 +1,10 @@
+Sample,"Thermal treatment condition (degC, h)",TEC/x10-7 degC-1 (20-400degC),Defined phase
+Original,"Annealed at 480degC, 2h",90.1+-0.1,Amorphous
+glass,"Annealed at 480degC, 2h",90.1+-0.1,Amorphous
+1#,"535degC, 2h+580degC, 2h",,b      '   -LZS
+2#,"535degC, 2h+630degC, 2h",123.8+-0.1,Cristobalite;     b      '   -LZS
+3#,"535degC, 2h+700degC, 2h",49.5+-0.1,b-quartzss;     b      '   -LZS
+4#,"535degC, 2h+750degC, 2h",40.7+-0.1,"b-quartzss;     b      '   -LZS  , g0-LZS"
+5#,"535degC, 2h+630degC, 2h+750degC, 2h",36.7+-0.1,b-quartzss; g0-LZS
+6#,"535degC, 2h+700degC, 2h+750degC, 2h",38.4+-0.1,b-quartzss; g0-LZS
+7#,"535degC, 2h+820degC, 2h",,b-quartzss; g0-LZS

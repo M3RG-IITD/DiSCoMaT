@@ -1,0 +1,5 @@
+Glass,850degC,900degC,950degC,1000degC
+BaCMAS1,Aug,Aug; a-HC,Aug; a-HC,Aug; a-HC; C
+BaCMAS2,Aug; a-HC; b-HC,Aug; a-HC,Aug; a-HC,Aug; a-HC
+BACMAS3,Aug; a-HC; b-HC,Aug; a-HC; b-HC,Aug; b-HC; C,Aug; a-HC; b-HC
+BaCMAS4,Aug; a-HC; b-HC,Aug; a-HC; b-HC,Aug; a-HC; b-HC; C,Aug; a-HC; b-HC; C

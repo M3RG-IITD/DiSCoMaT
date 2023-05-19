@@ -1,0 +1,6 @@
+Name,B2O3 (mol%),BaO (mol%),Refine temp. (degC),Refine time (min),Results
+BBO50,50,50,1250,20,Ceramic
+BBO55,55,45,1150,20,Non-homogeneous glass-ceramic
+BBO57,57,43,1150,20,Glass
+BBO60,60,40,1150,20,Glass
+BBO68,68,32,1100,20,Glass

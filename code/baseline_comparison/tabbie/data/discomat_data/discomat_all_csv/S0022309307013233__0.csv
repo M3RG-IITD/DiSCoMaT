@@ -1,0 +1,7 @@
+Sample,P2O5,Sb2O3,ZnO,Melting temperature (degC),Color,O/P molar ratio,a (+-2x10-7 degC-1)
+Sb0 *,40,0,60,1050,Colorless,3.25,74
+Sb10,40,10,50,1000,Colorless,3.50,80
+Sb20,40,20,40,980,Pale yellow,3.75,98
+Sb30,40,30,30,960,Pale yellow,4.00,108
+Sb40,40,40,20,950,Yellow,4.25,115
+Sb50,40,50,10,930,Yellow,4.50,122

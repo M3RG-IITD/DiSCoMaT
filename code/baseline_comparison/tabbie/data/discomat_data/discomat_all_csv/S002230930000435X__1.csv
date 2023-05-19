@@ -1,0 +1,21 @@
+Atom pair,Glass composition,First coordination distance (nm) (+-0.002 nm),Coordination number (N) (+-0.04),Coordination number of the reverse pair (N R) (+-0.04)
+Ge-O,SG00,0.172,4.03,2.02
+,SG15,0.173,4.36,2.02
+,SG30,0.173,4.27,1.76
+,,,,
+Ge-Ge,SG00,0.326,4.37,
+,SG15,0.324,4.64,
+,SG30,0.332,3.83,
+,,,,
+O-O,SG00,0.275,7.23,
+,SG15,0.273,7.74,
+,SG30,0.274,5.79,
+,,,,
+Na-O,SG15,0.225,4.01,0.65
+,SG30,0.217,4.03,1.44
+,,,,
+Na-Na,SG15,0.320,2.88,
+,SG30,0.320,5.21,
+,,,,
+Ge-Na,SG15,0.330,2.81,7.95
+,SG30,0.336,4.51,5.26

@@ -1,0 +1,5 @@
+Sample,Glass forming oxide,T g (degC),T cryst (degC)
+B4,37 mol% B2O3,474,545; 595; 681
+S4,37 mol% SiO2,532,585; 715
+BS1,20 mol% SiO2+ 20 mol% B2O3,531,605
+Error,,+-5,+-10

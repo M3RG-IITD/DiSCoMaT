@@ -1,0 +1,6 @@
+Sample,% volume phases in starting powder (calculated),% volume phases in starting powder (calculated),% volume phases in coating (measured),% volume phases in coating (measured),% volume phases in coating (measured)
+Sample,BG,HA,Dark phase (glass) (+-5),Light phase (HA) (+-5),Pores (+-1)
+HA,0,100,-,95,5
+10BG90HA,12,88,50 (53),45 (48),5
+50BG50HA,55,45,76 (83),16 (17),9
+BG,100,0,91,-,9

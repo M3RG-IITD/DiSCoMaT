@@ -1,0 +1,13 @@
+compostions (mol%),Milling time,Milling time,Milling time,Milling time,Milling time,Milling time,Milling time,Milling time
+compostions (mol%),5-10 h,20-30 h,35-50 h,80-100 h,130-170 h,200-240 h,400 h,465 h
+30AgI*70Ag2PO3.5,"AgI, Ag4P2O7","Ag5IP2O7, Ag4P2O7","Ag5IP2O7, Ag4P2O7","Ag5IP2O7, Ag4P2O7","Ag5IP2O7, Ag4P2O7","Ag5IP2O7, amorphous",amorphous,
+,,,,,,,,
+40AgI*60Ag2PO3.5,"AgI, Ag4P2O7","Ag5IP2O7, Ag4P2O7","Ag5IP2O7, Ag4P2O7","Ag4P2O7, amorphous",amorphous,,,
+,,,,,,,,
+50AgI*50Ag2PO3.5,"AgI, Ag4P2O7","Ag4P2O7, amorphous",amorphous,,,,,
+,,,,,,,,
+60AgI*40Ag2PO3.5,"AgI, Ag4P2O7","Ag4P2O7, amorphous",amorphous,,,,,
+,,,,,,,,
+70AgI*30Ag2PO3.5,"AgI, Ag4P2O7","AgI, Ag16I12P2O7","Ag16I12P2O7, amorphous","Ag16I12P2O7, amorphous",amorphous,,,
+,,,,,,,,
+80AgI*20Ag2PO3.5,"AgI, Ag4P2O7",,,"AgI, Ag4P2O7, Ag16I12P2O7",,"AgI, Ag4P2O7, Ag16I12P2O7","AgI, Ag16I12P2O7",Ag16I12P2O7

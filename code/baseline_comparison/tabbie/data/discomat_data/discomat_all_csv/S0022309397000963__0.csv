@@ -1,0 +1,9 @@
+Sample no.,Composition (mol %),Composition (mol %),Composition (mol %),T c (degC),T g (degC),T c-T g (degC)
+Sample no.,TeO2,ZnO,ZnCl2,T c (degC),T g (degC),T c-T g (degC)
+S1,60,30,10,463,320,143
+S2,50,30,20,450,315,135
+S3,40,30,30,364,263,101
+S4,30,30,40,358,263,95
+S5,20,30,50,338,247,91
+S6,90,10,-,442,377,65
+S7,70,30,-,445,355,90

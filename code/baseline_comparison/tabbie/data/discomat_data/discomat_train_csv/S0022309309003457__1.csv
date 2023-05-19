@@ -1,0 +1,21 @@
+Vibration,Number,Frequency,Intensity,Intensity,Depolarization ratio
+Vibration,Number,Frequency,IR,Raman,Depolarization ratio
+"TeO   bond in threefold coordinated tellurium atom,     O   2   TeO",(1),765,1.2,22.6,0.124
+,,,,,
+"Te - O   bond in nonbridging oxygen atom,     O   3   Te -   O   -    , at long   Te - O   bond",(2),775,1.6,28.4,0.166
+,,,,,
+"Te - O   bond in nonbridging oxygen atom,     O   3   Te -   O   -    , at short   Te - O   bond",(3),800,0.7,12.9,0.046
+,,,,,
+"Te - O - Te   linkages between two fourfold coordinated tellurium atoms,     TeO   4    : antisymmetric stretching of   Te - O   bonds",(4),645,9.8,29.9,0.196
+"Te - O - Te   linkages between two fourfold coordinated tellurium atoms,     TeO   4    : antisymmetric stretching of   Te - O   bonds",(5),620,15.4,6.3,0.703
+,,,,,
+"Te - O - Te   linkages between fourfold coordinated tellurium atom,     TeO   4    , and threefold coordinated tellurium atom,     O   2   TeO  : antisymmetric stretching of   Te - O   bonds",(6),625,8.7,3.5,0.263
+"Te - O - Te   linkages between fourfold coordinated tellurium atom,     TeO   4    , and threefold coordinated tellurium atom,     O   2   TeO  : antisymmetric stretching of   Te - O   bonds",(7),545,6.5,3.1,0.472
+,,,,,
+"Te - O - Te   linkages between fourfold coordinated tellurium atom,     TeO   4    , and nonbridging oxygen atom,     O   3   Te -   O   -    , at long   Te - O   bond: antisymmetric stretching of   Te - O   bonds",(8),635,13.6,15.1,0.214
+"Te - O - Te   linkages between fourfold coordinated tellurium atom,     TeO   4    , and nonbridging oxygen atom,     O   3   Te -   O   -    , at long   Te - O   bond: antisymmetric stretching of   Te - O   bonds",(9),540,7.2,8.4,0.714
+,,,,,
+"Te - O - Te   linkages between fourfold coordinated tellurium atom,     TeO   4    , and nonbridging oxygen atom,     O   3   Te -   O   -    , at short   Te - O   bond: antisymmetric stretching of   Te - O   bonds",(10),625,13.9,30.0,0.716
+"Te - O - Te   linkages between fourfold coordinated tellurium atom,     TeO   4    , and nonbridging oxygen atom,     O   3   Te -   O   -    , at short   Te - O   bond: antisymmetric stretching of   Te - O   bonds",(11),575,11.5,25.4,0.444
+,,,,,
+"Complete-symmetry vibrations of fourfold coordinated tellurium atoms,     TeO   4",(12),730,2.9,2.5,0.645

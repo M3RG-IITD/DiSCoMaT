@@ -1,0 +1,7 @@
+Glass sample,Transition from 2B1g - 2B2g,Transition from 2B1g - 2B2g,Optical band gap E opt(eV) +-0.01,Urbach energy DE (eV) +-0.005,Optical basicity (L th)
+Glass sample,Wavelength (nm),Wave number (cm-1),Optical band gap E opt(eV) +-0.01,Urbach energy DE (eV) +-0.005,Optical basicity (L th)
+x =5,761,13140,3.18,0.2743,0.5010
+x =10,755,13245,3.29,0.2447,0.4978
+x =15,754,13265,3.31,0.1932,0.4946
+x =20,752,13300,3.23,0.2483,0.4914
+x =25,744,13440,3.20,0.2712,0.4882

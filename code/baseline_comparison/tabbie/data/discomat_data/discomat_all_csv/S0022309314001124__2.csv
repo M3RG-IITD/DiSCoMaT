@@ -1,0 +1,7 @@
+Sample,From Dc conductivity,From Dc conductivity,From Ac impedance
+Sample,sdc at 300K (Sm-1)+-0.02,Edc (eV)+-0.01,s(0) at 300K (Sm-1)+-0.02
+Glass,2.08x10-8,0.69,9.86x10-7
+HT 12h,1.16x10-6,0.53,5.90x10-6
+HT 18h,1.07x10-5,0.50,2.93x10-5
+HT 24h,1.93x10-5,0.47,3.77x10-5
+HT 30h,2.08x10-6,0.54,5.18x10-6

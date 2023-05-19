@@ -1,0 +1,7 @@
+n,Number of borons having n atoms X (X=O or F) as neighbors,Number of borons having n atoms X (X=O or F) as neighbors
+,oxygen,fluorine
+0,1,183
+1,20,109
+2,120,22
+3,183,9
+4,0,1

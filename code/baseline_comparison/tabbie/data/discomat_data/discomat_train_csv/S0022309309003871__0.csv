@@ -1,0 +1,10 @@
+Glass,Heat-treatment condition,Calculated average radii (nm),Absorption coefficient (+-0.1cm-1),Peak wavelength of PL (+-2nm),FWHM (+-4nm)
+BZ,600degC-20h,2.3,2.1,1166,160
+BZ,600degC-50h,2.6,4.3,1318,180
+BZ,620degC-20h,3.6,3.0,1620,200
+BZ,640degC-20h,4.7,3.1,1680,500
+,,,,,
+Z,460degC-10h,2.4,6.4,1300,190
+Z,460degC-20h,2.6,8.9,1400,220
+Z,460degC-30h,3.2,8.4,1560,170
+Z,480degC-10h,4.1,7.6,1660,350

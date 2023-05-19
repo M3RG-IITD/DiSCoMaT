@@ -1,0 +1,16 @@
+,EXAFS,EXAFS,EXAFS,EXAFS,EXAFS,EXAFS,EXAFS,EXAFS
+,Fe K-edge,Fe K-edge,Fe K-edge,Fe K-edge,Ti K-edge,Ti K-edge,Ti K-edge,Ti K-edge
+Bond type,Fe-Fe,Fe-Fe,Fe-Ti,Fe-Ti,Ti-Fe,Ti-Fe,Ti-Ti,Ti-Ti
+N,0.9,5.9,3.3,1.4,5.0,2.1,3.6,0.3
+R (A),2.48,2.49,2.54,2.66,2.54,2.66,2.82,3.07
+s (Ax10-2),1.432,12.014,24.006,12.143,24.006,12.143,6.042,1.000
+,,,,,,,,
+,Fe-Fe,Fe-Fe,Fe-Fe,Fe-Ti,Fe-Ti,Fe-Ti,Ti-Ti,Ti-Ti
+Deconvolution of the RDF by using the AHS parameters  [6],Deconvolution of the RDF by using the AHS parameters  [6],Deconvolution of the RDF by using the AHS parameters  [6],Deconvolution of the RDF by using the AHS parameters  [6],Deconvolution of the RDF by using the AHS parameters  [6],Deconvolution of the RDF by using the AHS parameters  [6],Deconvolution of the RDF by using the AHS parameters  [6],Deconvolution of the RDF by using the AHS parameters  [6],Deconvolution of the RDF by using the AHS parameters  [6]
+N,6.0,,,5.5,,,2.5,
+R (A),2.51,,,2.74,,,3.13,
+,,,,,,,,
+,Fe-Fe,Fe-Fe,Fe-Ti,Fe-Ti,Ti-Fe,Ti-Fe,Ti-Ti,Ti-Ti
+FeTi compound  [15],FeTi compound  [15],FeTi compound  [15],FeTi compound  [15],FeTi compound  [15],FeTi compound  [15],FeTi compound  [15],FeTi compound  [15],FeTi compound  [15]
+N,6.0,,8.0,,8.0,,6.0,
+R (A),2.975,,2.576,,2.576,,2.975,

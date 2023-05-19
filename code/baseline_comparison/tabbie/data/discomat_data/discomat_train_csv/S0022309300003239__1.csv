@@ -1,0 +1,10 @@
+Slabs:,1: Surface,2: Depleted,3: Depleted,4: Near bulk
+Oxide,Mol%,Mol%,Mol%,Mol%
+SiO2,32.7,66.6,64.6,63.3
+Al2O3,4.3,8.6,8.4,8.4
+MgO,30.0,10.2,9.9,9.9
+CaO,5.2,10.4,10.2,10.2
+FeO,-,-,-,6.2
+Fe2O3,27.9,4.2,6.9,2.0
+,,,,
+Areal density (1015 ions cm-2),1400,1500,1500,20000

@@ -1,0 +1,5 @@
+Sample,BET surface area (m2/g),Pore volume (cm3/g),Pore size (A)
+Ni_500,208,0.19,64
+Ni_r800,63,0.06,57
+FeNi_500,345,0.30,60
+FeNi_r800,173,0.15,56

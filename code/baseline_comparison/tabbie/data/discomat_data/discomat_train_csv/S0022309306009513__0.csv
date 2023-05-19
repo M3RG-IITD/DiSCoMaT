@@ -1,0 +1,12 @@
+Sample,Applied pressure (P/GPa),Sample temperature (T TC)+-2degC,Holding time (t TC) (min),Sample condition after high pressure high temperature treatment
+C1,4.5,608,20,Partially crystallized (medium)
+C2,4.5,608,20,Partially crystallized (medium)
+A1,6,555,20,Glass
+A2,6,608,20,Partially crystallized (light)
+A3,6,627,20,Partially crystallized (light to medium)
+A4,6,656,20,Partially crystallized (medium)
+A5,6,656,20,Partially crystallized (medium)
+A6,6,422,60,Glass
+A7,6,20,60,Glass
+B1,6,656,60,Partially crystallized (medium to heavy)
+B2,6,753,60,Partially crystallized (heavy)

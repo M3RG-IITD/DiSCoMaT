@@ -1,0 +1,10 @@
+Annealing temperature,XRD results,XRD results,XRD results
+Annealing temperature,Amorphous hump position,Crystalline peak position,Average grain size (nm)
+Annealing temperature,Bragg angle (deg),Bragg angle (deg),Average grain size (nm)
+As-deposited,43.8+-0.1,-,-
+373K,44.1,-,-
+423K,44.0,-,-
+473K,43.8,44.70+-0.01,12+-1
+573K,43.8,44.70,12
+673K,-,44.70,11
+773K,-,44.90,14

@@ -1,0 +1,21 @@
+,Water,PBS,Media
+S,Stable,Stable,Stable
+,Depolymerization,,
+SL,Stable,Stable,Stable
+,Depolymerization,,
+FS,Stable,Stable,Stable
+,Depolymerization,,
+FB,Stable,Sable,Stable
+,Depolymerization,Leaching,Leaching
+,Leaching,,
+BG,Leaching,Leaching,Leaching
+,"Net. Diss. (>4F, low t)","Net. Diss. (>4F, 96 h+)",Net. Diss.
+,Reprecipitation,Reprecipitation,Reprecipitation
+,Crystallization (30 d),Crystallization (96 h),
+4F,Leaching,Leaching,Leaching
+,"Net. Diss. (>BG, 96 h+)","Net. Diss. (>BG, low t)",Net. Diss. (> BG)
+,Reprecipitation,Reprecipitation,Reprecipitation
+,Crystallization (30 d),Crystallization (96 h),
+NS,Leaching,Leaching,Leaching
+,Net. Diss.,Net. Diss.,Net. Diss.
+,,Ca/P Precipitaton,

@@ -1,0 +1,9 @@
+Preform,Core doping,Core diameter (mm),Run no.,Treatment,Preform thickness (mm),Exposure conditions (244 nm)
+BPG286,"GeO2, 7-8 mol%",700,1,H2,300,"F=175 mJ/cm2, 50.000 pulses/side"
+,,,2,H2,90,"F=160 mJ/cm2, 55.000 pulses/side"
+,,,3,D2,300,"F=175 mJ/cm2, 50.000 pulses/side"
+HD 239,"GeO2, 20 mol%; SnO2, 5 mol%",500,4,H2,100,"F=160 mJ/cm2, 55.000 pulses/side"
+HD 240,"GeO2, 27 mol%; B2O3, 6 mol%",500,5,H2,100,"F=160 mJ/cm2, 55.000 pulses/side"
+FPA630Ce,"Al2O3, 10 mol%; Ce, 5000-8000 ppm",750,6,H2,200,"F=150 mJ/cm2, 60.000 pulses/side"
+FPA485Tb,"Al2O3, 7 mol%; [Tb3+], 1000 ppm",250,7,H2,95,"F=180 mJ/cm2, 50.000 pulses/side"
+FPA496Tb,"Al2O3, 7 mol%; [Tb3+], 5000 ppm",600,8,H2,100,"F=160 mJ/cm2, 80.000 pulses/side"

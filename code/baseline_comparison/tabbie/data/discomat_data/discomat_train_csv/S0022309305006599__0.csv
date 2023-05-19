@@ -1,0 +1,26 @@
+Code,Composition in mol%,Composition in mol%,Composition in mol%,Density r (gm/cm3) (+-0.005g/cc),Molar volume V m (cc),T g (K) (+-2K)
+Code,Li2O,PbO,B2O3,Density r (gm/cm3) (+-0.005g/cc),Molar volume V m (cc),T g (K) (+-2K)
+LB series,LB series,LB series,LB series,LB series,LB series,LB series
+LB1,1,-,99,1.88,36.84,-
+LB2,5,-,95,1.92,35.15,380
+LB3,10,-,90,1.98,33.03,382
+LB4,15,-,85,2.08,30.56,385
+,,,,,,
+CP series,CP series,CP series,CP series,CP series,CP series,CP series
+CP1,5,20,75,3.06,28.03,638
+CP2,10,20,70,3.65,26.38,661
+CP3,15,20,65,3.75,25.15,703
+CP4,20,20,60,3.78,24.44,694
+,,,,,,
+CL series,CL series,CL series,CL series,CL series,CL series,CL series
+CL1,15,5,80,2.56,27.85,702
+CL2,15,10,75,3.01,26.21,697
+CL3,15,15,70,3.43,25.25,638
+CL4,15,20,65,3.76,25.12,705
+,,,,,,
+CB series,CB series,CB series,CB series,CB series,CB series,CB series
+CB1,5,35,60,4.83,25.15,618
+CB2,10,30,60,4.47,25.01,614
+CB3,15,25,60,4.11,24.85,609
+CB4,20,20,60,3.75,24.66,695
+CB5,30,10,60,2.99,24.43,600

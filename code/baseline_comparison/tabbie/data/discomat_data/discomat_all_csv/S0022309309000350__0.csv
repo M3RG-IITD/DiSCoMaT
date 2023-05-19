@@ -1,0 +1,19 @@
+Frequency (cm-1),Assignment
+Raman band assignments for GeO2 glass,Raman band assignments for GeO2 glass
+60,Boson peak; acoustic mode? Related to glass fragility
+347 (D1),Ge 'deformation' motion within the network
+420,Symmetric stretching of bridging oxygens (BO) in 6-membered
+,GeO4 rings: Ge-O-Ge
+520 (D2),'Defect' mode assigned to breathing motion of bridging oxygens in 3-membered GeO4 rings
+500-620,"Bending/deformation modes: Ge-O-Ge, TO (556cm-1) and LO split (595cm-1)"
+860,TO asymmetric stretching of bridging oxygens: Ge-O-Ge (Q4)
+988,LO asymmetric stretching of bridging oxygens: Ge-O-Ge (Q4)
+,
+Raman band assignments for SiO2 glass,Raman band assignments for SiO2 glass
+~50,Boson peak; acoustic mode? Related to glass fragility
+445,Symmetric stretching of bridging oxygens (BO) in predominantly 6-membered SiO4 rings: Si-O-Si
+491 (D1),'Defect' mode assigned to breathing motion of bridging oxygens in 4-membered SiO4 rings
+605 (D2),'Defect' mode assigned to breathing motion of bridging oxygens in 3-membered GeO4 rings
+750-850,"Bending/deformation modes: Si-O-Si, TO (797cm-1) and LO split (829cm-1)"
+1060,TO asymmetric stretching of bridging oxygens: Si-O-Si (Q4)
+1198,LO asymmetric stretching of bridging oxygens: Si-O-Si (Q4)

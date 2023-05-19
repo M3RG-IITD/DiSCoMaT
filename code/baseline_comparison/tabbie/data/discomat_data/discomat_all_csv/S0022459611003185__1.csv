@@ -1,0 +1,8 @@
+Radiative parameter,PTBEu01,PTBEu05,PTBEu10,PTBEu20
+"Effective bandwidth, Dl  P  (nm)",15.04,13.00,12.61,12.35
+"Transition probability, A  R  (s-1)",65.35,107.22,115.49,121.19
+"Luminescence branching ratio, b  R",0.35,0.60,0.65,0.68
+"Experimental branching ratio, b exp",0.25,0.59,0.61,0.65
+"Emission cross-section, s  e  (x10-22 cm2)",3.85,7.31,8.12,8.70
+"Gain bandwidth, s  e xDl  P  (x10-28 cm3)",5.79,9.50,10.24,10.74
+"Optical gain, s  e xt  R  (x10-24 cm2 s)",2.07,4.11,4.56,4.89

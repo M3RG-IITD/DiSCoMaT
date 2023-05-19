@@ -1,0 +1,11 @@
+Samples,Molar concentration,Molar concentration,Molar concentration,Characteristic temperatures (degC),Characteristic temperatures (degC),Characteristic temperatures (degC),Characteristic temperatures (degC),Thermal stability parameter
+Samples,NaPO3,K2O,Ta2O5,Tg,Tx,Tc,Tf,Tx-Tg
+Ta0,90,10,0,*,*,*,*,*
+Ta2.5,87.75,10,2.25,265,404,451,-,139
+Ta5,85.5,10,4.5,297,536,610,788,239
+Ta7.5,83.25,10,6.75,338,558,-,-,220
+Ta10,81,10,9,367,-,-,-,-
+Ta12.5,78.75,10,11.25,*,*,*,*,*
+Ta15,76.5,10,13.5,438,727,804,862,289
+Ta17.5,74.25,10,15.75,472,-,-,-,-
+Ta20,72,10,18,510,741,785,882,231

@@ -1,0 +1,5 @@
+Heating rate (K/min),T=Tc -Tg (K),Tm -Tc (K),Hruby NumberHR =(Tc -Tg)/(Tm -Tg),S-parameter=(Tc -Tg) (Tp -Tc)/Tg (K),Trg =Tg /Tm
+5,32.3,204.9,0.401,4.94,.594
+10,83.9,197.5,0.425,5.06,.602
+15,89.2,190.6,0.468,5.14,.104
+20,90.7,187.6,0.483,11.80,.606

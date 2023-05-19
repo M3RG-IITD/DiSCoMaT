@@ -1,0 +1,37 @@
+Structural unit,"Bond lengths, A","Bond lengths, A","Bond lengths, A","Angles, degrees","Angles, degrees","Angles, degrees"
+Structural unit,Bond,Theory,Experiment,Angle,Theory,Experiment
+TeO4,Te-Oa,1.914,1.92 [14],Oa-Te-Oa,105.2,103.3 [26]
+TeO4,,,,Oa-Te-Oe,91.2,93.9 [14]
+TeO4,Te-Oe,2.150,2.10 [14],Oe-Te-Oe,172.9,167.9 [26]
+TeO4,,,,Te-O-Te,132.6,
+,,,,,,
+OTeO2,Te-On,1.818,1.86 [27],On-Te-Ob,97.3,95.6 [27]
+OTeO2,Te-Ob,2.000,1.93 [27],Ob-Te-Ob,94.3,94.9 [27]
+OTeO2,Te'-Ob,2.038,,Te-Ob-Te',135.3,
+,,,,,,
+Paired OTeO2,Te-On,1.838,,On-Te-Oa,101.6,
+Paired OTeO2,,,,On-Te-Ob,101.9,
+Paired OTeO2,Te-Oa,2.042,,Oa-Te-Ob,97.2,
+Paired OTeO2,Te-Ob,1.921,,Te-Oa-Te,127.7,
+Paired OTeO2,Te'-Ob,2.326,,Te-Ob-Te',115.3,
+,,,,,,
+OWO5,W-On,1.744,1.72 [14],On-W-Ob,99.4,101.9 [14]
+OWO5,W-Ot,2.321,2.16 [14],On-W-Ot,176.2,180.0 [14]
+OWO5,,,,Ob-W-Ot,80.8,78.0 [14]
+W-Ob{,1.886,,W-Ob-Te{,114.8,,
+W-Ob{,2.025,2.13 [14],W-Ob-Te{,145.2,,
+Te-Ob{,1.936,,Ob-W-Ob{,88.5,,
+Te-Ob{,2.093,,Ob-W-Ob{,159.4,,
+OWO5,Te-Ot,2.240,,W-Ot-Te,113.8,
+OWO5,,,,Te-Ot-Te,114.6,
+,,,,,,
+2[OWO5],W-On,1.735,1.72 [14],On-W-Ob,98.1,101.9 [14]
+2[OWO5],W-Ob,2.059,2.13 [14],Ob-W-Ob,88.4,
+2[OWO5],,,,On-W-Ot{,101.2,
+W-Ot{,1.888,,168.4,On-W-Ot{,,
+W-Ot{,2.330,2.16 [14],Ob-W-Ot{,86.2,78.0 [14],
+2[OWO5],,,Ob-W-Ot{,,153.8,
+2[OWO5],Te-Ob,2.036,,W-Ob-Te,136.4,
+2[OWO5],,,,W-Ot-Te{,109.1,
+2[OWO5],Te-Ot,2.244,,W-Ot-Te{,128.1,
+2[OWO5],,,,W-Ot-W,109.7,

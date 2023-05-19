@@ -1,0 +1,5 @@
+Samples of preform plate,OH-flooding Dt s at 1000+-10degC,Annealing at 110+-2degC for 5 days,Uniform exposure (N  i ) F  p  =160+-15mJ/cm2,VUV or FTIR spectroscopy
+"(P0), thickness=200+-2mm",1s<Dt <27s,No,No,IR absorption spectroscopy
+"(P1), thickness=50+-2mm",1s<Dt <20s,No,No,VUV absorption spectroscopy
+"(P2), thickness=30+-2mm",Dt =3s,Yes,N  i  <40 000 pulses,VUV absorption spectroscopy
+"(P3), thickness=200+-2mm",Dt =3s,Yes,N  i  <40 000 pulses,IR absorption spectroscopy

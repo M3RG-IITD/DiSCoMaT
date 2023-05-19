@@ -1,0 +1,11 @@
+Glasses,s abs (10-20 cm2),s abs (10-20 cm2),s abs (10-20 cm2),s abs (10-20 cm2),s abs (10-20 cm2)
+Glasses,Nd (584nm),Er (1532nm),Ho (1942nm),Pr (1530nm),Yb (976nm)
+P2O5-ZnO2-Al2O3 [15],3.35,,,,
+P2O5-K2O-Li2O-Al2O3 [26],,1.92,,,
+YLF   [22],1.20,0.60,1.55,,0.70
+GeO2-PbO-P2O5 [27],,,,24.00,
+Phosphate glass [28],,,,,0.20
+ZBLAN [29],,,,,0.80
+"Ga2O3-Bi2O3-PbO [5,30]",,,,,2.20
+"B2O3-PbO-PbF2 [5,30]",,,,,2.50
+Niobium phosphate glass Nb-10,2.74+-0.05,1.23+-0.05,0.75+-0.05,13.57+-0.05,0.59+-0.05

@@ -1,0 +1,23 @@
+V  c,crystal volume.
+N  v,number of crystals per unit volume.
+q,crystal shape factor.
+a,crystallinity.
+s,flow stress.
+s 0,yield value of ultimate metastable Binghamian flow at   e   =0.
+s t(t),maximum tensile stress at time t.
+c(t),tensile stress factor at the equatorial line of the deformed cylindrical sample.
+m,"geometrical factor for shear, tensile and here: for compressive stress."
+e,deformation rate.
+e    g,flow relaxation rate.
+e    c,critical deformation rate at first crack of the specimen.
+e    s,stiffness relaxation rate.
+e 0,Newtonian viscosity (at   e   =0).
+e app,apparent viscosity.
+e,ultimate Bingham viscosity at large   e   .
+E max,stress generation modulus (stiffness).
+E 0,fictive yield value of metastable stiffness at   e   =0.
+F(t),load or compressive force.
+d app,brittleness of a melt (stiffness resistance).
+d,ultimate stiffness resistance at   e    - .
+Index 1:,deformation rate range of the suspension rate section.
+Index 2:,deformation rate range of the glass melt rate section.

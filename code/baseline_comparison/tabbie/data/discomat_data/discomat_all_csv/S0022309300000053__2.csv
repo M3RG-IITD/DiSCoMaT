@@ -1,0 +1,7 @@
+Sample,Nitrogen content,Impurities (ppm),Impurities (ppm),Impurities (ppm),Impurities (ppm),Impurities (ppm),Impurities (ppm),Impurities (ppm)
+,,Al,Li,Na,K,Ca,Fe,OH
+N-doped,3000,<0.01,<0.01,<0.01,<0.01,<0.01,<0.01,0
+VAD,0,<0.01,<0.01,<0.01,<0.01,<0.01,<0.01,100
+Type I,0,6.9,0.1,0.2,0.06,0.4,0.1,10
+Type II,0,7.3,0.1,0.1,0.03,0.4,0.1,300
+Type III,0,<0.05,<0.05,<0.05,<0.05,<0.05,<0.05,800

@@ -1,0 +1,4 @@
+Property,Series A,R2,Series B,R2
+Density (g/mL),r=6.0kh+2.1,0.997,r=9.2kh+3.3,0.999
+Tg (degC),T=514*kh+490,0.951,T=1086*kh+570,0.979
+Radiopacity (HU),Y=1800+7254(1-e-11.9kh),0.998,Y=2310+8818(1-e-11kh),0.986

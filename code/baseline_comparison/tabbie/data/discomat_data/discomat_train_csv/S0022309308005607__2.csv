@@ -1,0 +1,31 @@
+Sample name,Pre-peak (eV) (+-0.2),Total area under pre-peak (arb. units),Area under pre-peak (arb. units),Fe valency and site
+Fe2O3,7113.1,0.43+-0.02,0.27+-0.01,Fe+3 in octahedral sites
+Fe2O3,7114.2,0.43+-0.02,0.16+-0.01,
+Fe2O3,7116.5,0.43+-0.02,-,Other transitions
+Fe3O4,7111.1,0.63+-0.03,0.04+-0.01,Fe+2 in octahedral sites
+Fe3O4,7112.7,0.63+-0.03,0.38+-0.01,Fe+3 in tetrahedral sites
+Fe3O4,7114.6,0.63+-0.03,0.21+-0.01,Fe+3 in octahedral sites
+(70-30) 60-25-15 (1400degC),7112.9,0.49+-0.02,0.38+-0.01,Fe+3 in tetrahedral sites
+(70-30) 60-25-15 (1400degC),7113.6,0.49+-0.02,0.11+-0.01,Fe+3 in octahedral sites
+(70-30) 60-25-15 (1400degC),7116.6,0.49+-0.02,-,Other transitions
+(90-10) 50-35-15 (1300+1250degC),7112.9,0.52+-0.02,0.40+-0.01,Fe+3 in tetrahedral sites
+(90-10) 50-35-15 (1300+1250degC),7113.7,0.52+-0.02,0.12+-0.01,Fe+3 in octahedral sites
+(90-10) 50-35-15 (1300+1250degC),7116.7,0.52+-0.02,-,Other transitions
+(90-10) 50-35-15 (1400degC),7111.1,0.50+-0.03,0.06+-0.01,Fe+2 in octahedral sites
+(90-10) 50-35-15 (1400degC),7113.0,0.50+-0.03,0.36+-0.01,Fe+3 in tetrahedral sites
+(90-10) 50-35-15 (1400degC),7114.7,0.50+-0.03,0.08+-0.01,Fe+3 in octahedral sites
+(80-20) 60-25-15 (1250degC),7112.9,0.65+-0.02,0.52+-0.01,Fe+3 in tetrahedral sites
+(80-20) 60-25-15 (1250degC),7113.5,0.65+-0.02,0.13+-0.01,Fe+3 in octahedral sites
+(80-20) 60-25-15 (1250degC),7116.5,0.65+-0.02,-,Other Transitions
+(80-20) 60-25-15 (1400degC),7112.9,0.67+-0.02,0.54+-0.01,Fe+3 in tetrahedral sites
+(80-20) 60-25-15 (1400degC),7113.7,0.67+-0.02,0.13+-0.01,Fe+3 in octahedral sites
+(80-20) 60-25-15 (1400degC),7116.4,0.67+-0.02,-,Other Transitions
+(90-10) 60-20-20 (1200degC),7112.8,0.63+-0.02,0.52+-0.01,Fe+3 in tetrahedral sites
+(90-10) 60-20-20 (1200degC),7113.5,0.63+-0.02,0.11+-0.01,Fe+3 in octahedral sites
+(90-10) 60-20-20 (1200degC),7116.2,0.63+-0.02,-,Other transitions
+(90-10) 60-20-20 (1300degC),7112.8,0.64+-0.02,0.54+-0.01,Fe+3 in tetrahedral sites
+(90-10) 60-20-20 (1300degC),7113.5,0.64+-0.02,0.10+-0.01,Fe+3 in octahedral sites
+(90-10) 60-20-20 (1300degC),7116.2,0.64+-0.02,-,Other transitions
+(90-10) 60-20-20 (1400degC),7112.8,0.61+-0.02,0.50+-0.01,Fe+3 in tetrahedral sites
+(90-10) 60-20-20 (1400degC),7113.5,0.61+-0.02,0.11+-0.01,Fe+3 in octahedral sites
+(90-10) 60-20-20 (1400degC),7116.3,0.61+-0.02,-,Other transitions

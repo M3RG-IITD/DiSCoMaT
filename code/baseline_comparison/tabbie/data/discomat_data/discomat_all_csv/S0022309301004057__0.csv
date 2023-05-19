@@ -1,0 +1,7 @@
+Sample,Density (g/cm3)+-0.1,Yb (mol%) (ions/cm3+-1x1019),Tm (mol%) (ions/cm3+-1x1019),Ho (mol%) (ions/cm3+-1x1019)
+TNKL:Tm,,-,5,-
+TNKL:Ho,,-,-,5
+TNKL:Yb,5.5,5 (4.2x1020),-,-
+TNKL:Yb:Tm:Ho,6.6,5 (4.7x1020),5 (4.8x1020),0.5 (4.9x1019)
+TNKL:Yb:Tm,5.5,5 (4.2x1020),5 (4.3x1020),-
+TNKL:Yb:Ho,5.5,5 (4.2x1020),-,0.5 (4.4x1019)

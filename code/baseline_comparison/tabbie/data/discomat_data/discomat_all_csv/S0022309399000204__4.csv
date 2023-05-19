@@ -1,0 +1,7 @@
+,HMF fluoride glasses (this work),CeF3,BaF2,CsI,PbWO4,Silicate glass (GS1)
+Wavelength of maximum fast emission (nm),320,340,220,320,440,390
+Decay time (ns),25,30,0.8,20,10,70
+Refractive index at fast emission peak,1.55,1.68,1.58,1.95,2.2 (birefringent),1.56
+Density (g cm-3),5.8,6.2,4.9,4.5,8.3,2.5
+Radiation length X 0 (cm),1.6,1.7,2.0,1.8,0.9,10
+"Light-yield (photons per MeV, fast emission)",100 (5% CeF3),1600,1400,2000,15,1500 (4% Ce2O3)

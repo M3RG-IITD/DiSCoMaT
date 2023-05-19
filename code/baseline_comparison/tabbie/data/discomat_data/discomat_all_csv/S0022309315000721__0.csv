@@ -1,0 +1,6 @@
+Sample,pHi,pHf,Molar ratio,Molar ratio,Molar ratio,Calculated composition
+Sample,pHi,pHf,Ca/P,Ca/Si,Ca/Si+P,Calculated composition
+1,12.8,11.4,3.41,1.36,0.972,Ca10(PO4)4.6(SiO4)1.4(OH)0.6 (47wt.%)+CaSiO3 (31.1wt.%)+SiO2 (21.9wt.%)
+2,10,10,2.20,0.88,0.628,Ca10(PO4)4.6(SiO4)1.4(OH)0.6 (67wt.%)+SiO2 (33wt.%)
+3,10.0,7.4,1.52,0.50,0.376,Ca3(PO4)1.8(SiO4)0.2 (44.2wt.%)+Ca10(PO4)4.6(SiO4)1.4(OH)0.6 (1.9wt.%)+SiO2 (51.8wt.%)+P2O5 (2.1wt.%)
+4,9.0,5.5,1.43,0.44,0.336,Ca3(PO4)1.8(SiO4)0.2 (42wt.%)+Ca10(PO4)4.6(SiO4)1.4(OH)0.6 (0.4wt.%)+SiO2 (54.4wt.%)+P2O5 (2.4wt.%)

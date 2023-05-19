@@ -1,0 +1,8 @@
+Sample,l   c   t     (nm),V   AG   1 / 3     (nm),Glass type
+SiO2,2.55,-,Strong glass former
+GeO2   (6kbar),1.60,-,Strong glass former
+B2O3,2.00,2.30,Strong glass former
+NBS-710,1.56,2.53,Strong glass former
+ZBLA,1.62,3.89,Fragile glass former
+ZBLAN20,1.59,3.68,Less fragile glass former
+HBLAN20,1.74,-,Less fragile glass former

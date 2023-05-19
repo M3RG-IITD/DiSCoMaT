@@ -1,0 +1,5 @@
+Glass,%    Q   Si   1,%    Q   Si   1,%    Q   Si   2,%    Q   Si   2,%    Q   Si   3,%    Q   Si   3,%    Q   Si   4,%    Q   Si   4,%    Q   P   1,%    Q   P   1,%    Q    P   2,%    Q    P   2,%    Q    P   2
+Glass,"Q 1,Si",Q,"Q 2,SiSi","Q 2,SiP","Q 3,SiSiSi","Q 3,SiSiP","Q 4,SiSiSiSi","Q 4,SiSiSiP","Q 1,Si",Q,"Q 2,SiSi","Q 2,SiP","Q 2,PP"
+H,21,1,40,2,26,2,6,0,29,0,7,0,1
+HP5,16,2,32,7,30,2,6,0,33,0,4,3,1
+HP6.5,10,2,31,8,32,5,7,1,36,0,10,0,0

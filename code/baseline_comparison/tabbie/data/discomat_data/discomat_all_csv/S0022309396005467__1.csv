@@ -1,0 +1,6 @@
+Glass,Batch,Melting,Refining,Crucible
+A,N-3,"1720degC, 8 h","1600degC, 2 h",molybdenum
+B,N-3,"1720degC, 8 h","1600degC, 0.5 h",molybdenum
+C,N-3,"1720degC, 8 h",Non,molybdenum
+D,N-3,"1720degC, 8 h","1600degC, 2 h",boron nitride*
+E,N-0,"1720degC, 8 h","1600degC, 2 h",molybdenum
