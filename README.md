@@ -29,5 +29,5 @@ The following figure represents the architecture of the model proposed in our wo
 ## Citation
 If you find this repository useful, please cite our work as follows:
 ```
-Will be added soon.
+Incoming ACL 2023. Will be added soon.
 ```
